@@ -1,0 +1,75 @@
+
+RAW DATA VALIDATION REPORT
+==========================
+
+Source file:
+adzuna_data_analyst_2026-07-27.csv
+
+DATASET SIZE
+------------
+Rows: 20
+Columns: 15
+
+UNIQUENESS
+----------
+Duplicate job IDs: 0
+Unique job titles: 2
+Unique companies: 18
+Unique locations: 14
+
+SALARY COVERAGE
+---------------
+Vacancies without salary data: 15
+Salary missing percentage: 75.0%
+
+MISSING VALUES BY COLUMN
+------------------------
+salary_min         15
+salary_max         15
+contract_type       7
+contract_time       6
+company             1
+job_id              0
+job_title           0
+location            0
+category            0
+description         0
+created             0
+redirect_url        0
+search_term         0
+collection_date     0
+source              0
+
+TOP JOB TITLES
+--------------
+job_title
+Data Analyst              19
+Marketing Data Analyst     1
+
+TOP COMPANIES
+-------------
+company
+Pyramid Global Technologies       2
+Uber                              1
+Centorrino Technologies           1
+XPT Software Australia Pty Ltd    1
+Beaumont People                   1
+Lumi                              1
+TRC Group                         1
+Recruitment Hive                  1
+Morgan McKinley                   1
+Atlas Recruitment Experts         1
+
+TOP LOCATIONS
+-------------
+location
+Sydney, Sydney Region             3
+Barton, South Canberra            3
+The Rocks, Sydney                 2
+Australia                         2
+Essendon, Moonee Valley           1
+Melbourne CBD, Melbourne          1
+Emu Flat, Clare Area              1
+Adelaide CBD, Adelaide            1
+South Yarra, Stonnington Area     1
+Eastern Suburbs, Sydney Region    1
