@@ -4,19 +4,24 @@ import pandas as pd
 
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
-RAW_DATA_DIR = PROJECT_ROOT / "data" / "raw"
+INTERIM_DATA_DIR = PROJECT_ROOT / "data" / "interim"
 REPORTS_DIR = PROJECT_ROOT / "reports"
 
 
 def main():
-    csv_files = list(RAW_DATA_DIR.glob("adzuna_data_analyst_*.csv"))
+    csv_files = list(
+        INTERIM_DATA_DIR.glob("adzuna_data_analyst_*.csv")
+    )
 
     if not csv_files:
         raise FileNotFoundError(
-            "В папке data/raw не найден CSV-файл Adzuna."
+            "В папке data/interim не найден CSV-файл Adzuna."
         )
 
-    latest_file = max(csv_files, key=lambda path: path.stat().st_mtime)
+    latest_file = max(
+        csv_files,
+        key=lambda path: path.stat().st_mtime
+    )
 
     print(f"Проверяю файл: {latest_file.name}")
 
@@ -27,10 +32,15 @@ def main():
 
     duplicate_job_ids = df["job_id"].duplicated().sum()
 
-    missing_values = df.isna().sum().sort_values(ascending=False)
+    missing_values = (
+        df.isna()
+        .sum()
+        .sort_values(ascending=False)
+    )
 
     missing_salary = (
-        df["salary_min"].isna() & df["salary_max"].isna()
+        df["salary_min"].isna()
+        & df["salary_max"].isna()
     ).sum()
 
     unique_titles = df["job_title"].nunique()
@@ -40,6 +50,12 @@ def main():
     top_titles = df["job_title"].value_counts().head(10)
     top_companies = df["company"].value_counts().head(10)
     top_locations = df["location"].value_counts().head(10)
+
+    salary_missing_percentage = (
+        missing_salary / total_rows * 100
+        if total_rows
+        else 0
+    )
 
     report = f"""
 RAW DATA VALIDATION REPORT
@@ -63,7 +79,7 @@ Unique locations: {unique_locations}
 SALARY COVERAGE
 ---------------
 Vacancies without salary data: {missing_salary}
-Salary missing percentage: {missing_salary / total_rows * 100:.1f}%
+Salary missing percentage: {salary_missing_percentage:.1f}%
 
 MISSING VALUES BY COLUMN
 ------------------------

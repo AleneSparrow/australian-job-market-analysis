@@ -222,3 +222,8 @@ __marimo__/
 data/raw/*.json
 data/raw/*.csv
 
+
+# Local project data
+data/raw/*.json
+data/raw/*.csv
+data/interim/*.csv

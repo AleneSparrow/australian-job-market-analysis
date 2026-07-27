@@ -9,7 +9,9 @@ from dotenv import load_dotenv
 
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
+
 RAW_DATA_DIR = PROJECT_ROOT / "data" / "raw"
+INTERIM_DATA_DIR = PROJECT_ROOT / "data" / "interim"
 
 load_dotenv(PROJECT_ROOT / ".env")
 
@@ -92,18 +94,19 @@ def main():
     rows = prepare_rows(data)
 
     RAW_DATA_DIR.mkdir(parents=True, exist_ok=True)
+    INTERIM_DATA_DIR.mkdir(parents=True, exist_ok=True)
 
     date_stamp = datetime.now().strftime("%Y-%m-%d")
 
     json_path = RAW_DATA_DIR / f"adzuna_data_analyst_{date_stamp}.json"
-    csv_path = RAW_DATA_DIR / f"adzuna_data_analyst_{date_stamp}.csv"
+    csv_path = INTERIM_DATA_DIR / f"adzuna_data_analyst_{date_stamp}.csv"
 
     save_json(data, json_path)
     save_csv(rows, csv_path)
 
     print(f"Получено вакансий: {len(rows)}")
-    print(f"JSON сохранён: {json_path}")
-    print(f"CSV сохранён: {csv_path}")
+    print(f"Исходный JSON сохранён: {json_path}")
+    print(f"Плоский CSV сохранён: {csv_path}")
 
 
 if __name__ == "__main__":
