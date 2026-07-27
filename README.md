@@ -36,7 +36,8 @@ notebooks/
 sql/
 src/
 visualizations/
-reports/```
+reports/
+```
 
 ## Planned Workflow
 
