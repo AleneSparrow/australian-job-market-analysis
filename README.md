@@ -51,4 +51,4 @@ reports/
 
 ## Author
 
-Alena Sparrow
+Alena Vorobei
