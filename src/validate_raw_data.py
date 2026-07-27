@@ -10,7 +10,7 @@ REPORTS_DIR = PROJECT_ROOT / "reports"
 
 def main():
     csv_files = list(
-        INTERIM_DATA_DIR.glob("adzuna_data_analyst_*.csv")
+        INTERIM_DATA_DIR.glob("*.csv")
     )
 
     if not csv_files:

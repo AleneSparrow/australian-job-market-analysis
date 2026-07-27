@@ -3,82 +3,83 @@ RAW DATA VALIDATION REPORT
 ==========================
 
 Source file:
-adzuna_data_analyst_2026-07-27_12-24-14.csv
+adzuna_multiple_roles_2026-07-27_12-32-46.csv
 
 DATASET SIZE
 ------------
-Rows: 100
-Columns: 16
+Rows: 218
+Columns: 17
 
 UNIQUENESS
 ----------
 Duplicate job IDs: 0
-Unique job titles: 33
-Unique companies: 79
-Unique locations: 37
+Unique job titles: 107
+Unique companies: 151
+Unique locations: 69
 
 SALARY COVERAGE
 ---------------
-Vacancies without salary data: 89
-Salary missing percentage: 89.0%
+Vacancies without salary data: 188
+Salary missing percentage: 86.2%
 
 MISSING VALUES BY COLUMN
 ------------------------
-salary_min         89
-salary_max         89
-contract_type      40
-contract_time       9
-company             1
-job_id              0
-job_title           0
-location            0
-category            0
-description         0
-created             0
-redirect_url        0
-search_term         0
-api_page            0
-collection_date     0
-source              0
+salary_max              188
+salary_min              188
+contract_type            90
+contract_time            31
+company                   2
+source                    0
+collection_date           0
+api_page                  0
+search_term               0
+redirect_url              0
+job_id                    0
+job_title                 0
+created                   0
+description               0
+category                  0
+location                  0
+matched_search_terms      0
 
 TOP JOB TITLES
 --------------
 job_title
-Data Analyst                    42
-Senior Data Analyst             20
-Metering Data Analyst            3
-Data Analyst/ Data Scientist     2
-FP&A & Data Analyst              2
-Data Analyst (709625)            2
-DTC Data Analyst                 2
-ICT Data Analyst                 2
-Marketing Data Analyst           1
-data analyst                     1
+Data Analyst                                                                                           40
+Business Analyst                                                                                       34
+Data and Reporting Analyst                                                                              5
+Senior Data Analyst and Senior Reporting Analyst                                                        5
+Director, Head of AI Sales, Australia & New Zealand, AWS                                                3
+Senior Reporting Analyst                                                                                3
+Senior Reporting and Insights Analyst                                                                   3
+People Data & Insights Analyst - Support Services Global Support Centre                                 3
+Senior Analyst, Data & Insights HYBRID — MAX TERM CONTRACT - FULL TIMESYDNEY / MELBOURNE / BRISBANE     3
+Data & Analytics Management Consultant (Senior Consultants/Engagement Manager)                          3
 
 TOP COMPANIES
 -------------
 company
-NSW Government                             4
-Beaumont People                            3
+Aged Care Quality and Safety Commission    7
+Cotton On Group                            6
+Mable                                      5
+5th Wave Recruiting                        5
+Ashurst                                    4
 Pyramid Global Technologies                3
-Aged Care Quality and Safety Commission    3
-Atlas Talents                              2
-Curtin University                          2
-Intereach                                  2
-Victorian Government                       2
-Mable                                      2
-Hydrogen Group                             2
+Reo Group                                  3
+NSW Government                             3
+Amazon                                     3
+Power and Water Corporation                3
 
 TOP LOCATIONS
 -------------
 location
-Australia                         14
-The Rocks, Sydney                 10
-Barton, South Canberra            10
-Perth CBD, Perth                  10
-Sydney, Sydney Region              8
-Adelaide CBD, Adelaide             5
-South Yarra, Stonnington Area      4
-Melbourne CBD, Melbourne           3
-Eastern Suburbs, Sydney Region     2
-Melbourne, Melbourne Region        2
+Australia                        24
+Sydney, Sydney Region            19
+Perth CBD, Perth                 17
+Barton, South Canberra           15
+The Rocks, Sydney                13
+Adelaide CBD, Adelaide           11
+Melbourne, Melbourne Region      11
+Brisbane CBD, Brisbane            7
+South Yarra, Stonnington Area     6
+Larrakeyah, Darwin                6

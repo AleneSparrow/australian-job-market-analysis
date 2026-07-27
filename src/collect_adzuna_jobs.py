@@ -1,6 +1,7 @@
 import csv
 import json
 import os
+import time
 from datetime import datetime
 from pathlib import Path
 
@@ -9,39 +10,50 @@ from dotenv import load_dotenv
 
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
-
 RAW_DATA_DIR = PROJECT_ROOT / "data" / "raw"
 INTERIM_DATA_DIR = PROJECT_ROOT / "data" / "interim"
 
 load_dotenv(PROJECT_ROOT / ".env")
 
 
-def fetch_jobs():
-    app_id = os.getenv("ADZUNA_APP_ID")
-    app_key = os.getenv("ADZUNA_APP_KEY")
+SEARCH_TERMS = [
+    "data analyst",
+    "junior data analyst",
+    "business analyst",
+    "bi analyst",
+    "reporting analyst",
+    "insights analyst",
+    "analytics consultant",
+]
 
-    if not app_id or not app_key:
-        raise ValueError(
-            "Не найдены ADZUNA_APP_ID или ADZUNA_APP_KEY. Проверь файл .env."
-        )
+RESULTS_PER_PAGE = 20
+PAGES_PER_SEARCH_TERM = 2
+REQUEST_DELAY_SECONDS = 1
 
-    url = "https://api.adzuna.com/v1/api/jobs/au/search/1"
+
+def fetch_jobs(app_id, app_key, search_term, page):
+    url = f"https://api.adzuna.com/v1/api/jobs/au/search/{page}"
 
     params = {
         "app_id": app_id,
         "app_key": app_key,
-        "results_per_page": 20,
-        "what": "data analyst",
+        "results_per_page": RESULTS_PER_PAGE,
+        "what": search_term,
         "content-type": "application/json",
     }
 
-    response = requests.get(url, params=params, timeout=30)
+    response = requests.get(
+        url,
+        params=params,
+        timeout=30,
+    )
+
     response.raise_for_status()
 
     return response.json()
 
 
-def prepare_rows(data):
+def prepare_rows(data, search_term, page_number):
     rows = []
 
     for job in data.get("results", []):
@@ -63,7 +75,8 @@ def prepare_rows(data):
                 "contract_time": job.get("contract_time"),
                 "contract_type": job.get("contract_type"),
                 "redirect_url": job.get("redirect_url"),
-                "search_term": "data analyst",
+                "search_term": search_term,
+                "api_page": page_number,
                 "collection_date": datetime.now().date().isoformat(),
                 "source": "Adzuna API",
             }
@@ -72,41 +85,212 @@ def prepare_rows(data):
     return rows
 
 
+def create_deduplication_key(row):
+    job_id = row.get("job_id")
+
+    if job_id:
+        return f"id:{job_id}"
+
+    fallback_values = [
+        row.get("job_title"),
+        row.get("company"),
+        row.get("location"),
+        row.get("redirect_url"),
+    ]
+
+    normalized_values = [
+        str(value or "").strip().lower()
+        for value in fallback_values
+    ]
+
+    return "fallback:" + "|".join(normalized_values)
+
+
+def deduplicate_rows(rows):
+    unique_rows = {}
+
+    for row in rows:
+        key = create_deduplication_key(row)
+
+        if key not in unique_rows:
+            row["matched_search_terms"] = row["search_term"]
+            unique_rows[key] = row
+            continue
+
+        existing_row = unique_rows[key]
+
+        existing_terms = set(
+            existing_row["matched_search_terms"].split(" | ")
+        )
+
+        existing_terms.add(row["search_term"])
+
+        existing_row["matched_search_terms"] = " | ".join(
+            sorted(existing_terms)
+        )
+
+    return list(unique_rows.values())
+
+
+def safe_filename(value):
+    return (
+        value.strip()
+        .lower()
+        .replace(" ", "_")
+        .replace("/", "_")
+    )
+
+
 def save_json(data, path):
     with path.open("w", encoding="utf-8") as file:
-        json.dump(data, file, ensure_ascii=False, indent=2)
+        json.dump(
+            data,
+            file,
+            ensure_ascii=False,
+            indent=2,
+        )
 
 
 def save_csv(rows, path):
     if not rows:
         raise ValueError("API не вернул вакансии.")
 
-    with path.open("w", encoding="utf-8-sig", newline="") as file:
-        writer = csv.DictWriter(file, fieldnames=rows[0].keys())
+    with path.open(
+        "w",
+        encoding="utf-8-sig",
+        newline="",
+    ) as file:
+        writer = csv.DictWriter(
+            file,
+            fieldnames=rows[0].keys(),
+        )
+
         writer.writeheader()
         writer.writerows(rows)
 
 
 def main():
-    print("Запрашиваю вакансии Data Analyst...")
+    app_id = os.getenv("ADZUNA_APP_ID")
+    app_key = os.getenv("ADZUNA_APP_KEY")
 
-    data = fetch_jobs()
-    rows = prepare_rows(data)
+    if not app_id or not app_key:
+        raise ValueError(
+            "Не найдены ADZUNA_APP_ID или ADZUNA_APP_KEY. "
+            "Проверь файл .env."
+        )
 
-    RAW_DATA_DIR.mkdir(parents=True, exist_ok=True)
-    INTERIM_DATA_DIR.mkdir(parents=True, exist_ok=True)
+    RAW_DATA_DIR.mkdir(
+        parents=True,
+        exist_ok=True,
+    )
 
-    date_stamp = datetime.now().strftime("%Y-%m-%d")
+    INTERIM_DATA_DIR.mkdir(
+        parents=True,
+        exist_ok=True,
+    )
 
-    json_path = RAW_DATA_DIR / f"adzuna_data_analyst_{date_stamp}.json"
-    csv_path = INTERIM_DATA_DIR / f"adzuna_data_analyst_{date_stamp}.csv"
+    run_stamp = datetime.now().strftime(
+        "%Y-%m-%d_%H-%M-%S"
+    )
 
-    save_json(data, json_path)
-    save_csv(rows, csv_path)
+    total_requests = (
+        len(SEARCH_TERMS)
+        * PAGES_PER_SEARCH_TERM
+    )
 
-    print(f"Получено вакансий: {len(rows)}")
-    print(f"Исходный JSON сохранён: {json_path}")
-    print(f"Плоский CSV сохранён: {csv_path}")
+    request_number = 0
+    all_rows = []
+
+    print("НАЧАЛО СБОРА")
+    print("============")
+    print(f"Поисковых запросов: {len(SEARCH_TERMS)}")
+    print(f"Страниц на запрос: {PAGES_PER_SEARCH_TERM}")
+    print(f"Максимум API-запросов: {total_requests}")
+
+    for search_term in SEARCH_TERMS:
+        print()
+        print(f"ПОИСКОВЫЙ ЗАПРОС: {search_term}")
+        print("-" * 50)
+
+        for page in range(
+            1,
+            PAGES_PER_SEARCH_TERM + 1,
+        ):
+            request_number += 1
+
+            print(
+                f"Запрос {request_number}/{total_requests}: "
+                f"страница {page}"
+            )
+
+            data = fetch_jobs(
+                app_id=app_id,
+                app_key=app_key,
+                search_term=search_term,
+                page=page,
+            )
+
+            jobs = data.get("results", [])
+
+            print(f"Получено вакансий: {len(jobs)}")
+
+            raw_filename = (
+                f"adzuna_{safe_filename(search_term)}_"
+                f"{run_stamp}_page_{page:02d}.json"
+            )
+
+            raw_path = RAW_DATA_DIR / raw_filename
+
+            save_json(
+                data=data,
+                path=raw_path,
+            )
+
+            page_rows = prepare_rows(
+                data=data,
+                search_term=search_term,
+                page_number=page,
+            )
+
+            all_rows.extend(page_rows)
+
+            if not jobs:
+                print(
+                    "Пустая страница. "
+                    "Переходим к следующему запросу."
+                )
+                break
+
+            if request_number < total_requests:
+                time.sleep(REQUEST_DELAY_SECONDS)
+
+    unique_rows = deduplicate_rows(all_rows)
+
+    csv_path = (
+        INTERIM_DATA_DIR
+        / f"adzuna_multiple_roles_{run_stamp}.csv"
+    )
+
+    save_csv(
+        rows=unique_rows,
+        path=csv_path,
+    )
+
+    duplicates_removed = (
+        len(all_rows)
+        - len(unique_rows)
+    )
+
+    print()
+    print("СБОР ЗАВЕРШЁН")
+    print("==============")
+    print(f"Строк до удаления дублей: {len(all_rows)}")
+    print(f"Удалено дублей: {duplicates_removed}")
+    print(
+        f"Уникальных вакансий: "
+        f"{len(unique_rows)}"
+    )
+    print(f"CSV сохранён: {csv_path}")
 
 
 if __name__ == "__main__":
