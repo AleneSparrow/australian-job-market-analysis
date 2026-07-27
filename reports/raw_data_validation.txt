@@ -3,31 +3,31 @@ RAW DATA VALIDATION REPORT
 ==========================
 
 Source file:
-adzuna_data_analyst_2026-07-27.csv
+adzuna_data_analyst_2026-07-27_12-24-14.csv
 
 DATASET SIZE
 ------------
-Rows: 20
-Columns: 15
+Rows: 100
+Columns: 16
 
 UNIQUENESS
 ----------
 Duplicate job IDs: 0
-Unique job titles: 2
-Unique companies: 17
-Unique locations: 14
+Unique job titles: 33
+Unique companies: 79
+Unique locations: 37
 
 SALARY COVERAGE
 ---------------
-Vacancies without salary data: 14
-Salary missing percentage: 70.0%
+Vacancies without salary data: 89
+Salary missing percentage: 89.0%
 
 MISSING VALUES BY COLUMN
 ------------------------
-salary_min         14
-salary_max         14
-contract_type       7
-contract_time       6
+salary_min         89
+salary_max         89
+contract_type      40
+contract_time       9
 company             1
 job_id              0
 job_title           0
@@ -37,39 +37,48 @@ description         0
 created             0
 redirect_url        0
 search_term         0
+api_page            0
 collection_date     0
 source              0
 
 TOP JOB TITLES
 --------------
 job_title
-Data Analyst              19
-Marketing Data Analyst     1
+Data Analyst                    42
+Senior Data Analyst             20
+Metering Data Analyst            3
+Data Analyst/ Data Scientist     2
+FP&A & Data Analyst              2
+Data Analyst (709625)            2
+DTC Data Analyst                 2
+ICT Data Analyst                 2
+Marketing Data Analyst           1
+data analyst                     1
 
 TOP COMPANIES
 -------------
 company
-Atlas Talents                     2
-Pyramid Global Technologies       2
-Uber                              1
-Centorrino Technologies           1
-XPT Software Australia Pty Ltd    1
-Beaumont People                   1
-Lumi                              1
-TRC Group                         1
-Recruitment Hive                  1
-Morgan McKinley                   1
+NSW Government                             4
+Beaumont People                            3
+Pyramid Global Technologies                3
+Aged Care Quality and Safety Commission    3
+Atlas Talents                              2
+Curtin University                          2
+Intereach                                  2
+Victorian Government                       2
+Mable                                      2
+Hydrogen Group                             2
 
 TOP LOCATIONS
 -------------
 location
-Sydney, Sydney Region            3
-Barton, South Canberra           3
-The Rocks, Sydney                2
-Australia                        2
-Surry Hills, Sydney              1
-Essendon, Moonee Valley          1
-Melbourne CBD, Melbourne         1
-Emu Flat, Clare Area             1
-Adelaide CBD, Adelaide           1
-South Yarra, Stonnington Area    1
+Australia                         14
+The Rocks, Sydney                 10
+Barton, South Canberra            10
+Perth CBD, Perth                  10
+Sydney, Sydney Region              8
+Adelaide CBD, Adelaide             5
+South Yarra, Stonnington Area      4
+Melbourne CBD, Melbourne           3
+Eastern Suburbs, Sydney Region     2
+Melbourne, Melbourne Region        2
