@@ -1,8 +1,0 @@
-{
-  "status": 200,
-  "resource_type": "image",
-  "content_type": "image/png",
-  "url": "https://www.gstatic.com/recaptcha/api2/logo_48.png",
-  "request_method": "GET",
-  "request_post_data": null
-}

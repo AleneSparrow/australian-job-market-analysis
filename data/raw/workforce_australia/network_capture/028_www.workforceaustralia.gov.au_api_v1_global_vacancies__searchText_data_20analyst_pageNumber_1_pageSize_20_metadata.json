@@ -1,8 +1,0 @@
-{
-  "status": 200,
-  "resource_type": "xhr",
-  "content_type": "application/json; charset=utf-8",
-  "url": "https://www.workforceaustralia.gov.au/api/v1/global/vacancies/?searchText=data%20analyst&pageNumber=1&pageSize=20",
-  "request_method": "GET",
-  "request_post_data": null
-}

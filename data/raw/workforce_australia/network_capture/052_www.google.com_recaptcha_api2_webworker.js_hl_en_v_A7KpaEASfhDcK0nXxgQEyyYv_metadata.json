@@ -1,8 +1,0 @@
-{
-  "status": 200,
-  "resource_type": "script",
-  "content_type": "text/javascript; charset=utf-8",
-  "url": "https://www.google.com/recaptcha/api2/webworker.js?hl=en&v=A7KpaEASfhDcK0nXxgQEyyYv",
-  "request_method": "GET",
-  "request_post_data": null
-}

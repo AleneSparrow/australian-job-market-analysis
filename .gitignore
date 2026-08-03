@@ -219,15 +219,19 @@ __marimo__/
 
 .env
 .DS_Store
-data/raw/*.json
-data/raw/*.csv
+# Игнорируем сырые/промежуточные данные, но не processed
+data/raw/**/*.csv
+data/raw/**/*.xlsx
+data/raw/**/*.xls
+data/raw/**/*.json
+data/raw/**/*.parquet
 
+data/interim/**/*.csv
+data/interim/**/*.xlsx
+data/interim/**/*.xls
+data/interim/**/*.json
+data/interim/**/*.parquet
 
-# Local project data
-data/raw/*.json
-data/raw/*.csv
-data/interim/*.csv
-data/interim/workforce_australia/workforce_jobs_raw.csv
-data/interim/jsa/jsa_ivi_anzsco4_states_territories_long_2026-06.csv
-data/interim/
-data/raw/
+# Разрешаем README в любой подпапке
+!data/**/README.md
+

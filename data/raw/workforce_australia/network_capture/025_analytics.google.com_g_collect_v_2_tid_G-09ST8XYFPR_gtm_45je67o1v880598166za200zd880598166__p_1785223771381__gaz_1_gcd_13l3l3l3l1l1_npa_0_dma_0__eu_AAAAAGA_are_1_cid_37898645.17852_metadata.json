@@ -1,8 +1,0 @@
-{
-  "status": 204,
-  "resource_type": "fetch",
-  "content_type": "text/plain",
-  "url": "https://analytics.google.com/g/collect?v=2&tid=G-09ST8XYFPR&gtm=45je67o1v880598166za200zd880598166&_p=1785223771381&_gaz=1&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AAAAAGA&are=1&cid=37898645.1785223772&frm=0&pscdl=noapi&rcb=5&sr=1280x720&uaa=x86&uab=64&uafvl=Chromium%3B149.0.7827.55%7CNot)A%253BBrand%3B24.0.0.0&uam=&uamb=0&uap=macOS&uapv=10_15_7&uaw=0&ul=en-au&gaf=2&_s=1&tag_exp=115938466~115938468~118897920~118897930~119527019~119793972~119896802&sid=1785223771&sct=1&seg=0&dl=https%3A%2F%2Fwww.workforceaustralia.gov.au%2Findividuals%2Fjobs%2Fsearch%3FsearchText%3Ddata%2520analyst%26pageNumber%3D1%26pageSize%3D20%26sort%3DNone&dt=Find%20a%20job&en=page_view&_fv=1&_ss=1&_ee=1&ep.ut=JSA&tfd=2987",
-  "request_method": "POST",
-  "request_post_data": null
-}

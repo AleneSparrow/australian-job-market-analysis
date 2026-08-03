@@ -1,8 +1,0 @@
-{
-  "status": 200,
-  "resource_type": "document",
-  "content_type": "text/html; charset=utf-8",
-  "url": "https://www.workforceaustralia.gov.au/individuals/jobs/search?searchText=data%20analyst&pageNumber=1&pageSize=20&sort=None",
-  "request_method": "GET",
-  "request_post_data": null
-}

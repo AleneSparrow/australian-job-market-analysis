@@ -1,8 +1,0 @@
-{
-  "status": 200,
-  "resource_type": "image",
-  "content_type": "image/png",
-  "url": "https://www.workforceaustralia.gov.au/api/v1/global/vacancies/logos/employer?employerId=ZpQEeqmdP0snzwH3VDC39Q&logoSize=100",
-  "request_method": "GET",
-  "request_post_data": null
-}
