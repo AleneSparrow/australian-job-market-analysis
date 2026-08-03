@@ -1,0 +1,1598 @@
+{
+  "results": [
+    {
+      "description": "About us Loop IQ is a purpose-built intelligence platform helping care organisations move beyond fragmented spreadsheets and manual reporting — delivering the accuracy, auditability, and confidence that regulated environments demand. Alongside the platform sits our strategic consulting wing, guiding organisations through implementation and optimisation so the technology delivers from day one. Why work at Loop IQ? Build something that matters — We’re solving a real problem in a sector that affec…",
+      "longitude": 144.960514,
+      "created": "2026-07-08T10:55:15Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Loop IQ Software Development Pty"
+      },
+      "id": "5791615826",
+      "contract_time": "full_time",
+      "title": "Product Analyst",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZUtibHE0S0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1NzkxNjE1ODI2In0.FKLX8qFYIEm_USEsx09PeAx8mIb1hpw_bQkE8w7xozc",
+      "location": {
+        "display_name": "South Melbourne, Port Phillip",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Victoria",
+          "Melbourne Region",
+          "Port Phillip",
+          "South Melbourne"
+        ]
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5791615826?utm_medium=api&utm_source=4e5ae6d3",
+      "latitude": -37.8324,
+      "salary_is_predicted": "0",
+      "contract_type": "contract",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      }
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "area": [
+          "Australia",
+          "Victoria",
+          "Melbourne Region",
+          "Melbourne"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Melbourne, Melbourne Region"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZUtibHE0S0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1NzI1NDU2NjI3In0.UqJ2XXplWMlHCIX8lG9krIv1xdGMnurzff0H8o23Eac",
+      "redirect_url": "https://www.adzuna.com.au/details/5725456627?utm_medium=api&utm_source=4e5ae6d3",
+      "latitude": -37.806509,
+      "title": "Product Analyst",
+      "description": "WHO IS WESTERN ASSET Western Asset Management focuses on supporting our clients’ financial goals and creating positive outcomes for all kinds of people. Primarily a globally integrated fixed-income manager, we source ideas and investment solutions worldwide, with an emphasis on long-term fundamental value investing, using multiple diversified strategies. We are looking for a Product Analyst to join our Portfolio Management and Research team at Western Asset Management (WAM) in Melbourne. In thi…",
+      "created": "2026-05-11T10:34:11Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Franklin Templeton"
+      },
+      "contract_time": "full_time",
+      "id": "5725456627",
+      "longitude": 144.957935,
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Accounting & Finance Jobs",
+        "tag": "accounting-finance-jobs"
+      },
+      "salary_is_predicted": "0"
+    },
+    {
+      "salary_is_predicted": "0",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      },
+      "contract_time": "full_time",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Datacom"
+      },
+      "created": "2026-05-29T21:23:59Z",
+      "id": "5744548659",
+      "longitude": 151.206616,
+      "description": "Our purpose Here at Datacom we connect people and technology in order to solve challenges, create opportunities and discover new possibilities for the communities we live in. The Nuts and Bolts We have over 6,500 people across our global offices, and generate an annual revenue of over $1.5 billion, this makes us one of Australasia’s largest professional IT services companies. We have extensive expertise in operating data centres, providing IT services, software engineering and application manag…",
+      "location": {
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney",
+          "The Rocks"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "The Rocks, Sydney"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc0NDU0ODY1OSIsInMiOiJlS2JscTRLSjhSR191dVVHbEpnQ0FRIn0.S5bsHVpngyXIlKyW9Og-oAerZSzSpcEgkAIB_n5RHKg",
+      "redirect_url": "https://www.adzuna.com.au/details/5744548659?utm_medium=api&utm_source=4e5ae6d3",
+      "latitude": -33.865715,
+      "title": "Senior Product Analyst"
+    },
+    {
+      "description": "Our purpose Here at Datacom we connect people and technology in order to solve challenges, create opportunities and discover new possibilities for the communities we live in. The Nuts and Bolts We have over 6,500 people across our global offices, and generate an annual revenue of over $1.5 billion, this makes us one of Australasia’s largest professional IT services companies. We have extensive expertise in operating data centres, providing IT services, software engineering and application manag…",
+      "company": {
+        "display_name": "Datacom",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "id": "5744408019",
+      "created": "2026-05-29T18:23:47Z",
+      "contract_time": "full_time",
+      "longitude": 153.023362,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5744408019?utm_medium=api&utm_source=4e5ae6d3",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Queensland",
+          "Brisbane Region",
+          "Brisbane",
+          "Brisbane CBD"
+        ],
+        "display_name": "Brisbane CBD, Brisbane"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZUtibHE0S0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1NzQ0NDA4MDE5In0.8e5MEeLhkh50rIEWaWiK6OaLs0JwVueQeV8oNEwPKx0",
+      "latitude": -27.467089,
+      "title": "Senior Product Analyst",
+      "salary_is_predicted": "0",
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      }
+    },
+    {
+      "redirect_url": "https://www.adzuna.com.au/details/5799346339?utm_medium=api&utm_source=4e5ae6d3",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Sydney, Sydney Region"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZUtibHE0S0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1Nzk5MzQ2MzM5In0.lzo6KJKXUI2QahYcFNgi_aoY2fJWE_oYWlZ64MCf68g",
+      "latitude": -33.885283,
+      "title": "Senior Product Analyst",
+      "description": "OVERVIEW OF ROLE As a Senior Product Analyst, you will bridge the gap between complex hardware/software engineering capabilities and market demands. You will be responsible for translating field-testing, usage data, and market dynamics into actionable insights that shape the product roadmap for our flagship navigation and robotics verticals. This is a high-impact role requiring deep data literacy, product discovery frameworks, and the ability to thrive in a deep-tech engineering environment. RO…",
+      "contract_time": "full_time",
+      "company": {
+        "display_name": "Advanced Navigation",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "created": "2026-07-14T11:03:30Z",
+      "id": "5799346339",
+      "longitude": 151.203231,
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "salary_is_predicted": "0"
+    },
+    {
+      "longitude": 146.620211,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "ASIC"
+      },
+      "created": "2026-07-01T06:04:51Z",
+      "id": "5782370880",
+      "contract_time": "full_time",
+      "description": "At ASIC, you can be the change that ensures a fair, strong and efficient financial system for the benefit of all Australians. Contribute to delivering on ASIC's purpose, vision, and strategic priorities to help maintain the integrity of the financial system and protect consumers from harm. Join ASIC as a Lead Product Analyst and lead the design and continuous improvement of digital solutions supporting registry operations—translating business needs into effective, user-focused outcomes while fo…",
+      "title": "Lead Product Analyst",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Victoria",
+          "La Trobe Region",
+          "Latrobe Valley",
+          "Traralgon South"
+        ],
+        "display_name": "Traralgon South, Latrobe Valley"
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5782370880?utm_medium=api&utm_source=4e5ae6d3",
+      "latitude": -38.303451,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZUtibHE0S0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1NzgyMzcwODgwIn0.FkEOPQ-2TeY4lWj6HYhIZY_5wpHIZdMo56ngc1MtmMU",
+      "contract_type": "permanent",
+      "salary_is_predicted": "0",
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      }
+    },
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZUtibHE0S0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1ODEzMDQ4MzMxIn0.ign1QhOk3kR4QxNM_JEJvpXGwaOdsk1PjW9XkBcUKMw",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney",
+          "The Rocks"
+        ],
+        "display_name": "The Rocks, Sydney"
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5813048331?utm_medium=api&utm_source=4e5ae6d3",
+      "latitude": -33.867139,
+      "title": "Investment Product Analyst",
+      "description": "Our client is a highly regarded alternative asset manager with an established presence across private credit and lending markets. Due to continued growth, an opportunity has arisen for a Product Analyst to join the Product team, supporting the development, launch and ongoing management of investment products. This is an excellent opportunity for someone with 2 years' experience within product, distribution or investment research, and would suit somebody who has come from an environment such as …",
+      "created": "2026-07-24T10:09:47Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Keegan Adams"
+      },
+      "id": "5813048331",
+      "contract_time": "full_time",
+      "longitude": 151.207114,
+      "category": {
+        "tag": "accounting-finance-jobs",
+        "label": "Accounting & Finance Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "salary_is_predicted": "0"
+    },
+    {
+      "salary_is_predicted": "0",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "description": "We power insights for better, safer workplaces…together. Are you ready to be Kin-at-i-can? Kinatico is an ASX-listed Reg-Tech business helping organisations across Australia and New Zealand truly know their people. We make compliance simple, secure, swift, seamless and synchronised, taking the angst out of staying compliant so our customers can get on with the work that matters. If a messy spreadsheet finally telling a clear story gives you a quiet thrill, read on. We are looking for a Commerci…",
+      "id": "5775538416",
+      "company": {
+        "display_name": "Kinatico",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "created": "2026-06-25T10:51:06Z",
+      "contract_time": "full_time",
+      "longitude": 115.859784,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZUtibHE0S0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1Nzc1NTM4NDE2In0.UEr7R2w0IyuzJa1dxWbQ9VeBnuO5Jr4fu0-y1K5C4Qg",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "display_name": "Perth CBD, Perth",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Western Australia",
+          "Perth Region",
+          "Perth",
+          "Perth CBD"
+        ]
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5775538416?utm_medium=api&utm_source=4e5ae6d3",
+      "latitude": -31.953357,
+      "title": "Commercial Product Analyst"
+    },
+    {
+      "salary_is_predicted": "0",
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "description": "The Apex Group was established in Bermuda in 2003 and is now one of the world’s largest fund administration and middle office solutions providers. Our business is unique in its ability to reach globally, service locally and provide cross-jurisdictional services. With our clients at the heart of everything we do, our hard-working team has successfully delivered on an unprecedented growth and transformation journey, and we are now represented by over circa 13,000 employees across 112 offices worl…",
+      "company": {
+        "display_name": "CO IFGPLT IFAA Group Pty Limited",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "created": "2026-06-26T00:46:53Z",
+      "contract_time": "full_time",
+      "id": "5776385299",
+      "longitude": 150.899818,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5776385299?utm_medium=api&utm_source=4e5ae6d3",
+      "location": {
+        "display_name": "Wollongong CBD, Wollongong Area",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Illawarra",
+          "Wollongong Area",
+          "Wollongong CBD"
+        ]
+      },
+      "latitude": -34.425878,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZUtibHE0S0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1Nzc2Mzg1Mjk5In0.lN2lAXu5SaXY_3HlMdzoy-TwAxdmHC1HsCT9nqTgggc",
+      "title": "Superannuation Product Analyst"
+    },
+    {
+      "description": "The Apex Group was established in Bermuda in 2003 and is now one of the world’s largest fund administration and middle office solutions providers. Our business is unique in its ability to reach globally, service locally and provide cross-jurisdictional services. With our clients at the heart of everything we do, our hard-working team has successfully delivered on an unprecedented growth and transformation journey, and we are now represented by over circa 13,000 employees across 112 offices worl…",
+      "contract_time": "full_time",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "CO IFGPLT IFAA Group Pty Limited"
+      },
+      "created": "2026-06-26T00:46:52Z",
+      "id": "5776385262",
+      "longitude": 153.0281,
+      "redirect_url": "https://www.adzuna.com.au/details/5776385262?utm_medium=api&utm_source=4e5ae6d3",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "area": [
+          "Australia",
+          "Queensland",
+          "Brisbane Region",
+          "Brisbane",
+          "Brisbane CBD"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Brisbane CBD, Brisbane"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZUtibHE0S0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1Nzc2Mzg1MjYyIn0.oJyLlk9CS52ca6hDcfiWYPrDE7AozMOCry9LURV9R1Y",
+      "latitude": -27.4679,
+      "title": "Superannuation Product Analyst",
+      "salary_is_predicted": "0",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      }
+    },
+    {
+      "company": {
+        "display_name": "CO IFGPLT IFAA Group Pty Limited",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "created": "2026-06-26T00:46:52Z",
+      "id": "5776385271",
+      "contract_time": "full_time",
+      "longitude": 151.207114,
+      "description": "The Apex Group was established in Bermuda in 2003 and is now one of the world’s largest fund administration and middle office solutions providers. Our business is unique in its ability to reach globally, service locally and provide cross-jurisdictional services. With our clients at the heart of everything we do, our hard-working team has successfully delivered on an unprecedented growth and transformation journey, and we are now represented by over circa 13,000 employees across 112 offices worl…",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc3NjM4NTI3MSIsInMiOiJlS2JscTRLSjhSR191dVVHbEpnQ0FRIn0.chrPOT736eWbFXaJe6hoZRDKOu4w_Vdsjbz37PCbJNo",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney",
+          "The Rocks"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "The Rocks, Sydney"
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5776385271?utm_medium=api&utm_source=4e5ae6d3",
+      "latitude": -33.867139,
+      "title": "Superannuation Product Analyst",
+      "salary_is_predicted": "0",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      }
+    },
+    {
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      },
+      "salary_is_predicted": "0",
+      "title": "Superannuation Product Analyst",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5776385225?utm_medium=api&utm_source=4e5ae6d3",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Victoria",
+          "Melbourne Region",
+          "Stonnington Area",
+          "South Yarra"
+        ],
+        "display_name": "South Yarra, Stonnington Area"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZUtibHE0S0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1Nzc2Mzg1MjI1In0.qbzyAaEvzJ2_CPzeQCPY8x9J-QtLX2684vZB98lyRBw",
+      "latitude": -37.837324,
+      "longitude": 144.976335,
+      "company": {
+        "display_name": "CO IFGPLT IFAA Group Pty Limited",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "created": "2026-06-26T00:46:52Z",
+      "contract_time": "full_time",
+      "id": "5776385225",
+      "description": "The Apex Group was established in Bermuda in 2003 and is now one of the world’s largest fund administration and middle office solutions providers. Our business is unique in its ability to reach globally, service locally and provide cross-jurisdictional services. With our clients at the heart of everything we do, our hard-working team has successfully delivered on an unprecedented growth and transformation journey, and we are now represented by over circa 13,000 employees across 112 offices worl…"
+    },
+    {
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia"
+        ],
+        "display_name": "Australia"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5591721063?utm_medium=api&utm_source=4e5ae6d3",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU5MTcyMTA2MyIsInMiOiJlS2JscTRLSjhSR191dVVHbEpnQ0FRIn0.eOH2HRESgkCjJYJcwIoKqoLqJlQTVP1p6f5SPnAWIQQ",
+      "title": "Superannuation Product Analyst",
+      "company": {
+        "display_name": "Apex Group",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "created": "2026-01-20T08:41:39Z",
+      "contract_time": "full_time",
+      "id": "5591721063",
+      "description": "The Apex Group was established in Bermuda in 2003 and is now one of the world’s largest fund administration and middle office solutions providers. Our business is unique in its ability to reach globally, service locally and provide cross-jurisdictional services. With our clients at the heart of everything we do, our hard-working team has successfully delivered on an unprecedented growth and transformation journey, and we are now represented by over circa 13,000 employees across 112 offices worl…",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      },
+      "salary_is_predicted": "0"
+    },
+    {
+      "company": {
+        "display_name": "The Vanguard Group",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "created": "2026-07-09T11:04:35Z",
+      "contract_time": "full_time",
+      "id": "5793517095",
+      "longitude": 144.957935,
+      "description": "About Vanguard More than 50 years ago, John C. Bogle had a vision to start an investment company that did things differently. A company with no external shareholders. Where all the profits were invested back into the business and used to lower costs. Evidently, it was as bold as it was brilliant. To this day, Vanguard Group still has no external shareholders. That means no share prices to protect, and no profits to generate for outside owners. Today, Vanguard is one of the world’s largest inves…",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "display_name": "Melbourne, Melbourne Region",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Victoria",
+          "Melbourne Region",
+          "Melbourne"
+        ]
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc5MzUxNzA5NSIsInMiOiJlS2JscTRLSjhSR191dVVHbEpnQ0FRIn0.YiTxQQpUDD6AHug2LQBfKTRUSIXDVNsmwuUTTVySJIU",
+      "redirect_url": "https://www.adzuna.com.au/details/5793517095?utm_medium=api&utm_source=4e5ae6d3",
+      "latitude": -37.806509,
+      "title": "Investment Product Analyst",
+      "salary_is_predicted": "0",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Accounting & Finance Jobs",
+        "tag": "accounting-finance-jobs"
+      }
+    },
+    {
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      },
+      "salary_is_predicted": "0",
+      "title": "Technical Product Analyst",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Newcastle Region",
+          "Newcastle Area"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Newcastle Area, Newcastle Region"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgwMDUzNjUwNSIsInMiOiJlS2JscTRLSjhSR191dVVHbEpnQ0FRIn0.kDCKKJkQ5Envk_8uEhu7zvHR4b7JjNWl2zcrCkl6hZg",
+      "redirect_url": "https://www.adzuna.com.au/details/5800536505?utm_medium=api&utm_source=4e5ae6d3",
+      "latitude": -32.904982,
+      "longitude": 151.726021,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "nib Health Funds Limited"
+      },
+      "created": "2026-07-15T11:01:55Z",
+      "contract_time": "full_time",
+      "id": "5800536505",
+      "description": "About this role As a Technical Product Analyst, you will perform deep systems and business analysis on a range of systems and business processes you own. You will shape technical solutions, present these to stakeholders, and work within a software development team to deliver these. This role sits within a large software product team focused on building and supporting new capabilities that are core to our business. The team is focused on transforming business processes and modernising technology…"
+    },
+    {
+      "company": {
+        "display_name": "Heidi",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "contract_time": "full_time",
+      "created": "2026-06-13T12:21:23Z",
+      "id": "5761933375",
+      "description": "Who we are Healthcare needs a better rhythm: one that keeps care continuous and deeply human. Heidi is building an AI Care Partner that works alongside clinicians to make that possible. We’re a team of doctors, engineers, designers, researchers, and creatives building tools that help clinicians stay focused on what matters most: their patients. In just 18 months, Heidi has given back more than 18 million hours to healthcare professionals — supporting 73 million patient visits in 116 countries. …",
+      "title": "Senior Product Analyst",
+      "location": {
+        "display_name": "Melbourne, Melbourne Region",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Victoria",
+          "Melbourne Region",
+          "Melbourne"
+        ]
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5761933375?utm_medium=api&utm_source=4e5ae6d3",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc2MTkzMzM3NSIsInMiOiJlS2JscTRLSjhSR191dVVHbEpnQ0FRIn0.McyZ3dhtBOzK7Icd2TKHMLJLsqBqDf-toHmUrnCH15M",
+      "salary_is_predicted": "0",
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      }
+    },
+    {
+      "salary_is_predicted": "0",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      },
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "AIA Group"
+      },
+      "contract_time": "full_time",
+      "created": "2026-07-19T11:05:41Z",
+      "id": "5806684702",
+      "description": "BE THE DIFFERENCE At AIA we don’t simply believe in being ‘the best’. We believe in better – because there’s no limit to how far ‘better’ can take us. Everything we do is driven by our purpose to make a difference by helping people embrace Healthier, Longer, Better Lives. And every one of our people has an important role to play. If you want to make a difference by helping shape a healthier, better-protected Australia, read on. The Opportunities: This role offers the opportunity to use data and…",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "display_name": "Australia",
+        "area": [
+          "Australia"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5806684702?utm_medium=api&utm_source=4e5ae6d3",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZUtibHE0S0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1ODA2Njg0NzAyIn0.YIFU2vCcpETyX2Uya9miR4K_w9yWJikiOSZ_dUdRbmE",
+      "title": "Health Product Analyst"
+    },
+    {
+      "longitude": 144.976335,
+      "created": "2026-07-18T10:15:28Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "AIA"
+      },
+      "id": "5805480668",
+      "contract_time": "full_time",
+      "description": "BE THE DIFFERENCE At AIA we don’t simply believe in being ‘the best’. We believe in better – because there’s no limit to how far ‘better’ can take us. Everything we do is driven by our purpose to make a difference by helping people embrace Healthier, Longer, Better Lives. And every one of our people has an important role to play. If you want to make a difference by helping shape a healthier, better-protected Australia, read on. The Opportunities: This role offers the opportunity to use data and…",
+      "title": "Health Product Analyst",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgwNTQ4MDY2OCIsInMiOiJlS2JscTRLSjhSR191dVVHbEpnQ0FRIn0.f7PqbtR1R0ObL80NzZDkcVQ3WRBHLIQ8XCn0s6KZvYo",
+      "location": {
+        "display_name": "South Yarra, Stonnington Area",
+        "area": [
+          "Australia",
+          "Victoria",
+          "Melbourne Region",
+          "Stonnington Area",
+          "South Yarra"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5805480668?utm_medium=api&utm_source=4e5ae6d3",
+      "latitude": -37.837324,
+      "salary_is_predicted": "0",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      }
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "display_name": "Melbourne, Melbourne Region",
+        "area": [
+          "Australia",
+          "Victoria",
+          "Melbourne Region",
+          "Melbourne"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5757057959?utm_medium=api&utm_source=4e5ae6d3",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc1NzA1Nzk1OSIsInMiOiJlS2JscTRLSjhSR191dVVHbEpnQ0FRIn0.ZElhaFy_lTBMBnPwjTAS1nbNUNK2ftoZAcmYeDWWxZA",
+      "title": "Senior Product Analyst - ERP Financials",
+      "description": "Our Why Datacom works with organisations and communities across Australia and New Zealand to make a difference in people's lives and help organisations use the power of tech to innovate and grow. About the Role This one's for the accountant who was always more interested in the software. You know who you are. You survived the audits, built the reconciliation templates, understood the internal controls better than anyone in the room — but while everyone else was grinding through month-end, you w…",
+      "created": "2026-06-09T20:12:36Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Datacom"
+      },
+      "contract_time": "full_time",
+      "id": "5757057959",
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "salary_is_predicted": "0"
+    },
+    {
+      "longitude": 151.207114,
+      "id": "5775441238",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Perpetual"
+      },
+      "created": "2026-06-25T08:33:21Z",
+      "contract_time": "full_time",
+      "description": "Support the Custody strategy into executable product, partnership and go-to-market initiatives Enjoy up to six weeks of leave plus an annual wellbeing allowance to support your health and lifestyle Modern, centrally located CBD offices with easy access to public transport Perpetual Group is an ASX-listed company (ASX:PPT) headquartered in Sydney, Australia, currently consisting of 11 leading brands across three distinct businesses: Asset Management, Wealth Management and Corporate Trust. We are…",
+      "title": "Senior Product Analyst, Custody – Perpetual Corporate Trust",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc3NTQ0MTIzOCIsInMiOiJlS2JscTRLSjhSR191dVVHbEpnQ0FRIn0.i26jK2tMqgm1MRGvoDgmP7BlLgcchLEhaTr07t34g18",
+      "location": {
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney",
+          "The Rocks"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "The Rocks, Sydney"
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5775441238?utm_medium=api&utm_source=4e5ae6d3",
+      "latitude": -33.867139,
+      "salary_is_predicted": "0",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Accounting & Finance Jobs",
+        "tag": "accounting-finance-jobs"
+      }
+    },
+    {
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "accounting-finance-jobs",
+        "label": "Accounting & Finance Jobs"
+      },
+      "salary_is_predicted": "0",
+      "title": "Senior Product Analyst, Custody – Perpetual Corporate Trust",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5775540896?utm_medium=api&utm_source=4e5ae6d3",
+      "location": {
+        "area": [
+          "Australia"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Australia"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc3NTU0MDg5NiIsInMiOiJlS2JscTRLSjhSR191dVVHbEpnQ0FRIn0.sOAuTvIHM6BbPKHLoqg0ZuyjpRvx3Dg55fP_SkDaFEg",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Perpetual"
+      },
+      "created": "2026-06-25T10:52:57Z",
+      "contract_time": "full_time",
+      "id": "5775540896",
+      "description": "Support the Custody strategy into executable product, partnership and go-to-market initiatives Enjoy up to six weeks of leave plus an annual wellbeing allowance to support your health and lifestyle Modern, centrally located CBD offices with easy access to public transport Perpetual Group is an ASX-listed company (ASX:PPT) headquartered in Sydney, Australia, currently consisting of 11 leading brands across three distinct businesses: Asset Management, Wealth Management and Corporate Trust. We are…"
+    },
+    {
+      "contract_type": "permanent",
+      "salary_is_predicted": "0",
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "company": {
+        "display_name": "ADTM Adenza Technology de Mexico S de RL de CV",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "contract_time": "full_time",
+      "created": "2026-06-18T10:59:13Z",
+      "id": "5767405888",
+      "description": "As a Product Business Analyst, and part of the Product Management team, you'll play a critical role in shaping how data is integrated, structured, and delivered across Nasdaq's Trade Surveillance platform, a globally deployed compliance solution supporting trading firms, exchanges, and regulators across multiple asset classes. You'll thrive in this position if you're analytically driven, technically curious, and passionate about translating complex data and trading workflows into scalable, clie…",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5767405888?utm_medium=api&utm_source=4e5ae6d3",
+      "location": {
+        "display_name": "Sydney, Sydney Region",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney"
+        ]
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZUtibHE0S0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1NzY3NDA1ODg4In0.2I0bFghyAKvNn_UQckDn9BTM1zcYFuklKmKWdMLPcXY",
+      "title": "Product Business Analyst"
+    },
+    {
+      "title": "Product Data Analyst",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney",
+          "The Rocks"
+        ],
+        "display_name": "The Rocks, Sydney"
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5764096313?utm_medium=api&utm_source=4e5ae6d3",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZUtibHE0S0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1NzY0MDk2MzEzIn0.daESjrHUBNKDWeL6hOZmum1nGCsYI5Uc6AKrlBmmfaI",
+      "latitude": -33.867139,
+      "description": "Job Description For a winning team that is evolving. Forward with Cuscal. Ever tapped your phone to buy a morning coffee, or made a purchase from your favourite online store? Chances are, we’ve made it happen. At Cuscal, we’ve been at the forefront of payments innovation for 59 years, enabling seamless, secure solutions that millions of Australians rely on every day. From launching Australia’s first ATM to being the first certified Australian fast payments Payer and Initiator in 2022, we’ve alw…",
+      "longitude": 151.207114,
+      "created": "2026-06-15T15:42:13Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Cuscal Limited"
+      },
+      "id": "5764096313",
+      "contract_time": "full_time",
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "salary_is_predicted": "0"
+    },
+    {
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "salary_is_predicted": "0",
+      "contract_type": "permanent",
+      "title": "Product Improvement Analyst",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc4NDM1ODYyMSIsInMiOiJlS2JscTRLSjhSR191dVVHbEpnQ0FRIn0.WcmLAf6s0Sk0UGqDQP2URSZK8FPBkeLGPoHDo_knTB8",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Western Australia",
+          "Perth Region",
+          "Perth",
+          "Perth CBD"
+        ],
+        "display_name": "Perth CBD, Perth"
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5784358621?utm_medium=api&utm_source=4e5ae6d3",
+      "latitude": -31.953357,
+      "description": "About The Role We are seeking a Product Improvement Analyst to join our Perth-based product team and help shape a new way of delivering product improvements using AI agents and emerging technology. This role is designed for someone who is business-focused, highly adaptable, hands-on, and confident solving problems in new and evolving environments. You will work with customers, internal product teams, and engineering teams to understand business requirements, convert them into clear documentatio…",
+      "longitude": 115.859784,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "JobRadars - AU"
+      },
+      "created": "2026-07-02T07:21:50Z",
+      "id": "5784358621",
+      "contract_time": "part_time"
+    },
+    {
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "display_name": "Melbourne CBD, Melbourne",
+        "area": [
+          "Australia",
+          "Victoria",
+          "Melbourne Region",
+          "Melbourne",
+          "Melbourne CBD"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc0MjgxNzgzNiIsInMiOiJlS2JscTRLSjhSR191dVVHbEpnQ0FRIn0._OuVQhnTP3n8ID3aJ0BNaAQYvwTnSpb7knr4PJ1t8bQ",
+      "redirect_url": "https://www.adzuna.com.au/details/5742817836?utm_medium=api&utm_source=4e5ae6d3",
+      "latitude": -37.81521,
+      "title": "Product Services Analyst",
+      "description": "Novigi is the data, technology and AI partner to the Financial Services Industry with offices in Sydney, Brisbane, Canberra, Melbourne, Wollongong and Colombo, Sri Lanka. At our core, we are data-driven transformation and business optimisation experts. We partner with our clients to transform their business functions through the clever use of data and interoperability. We do this by offering a range of services and solutions. This role is key to the development and delivery of our core ‘As a se…",
+      "company": {
+        "display_name": "Novigi",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "contract_time": "full_time",
+      "created": "2026-05-28T10:38:04Z",
+      "id": "5742817836",
+      "longitude": 144.963953
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZUtibHE0S0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1Njg4MTgzMzk4In0.77-TVqgLEPGyttWRnLYH_g3zIiXhTmDbhbRrh0S5kDA",
+      "location": {
+        "display_name": "Hampton East, Bayside Area",
+        "area": [
+          "Australia",
+          "Victoria",
+          "Melbourne Region",
+          "Bayside Area",
+          "Hampton East"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5688183398?utm_medium=api&utm_source=4e5ae6d3",
+      "latitude": -37.93291,
+      "title": "Expressions of Interest - Product Owners & Business Analysts",
+      "description": "This is an expression of interest to join our talent pipeline. While we don't have an immediate opening, we're always keen to connect with great talent for future opportunities. Kogan.com is a pioneer of Australian eCommerce, and the software we build is used by millions of customers every day. You'll join a fast-moving team with real ownership, shipping to production daily and using AI as part of how we work. We'd love to hear from talented Business Analysts and Product Owners who turn ideas i…",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Kogan"
+      },
+      "contract_time": "full_time",
+      "created": "2026-04-03T13:40:45Z",
+      "id": "5688183398",
+      "longitude": 145.033718,
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "salary_is_predicted": "0"
+    },
+    {
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      },
+      "salary_is_predicted": "0",
+      "title": "Expressions of Interest - Product Owners & Business Analysts",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Victoria",
+          "Melbourne Region"
+        ],
+        "display_name": "Melbourne Region, Victoria"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZUtibHE0S0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1NDUyNTI0MDQ0In0.DjunCnYWqMNgkno8tcdL37tT3HK-s1EMiQ1NtevsnoM",
+      "redirect_url": "https://www.adzuna.com.au/details/5452524044?utm_medium=api&utm_source=4e5ae6d3",
+      "company": {
+        "display_name": "Kogan.com",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "contract_time": "full_time",
+      "created": "2025-10-18T04:16:46Z",
+      "id": "5452524044",
+      "description": "This is an expression of interest to join our talent pipeline. While we don't have an immediate opening, we're always keen to connect with great talent for future opportunities. Kogan.com is a pioneer of Australian eCommerce, and the software we build is used by millions of customers every day. You'll join a fast-moving team with real ownership, shipping to production daily and using AI as part of how we work. We'd love to hear from talented Business Analysts and Product Owners who turn ideas i…"
+    },
+    {
+      "created": "2026-07-25T11:24:44Z",
+      "company": {
+        "display_name": "Commonwealth Bank of Australia",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "contract_time": "full_time",
+      "id": "5814762806",
+      "description": "Help shape Australia’s home buying experience through data. Turn complex data into decisions that matter. Grow your analytics career and deliver outstanding customer impact Home Buying | Product Strategy & Governance Squad | Retail Banking Services See Yourself in the Team The Product Strategy & Governance Squad provides strategic direction, governance oversight and design assurance across the Home Buying value stream. The team partners with business, risk, technology and product stakeholders t…",
+      "title": "Advanced Analytics Analyst - Product Strategy & Governance",
+      "location": {
+        "display_name": "Australia",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia"
+        ]
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5814762806?utm_medium=api&utm_source=4e5ae6d3",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgxNDc2MjgwNiIsInMiOiJlS2JscTRLSjhSR191dVVHbEpnQ0FRIn0.Ut0dSV6BNINovaRyJaMhDEdx4Ncj9RfSQprdQ32cdw8",
+      "salary_is_predicted": "0",
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      }
+    },
+    {
+      "salary_is_predicted": "0",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "description": "Help shape Australia’s home buying experience through data. Turn complex data into decisions that matter. Grow your analytics career and deliver outstanding customer impact Home Buying | Product Strategy & Governance Squad | Retail Banking Services See Yourself in the Team The Product Strategy & Governance Squad provides strategic direction, governance oversight and design assurance across the Home Buying value stream. The team partners with business, risk, technology and product stakeholders t…",
+      "company": {
+        "display_name": "Commonwealth Bank of Australia",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "id": "5816317529",
+      "created": "2026-07-26T18:16:31Z",
+      "contract_time": "full_time",
+      "longitude": 151.2028,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZUtibHE0S0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1ODE2MzE3NTI5In0.odlgCFdMO5H-i5ffVG0X91193GMpCIyOSjxHbW085Tw",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney",
+          "Sydney CBD"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Sydney CBD, Sydney"
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5816317529?utm_medium=api&utm_source=4e5ae6d3",
+      "latitude": -33.88078,
+      "title": "Advanced Analytics Analyst - Product Strategy & Governance"
+    },
+    {
+      "id": "5791667008",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Salt"
+      },
+      "created": "2026-07-08T11:45:57Z",
+      "contract_time": "full_time",
+      "description": "Join an established Australian software company that has been delivering innovative business software solutions for over 45 years. As the business continues to grow and evolve its payroll platform to meet changing legislative requirements and client needs, an exciting newly created opportunity has become available for a Payroll Product Owner / Business Analyst to play a key role in shaping the future. About the Role Working closely with product, development, payroll operations and key stakehold…",
+      "title": "Product Owner / Business Analyst - Payroll & HR Software",
+      "redirect_url": "https://www.adzuna.com.au/details/5791667008?utm_medium=api&utm_source=4e5ae6d3",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "area": [
+          "Australia",
+          "Victoria",
+          "Melbourne Region",
+          "Melbourne"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Melbourne, Melbourne Region"
+      },
+      "salary_max": 100000,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZUtibHE0S0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1NzkxNjY3MDA4In0.sDW192CUBJ_3ixdiqzSwf777TJv6Gyft17exVy1ecjE",
+      "salary_min": 90000,
+      "contract_type": "permanent",
+      "salary_is_predicted": "0",
+      "category": {
+        "tag": "accounting-finance-jobs",
+        "label": "Accounting & Finance Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      }
+    },
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgxMzA0ODAzMSIsInMiOiJlS2JscTRLSjhSR191dVVHbEpnQ0FRIn0.8RV8dUZr79XUYdgKqYem2FGszGi0GqYJmjh9SjM8mcM",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "display_name": "Eveleigh, Sydney",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney",
+          "Eveleigh"
+        ]
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5813048031?utm_medium=api&utm_source=4e5ae6d3",
+      "latitude": -33.891348,
+      "title": "AEM Product Specialist (AEM Business Analyst)",
+      "description": "Join the University's ICT Digital Engagement Team as an experienced AEM Product Specialist in this fixed-term opportunity until January 2027, with the possibility for extension Partner with business and technical stakeholders to translate complex requirements into user-centred AEM solutions, driving process improvement and delivering strategic digital outcomes. Salary of $131,108 to 147,858 with additional career development opportunities and 17% superannuation Why join the University of Sydney…",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "University of Sydney"
+      },
+      "created": "2026-07-24T10:09:42Z",
+      "id": "5813048031",
+      "contract_time": "full_time",
+      "longitude": 151.191243,
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      },
+      "salary_is_predicted": "0",
+      "contract_type": "contract"
+    },
+    {
+      "salary_is_predicted": "0",
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "description": "We are looking for a senior, technically credible analyst-advocate on data platform and data product engagements, acting as the customer’s proxy inside delivery. This is a data specialist, not a software or process BA: the person understands how data moves, how it is structured, where it comes from and what it means in business terms, reads data models and source-to-target mappings, and gets into the data to verify it. SQL fluency is essential. You will understand the client’s problem more deep…",
+      "longitude": 151.206616,
+      "company": {
+        "display_name": "Simple Machines",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "created": "2026-06-29T17:26:52Z",
+      "id": "5780949561",
+      "title": "Principal - Technical Business Analyst, Data Products & Platforms",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney",
+          "The Rocks"
+        ],
+        "display_name": "The Rocks, Sydney"
+      },
+      "latitude": -33.865715,
+      "redirect_url": "https://www.adzuna.com.au/details/5780949561?utm_medium=api&utm_source=4e5ae6d3",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZUtibHE0S0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1NzgwOTQ5NTYxIn0.ZXl3b1Kz9z7t08_IeUdZ3zUP0y2zSDLsqQOMfu2JFn4"
+    },
+    {
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "salary_is_predicted": "0",
+      "contract_type": "permanent",
+      "title": "Commercial Product Manager (Custody & Corporate Trust)",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5814805982?utm_medium=api&utm_source=4e5ae6d3",
+      "location": {
+        "display_name": "Sydney CBD, Sydney",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney",
+          "Sydney CBD"
+        ]
+      },
+      "latitude": -33.88078,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZUtibHE0S0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1ODE0ODA1OTgyIn0.k7uFP9tAlNW_pxBkqwPHgyEAh3UJ-tVzgEZN5-byekw",
+      "description": "Commercial Product Manager (Custody & Corporate Trust) The Company Our client is a well established financial services organisation providing SaaS based platforms and solutions across custody and corporate trust services. Known for a collaborative, supportive and genuinely people first culture, they are evolving their product function into a more commercial, go to market capability and are investing in the right people to lead that shift. The Opportunity This is a fantastic opportunity for a co…",
+      "longitude": 151.2028,
+      "contract_time": "full_time",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Parity Consulting"
+      },
+      "created": "2026-07-25T11:51:10Z",
+      "id": "5814805982"
+    },
+    {
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "accounting-finance-jobs",
+        "label": "Accounting & Finance Jobs"
+      },
+      "salary_is_predicted": "0",
+      "title": "Senior Analyst Client Solutions Product Finance",
+      "location": {
+        "display_name": "Sydney, Sydney Region",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5800536988?utm_medium=api&utm_source=4e5ae6d3",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZUtibHE0S0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1ODAwNTM2OTg4In0.GcBRjUeYDsG5ZM0IutlhAS9OBRqYwWzYd1J4l6-UsE0",
+      "company": {
+        "display_name": "Commonwealth Bank of Australia",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "created": "2026-07-15T11:02:33Z",
+      "id": "5800536988",
+      "contract_time": "full_time",
+      "description": "Senior Analyst – Client Solutions Product Finance Do work that matters Join a high-performing finance team supporting Institutional Banking & Markets (IB&M), delivering financial insight, control, and strategic decision support to the Lending and Leasing businesses. You'll partner with senior stakeholders to provide meaningful analysis, influence decision-making, and help drive business performance across complex institutional financing solutions. See yourself in our team Client Solutions Produ…"
+    },
+    {
+      "salary_is_predicted": "0",
+      "category": {
+        "tag": "accounting-finance-jobs",
+        "label": "Accounting & Finance Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "longitude": 151.2028,
+      "id": "5803445099",
+      "company": {
+        "display_name": "Commonwealth Bank of Australia",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "created": "2026-07-17T02:58:57Z",
+      "contract_time": "full_time",
+      "description": "Senior Analyst – Client Solutions Product Finance Do work that matters Join a high-performing finance team supporting Institutional Banking & Markets (IB&M), delivering financial insight, control, and strategic decision support to the Lending and Leasing businesses. You'll partner with senior stakeholders to provide meaningful analysis, influence decision-making, and help drive business performance across complex institutional financing solutions. See yourself in our team Client Solutions Produ…",
+      "title": "Senior Analyst Client Solutions Product Finance",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney",
+          "Sydney CBD"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Sydney CBD, Sydney"
+      },
+      "latitude": -33.88078,
+      "redirect_url": "https://www.adzuna.com.au/details/5803445099?utm_medium=api&utm_source=4e5ae6d3",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZUtibHE0S0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1ODAzNDQ1MDk5In0.3ALIdxva5soCnABWS3JhEfQUPLKBeyLaVJG2rFPY5YI"
+    },
+    {
+      "description": "Business Analyst - Product Management Office | TSPV Cleared GEOINT Opportunity Join a high-impact Product Management Office supporting the sustainment and evolution of mission-critical GEOINT systems. This opportunity is ideal for a skilled Business Analyst who can work closely with product managers and stakeholders to assess current-state capabilities, identify business and ICT improvement opportunities, and help shape future roadmaps that support informed decision-making and long-term operati…",
+      "id": "5796295392",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Compas"
+      },
+      "created": "2026-07-11T09:24:22Z",
+      "contract_time": "part_time",
+      "longitude": 149.133481,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "display_name": "Barton, South Canberra",
+        "area": [
+          "Australia",
+          "Australian Capital Territory",
+          "Canberra Region",
+          "South Canberra",
+          "Barton"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5796295392?utm_medium=api&utm_source=4e5ae6d3",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc5NjI5NTM5MiIsInMiOiJlS2JscTRLSjhSR191dVVHbEpnQ0FRIn0.z8Omr1_ksJBCGFv9jgRn_lYM9N4ehTddvDJtYBk4dCY",
+      "latitude": -35.309391,
+      "title": "TSPV - 2 x Product Management Office Business Analysts",
+      "salary_is_predicted": "0",
+      "contract_type": "permanent",
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      }
+    },
+    {
+      "salary_is_predicted": "0",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "description": "Our purpose Here at Datacom, we connect people and technology in order to solve challenges, create opportunities and discover new possibilities for the communities we live in. About the Role We’re looking for people that want the challenges of working in an MNC with diverse clients, high paced development using the latest technologies and techniques and delivering high quality applications that make our clients happy. We want people passionate about delivering innovative software. If you’ve alr…",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Datacom"
+      },
+      "id": "5650868301",
+      "created": "2026-03-02T14:50:51Z",
+      "contract_time": "full_time",
+      "longitude": 115.91223,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "display_name": "Bayswater, Bayswater Area",
+        "area": [
+          "Australia",
+          "Western Australia",
+          "Perth Region",
+          "Bayswater Area",
+          "Bayswater"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY1MDg2ODMwMSIsInMiOiJlS2JscTRLSjhSR191dVVHbEpnQ0FRIn0.8Gh0dVEZRkIdr40HtoxzCdE8mOAFsAn7A1SOax4V-ug",
+      "redirect_url": "https://www.adzuna.com.au/details/5650868301?utm_medium=api&utm_source=4e5ae6d3",
+      "latitude": -31.924074,
+      "title": "Contract - Technical Business Analyst (with Product Owner experience) - EOI"
+    },
+    {
+      "redirect_url": "https://www.adzuna.com.au/details/5810208186?utm_medium=api&utm_source=4e5ae6d3",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "display_name": "Australia",
+        "area": [
+          "Australia"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZUtibHE0S0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1ODEwMjA4MTg2In0.8P8fJ43wEbwRnfdvf9DMzC26seWR3iJ6qI5O-TZ1GXI",
+      "title": "Sr. P&C Product Manager",
+      "company": {
+        "display_name": "Orion180 Insurance Services",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "created": "2026-07-22T11:28:37Z",
+      "id": "5810208186",
+      "contract_time": "full_time",
+      "description": "Join our Team as a P&C Senior Product Manager! WHAT YOU’LL DO: The Senior Product Manager is responsible for leading pricing strategy, product development and portfolio performance for the personal lines property programs across assigned states. This role serves as a senior technical and strategic leader within the Product organization, driving complex initiatives, influencing enterprise decision-making, and serving as a mentor to junior team members. The position works collaboratively across c…",
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "contract_type": "permanent",
+      "salary_is_predicted": "0"
+    },
+    {
+      "title": "Merchandise Planner",
+      "redirect_url": "https://www.adzuna.com.au/details/5766898735?utm_medium=api&utm_source=4e5ae6d3",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "display_name": "Darra, Brisbane",
+        "area": [
+          "Australia",
+          "Queensland",
+          "Brisbane Region",
+          "Brisbane",
+          "Darra"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc2Njg5ODczNSIsInMiOiJlS2JscTRLSjhSR191dVVHbEpnQ0FRIn0.FYOovhdWnAKyzpnPpRmgeK64WZ7I2Pi2-cxhSFHWD1U",
+      "latitude": -27.56703,
+      "description": "Thanks for considering embarking on a journey with Pillow Talk! We call it a journey because for many of our colleagues that’s exactly what it’s been. Whether you’re interested in a horizontal or vertical career path, the opportunities at Pillow Talk are abundant - not even the sky is the limit. By way of brief introduction, we are a well-established, on-trend home décor and linen retailer. From humble beginnings (some 49 years ago!), we’ve scaled to 76 stores across Australia and we're still g…",
+      "longitude": 152.95327,
+      "created": "2026-06-18T00:30:19Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Pillow Talk Australia"
+      },
+      "id": "5766898735",
+      "contract_time": "full_time",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Sales Jobs",
+        "tag": "sales-jobs"
+      },
+      "salary_is_predicted": "0",
+      "contract_type": "contract"
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": -37.91315,
+      "redirect_url": "https://www.adzuna.com.au/details/5802066056?utm_medium=api&utm_source=4e5ae6d3",
+      "location": {
+        "display_name": "Brighton, Bayside Area",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Victoria",
+          "Melbourne Region",
+          "Bayside Area",
+          "Brighton"
+        ]
+      },
+      "title": "Product Owner- Payroll & HR",
+      "contract_time": "full_time",
+      "longitude": 144.99168,
+      "category": {
+        "tag": "accounting-finance-jobs",
+        "label": "Accounting & Finance Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "contract_type": "permanent",
+      "salary_min": 100000,
+      "salary_max": 120000,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZUtibHE0S0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1ODAyMDY2MDU2In0.-gOj6rG6pNCDb_SaXERX73AqqOGZceYu0hQ3I4lXbOY",
+      "description": "Join an established Australian software company that has been delivering innovative business software solutions for over 45 years. As the business continues to grow and evolve its payroll platform to meet changing legislative requirements and client needs, an exciting newly created opportunity has become available for a Payroll Product Owner / Business Analyst to play a key role in shaping the future. About the Role As the Product Owner, you will be responsible for shaping and delivering produc…",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Salt"
+      },
+      "created": "2026-07-16T11:48:07Z",
+      "id": "5802066056",
+      "salary_is_predicted": "0"
+    },
+    {
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "salary_is_predicted": "0",
+      "contract_type": "permanent",
+      "salary_min": 140000,
+      "title": "Senior Product Manager",
+      "redirect_url": "https://www.adzuna.com.au/details/5810895000?utm_medium=api&utm_source=4e5ae6d3",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "area": [
+          "Australia"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Australia"
+      },
+      "salary_max": 160000,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgxMDg5NTAwMCIsInMiOiJlS2JscTRLSjhSR191dVVHbEpnQ0FRIn0.JQYAkZg48SftzpYWpEFlPMV9CQZbWHwh09Bpi0RZbKs",
+      "description": "Shape the future of healthcare tech Fully remote role, work anywhere in Australia $140K-$160K plus Super Are you an experienced Senior Product Manager who thrives on solving complex problems, defining product strategy and building scalable product management processes? This is an opportunity to join an innovative Australian health technology company whose software supports private hospitals and clinics across Australia. You'll take ownership of a well-established, cloud-based patient administra…",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Talent Matters"
+      },
+      "created": "2026-07-22T23:12:18Z",
+      "id": "5810895000",
+      "contract_time": "full_time"
+    },
+    {
+      "salary_is_predicted": "0",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Accounting & Finance Jobs",
+        "tag": "accounting-finance-jobs"
+      },
+      "description": "Join an established Australian software company that has been delivering innovative business software solutions for over 45 years. As the business continues to grow and evolve its payroll platform to meet changing legislative requirements and client needs, an exciting newly created opportunity has become available for a Payroll Product Owner / Business Analyst to play a key role in shaping the future. About the Role As the Product Owner, you will be responsible for shaping and delivering produc…",
+      "longitude": 138.523266,
+      "id": "5804002510",
+      "company": {
+        "display_name": "Salt Recruitment",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "created": "2026-07-17T10:08:17Z",
+      "contract_time": "full_time",
+      "title": "Product Owner – Payroll & HR",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "display_name": "Brighton, Holdfast Bay",
+        "area": [
+          "Australia",
+          "South Australia",
+          "Adelaide Region",
+          "Holdfast Bay",
+          "Brighton"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5804002510?utm_medium=api&utm_source=4e5ae6d3",
+      "latitude": -35.020996,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZUtibHE0S0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1ODA0MDAyNTEwIn0.9ERYvvwJK4jwdeRMqrkHmuglP3Ug5Ty1NM23te_LlN4"
+    },
+    {
+      "salary_is_predicted": "0",
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "longitude": 151.203231,
+      "id": "5792112233",
+      "company": {
+        "display_name": "Softtest pays pty ltd",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "created": "2026-07-08T16:36:45Z",
+      "description": "Australian Citizens residing in Australia with Baseline Clearance only respond. Key Responsibilities Lead the QA team in planning, execution, and delivery of functional, regression, integration, and end-to-end testing. Design, develop, and maintain scalable automation frameworks using Selenium and Playwright . Define and implement automation strategies for web applications across multiple browsers and platforms. Collaborate with Product Owners, Business Analysts, and Development teams to unders…",
+      "title": "Test lead",
+      "redirect_url": "https://www.adzuna.com.au/details/5792112233?utm_medium=api&utm_source=4e5ae6d3",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney"
+        ],
+        "display_name": "Sydney, Sydney Region"
+      },
+      "latitude": -33.885283,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZUtibHE0S0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1NzkyMTEyMjMzIn0.FpzmAU4mMBwwqepOPFjco6GMG23e4DSn-5WYvQEZpt0"
+    },
+    {
+      "contract_type": "contract",
+      "salary_is_predicted": "0",
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "longitude": 151.207114,
+      "created": "2026-07-25T02:12:38Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Davidson"
+      },
+      "id": "5814106077",
+      "description": "About the Company Davidson is partnering with a leading organisation within the financial services sector to appoint an experienced Process Engineer for a major technology and automation transformation. This organisation is investing heavily in modernising its operating model, improving adviser and customer experiences, and introducing scalable automation and AI-enabled capabilities across its business. About the Role The Process Engineer will be responsible for defining, maintaining and optimi…",
+      "title": "Process Engineer",
+      "redirect_url": "https://www.adzuna.com.au/details/5814106077?utm_medium=api&utm_source=4e5ae6d3",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney",
+          "The Rocks"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "The Rocks, Sydney"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZUtibHE0S0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1ODE0MTA2MDc3In0.PB-i4XnzEYIOOP9zbYv_zCJ4t65D6NANRtvP1kudtZ8",
+      "latitude": -33.867139
+    },
+    {
+      "salary_is_predicted": "0",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "description": "Why Work at Lenovo We are Lenovo. We do what we say. We own what we do. We WOW our customers. Lenovo is a US$83 billion revenue global technology powerhouse, ranked 196 in the Fortune Global 500, and serving millions of customers every day in 180 markets. Focused on a bold vision to deliver Smarter Technology for All, Lenovo has built on its success as the world’s largest PC company with a full-stack portfolio of AI-enabled, AI-ready, and AI-optimized devices (PCs, workstations, smartphones, ta…",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Lenovo"
+      },
+      "id": "5800835938",
+      "created": "2026-07-15T17:05:20Z",
+      "contract_time": "full_time",
+      "title": "Senior AI Engineer",
+      "location": {
+        "area": [
+          "Australia"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Australia"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgwMDgzNTkzOCIsInMiOiJlS2JscTRLSjhSR191dVVHbEpnQ0FRIn0.SxYv--OqyASj_rV5ug6rTgKxumohNKJ6TmJtdLPtHik",
+      "redirect_url": "https://www.adzuna.com.au/details/5800835938?utm_medium=api&utm_source=4e5ae6d3"
+    },
+    {
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "salary_is_predicted": "0",
+      "redirect_url": "https://www.adzuna.com.au/details/5774191826?utm_medium=api&utm_source=4e5ae6d3",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "display_name": "Sydney, Sydney Region",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney"
+        ]
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZUtibHE0S0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1Nzc0MTkxODI2In0.dmnYBu5u4INYqulLbT3ZU1ITUVcx0zxUJZkQMb0yiys",
+      "title": "Business Analyst",
+      "id": "5774191826",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Brighte"
+      },
+      "created": "2026-06-24T10:53:15Z",
+      "contract_time": "full_time",
+      "description": "Role Overview As Business Analyst at Brighte, you'll sit at the heart of our AI and automation transformation within our sales and operations team. You'll identify where technology can unlock the most value, shape how that value is experienced by users, and lead implementation from start to finish — working across Commercial, Data, Operations, Technology, and Engineering to get things done. This is a hands-on role with real impact. One week you might be mapping a broken process and designing an…"
+    },
+    {
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "salary_is_predicted": "0",
+      "title": "Product Owner - Finance Super App (Australia)",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5789494311?utm_medium=api&utm_source=4e5ae6d3",
+      "location": {
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Sydney, Sydney Region"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc4OTQ5NDMxMSIsInMiOiJlS2JscTRLSjhSR191dVVHbEpnQ0FRIn0.s-2hkD9ENfekdQEBSHheSHB7z_en0q8RMNR3uMrpXxY",
+      "latitude": -33.885283,
+      "longitude": 151.203231,
+      "created": "2026-07-06T11:08:12Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Bjak"
+      },
+      "contract_time": "full_time",
+      "id": "5789494311",
+      "description": "About BJAK The original mission of BJAK is we believe people deserve smarter ways to plan, save and grow their money. This is the origin of our name. Started in 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region. Today, its the leading insurance platform in Southeast Asia. Today, we are expanding ways to help people in the region — this includes spending, saving, investing, exchanging, travelling, and more. Our mission…"
+    },
+    {
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "salary_is_predicted": "0",
+      "title": "Oracle Tech Lead",
+      "location": {
+        "display_name": "The Rocks, Sydney",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney",
+          "The Rocks"
+        ]
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5650823224?utm_medium=api&utm_source=4e5ae6d3",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY1MDgyMzIyNCIsInMiOiJlS2JscTRLSjhSR191dVVHbEpnQ0FRIn0.8waG1PmsUUK6wLmgYN-ZhZk-IRmdZdxAKS8tpHBXPmg",
+      "latitude": -33.867139,
+      "description": "About the job Oracle Tech Lead About the role: Were never just satisfied with how things are because we know how things could be. And its our expert Technology team who forge ahead every day to make those what ifs a reality. As a Technical Lead you will work alongside a team of Product Owners, Analysts, Architects, and Software Engineers in a distributed Agile team, delivering high quality solutions. Youll ensure delivery meets the standards set out for our Domain in both technical execution an…",
+      "longitude": 151.207114,
+      "company": {
+        "display_name": "Pyramid Global Technologies",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "id": "5650823224",
+      "created": "2026-03-02T14:42:08Z",
+      "contract_time": "full_time"
+    },
+    {
+      "salary_is_predicted": "0",
+      "contract_type": "permanent",
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "description": "Be part of a collaborative, agile team delivering meaningful enhancements across NGM Group’s digital platforms.Play a key role in translating business needs into well-defined user stories that drive value for our customers and organisation.Enjoy a fast-paced, cross-functional environment where problem-solving, stakeholder engagement, and customer advocacy are at the heart of everything you do.Permanent, full-time opportunity | Hybrid work arrangements on offer | Based in Newcastle. Purpose of t…",
+      "company": {
+        "display_name": "NGM Group",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "id": "5800678246",
+      "created": "2026-07-15T13:30:26Z",
+      "contract_time": "full_time",
+      "longitude": 151.776874,
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Newcastle Region",
+          "Newcastle Area",
+          "The Hill"
+        ],
+        "display_name": "The Hill, Newcastle Area"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZUtibHE0S0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1ODAwNjc4MjQ2In0.r9myL694B_1BcdFbfo6fjFXR-COHLul_jSjYkWENrVE",
+      "redirect_url": "https://www.adzuna.com.au/details/5800678246?utm_medium=api&utm_source=4e5ae6d3",
+      "latitude": -32.931546,
+      "title": "Digital Delivery Specialist"
+    },
+    {
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "engineering-jobs",
+        "label": "Engineering Jobs"
+      },
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5786207306?utm_medium=api&utm_source=4e5ae6d3",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia"
+        ],
+        "display_name": "Australia"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZUtibHE0S0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1Nzg2MjA3MzA2In0.CbVz32oemmSOeXIfmsB0TZOYi9Mkv2vQZBlbtbkAneM",
+      "title": "Tech Business Analyst",
+      "id": "5786207306",
+      "company": {
+        "display_name": "Accenture",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "created": "2026-07-03T11:00:29Z",
+      "contract_time": "full_time",
+      "description": "About Accenture Accenture is a global professional services company with leading capabilities in digital, cloud and security. Find out more about us at www.accenture.com. Role Purpose We are looking for a Technical Analyst who can bridge Product, Engineering, Architecture and Quality Engineering to deliver complex digital and ecommerce initiatives. This role is ideal for someone who is passionate about customer experiences, enjoys working through ambiguity, and can translate complex business an…"
+    }
+  ],
+  "count": 191,
+  "__CLASS__": "Adzuna::API::Response::JobSearchResults",
+  "mean": 160448.64
+}

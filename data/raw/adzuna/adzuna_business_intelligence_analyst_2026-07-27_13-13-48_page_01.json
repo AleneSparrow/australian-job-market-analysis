@@ -1,0 +1,886 @@
+{
+  "results": [
+    {
+      "salary_is_predicted": "0",
+      "title": "Business Intelligence Analyst",
+      "latitude": -33.88078,
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "longitude": 151.2028,
+      "created": "2026-07-14T10:01:40Z",
+      "id": "5799262874",
+      "company": {
+        "display_name": "HAYS",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc5OTI2Mjg3NCIsInMiOiJVRm5rZDRLSjhSR0VvcGJ5ZDBmOEh3In0.h_aON6snoE68xZyCl7yPC7c8jIpyU-x8PMSMYtV3WAU",
+      "description": "Support the broader business by providing meaningful and actionable data Your new company At Hays, we believe in being long-term partners with our people, as well as our customers. Together, we will work for your tomorrow, and the possibilities are endless. With over 50 years of business success, we have built a reputation as the world leader in specialist recruitment and workforce solutions. Joining Hays isnt just being part of a global business leader; were also the industry leading recruitin…",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "contract_type": "permanent",
+      "redirect_url": "https://www.adzuna.com.au/details/5799262874?utm_medium=api&utm_source=4e5ae6d3",
+      "location": {
+        "display_name": "Sydney CBD, Sydney",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney",
+          "Sydney CBD"
+        ]
+      },
+      "contract_time": "full_time"
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "CRVCID No. 735158 Hello, are you… An innovator? A problem solver? A team player? A customer focused thinker? Committed to helping others? Interested in contributing to the health of all Western Australians? This is an exciting time for HSS and we’re looking for adaptable, motivated, and resilient people to join our growing team. Before you read this job ad, please note, HSS can make reasonable adjustments to allow you to fully participate in the application and interview process. If this is rel…",
+      "contract_time": "part_time",
+      "location": {
+        "display_name": "Perth CBD, Perth",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Western Australia",
+          "Perth Region",
+          "Perth",
+          "Perth CBD"
+        ]
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5795026727?utm_medium=api&utm_source=4e5ae6d3",
+      "contract_type": "permanent",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Healthcare & Nursing Jobs",
+        "tag": "healthcare-nursing-jobs"
+      },
+      "latitude": -31.953357,
+      "title": "Business Intelligence Analyst",
+      "salary_is_predicted": "0",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVUZua2Q0S0o4UkdFb3BieWQwZjhIdyIsImkiOiI1Nzk1MDI2NzI3In0.gRXqFCPTJidfCB18B0ZCJe_2FXJ7DMYkhQk7SUHtyPo",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Health Support Services WA"
+      },
+      "id": "5795026727",
+      "longitude": 115.859784,
+      "created": "2026-07-10T13:23:36Z"
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "CRVCID No. 735158 Hello, are you… An innovator? A problem solver? A team player? A customer focused thinker? Committed to helping others? Interested in contributing to the health of all Western Australians? This is an exciting time for HSS and we’re looking for adaptable, motivated, and resilient people to join our growing team. Before you read this job ad, please note, HSS can make reasonable adjustments to allow you to fully participate in the application and interview process. If this is rel…",
+      "location": {
+        "display_name": "Perth CBD, Perth",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Western Australia",
+          "Perth Region",
+          "Perth",
+          "Perth CBD"
+        ]
+      },
+      "contract_time": "part_time",
+      "redirect_url": "https://www.adzuna.com.au/details/5784355658?utm_medium=api&utm_source=4e5ae6d3",
+      "contract_type": "permanent",
+      "title": "Business Intelligence Analyst",
+      "latitude": -31.953357,
+      "category": {
+        "tag": "healthcare-nursing-jobs",
+        "label": "Healthcare & Nursing Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "salary_is_predicted": "0",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "WA Government"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVUZua2Q0S0o4UkdFb3BieWQwZjhIdyIsImkiOiI1Nzg0MzU1NjU4In0.twl3QZF2uN4I9ub_3CKoqYt_XJdIr5UMp3cAsqfTTL8",
+      "created": "2026-07-02T07:21:28Z",
+      "longitude": 115.859784,
+      "id": "5784355658"
+    },
+    {
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Lovisa"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc4NzExMTAwNiIsInMiOiJVRm5rZDRLSjhSR0VvcGJ5ZDBmOEh3In0.WQUiSOyHZhqiY6HLE4nuuDYUPRn0czUdYV4XIDCA7VE",
+      "longitude": 145.035778,
+      "created": "2026-07-04T06:51:07Z",
+      "id": "5787111006",
+      "title": "Business Intelligence Analyst",
+      "latitude": -37.823757,
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "salary_is_predicted": "0",
+      "location": {
+        "area": [
+          "Australia",
+          "Victoria",
+          "Melbourne Region",
+          "Boroondara Area",
+          "Glenferrie South"
+        ],
+        "display_name": "Glenferrie South, Boroondara Area",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5787111006?utm_medium=api&utm_source=4e5ae6d3",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "The Role As a Business Intelligence Analyst , you'll play a key role in helping the business make smarter, data-driven decisions. Working closely with teams across Retail, Merchandising, Finance and IT, you'll transform complex data into meaningful insights through Power BI dashboards, reporting and analysis. You'll partner with stakeholders to understand their needs, drive the migration from SSRS to Power BI, and deliver innovative data solutions that improve business performance. This is a fa…"
+    },
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgwMDQ0ODM1NSIsInMiOiJVRm5rZDRLSjhSR0VvcGJ5ZDBmOEh3In0.kAjoumODOFCbm9hLjBGDZl1dfvTVuF8K-VxENzUcspk",
+      "company": {
+        "display_name": "Youi Insurance",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "id": "5800448355",
+      "created": "2026-07-15T09:06:17Z",
+      "longitude": 153.085599,
+      "latitude": -26.659002,
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "title": "Business Intelligence Analyst",
+      "salary_is_predicted": "0",
+      "contract_time": "full_time",
+      "location": {
+        "display_name": "Maroochydore, Maroochydore Area",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Queensland",
+          "Sunshine Coast Region",
+          "Maroochydore Area",
+          "Maroochydore"
+        ]
+      },
+      "contract_type": "permanent",
+      "redirect_url": "https://www.adzuna.com.au/details/5800448355?utm_medium=api&utm_source=4e5ae6d3",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "You'll love this role if you're naturally curious and get a kick out of understanding why something is happening, not just reporting what happened. This is the kind of role where one day you're helping a leader understand why a customer process has slowed down, and the next you're building a dashboard that gives a team visibility they've never had before. You'll spend time exploring data, solving problems and uncovering insights that help people across Youi make better decisions. People will of…"
+    },
+    {
+      "salary_is_predicted": "0",
+      "title": "Commercial Business Intelligence Analyst",
+      "latitude": -37.806509,
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "created": "2026-06-16T10:50:51Z",
+      "longitude": 144.957935,
+      "id": "5764847497",
+      "company": {
+        "display_name": "KONE",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc2NDg0NzQ5NyIsInMiOiJVRm5rZDRLSjhSR0VvcGJ5ZDBmOEh3In0.7-HwFN9gNX1v_M0ErP0vD_Hzgpst-u8ndFnToDF8EUc",
+      "description": "Great benefits and remuneration Work with industry - leading products and technology Join a global organisation with a strong focus on training, safety and quality At KONE, you'll find innovation that goes somewhere We see a future of smart cities. As an innovation leader in the elevator and escalator industry, our award-winning products and solutions continue to push boundaries, rethinking how we use buildings for life, work and play. Our work will take you in different directions We are seeki…",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5764847497?utm_medium=api&utm_source=4e5ae6d3",
+      "contract_type": "permanent",
+      "contract_time": "full_time",
+      "location": {
+        "area": [
+          "Australia",
+          "Victoria",
+          "Melbourne Region",
+          "Melbourne"
+        ],
+        "display_name": "Melbourne, Melbourne Region",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      }
+    },
+    {
+      "description": "Great benefits and remuneration Work with industry - leading products and technology Join a global organisation with a strong focus on training, safety and quality At KONE, you'll find innovation that goes somewhere We see a future of smart cities. As an innovation leader in the elevator and escalator industry, our award-winning products and solutions continue to push boundaries, rethinking how we use buildings for life, work and play. Our work will take you in different directions We are seeki…",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5801958481?utm_medium=api&utm_source=4e5ae6d3",
+      "contract_type": "permanent",
+      "location": {
+        "area": [
+          "Australia",
+          "Queensland",
+          "Brisbane Region",
+          "Brisbane",
+          "Brisbane CBD"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Brisbane CBD, Brisbane"
+      },
+      "contract_time": "full_time",
+      "salary_is_predicted": "0",
+      "latitude": -27.4679,
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "title": "Commercial Business Intelligence Analyst",
+      "id": "5801958481",
+      "created": "2026-07-16T10:09:34Z",
+      "longitude": 153.0281,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVUZua2Q0S0o4UkdFb3BieWQwZjhIdyIsImkiOiI1ODAxOTU4NDgxIn0.w1SKtR_im5lk5B8yhSfsdljJN85A80V0ZDwvcVolUO4",
+      "company": {
+        "display_name": "201 KONE Elevators Pty Ltd",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      }
+    },
+    {
+      "salary_is_predicted": "0",
+      "category": {
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs"
+      },
+      "latitude": -37.837324,
+      "title": "Commercial Business Intelligence Analyst",
+      "id": "5801958495",
+      "created": "2026-07-16T10:09:34Z",
+      "longitude": 144.976335,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgwMTk1ODQ5NSIsInMiOiJVRm5rZDRLSjhSR0VvcGJ5ZDBmOEh3In0.yiQ9mApjWgE78jZ9fUP6Kz61xLpqcBJVlvIKXD7hpdg",
+      "company": {
+        "display_name": "201 KONE Elevators Pty Ltd",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "description": "Great benefits and remuneration Work with industry - leading products and technology Join a global organisation with a strong focus on training, safety and quality At KONE, you'll find innovation that goes somewhere We see a future of smart cities. As an innovation leader in the elevator and escalator industry, our award-winning products and solutions continue to push boundaries, rethinking how we use buildings for life, work and play. Our work will take you in different directions We are seeki…",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "contract_type": "permanent",
+      "redirect_url": "https://www.adzuna.com.au/details/5801958495?utm_medium=api&utm_source=4e5ae6d3",
+      "location": {
+        "display_name": "South Yarra, Stonnington Area",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Victoria",
+          "Melbourne Region",
+          "Stonnington Area",
+          "South Yarra"
+        ]
+      },
+      "contract_time": "full_time"
+    },
+    {
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "CareDx"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVUZua2Q0S0o4UkdFb3BieWQwZjhIdyIsImkiOiI1ODEzMTQyNzc4In0.xEyJENVt3RGvpvtUmBBjRBwphKh2DHgmY00Nqrbl5fE",
+      "created": "2026-07-24T11:25:13Z",
+      "id": "5813142778",
+      "title": "Senior Business Intelligence Analyst",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "salary_max": 105000,
+      "salary_is_predicted": "0",
+      "contract_time": "full_time",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Australia",
+        "area": [
+          "Australia"
+        ]
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5813142778?utm_medium=api&utm_source=4e5ae6d3",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_min": 84000,
+      "description": "CareDx, Inc. is a leading precision medicine solutions company focused on the discovery, development, and commercialization of clinically differentiated, high-value healthcare solutions for transplant patients and caregivers. CareDx offers products, testing services, and digital healthcare solutions along the pre- and post-transplant patient journey, and is the leading provider of genomics-based information for transplant patients. The primary responsibilities of the Senior Business Intelligenc…"
+    },
+    {
+      "contract_time": "full_time",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Queensland, Australia",
+        "area": [
+          "Australia",
+          "Queensland"
+        ]
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5741744217?utm_medium=api&utm_source=4e5ae6d3",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Own the context. Govern the insight. Lead AI‑enabled BI at enterprise scale. About the Opportunity As a Principal Business Intelligence Analyst, AI Enablement, you will play a pivotal role in transforming Flight Centre Travel Group’s BI capability into an AI‑accelerated operating model. You will design the semantic foundations and governance that allow AI assistants to deliver trusted, business‑ready insights at scale. This is a senior, high‑impact role partnering closely with Finance, Marketin…",
+      "company": {
+        "display_name": "Flight Centre",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVUZua2Q0S0o4UkdFb3BieWQwZjhIdyIsImkiOiI1NzQxNzQ0MjE3In0.vVAIFlCIV_h8-DVUcW58z3e44hD_faatz07LB249YYY",
+      "created": "2026-05-27T10:43:41Z",
+      "longitude": 149.92899,
+      "id": "5741744217",
+      "title": "Principal Business Intelligence Analyst, AI Enablement",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "latitude": -24.31344,
+      "salary_is_predicted": "0"
+    },
+    {
+      "salary_min": 84000,
+      "description": "CareDx, Inc. is a leading precision medicine solutions company focused on the discovery, development, and commercialization of clinically differentiated, high-value healthcare solutions for transplant patients and caregivers. CareDx offers products, testing services, and digital healthcare solutions along the pre- and post-transplant patient journey, and is the leading provider of genomics-based information for transplant patients. The primary responsibilities of the Senior Business Intelligenc…",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5813146687?utm_medium=api&utm_source=4e5ae6d3",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Australia",
+        "area": [
+          "Australia"
+        ]
+      },
+      "contract_time": "full_time",
+      "salary_is_predicted": "0",
+      "salary_max": 105000,
+      "title": "Senior Business Intelligence Analyst- Finance and Accounting",
+      "category": {
+        "tag": "accounting-finance-jobs",
+        "label": "Accounting & Finance Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "created": "2026-07-24T11:28:57Z",
+      "id": "5813146687",
+      "company": {
+        "display_name": "CareDx",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgxMzE0NjY4NyIsInMiOiJVRm5rZDRLSjhSR0VvcGJ5ZDBmOEh3In0.wkXFJBXmrGbmAli_CiKCMfOzNpfFc-yops2Ru3NhgN8"
+    },
+    {
+      "description": "Own the context. Govern the insight. Lead AI‑enabled BI at enterprise scale. About the Opportunity As a Principal Business Intelligence Analyst, AI Enablement, you will play a pivotal role in transforming Flight Centre Travel Group’s BI capability into an AI‑accelerated operating model. You will design the semantic foundations and governance that allow AI assistants to deliver trusted, business‑ready insights at scale. This is a senior, high‑impact role partnering closely with Finance, Marketin…",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5793518612?utm_medium=api&utm_source=4e5ae6d3",
+      "contract_time": "full_time",
+      "location": {
+        "area": [
+          "Australia",
+          "Queensland"
+        ],
+        "display_name": "Queensland, Australia",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "salary_is_predicted": "0",
+      "title": "Principal Business Intelligence Analyst, AI Enablement- South Bank, QLD",
+      "latitude": -24.31344,
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "created": "2026-07-09T11:05:51Z",
+      "longitude": 149.92899,
+      "id": "5793518612",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Flight Centre"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVUZua2Q0S0o4UkdFb3BieWQwZjhIdyIsImkiOiI1NzkzNTE4NjEyIn0.TttmiH2LK8iYaGSZkQdvILeIELUfpCqUllYEvWcr5tY"
+    },
+    {
+      "contract_time": "part_time",
+      "location": {
+        "area": [
+          "Australia",
+          "Victoria",
+          "Mildura Region",
+          "Mildura",
+          "Merbein"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Merbein, Mildura"
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5814543907?utm_medium=api&utm_source=4e5ae6d3",
+      "contract_type": "permanent",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "SalaryBand 3 commencing from $84,664 per year ( superannuation)Employment type Full TimeLocationMildura or Swan HillApplications close Friday 7 August 2026Mandatory/key requirements Driver’s license, Criminal background check, Confirmation of fitness for work About the role As our Business Intelligence Support Analyst, you will play an important role in supporting Lower Murray Water’s business intelligence, reporting and data analytics functions. Working within the Technology department and rep…",
+      "company": {
+        "display_name": "Lower Murray Water",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVUZua2Q0S0o4UkdFb3BieWQwZjhIdyIsImkiOiI1ODE0NTQzOTA3In0.QQzgWgTAAHSyY9PsUT5YVFRi0xqCD0xhaDPxCf24m1A",
+      "longitude": 142.06355,
+      "created": "2026-07-25T08:58:28Z",
+      "id": "5814543907",
+      "title": "Business Intelligence Support Analyst",
+      "latitude": -34.147528,
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "salary_is_predicted": "0"
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "06th July, 2026 Are you passionate about turning data into meaningful insights that drive business decisions? We're looking for a Business Intelligence & Solutions Analyst to join our Trustee & Wealth Services team, where you'll play a key role in transforming data into strategic intelligence, supporting innovation, and helping shape business and product performance across the organisation. This is an exciting opportunity to combine your analytical expertise, technical capability, and commercia…",
+      "contract_time": "full_time",
+      "location": {
+        "area": [
+          "Australia",
+          "Victoria",
+          "Melbourne Region",
+          "Melbourne"
+        ],
+        "display_name": "Melbourne, Melbourne Region",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5790438241?utm_medium=api&utm_source=4e5ae6d3",
+      "title": "Business Intelligence & Solutions Analyst",
+      "latitude": -37.806509,
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "salary_is_predicted": "0",
+      "company": {
+        "display_name": "Equity Trustees",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVUZua2Q0S0o4UkdFb3BieWQwZjhIdyIsImkiOiI1NzkwNDM4MjQxIn0.7i9RklUB76W9hyMqtqIYKYMsFKkPgS3M1iO95mZdiz4",
+      "longitude": 144.957935,
+      "created": "2026-07-07T10:57:39Z",
+      "id": "5790438241"
+    },
+    {
+      "description": "Together. Works. At Macmahon, you’ll find something different. We’re a successful mining and civil contractor that’s going places – and we want to take you with us. When you join Macmahon, you’re not just getting a job – you’re joining a quality team that’s built together, and built to last. Group and Shared Services Supports our operating companies to thrive through strong governance, compliance and strategic support across the business. Being part of this function offers broad exposure to Mac…",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "contract_type": "permanent",
+      "redirect_url": "https://www.adzuna.com.au/details/5780627211?utm_medium=api&utm_source=4e5ae6d3",
+      "location": {
+        "area": [
+          "Australia",
+          "Western Australia",
+          "Perth Region",
+          "Perth",
+          "Perth CBD"
+        ],
+        "display_name": "Perth CBD, Perth",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "contract_time": "part_time",
+      "salary_is_predicted": "0",
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "latitude": -31.953357,
+      "title": "Analyst - Business Intelligence & Analytics",
+      "id": "5780627211",
+      "longitude": 115.859784,
+      "created": "2026-06-29T09:11:55Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVUZua2Q0S0o4UkdFb3BieWQwZjhIdyIsImkiOiI1NzgwNjI3MjExIn0.3sQUIZpEuyHz6JyxUd2y5Nz7Il1jNxgHh391lP7zM18",
+      "company": {
+        "display_name": "JobRadars - AU",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      }
+    },
+    {
+      "longitude": 138.597963,
+      "created": "2026-07-10T13:23:38Z",
+      "id": "5795026775",
+      "company": {
+        "display_name": "Premium Graduate Placements",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc5NTAyNjc3NSIsInMiOiJVRm5rZDRLSjhSR0VvcGJ5ZDBmOEh3In0.10tNVHVg7oG8vp08aY2L4gFCXznWq4kistCYOQyZQ0E",
+      "salary_is_predicted": "0",
+      "title": "Apply Today - 2026 Cyber Security and Data Science and Analytics Internships",
+      "latitude": -34.933718,
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5795026775?utm_medium=api&utm_source=4e5ae6d3",
+      "contract_type": "permanent",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Adelaide CBD, Adelaide",
+        "area": [
+          "Australia",
+          "South Australia",
+          "Adelaide Region",
+          "Adelaide",
+          "Adelaide CBD"
+        ]
+      },
+      "contract_time": "part_time",
+      "description": "Premium Graduate is Australia’s leading graduate employability specialist connecting students and graduates to top host companies around Australia. Since 2014 we have successfully transitioned over 10000 early career seekers from education to the workplace with extraordinary employment outcomes. Our accredited vocational placement programs combine both experiential learning and practical work experiences that enables you to accelerate your career in Australia. Premium Graduate Placements charge…",
+      "__CLASS__": "Adzuna::API::Response::Job"
+    },
+    {
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Mount Barker, Mount Barker Area",
+        "area": [
+          "Australia",
+          "South Australia",
+          "Adelaide Region",
+          "Mount Barker Area",
+          "Mount Barker"
+        ]
+      },
+      "contract_time": "part_time",
+      "contract_type": "permanent",
+      "redirect_url": "https://www.adzuna.com.au/details/5815914314?utm_medium=api&utm_source=4e5ae6d3",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Job Info Location: Tanunda, SA Salary: Not Specified Job Type: Contract position | Casual position Job Description MedicalJobsAustralia.com Senior Business Analyst SACCaN Data and Intelligence Job no: 944334 Work type: Full time Located in: Adelaide CBD Categories: Administration, Business and Management, Research, Research and Data Analysis The Commission on Excellence and Innovation in Health (CEIH) Clinical Informatics and Innovation Directorate (CIID) SACCaN D&I (South Australian Comprehens…",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgxNTkxNDMxNCIsInMiOiJVRm5rZDRLSjhSR0VvcGJ5ZDBmOEh3In0.4t8ccVmRVYooVkT1cQbmVHp_1V04LmBS7hiobT-YzGg",
+      "company": {
+        "display_name": "MedicalJobsAustralia",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "id": "5815914314",
+      "longitude": 138.882134,
+      "created": "2026-07-26T09:48:54Z",
+      "latitude": -35.091115,
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "title": "Senior Business Analyst - SACCaN Data and Intelligence",
+      "salary_is_predicted": "0"
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "The Commission on Excellence and Innovation in Health (CEIH) – Clinical Informatics and Innovation Directorate (CIID) – SACCaN D&I (South Australian Comprehensive Cancer Network Data and Intelligence) Salary: $130,046 to $134,956 – ASO8 – Full Time / Term Contract up to 12 Months Overview: The Senior Business Analyst leads and manages the development, planning, delivery and evaluation of complex business analysis programs, projects and services for critical and diverse ICT applications and solu…",
+      "salary_min": 130046,
+      "location": {
+        "area": [
+          "Australia"
+        ],
+        "display_name": "Australia",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "contract_time": "full_time",
+      "contract_type": "contract",
+      "redirect_url": "https://www.adzuna.com.au/details/5813145732?utm_medium=api&utm_source=4e5ae6d3",
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "title": "Senior Business Analyst - SACCaN Data and Intelligence",
+      "salary_is_predicted": "0",
+      "salary_max": 134956,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgxMzE0NTczMiIsInMiOiJVRm5rZDRLSjhSR0VvcGJ5ZDBmOEh3In0.rPbClWrAmy4WAaea6K9JhxqiWuIkNhF89rDmL_cVHXM",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "SA Health"
+      },
+      "id": "5813145732",
+      "created": "2026-07-24T11:27:48Z"
+    },
+    {
+      "contract_type": "permanent",
+      "redirect_url": "https://www.adzuna.com.au/details/5814551539?utm_medium=api&utm_source=4e5ae6d3",
+      "location": {
+        "area": [
+          "Australia",
+          "South Australia",
+          "Adelaide Region",
+          "Adelaide",
+          "Adelaide CBD"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Adelaide CBD, Adelaide"
+      },
+      "contract_time": "part_time",
+      "description": "SA Health Job reference: 944334 Location: 5000 - ADELAIDE Job status: Long Term Contract Eligibility: Open to Everyone The Commission on Excellence and Innovation in Health (CEIH) - Clinical Informatics and Innovation Directorate (CIID) - SACCaN D&I (South Australian Comprehensive Cancer Network Data and Intelligence) Salary: $130,046 to $134,956 - ASO8 - Full Time / Term Contract up to 12 Months Overview: The Senior Business Analyst leads and manages the development, planning, delivery and eva…",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "longitude": 138.597963,
+      "created": "2026-07-25T08:59:35Z",
+      "id": "5814551539",
+      "company": {
+        "display_name": "SA Health",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVUZua2Q0S0o4UkdFb3BieWQwZjhIdyIsImkiOiI1ODE0NTUxNTM5In0.xCsD7Eke8viZjI_KXfo8AHzbQW1E5GiquuynNGcy3S4",
+      "salary_is_predicted": "0",
+      "title": "Senior Business Analyst - SACCaN Data and Intelligence",
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "latitude": -34.933718
+    },
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc1MTYyMDc3OCIsInMiOiJVRm5rZDRLSjhSR0VvcGJ5ZDBmOEh3In0.3FEP1NsQ6xO6RIfZsmyrKRGAdnpFUJC7JjcTaWwzqoc",
+      "company": {
+        "display_name": "JLL",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "id": "5751620778",
+      "longitude": 149.1293,
+      "created": "2026-06-04T15:14:15Z",
+      "latitude": -35.2813,
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "title": "EOI - Occupancy Planning & Workplace Analytics",
+      "salary_is_predicted": "0",
+      "location": {
+        "area": [
+          "Australia",
+          "Australian Capital Territory",
+          "Canberra Region",
+          "North Canberra",
+          "City"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "City, North Canberra"
+      },
+      "contract_time": "full_time",
+      "redirect_url": "https://www.adzuna.com.au/details/5751620778?utm_medium=api&utm_source=4e5ae6d3",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "JLL empowers you to shape a brighter way . Our people at JLL are shaping the future of real estate for a better world by combining world class services, advisory and technology for our clients. We are committed to hiring the best, most talented people and empowering them to thrive, grow meaningful careers and to find a place where they belong. Whether you’ve got deep experience in commercial real estate, skilled trades or technology, or you’re looking to apply your relevant experience to a new …"
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "JLL empowers you to shape a brighter way . Our people at JLL are shaping the future of real estate for a better world by combining world class services, advisory and technology for our clients. We are committed to hiring the best, most talented people and empowering them to thrive, grow meaningful careers and to find a place where they belong. Whether you’ve got deep experience in commercial real estate, skilled trades or technology, or you’re looking to apply your relevant experience to a new …",
+      "contract_time": "full_time",
+      "location": {
+        "area": [
+          "Australia"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Australia"
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5752599206?utm_medium=api&utm_source=4e5ae6d3",
+      "latitude": -35.311933,
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "title": "EOI - Occupancy Planning & Workplace Analytics",
+      "salary_is_predicted": "0",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVUZua2Q0S0o4UkdFb3BieWQwZjhIdyIsImkiOiI1NzUyNTk5MjA2In0.GpVu8jT5r16wViFEZVhUA1istPub4FDr5N-rvmXfgzo",
+      "company": {
+        "display_name": "JLL",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "id": "5752599206",
+      "created": "2026-06-05T10:55:41Z",
+      "longitude": 149.112048
+    },
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVUZua2Q0S0o4UkdFb3BieWQwZjhIdyIsImkiOiI1NTQwMjIwMjY2In0.MqEt_VvLKsgHPKWP1I4fZi1oUI4NAyU_69d--1ssIyE",
+      "company": {
+        "display_name": "Skillfield",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "id": "5540220266",
+      "longitude": 144.963953,
+      "created": "2025-12-13T06:41:01Z",
+      "latitude": -37.81521,
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "title": "Expression of Interest - Consulting",
+      "salary_is_predicted": "0",
+      "location": {
+        "area": [
+          "Australia",
+          "Victoria",
+          "Melbourne Region",
+          "Melbourne",
+          "Melbourne CBD"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Melbourne CBD, Melbourne"
+      },
+      "contract_type": "contract",
+      "redirect_url": "https://www.adzuna.com.au/details/5540220266?utm_medium=api&utm_source=4e5ae6d3",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": " Expression of Interest: Join Skillfield Consulting  About Skillfield Skillfield is an IT consultancy, Melbourne based and Australian owned. Across our two main practices of Cyber Security & Data Services, our talented and committed team provide smart and simplified solutions to complex cyber security and big data challenges. We envision a future where innovation and integrity go hand in hand. Our mission is to empower organisations to evolve with purpose, guided by insight and driven by impact…"
+    },
+    {
+      "contract_time": "part_time",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Perth CBD, Perth",
+        "area": [
+          "Australia",
+          "Western Australia",
+          "Perth Region",
+          "Perth",
+          "Perth CBD"
+        ]
+      },
+      "contract_type": "permanent",
+      "redirect_url": "https://www.adzuna.com.au/details/5780628058?utm_medium=api&utm_source=4e5ae6d3",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Date: 26 Jun 2026 Job Posting End Date: Job Country: Australia job-location.job-location-inline { display: inline; } Job State/Province: Western Australia Job Location/Region: Perth About BHP At BHP we support our people to grow, learn, develop their skills and reach their potential. With a global portfolio of operations, we offer a diverse and inclusive environment with extraordinary career opportunities. Our strategy is to focus on creating a safe work environment where our employees feel str…",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVUZua2Q0S0o4UkdFb3BieWQwZjhIdyIsImkiOiI1NzgwNjI4MDU4In0.Ba7aoEM7Ab9zFqlx4OWiv50lCuaoFC0hCNDy99BjUg8",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "JobRadars - AU"
+      },
+      "id": "5780628058",
+      "created": "2026-06-29T09:12:04Z",
+      "longitude": 115.859784,
+      "latitude": -31.953357,
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "title": "Analyst Rail Control Data",
+      "salary_is_predicted": "0"
+    },
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVUZua2Q0S0o4UkdFb3BieWQwZjhIdyIsImkiOiI1ODE0MTA3MDYxIn0.9rlHBB5cpkDvUeIk7fJgzG_n5YSexq387Njl_aCWGDc",
+      "company": {
+        "display_name": "Lockheed Martin Australia",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "id": "5814107061",
+      "longitude": 138.618743,
+      "created": "2026-07-25T02:12:52Z",
+      "latitude": -34.817573,
+      "category": {
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs"
+      },
+      "title": "Engineering Performance Analyst (CSI-IPT)",
+      "salary_is_predicted": "0",
+      "location": {
+        "area": [
+          "Australia",
+          "South Australia",
+          "Adelaide Region",
+          "Salisbury Area",
+          "Mawson Lakes"
+        ],
+        "display_name": "Mawson Lakes, Salisbury Area",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "contract_time": "full_time",
+      "redirect_url": "https://www.adzuna.com.au/details/5814107061?utm_medium=api&utm_source=4e5ae6d3",
+      "contract_type": "permanent",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Engineering Performance Analyst (CSI-IPT) SA, Mawson Lakes Systems Engineering 19542BR About us: At Lockheed Martin Australia, we believe that when people are empowered, inspired, and supported, they can achieve extraordinary things. We embrace flexibility, so our people can be their best inside and outside of work. We champion inclusion and continuous learning, ensuring all voices are heard and valued. And we thrive on collaboration, turning challenges into opportunities for growth and innovat…"
+    },
+    {
+      "company": {
+        "display_name": "Sikorsky Australia",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgxNjYxMzQwMyIsInMiOiJVRm5rZDRLSjhSR0VvcGJ5ZDBmOEh3In0.ZlOILzrerJXmR8GyDEPwXbM_cSnzNvpfQvLVkuNGdj4",
+      "longitude": 138.618743,
+      "created": "2026-07-27T02:12:38Z",
+      "id": "5816613403",
+      "title": "Engineering Performance Analyst (CSI-IPT)",
+      "latitude": -34.817573,
+      "category": {
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs"
+      },
+      "salary_is_predicted": "0",
+      "location": {
+        "display_name": "Mawson Lakes, Salisbury Area",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "South Australia",
+          "Adelaide Region",
+          "Salisbury Area",
+          "Mawson Lakes"
+        ]
+      },
+      "contract_time": "full_time",
+      "redirect_url": "https://www.adzuna.com.au/details/5816613403?utm_medium=api&utm_source=4e5ae6d3",
+      "contract_type": "permanent",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Share Engineering Performance Analyst (CSI-IPT) SA, Mawson Lakes Systems Engineering 19542BR About us: At Lockheed Martin Australia, we believe that when people are empowered, inspired, and supported, they can achieve extraordinary things. We embrace flexibility, so our people can be their best inside and outside of work. We champion inclusion and continuous learning, ensuring all voices are heard and valued. And we thrive on collaboration, turning challenges into opportunities for growth and i…"
+    },
+    {
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Infosys Singapore & Australia"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiVUZua2Q0S0o4UkdFb3BieWQwZjhIdyIsImkiOiI1NDI2MTk0ODYyIn0.b9V6nZoDyGART4dEfRcbJeeUkeNKsmxexHG83RQX4f8",
+      "created": "2025-10-02T17:08:46Z",
+      "id": "5426194862",
+      "title": "AEM Lead",
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "salary_is_predicted": "0",
+      "location": {
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Sydney, Sydney Region"
+      },
+      "contract_time": "full_time",
+      "redirect_url": "https://www.adzuna.com.au/details/5426194862?utm_medium=api&utm_source=4e5ae6d3",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Infosys Consulting is the management consulting arm of the global technology company, Infosys Limited. Infosys Consulting operates globally and currently has over 6,000 employees with offices in 18 countries across the Americas, Asia Pacific, and Europe. We have been on a tremendous growth journey over the past couple of years in the Asia-Pacific region and are looking for bright and passionate consultants to be a part of our growth story. We value diversity, inclusivity, and equality and welco…"
+    },
+    {
+      "title": "Commercial Insights Lead",
+      "latitude": -33.88569,
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "PR, Advertising & Marketing Jobs",
+        "tag": "pr-advertising-marketing-jobs"
+      },
+      "salary_is_predicted": "0",
+      "company": {
+        "display_name": "Boody Australia Pty Limited",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc5NDkxNzg3NyIsInMiOiJVRm5rZDRLSjhSR0VvcGJ5ZDBmOEh3In0.wbR5H6-1OG5G9-3N2rcoGfAokDb-xRwCmUlSdSQhl9U",
+      "created": "2026-07-10T11:00:35Z",
+      "longitude": 151.215893,
+      "id": "5794917877",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "This is not a traditional analyst role. Boody has built a genuinely global DTC business on strong instincts and lean teams. What we haven’t had — and need now — is someone who can connect the dots across customers, products, channels and regions, and turn that into faster, sharper decisions. That’s this role. We’re looking for someone energised by people — who gets a genuine kick out of helping a channel manager finally understand what’s really driving their numbers, or helping a product team s…",
+      "location": {
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney",
+          "Surry Hills"
+        ],
+        "display_name": "Surry Hills, Sydney",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "contract_time": "full_time",
+      "redirect_url": "https://www.adzuna.com.au/details/5794917877?utm_medium=api&utm_source=4e5ae6d3"
+    }
+  ],
+  "__CLASS__": "Adzuna::API::Response::JobSearchResults",
+  "mean": 107167,
+  "count": 27
+}

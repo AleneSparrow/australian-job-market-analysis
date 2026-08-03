@@ -1,0 +1,14 @@
+{
+  "source": "Workforce Australia",
+  "search_term": "data analyst",
+  "folder": "data/raw/workforce_australia/it_jobs/latest_run/queries/data_analyst",
+  "started_at_utc": "2026-07-28T07:55:19.586897+00:00",
+  "finished_at_utc": "2026-07-28T07:58:11.746806+00:00",
+  "page_size": 100,
+  "downloaded_pages": 78,
+  "reused_pages": 0,
+  "raw_records_across_pages": 7765,
+  "unique_vacancy_ids_for_query": 6536,
+  "stopped_reason": "API returned fewer records than pageSize",
+  "last_request_url": "https://www.workforceaustralia.gov.au/api/v1/global/vacancies/?searchText=data+analyst&pageNumber=78&pageSize=100"
+}

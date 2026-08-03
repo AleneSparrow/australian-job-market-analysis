@@ -1,0 +1,662 @@
+{
+  "results": [
+    {
+      "latitude": -33.865715,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgwMjMxMjE2MCIsInMiOiJfRVNzQjNxSjhSR3JnNVlRZV9lQUVBIn0.RJ3oHkGIH7jv6l00t5knPwwpHM7xVlEpOC01PJH2r7I",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney",
+          "The Rocks"
+        ],
+        "display_name": "The Rocks, Sydney"
+      },
+      "id": "5802312160",
+      "description": "This is a Marketing Data Analyst role with Uber based in Sydney, NSW, AU  Uber  Role Seniority - junior More about the Marketing Data Analyst role at Uber About the Role In this role we’re looking for someone to develop a deep understanding of our existing customers within Uber for Business. Your expertise in SQL will be crucial for extracting, manipulating, and analysing large datasets to uncover trends and opportunities that will enhance our marketing strategies across EMEA and APAC. This is …",
+      "redirect_url": "https://www.adzuna.com.au/land/ad/5802312160?se=_ESsB3qJ8RGrg5YQe_eAEA&utm_medium=api&utm_source=4e5ae6d3&v=0D0465F99A4313A0180F890536EE0088B04BF655",
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "company": {
+        "display_name": "Uber",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "created": "2026-07-16T15:06:07Z",
+      "longitude": 151.206616,
+      "salary_is_predicted": "0",
+      "title": "Marketing Data Analyst"
+    },
+    {
+      "salary_is_predicted": "0",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Atlas Talents"
+      },
+      "contract_time": "full_time",
+      "id": "5798828935",
+      "location": {
+        "display_name": "Surry Hills, Sydney",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney",
+          "Surry Hills"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiX0VTc0IzcUo4UkdyZzVZUWVfZUFFQSIsImkiOiI1Nzk4ODI4OTM1In0.9tOYqVVTR9rj14yb5IQc4Zv1DnSHMaClACcRmBgMkwE",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5798828935?utm_medium=api&utm_source=4e5ae6d3",
+      "salary_min": 110000,
+      "description": "Create Catering is an Australian hospitality business specialising in authentic Italian cuisine. Its head office is located at their Pan Divino restaurant in Surry Hills NSW 2010, where the business oversees its operations and culinary direction. Create Catering - Pan Divino is now looking for an experienced Data Analyst to join their head office team. The right candidate will be responsible for: Liaise with management to identify business objectives, define analytical requirements and determin…",
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "contract_type": "permanent",
+      "title": "Data Analyst",
+      "longitude": 151.215893,
+      "created": "2026-07-13T22:52:30Z",
+      "salary_max": 120000,
+      "latitude": -33.88569
+    },
+    {
+      "salary_is_predicted": "0",
+      "contract_time": "full_time",
+      "company": {
+        "display_name": "Centorrino Technologies",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "location": {
+        "area": [
+          "Australia",
+          "Victoria",
+          "Melbourne Region",
+          "Moonee Valley",
+          "Essendon"
+        ],
+        "display_name": "Essendon, Moonee Valley",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiX0VTc0IzcUo4UkdyZzVZUWVfZUFFQSIsImkiOiI1NzMwMTQ1OTMxIn0.6CUTkjsuTMW9LrOYL9tI1g4XxSTcAgCeHnDj9UHbOWg",
+      "id": "5730145931",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5730145931?utm_medium=api&utm_source=4e5ae6d3",
+      "description": "Join Be Awesome Resources Pty Ltd: Innovate, Grow, and Thrive with Us! At Be Awesome Resources Pty Ltd, we’re more than just a business—we’re a team that values innovation, collaboration, and continuous growth. We are passionate about delivering high-quality outcomes and creating an environment where our employees can thrive professionally and personally. We are currently seeking a passionate full time Data Analyst to join our team in Essendon, VIC . Requirements What you'll do: Analyse large a…",
+      "salary_min": 75000,
+      "category": {
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs"
+      },
+      "created": "2026-05-15T17:25:10Z",
+      "longitude": 144.91741,
+      "title": "Data Analyst",
+      "salary_max": 85000,
+      "latitude": -37.75497
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": -37.81521,
+      "id": "5812565724",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgxMjU2NTcyNCIsInMiOiJfRVNzQjNxSjhSR3JnNVlRZV9lQUVBIn0.fyuxL5Q7OEWkXzoIKwVp4WFMAwbafIOAWVWbkp1b_mA",
+      "location": {
+        "display_name": "Melbourne CBD, Melbourne",
+        "area": [
+          "Australia",
+          "Victoria",
+          "Melbourne Region",
+          "Melbourne",
+          "Melbourne CBD"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "description": "This is a remote position. This position requires a highly seasoned analyst who can: * Hit the ground running from day one. * Work independently with minimal supervision. * Take ownership of discovery and analysis activities. * Drive requirements capture and validation directly with business stakeholders. * Produce high-quality analytical artefacts suitable for immediate consumption by development teams. * Support delivery velocity without creating additional mentoring overhead for existing squ…",
+      "redirect_url": "https://www.adzuna.com.au/details/5812565724?utm_medium=api&utm_source=4e5ae6d3",
+      "contract_type": "contract",
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "company": {
+        "display_name": "XPT Software Australia Pty Ltd",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "contract_time": "full_time",
+      "salary_is_predicted": "0",
+      "title": "Data Analyst",
+      "created": "2026-07-24T03:16:09Z",
+      "longitude": 144.963953
+    },
+    {
+      "location": {
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney"
+        ],
+        "display_name": "Sydney, Sydney Region",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiX0VTc0IzcUo4UkdyZzVZUWVfZUFFQSIsImkiOiI1ODAxMjY5MTIyIn0.sjil1dKoQclcPwyFgd_hrlKBPufF1qS49EWio70S2LI",
+      "id": "5801269122",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5801269122?utm_medium=api&utm_source=4e5ae6d3",
+      "description": "About the Role Working closely with business stakeholders, technical teams and solution architects, you will be responsible for designing robust data models, improving data quality, and delivering meaningful insights that support strategic objectives. Key Requirements 5-10 years' experience in a similar Data Analytics, Data Modelling or Business Intelligence role Advanced SQL skills for complex querying, analysis and data validation Strong Power BI and Excel skills, including Pivot Tables, Macr…",
+      "salary_min": 45,
+      "salary_is_predicted": "0",
+      "contract_time": "full_time",
+      "company": {
+        "display_name": "Beaumont People",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_max": 45,
+      "latitude": -33.885283,
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "contract_type": "contract",
+      "created": "2026-07-16T00:47:06Z",
+      "longitude": 151.203231,
+      "title": "Data Analyst"
+    },
+    {
+      "company": {
+        "display_name": "Lumi",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "title": "Data Analyst",
+      "salary_is_predicted": "0",
+      "created": "2026-07-17T23:28:08Z",
+      "category": {
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs"
+      },
+      "description": "Job Description Partner directly with business and product initiatives (e.g. Broker Quoting Tool, Embedded Finance) to frame the right questions, design sound analyses, and interpret results with appropriate statistical rigour Apply hypothesis-driven thinking to test assumptions, systematically rule out alternative explanations, and build cumulative, contextual knowledge of the business over time — going beyond what point-in-time AI querying can provide Build a track record of shipped analyses …",
+      "redirect_url": "https://www.adzuna.com.au/details/5804908787?utm_medium=api&utm_source=4e5ae6d3",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "id": "5804908787",
+      "location": {
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney"
+        ],
+        "display_name": "Sydney, Sydney Region",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiX0VTc0IzcUo4UkdyZzVZUWVfZUFFQSIsImkiOiI1ODA0OTA4Nzg3In0.Ya0llAwJ4fTWX9blvDyyiYz3ewC2RNye8VCju0jwmX0"
+    },
+    {
+      "salary_is_predicted": "0",
+      "title": "Data Analyst",
+      "longitude": 151.207114,
+      "created": "2026-03-02T14:42:07Z",
+      "contract_time": "full_time",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Pyramid Global Technologies"
+      },
+      "category": {
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs"
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5650823070?utm_medium=api&utm_source=4e5ae6d3",
+      "description": "About the job Data Analyst We are looking for Immediate open position for Data Analyst with below mentioned skillset: Extensively worked in PL-SQL ( 3 yrs) 6 years Overall IT experience Good working knowledge in Teradata Good stakeholder management and communication skills. Good to have Digital Analytics knowledge ( Adobe/Google) We are looking for Immediate open position for Data Analyst with below mentioned skillset: Extensively worked in PL-SQL ( 3 yrs) 6 years Overall IT experience Good wor…",
+      "id": "5650823070",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "The Rocks, Sydney",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney",
+          "The Rocks"
+        ]
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY1MDgyMzA3MCIsInMiOiJfRVNzQjNxSjhSR3JnNVlRZV9lQUVBIn0.CnHh5n8xm2NydmaKI341cAbkxeMPHn78ZwO6jONSiY0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": -33.867139
+    },
+    {
+      "description": "Dublin based - hybrid working Long term day rate contract Partnered with a client in the financial services industry on the recruitment of Data Analysts to join a growing team delivering a major data transformation programme. This role is suited to technically-minded Data Analysts who enjoy working with data structures, modelling and transformation rather than reporting or dashboard development. You'll collaborate closely with data engineers and business stakeholders to help shape high-quality …",
+      "redirect_url": "https://www.adzuna.com.au/details/5786123211?utm_medium=api&utm_source=4e5ae6d3",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": -33.862334,
+      "id": "5786123211",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Emu Flat, Clare Area",
+        "area": [
+          "Australia",
+          "South Australia",
+          "Adelaide Region",
+          "Clare Area",
+          "Emu Flat"
+        ]
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc4NjEyMzIxMSIsInMiOiJfRVNzQjNxSjhSR3JnNVlRZV9lQUVBIn0.iB4sqQmyckokNZJ27zV9_uplbpfmi0idF5kdM23vJ9E",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "TRC Group"
+      },
+      "contract_time": "part_time",
+      "title": "Data Analyst",
+      "salary_is_predicted": "0",
+      "longitude": 138.60256,
+      "created": "2026-07-03T09:13:15Z",
+      "contract_type": "permanent",
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      }
+    },
+    {
+      "location": {
+        "area": [
+          "Australia",
+          "Australian Capital Territory",
+          "Canberra Region",
+          "South Canberra",
+          "Barton"
+        ],
+        "display_name": "Barton, South Canberra",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiX0VTc0IzcUo4UkdyZzVZUWVfZUFFQSIsImkiOiI1Nzc5NTUwNjU5In0.UWkobe6TuXyTCMRqLFXyfUzGrI1DOYuiGHBCvm1n1IY",
+      "id": "5779550659",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": -35.309391,
+      "redirect_url": "https://www.adzuna.com.au/details/5779550659?utm_medium=api&utm_source=4e5ae6d3",
+      "description": "APS 6 equivalent Baseline Security Clearance required 1212 month Federal Government Contract Health, Medical and/or Pharmaceutical background highly desired Our client, a government agency dedicated to enhancing health outcomes, disability services, and ageing support, require the services of a Data Analyst. Duties of the Data Analyst: Interpret data requests, extract and present data to fulfill the requests, and communicate caveats and data gaps associated with the request in simple terms; Und…",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      },
+      "contract_type": "permanent",
+      "longitude": 149.133481,
+      "created": "2026-06-28T08:57:53Z",
+      "title": "Data Analyst",
+      "salary_is_predicted": "0",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Recruitment Hive"
+      },
+      "contract_time": "part_time"
+    },
+    {
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "contract_type": "contract",
+      "salary_is_predicted": "0",
+      "title": "Data Analyst",
+      "created": "2026-07-26T18:16:40Z",
+      "longitude": 138.599732,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Morgan McKinley"
+      },
+      "id": "5816317828",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiX0VTc0IzcUo4UkdyZzVZUWVfZUFFQSIsImkiOiI1ODE2MzE3ODI4In0.Wi9uWysxtRQP18bt97P35izIdm8V47b1G_2nNxc9VVk",
+      "location": {
+        "area": [
+          "Australia",
+          "South Australia",
+          "Adelaide Region",
+          "Adelaide",
+          "Adelaide CBD"
+        ],
+        "display_name": "Adelaide CBD, Adelaide",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "latitude": -34.92577,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5816317828?utm_medium=api&utm_source=4e5ae6d3",
+      "description": "About the job Data Analyst Adelaide 11 month contract Hybrid $700-800 a day We are working with an exciting consultancy who are working on a large piece of work in the Government space. Join a Salesforce transformation program as a Data Analyst, helping cleanse, profile and map data as the organisation moves to its new platform. You'll work closely with business stakeholders to translate business rules into clear data requirements, profile and cleanse existing datasets, and support data mapping…"
+    },
+    {
+      "contract_time": "full_time",
+      "company": {
+        "display_name": "Pyramid Global Technologies",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_is_predicted": "0",
+      "title": "Data Analyst",
+      "longitude": 144.976335,
+      "created": "2026-03-02T14:42:07Z",
+      "category": {
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs"
+      },
+      "description": "About the job Data Analyst JD for Data Insights & Analytics Analyst role: As a Data Insights & Analytics Analyst, you are an important contributor to analysing business problems and recommending solutions which drive data decision making within our organisation. You will also be working closely with Data Engineering & Data Science teammates and the Product Owner on identifying and documenting technical and business requirements to facilitate the development of new data solutions. To be successf…",
+      "redirect_url": "https://www.adzuna.com.au/details/5650823095?utm_medium=api&utm_source=4e5ae6d3",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": -37.837324,
+      "id": "5650823095",
+      "location": {
+        "display_name": "South Yarra, Stonnington Area",
+        "area": [
+          "Australia",
+          "Victoria",
+          "Melbourne Region",
+          "Stonnington Area",
+          "South Yarra"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiX0VTc0IzcUo4UkdyZzVZUWVfZUFFQSIsImkiOiI1NjUwODIzMDk1In0.z3HdjS2rWXxXdAO1ImFeZZ5005VgIcNtkYly_ho6nbo"
+    },
+    {
+      "company": {
+        "display_name": "Atlas Recruitment Experts",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "contract_time": "full_time",
+      "salary_is_predicted": "0",
+      "description": "Create Catering is an Australian hospitality business specialising in authentic Italian cuisine. Its head office is located at their Pan Divino restaurant in Surry Hills NSW 2010, where the business oversees its operations and culinary direction. Create Catering - Pan Divino is now looking for an experienced Data Analyst to join their head office team. The right candidate will be responsible for: Liaising with management to identify business issues, define analytical objectives and determine da…",
+      "salary_min": 110000,
+      "redirect_url": "https://www.adzuna.com.au/details/5798905690?utm_medium=api&utm_source=4e5ae6d3",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiX0VTc0IzcUo4UkdyZzVZUWVfZUFFQSIsImkiOiI1Nzk4OTA1NjkwIn0.pCiXVhvptZIhMrajUSQ0dHAZrXhVh8FtA3a-RFdF9Mc",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Eastern Suburbs"
+        ],
+        "display_name": "Eastern Suburbs, Sydney Region"
+      },
+      "id": "5798905690",
+      "created": "2026-07-14T02:02:22Z",
+      "longitude": 151.249647,
+      "title": "Data Analyst",
+      "contract_type": "permanent",
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "latitude": -33.911289,
+      "salary_max": 120000
+    },
+    {
+      "redirect_url": "https://www.adzuna.com.au/details/4801319120?utm_medium=api&utm_source=4e5ae6d3",
+      "description": "Data and Reporting Analyst An exciting opportunity has become available to join an established and growing superannuation provider based in Melbourne's CBD for a Data and Reporting Analyst to join their vibrant and supportive team. Being an integral part of this close knit organisation, you will be responsible for a supporting internal stakeholders of all data required as well as maintaining data management and reporting, the summary of this position will require the successful candidate to hav…",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Melbourne, Melbourne Region",
+        "area": [
+          "Australia",
+          "Victoria",
+          "Melbourne Region",
+          "Melbourne"
+        ]
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDgwMTMxOTEyMCIsInMiOiJfRVNzQjNxSjhSR3JnNVlRZV9lQUVBIn0.pUI6aV3bPQqVorkUO1uVyZga1KV7you8N--EWOHkhOM",
+      "id": "4801319120",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "created": "2024-07-31T07:19:35Z",
+      "salary_is_predicted": "0",
+      "title": "Data Analyst",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "CodeGen"
+      },
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      },
+      "contract_type": "permanent"
+    },
+    {
+      "contract_type": "permanent",
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "created": "2026-07-16T11:06:51Z",
+      "longitude": 151.203231,
+      "title": "Data Analyst",
+      "latitude": -33.885283,
+      "salary_max": 120000,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Atlas Talents"
+      },
+      "contract_time": "full_time",
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgwMjAzNTA3NSIsInMiOiJfRVNzQjNxSjhSR3JnNVlRZV9lQUVBIn0.dMvpVzDFptVGTOpZ50Yc5iAgMlUTKm4fyT0wNUoy6ng",
+      "location": {
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney"
+        ],
+        "display_name": "Sydney, Sydney Region",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "id": "5802035075",
+      "description": "13th July, 2026 Create Catering is an Australian hospitality business specialising in authentic Italian cuisine. Its head office is located at their Pan Divino restaurant in Surry Hills NSW 2010, where the business oversees its operations and culinary direction. Create Catering - Pan Divino is now looking for an experienced Data Analyst to join their head office team. The right candidate will be responsible for: Liaise with management to identify business objectives, define analytical requireme…",
+      "salary_min": 110000,
+      "redirect_url": "https://www.adzuna.com.au/details/5802035075?utm_medium=api&utm_source=4e5ae6d3"
+    },
+    {
+      "company": {
+        "display_name": "KBR, Inc.",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "contract_time": "full_time",
+      "longitude": 149.133481,
+      "created": "2026-07-26T09:49:46Z",
+      "title": "Data Analyst",
+      "salary_is_predicted": "0",
+      "contract_type": "permanent",
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "description": "Title Data Analyst At KBR – We do things that matter We deliver science, technology and engineering solutions to governments and companies around the world. KBR employs approximately 38,000 people worldwide with customers in more than 80 countries and operations in over 29 countries. KBR is proud to work with its customers across the globe to provide technology, value-added services, and long-term operations and maintenance services to ensure consistent delivery with predictable results. At KBR…",
+      "redirect_url": "https://www.adzuna.com.au/details/5815920509?utm_medium=api&utm_source=4e5ae6d3",
+      "latitude": -35.309391,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "display_name": "Barton, South Canberra",
+        "area": [
+          "Australia",
+          "Australian Capital Territory",
+          "Canberra Region",
+          "South Canberra",
+          "Barton"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgxNTkyMDUwOSIsInMiOiJfRVNzQjNxSjhSR3JnNVlRZV9lQUVBIn0.0_r6T067JqmMny03iwwFDajYIfhxloPE4XZ6sYG5RY8",
+      "id": "5815920509"
+    },
+    {
+      "company": {
+        "display_name": "KBR",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "longitude": 149.112048,
+      "created": "2026-07-25T02:11:26Z",
+      "title": "Data Analyst",
+      "salary_is_predicted": "0",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      },
+      "description": "Title: Data Analyst At KBR â We do things that matter We deliver science, technology and engineering solutions to governments and companies around the world. KBR employs approximately 38,000 people worldwide with customers in more than 80 countries and operations in over 29 countries. KBR is proud to work with its customers across the globe to provide technology, value-added services, and long-term operations and maintenance services to ensure consistent delivery with predictable results. At …",
+      "redirect_url": "https://www.adzuna.com.au/details/5814101787?utm_medium=api&utm_source=4e5ae6d3",
+      "latitude": -35.311933,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiX0VTc0IzcUo4UkdyZzVZUWVfZUFFQSIsImkiOiI1ODE0MTAxNzg3In0.scJ_waCUscsDslvFkLI3iDJ9puvsxpGIs_AgpviVTWc",
+      "location": {
+        "area": [
+          "Australia",
+          "Australian Capital Territory",
+          "Canberra Region"
+        ],
+        "display_name": "Canberra Region, Australian Capital Territory",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "id": "5814101787"
+    },
+    {
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      },
+      "contract_type": "permanent",
+      "created": "2026-07-12T11:07:55Z",
+      "longitude": 115.859784,
+      "salary_is_predicted": "0",
+      "title": "Data Analyst",
+      "contract_time": "part_time",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Curtin University"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc5NzQ3OTUxNCIsInMiOiJfRVNzQjNxSjhSR3JnNVlRZV9lQUVBIn0.46GLV6po1qTg2EI6auJPeZKCxA55Vp_4lKKj06UCbik",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Perth CBD, Perth",
+        "area": [
+          "Australia",
+          "Western Australia",
+          "Perth Region",
+          "Perth",
+          "Perth CBD"
+        ]
+      },
+      "id": "5797479514",
+      "latitude": -31.953357,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5797479514?utm_medium=api&utm_source=4e5ae6d3",
+      "description": "Reference: 1646337 About the Role: Curtin is seeking a proactive Data Analyst to support transformative research initiatives and help unlock powerful insights from enterprise data. Working alongside a Senior Data Analyst and Senior System Analyst, this role will connect, model and transform complex information from multiple systems into trusted reporting that drives smarter decisions, strengthens research outcomes and supports meaningful change for the Research Community at Curtin. Your respons…"
+    },
+    {
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      },
+      "contract_type": "permanent",
+      "longitude": 149.133481,
+      "created": "2026-07-11T09:24:01Z",
+      "salary_is_predicted": "0",
+      "title": "Data Analyst",
+      "company": {
+        "display_name": "Council Jobs",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "contract_time": "part_time",
+      "location": {
+        "display_name": "Barton, South Canberra",
+        "area": [
+          "Australia",
+          "Australian Capital Territory",
+          "Canberra Region",
+          "South Canberra",
+          "Barton"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc5NjI5MzU2MyIsInMiOiJfRVNzQjNxSjhSR3JnNVlRZV9lQUVBIn0.1JthDRlH3alles42q7tQ0gRyxTdxgsZlr5SfTuilXcs",
+      "id": "5796293563",
+      "latitude": -35.309391,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5796293563?utm_medium=api&utm_source=4e5ae6d3",
+      "description": "Closes: 16 July 2026 Classification: Administrative Services Officer 4 Salary: $86,750 - $93,416 plus superannuation Position No: 00596 Directorate: Chief Minister, Treasury and Economic Development Advertised (Gazettal date): 09 July 2026 Contact Officer: Mick Murray on act.gov.au or (02) 6205 4 Details: The Business Intelligence unit within the ACT Revenue Office is seeking a Data Analyst. The role is ideal for someone with a strong foundation in data analysis and a passion for turning comple…"
+    },
+    {
+      "created": "2026-07-24T11:27:03Z",
+      "title": "Data Analyst",
+      "salary_is_predicted": "0",
+      "company": {
+        "display_name": "University of Sydney",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "contract_time": "part_time",
+      "category": {
+        "tag": "consultancy-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Consultancy Jobs"
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5813144734?utm_medium=api&utm_source=4e5ae6d3",
+      "description": "Casual opportunity for an experienced Data Analyst starting ASAPSupport the delivery of business insights for strategic projects at the Faculty of Medicine and Health, The University of Sydney Be part of a small, highly productive Business Insights and Analytics team, located in the state-of-the-art Susan Wakil Health Building on the Camperdown campus Join us and help to make and shape the future of healthcare HEO7 Step 1 $80.18p/hour plus Superannuation About the opportunity We are seeking an …",
+      "salary_min": 0,
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia"
+        ],
+        "display_name": "Australia"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiX0VTc0IzcUo4UkdyZzVZUWVfZUFFQSIsImkiOiI1ODEzMTQ0NzM0In0.l3u-U6t7kiVvN6zXl6MFEb0FCBQDav3qhZ4KOz8aLwM",
+      "salary_max": 13000,
+      "id": "5813144734",
+      "__CLASS__": "Adzuna::API::Response::Job"
+    },
+    {
+      "category": {
+        "label": "Accounting & Finance Jobs",
+        "tag": "accounting-finance-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "contract_type": "contract",
+      "created": "2026-07-21T10:54:47Z",
+      "title": "Data Analyst",
+      "salary_is_predicted": "0",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia"
+        ],
+        "display_name": "Australia"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgwODY1ODcxMyIsInMiOiJfRVNzQjNxSjhSR3JnNVlRZV9lQUVBIn0._I5BbJXxTfBJarXBhVqF4MJewQePMU-MEnKPVwdHhvM",
+      "id": "5808658713",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5808658713?utm_medium=api&utm_source=4e5ae6d3",
+      "description": "Commercial Data Analyst Kenmore head office, free parking on site. 5 weeks leave & flexible work arrangements. New role to support our growing business commercially. Are you a strategic thinker with a sharp analytical mind and a passion for driving commercial performance? This is more than a traditional Commercial Data Analyst role this is an opportunity to work with the Manager – Reporting to design and shape our commercial reporting, data, and analysis offerings to provide our leaders with th…"
+    }
+  ],
+  "count": 526,
+  "mean": 164676.12,
+  "__CLASS__": "Adzuna::API::Response::JobSearchResults"
+}

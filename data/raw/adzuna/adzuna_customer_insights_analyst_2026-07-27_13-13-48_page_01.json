@@ -1,0 +1,71 @@
+{
+  "count": 2,
+  "results": [
+    {
+      "description": "Expression of Interest: Data Analytics Opportunities We're seeking expressions of interest from talented analytics professionals for a range of upcoming opportunities across the below role types: Opportunities Include: Customer Insights Analyst – leveraging customer and behavioural data to uncover insights, identify opportunities, and influence customer experience and strategic decision-making. Digital Sales Analyst – focused on digital acquisition, conversion optimisation, experimentation, and…",
+      "id": "5790000399",
+      "created": "2026-07-07T01:44:59Z",
+      "company": {
+        "display_name": "ING Bank  Limited",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "contract_time": "full_time",
+      "longitude": 151.207114,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc5MDAwMDM5OSIsInMiOiJMc2NidUlLSjhSR191dVVHbEpnQ0FRIn0.HuIdYpN6WCT4Wmo133f8nbxfQNtyN-7gtQw0srsymnw",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5790000399?utm_medium=api&utm_source=4e5ae6d3",
+      "location": {
+        "display_name": "The Rocks, Sydney",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney",
+          "The Rocks"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "latitude": -33.867139,
+      "title": "Expression of Interest - Data Analytics Professionals",
+      "salary_is_predicted": "0",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      }
+    },
+    {
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5805540591?utm_medium=api&utm_source=4e5ae6d3",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney"
+        ],
+        "display_name": "Sydney, Sydney Region"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgwNTU0MDU5MSIsInMiOiJMc2NidUlLSjhSR191dVVHbEpnQ0FRIn0.aomxXdUfVwyykWiSPSkY9lETKdywvgsLCpo0gkh7MjU",
+      "latitude": -33.885283,
+      "title": "Expression of Interest - Data Analytics Professionals",
+      "description": "Expression of Interest: Data Analytics Opportunities We're seeking expressions of interest from talented analytics professionals for a range of upcoming opportunities across the below role types: Opportunities Include: Customer Insights Analyst – leveraging customer and behavioural data to uncover insights, identify opportunities, and influence customer experience and strategic decision-making. Digital Sales Analyst – focused on digital acquisition, conversion optimisation, experimentation, and…",
+      "created": "2026-07-18T11:04:02Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "ING"
+      },
+      "contract_time": "full_time",
+      "id": "5805540591",
+      "longitude": 151.203231
+    }
+  ],
+  "__CLASS__": "Adzuna::API::Response::JobSearchResults"
+}

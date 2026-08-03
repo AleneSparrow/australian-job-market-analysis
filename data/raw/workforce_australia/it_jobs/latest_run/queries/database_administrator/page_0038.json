@@ -1,0 +1,977 @@
+{
+  "source": "Workforce Australia",
+  "api_url": "https://www.workforceaustralia.gov.au/api/v1/global/vacancies/",
+  "request_url": "https://www.workforceaustralia.gov.au/api/v1/global/vacancies/?searchText=database+administrator&pageNumber=38&pageSize=100",
+  "search_term": "database administrator",
+  "page_number": 38,
+  "page_size": 100,
+  "downloaded_at_utc": "2026-07-28T08:50:25.506181+00:00",
+  "records_detected": 15,
+  "response": {
+    "totalCount": 3715,
+    "results": [
+      {
+        "score": 5.506776,
+        "result": {
+          "contractType": null,
+          "creationDate": "2026-07-16T19:02:22.76",
+          "description": "  MedicalJobsAustralia.com     Help shape a child's future by identifying vision concerns early and supporting healthy development.\n\nEmployment Type: Permanent Part Time\nPosition Classification: Enrolled Nurse\nRemuneration: $37.83 - $41.10 per hour + 12% Superannuation + Salary Packaging \nHours Per Week: 12\nRequisition ID: REQ658073\nLocated in: Gloucester Community Health Service \nApplications Close: Sunday 26th July 2026\n\nAbout the Opportunity\n\nAn exciting permanent part-time opportunity is available for an Enrolled Nurse - StEPS Vision Screener to join the Statewide Eyesight Preschooler Screening (StEPS) program. Based at Gloucester Community Health Service, this role may also be located at Forster Community Health Service or Taree Community Health Service to suit the successful candidate.\nAs part of this rewarding community-based role, you'll help improve the health and wellbeing of preschool-aged children by identifying vision concerns early, ensuring they receive timely referral and intervention to support their learning and development. Working largely independently, you'll be supported by your local Child and Family Health-Community Health team as well as the broader StEPS network. You'll build meaningful relationships with families, early childhood education providers and health professionals while working across preschools, childcare centres and community clinics throughout your local area.\nThis role offers flexibility in how your permanent part-time hours are worked across the week, along with comprehensive orientation and training in the StEPS program to ensure you feel confident and supported from day one.\n\nWhat You Will Be Doing\n\nAs an Enrolled Nurse - StEPS Vision Screener, you will provide monocular vision screening for children aged 4-5 years within childcare centres, preschools and community clinic settings.\n\nYour responsibilities will include:\n\nTravelling to preschools, childcare centres and community clinics throughout your allocated area.\n\nSetting up, operating and maintaining specialised vision screening equipment.\n\nReviewing consent forms and confirming children's eligibility for screening.\n\nConducting child-friendly vision assessments in accordance with the StEPS program.\n\nAccurately documenting screening outcomes and following referral pathways where required.\n\nProviding information and education to parents, carers and early childhood educators.\n\nBuilding positive relationships with families, schools and community stakeholders.\n\nMaintaining accurate records using electronic documentation systems.\n\nWorking independently while remaining connected to a supportive multidisciplinary team.\n\nAbout You\n\nWe're looking for an enthusiastic and compassionate Enrolled Nurse who enjoys working with children and families and is passionate about promoting healthy childhood development through preventative healthcare.\n\nOur ideal candidate will demonstrate:\n\nCurrent registration with AHPRA as an Enrolled Nurse.\n\nA current Class C Driver's Licence and willingness to travel throughout the local area.\n\nExperience working with children and an understanding of normal child growth and development.\n\nExcellent written and verbal communication skills.\n\nThe ability to build positive relationships with families, educators and healthcare professionals.\n\nStrong organisational and time management skills with the ability to work independently.\n\nConfidence using computer systems and a willingness to learn program-specific databases.\n\nA commitment to delivering safe, compassionate and person-centred community care.\n\nWhat We Can Offer\n\n Permanent part-time employment with flexible working arrangements.\n Comprehensive orientation and training in the Statewide Eyesight Preschooler Screening (StEPS) program.\n Ongoing support from your local Child and Family Health team and the wider StEPS network.\n A varied and rewarding community-based role with autonomy and flexibility.\n Sustainable Healthcare: Together towards zero \n 4 weeks annual leave (pro-rata for part time employees) \n Paid parental leave (for eligible employees) - giving you the opportunity for true Worklife balance \n Salary packaging options - up to $11,600 plus novated leasing\n Fitness Passportfor health and well-being - discounted gym options for you and your family\n Employee Assistance Program (EAP) for staff and family members \n\nTo be eligible for permanent employment in this position you must be an Australian Citizen, or a permanent resident of Australia, or a New Zealand citizen with a current New Zealand Passport. Employment of a temporary visa holder may only occur if no suitable local candidate is identified for the position; in this instance, you may only be offered employment in line with the conditions and expiry date of your visa. \n\nWe are unable to accommodate visa sponsorship for applicants requiring a visa for this position. \n\nNeed more information? \n 1) Click here for the Position Description\n 2) Find out more about applying for this position\nFor role related queries or questions contact Rachel Reid on Rachel.Reid1@health.nsw.gov.au\n\nInformation for Applicants: \n\nApplicants will be assessed against the essential requirements and selection criteria contained within the position description (link below). For assistance addressing selection criteria visit: https:--bit.ly-3vL5fq2\n\nStepping Up Website is a resource designed to help indigenous job applicants apply for positions in NSW Health. For more information, please visit: https:--bit.ly-HNEHealthSteppingUp\n\nThis is a Category A position. Recommended applicants will be reviewed for compliance with NSW Health policy directive PD2024_015: Occupational Assessment, Screening and Vaccination against Specified Infectious Diseases for Category A positions prior to offer. All new employees must agree to comply with the requirements outlined in the policy. \n\nHunter New England Health is dedicated to fostering a child-safe environment that respects and upholds the rights of children and young people, aligned with NSW Health's commitment to implementing the Child Safe Standards. We aim to ensure that children and young people feel safe, supported, and included in their care. All current and prospective staff are expected to prioritise the safety, welfare, and well-being of children and young people, actively working to protect them from harm and abuse. \n\nAt Hunter New England Local Health District, we are an inclusive employer dedicated to fostering a diverse, inclusive, and welcoming workplace. Our commitment to a workforce that reflects the community we care for is essential for delivering the highest quality healthcare to our community. We encourage people with diverse lived experiences to apply. If you require any accommodations or adjustments to the recruitment process please let us know when you apply or at any stage of the process. We will work with you to meet your needs and create the best possible experience. Please contact HNELHD-Diversity@health.nsw.gov.au for confidential support to en\n\nClick here for more details: https://www.medicaljobsaustralia.com/jobs/596385/    Click here to Apply now → ",
+          "displayFromDate": "2026-07-16T00:00:00",
+          "employerId": "CfDJ8Nn8cBBigUhPiuiVER7neZqJe25xZCTHnf6lgKBXfcExC5VLKKft8GvmY4cMpP1LripPFHtNFgm1yeThfyMIp3o68wSppeD0nmjbXyCqjsgzCsMWS_Ky3VTXL2MCtdgMmA",
+          "employerName": "Medical Jobs Australia",
+          "expiryDate": "2026-08-15T10:00:00",
+          "howToApplyCode": "PSD",
+          "industry": {
+            "code": "112",
+            "label": "Admin & Office"
+          },
+          "isApplyOnlineJob": false,
+          "isExternalJob": false,
+          "isFavourite": false,
+          "isIndigenousJob": false,
+          "isNewJob": false,
+          "jobType": {
+            "code": "H",
+            "label": "Normal position"
+          },
+          "latitude": "-28.84169791000",
+          "location": {
+            "code": "29FRNC",
+            "label": "NSW - Regional - Far North Coast "
+          },
+          "logoUrl": "/api/v1/global/vacancies/logos/cms?code=PX28",
+          "longitude": "153.5600298",
+          "modifiedDate": "2026-07-17T20:00:10.457",
+          "occupation": {
+            "code": "542112",
+            "label": "Admissions Clerk"
+          },
+          "organisation": {
+            "code": "VVNW",
+            "label": "MedicalJobsAustralia"
+          },
+          "positionsAvailable": 10,
+          "postCode": "2478",
+          "salary": {
+            "code": "SLNS",
+            "label": "Not Specified"
+          },
+          "site": {
+            "code": "PX28",
+            "label": "MedicalJobsAustralia"
+          },
+          "state": "NSW",
+          "suburb": "Ballina",
+          "tenure": {
+            "code": "N",
+            "label": "Contract position"
+          },
+          "title": "Enrolled Nurse - Steps Vision Screener",
+          "vacancyId": 2351281771,
+          "workType": {
+            "code": "C",
+            "label": "Casual position"
+          }
+        }
+      },
+      {
+        "score": 5.4592657,
+        "result": {
+          "contractType": null,
+          "creationDate": "2026-07-18T19:02:11.227",
+          "description": "  MedicalJobsAustralia.com     Ward Clerk, Neurosurgery - RAH\n\n\n\n\n\nJob no: 944814\n\nWork type: Full time\n\nLocated in: Adelaide CBD\n\nCategories: Administration, Business and Management\n\n\n\n\n \n\nCentral Adelaide Local Health Network (CALHN)\n\nThe Royal Adelaide Hospital \n\nSalary ASO-2 $66,442 - $69,504 p.a. + super + salary packaging\n\nFull temporary up to 17-9-27 \n\nAbout CALHN\nAt Central Adelaide (CALHN), we're shaping the future of health through excellence in clinical care, research, and innovation. As South Australia's largest health network, we deliver exceptional, safe and connected healthcare - for our patients, our community, and our people.\n\nWith more than 17,000 dedicated employees, every day at CALHN presents an opportunity to make a real impact-not because it's expected, but because our values guide us to be our best. Find out more about CALHN sites and services, our stories and the opportunities to be part of CALHN.\n\nAbout the Role\n\nJoin our Surgical Programs team and help keep the ward running smoothly. You'll manage reception, coordinate ward administration, support patient and bed management, and build positive relationships with patients, families and our multidisciplinary team to deliver outstanding care.\n\nKey Responsibilities\n\n- Welcome patients, families and visitors with warmth and professionalism\n- Manage ward reception and daily administrative tasks\n- Support patient flow and bed management processes\n- Maintain accurate patient records and ward documentation\n- Coordinate communication across multidisciplinary teams\n- Liaise with hospital departments to ensure seamless care\n- Respond to enquiries from patients, families and the public\n- Keep ward information organised, current and confidential\n- Provide timely clerical support to the clinical team\n- Help create an efficient, welcoming and well-run ward environment\n\nAbout You\n\nYou're an organised and approachable administrator who enjoys supporting people and keeping things running smoothly. You communicate with confidence, thrive in a busy environment and take pride in delivering accurate, high quality work while providing excellent customer service.\n\n- Experience in administration or a patient focused setting\n- Strong communication and customer service skills\n- Confident with Microsoft Outlook, Word and Excel\n- Manage competing priorities with accuracy and discretion\n- Work well independently and as part of a team\n\nWhy You'll Love It Here - CALHN benefits that matter\nWe know that a great career is about more than just the work you do, it's also about the support you receive. At CALHN, you'll enjoy :\n\nSalary packaging - up to $9,010 for living expenses + $2,650 for meals & entertainment + pre-tax super & novated lease options\n\nSafe connections - be part of a culture of safety and connectivity, focusing on outcomes and continuous improvements\n\nRecognition & growth - celebrate success and explore opportunities across CALHN's many sites\n\nFlexible work options - speak to us about flexibility options for this role to suit your lifestyle\n\nPaid leave - with leave loading for rest and recharge\n\nHealth & fitness perks - discounted access to Fitness Passport & free flu vaccinations\n\nWellbeing support - Employee Assistance Program for you & your family\n\nDiversity & Inclusion\nWe're committed to building an inclusive workplace where everyone feels safe, respected, and supported. We strongly encourage applications from Aboriginal and Torres Strait Islander peoples, people with disabilities, culturally diverse backgrounds, and LGBTQIA+ communities.\n\nApplication Information\n\nPlease refer to the role description for essential educational-vocational qualifications that may be required 944814 RD Ward Clerk, Neurosurgery - RAH.pdf\n\nAppointment will be subject to satisfactory Criminal History Clearances and compliant immunisation screening as indicated in the role description.\n\nCurious about this role? \nConnect with\n\nLucy Giblot-Ducray, \n\nApply Now\nApplications close: 11:55 pm, Sunday, 2 August 2026\n\nJob Ref: 944814\n\nGo to the SA Health Career Website for how to apply, and Australian and International applicant guidelines for more information\n\nPlease note that unsolicited applications from recruitment agencies or third parties will not be accepted for this position\n\n\n\n\n\n Advertised: 17 Jul 2026 Cen. Australia Standard Time\n\n Applications close: 02 Aug 2026 Cen. Australia Standard Time\n\n\n\n\n Apply now Refer a friend    Click here to Apply now → ",
+          "displayFromDate": "2026-07-18T00:00:00",
+          "employerId": "CfDJ8Nn8cBBigUhPiuiVER7neZrE3CrebyvjmdQPfB2tODcLGcb6SwnJwLfUiUJLdj3DlqnHhf1giNxHiyOQL5rIzayf9of7Mikr02iexWTB8a8dOAslZOLs_kJLhXJmQWUC_g",
+          "employerName": "Medical Jobs Australia",
+          "expiryDate": "2026-08-17T10:00:00",
+          "howToApplyCode": "PSD",
+          "industry": {
+            "code": "112",
+            "label": "Admin & Office"
+          },
+          "isApplyOnlineJob": false,
+          "isExternalJob": false,
+          "isFavourite": false,
+          "isIndigenousJob": false,
+          "isNewJob": false,
+          "jobType": {
+            "code": "H",
+            "label": "Normal position"
+          },
+          "latitude": "-34.52177446000",
+          "location": {
+            "code": "59BRSS",
+            "label": "SA - Regional - Barossa "
+          },
+          "logoUrl": "/api/v1/global/vacancies/logos/cms?code=PX28",
+          "longitude": "138.96027792999",
+          "modifiedDate": "2026-07-21T10:30:12.877",
+          "occupation": {
+            "code": "542112",
+            "label": "Admissions Clerk"
+          },
+          "organisation": {
+            "code": "VVNW",
+            "label": "MedicalJobsAustralia"
+          },
+          "positionsAvailable": 10,
+          "postCode": "5352",
+          "salary": {
+            "code": "SLNS",
+            "label": "Not Specified"
+          },
+          "site": {
+            "code": "PX28",
+            "label": "MedicalJobsAustralia"
+          },
+          "state": "SA",
+          "suburb": "Tanunda",
+          "tenure": {
+            "code": "N",
+            "label": "Contract position"
+          },
+          "title": "Ward Clerk, Neurosurgery - RAH",
+          "vacancyId": 2351350506,
+          "workType": {
+            "code": "C",
+            "label": "Casual position"
+          }
+        }
+      },
+      {
+        "score": 5.4575825,
+        "result": {
+          "contractType": null,
+          "creationDate": "2026-07-25T19:01:24.257",
+          "description": "  MedicalJobsAustralia.com     Administration Support Officer\n\n\n\n\n\nJob no: 943998\n\nWork type: Full time\n\nLocated in: Adelaide Metro Northern\n\nCategories: Administration, Business and Management\n\n\n\n\n \n\nCentral Adelaide Local Health Network (CALHN)\n\nLocation - Northfield \n\nSalary ASO-2 $66,442 - $69,504 p.a. + super + salary packaging\n\nFull-time temporary up to 24-8-27 \n\nAbout CALHN\nAt Central Adelaide (CALHN), we're shaping the future of health through excellence in clinical care, research, and innovation. As South Australia's largest health network, we deliver exceptional, safe and connected healthcare - for our patients, our community, and our people.\n\nWith more than 17,000 dedicated employees, every day at CALHN presents an opportunity to make a real impact-not because it's expected, but because our values guide us to be our best. Find out more about CALHN sites and services, our stories and the opportunities to be part of CALHN.\n\nAbout the Role\n\nJoin our Volunteer Services Unit and help keep things running smoothly behind the scenes. You'll manage day to day admin, build strong relationships with volunteers and staff, create accurate records and support meaningful services across Hampstead Rehabilitation Centre and the Repat Health Precinct. Every day brings variety and the chance to make a real difference. \n\nThis role is required to work across both sites, providing flexible operational and administrative support wherever it is needed. Every day brings variety, the opportunity to work with a diverse range of people and services, and the chance to make a real difference to patients, volunteers and staff.\n\nKey Responsibilities\n\nProvide efficient admin support to the Volunteer Services Unit\n\nProvide flexible operational support to the Hampstead Volunteer Kiosk\n\nManage enquiries from volunteers, staff and the public\n\nCreate and maintain accurate records and documents\n\nCoordinate correspondence, forms and routine reports\n\nSupport volunteer onboarding and day to day admin tasks\n\nBuild positive relationships with staff, volunteers and stakeholders\n\nOrganise meetings, calendars and team resources\n\nMaintain confidential information with care and accuracy\n\nLiaise with government agencies, contractors and external contacts\n\nContribute to a welcoming, responsive and professional service\n\nAbout You\n\nYou're an organised and approachable administrator who enjoys supporting people and keeping things running smoothly. You thrive in a busy environment, communicate with confidence and take pride in delivering accurate, responsive and customer focused support.\n\n- Experience in administration and customer service\n- Skilled in Microsoft Word, Excel and Outlook\n- Accurate data entry with strong attention to detail\n- Balance priorities, protect confidentiality and meet deadlines\n- Build positive relationships with diverse people and teams\n\nWhy You'll Love It Here - CALHN benefits that matter\nWe know that a great career is about more than just the work you do, it's also about the support you receive. At CALHN, you'll enjoy :\n\nSalary packaging - up to $9,010 for living expenses + $2,650 for meals & entertainment + pre-tax super & novated lease options\n\nSafe connections - be part of a culture of safety and connectivity, focusing on outcomes and continuous improvements\n\nRecognition & growth - celebrate success and explore opportunities across CALHN's many sites\n\nFlexible work options - speak to us about flexibility options for this role to suit your lifestyle\n\nPaid leave - with leave loading for rest and recharge\n\nHealth & fitness perks - discounted access to Fitness Passport & free flu vaccinations\n\nWellbeing support - Employee Assistance Program for you & your family\n\nDiversity & Inclusion\nWe're committed to building an inclusive workplace where everyone feels safe, respected, and supported. We strongly encourage applications from Aboriginal and Torres Strait Islander peoples, people with disabilities, culturally diverse backgrounds, and LGBTQIA+ communities.\n\nApplication Information\n\nPlease refer to the role description for essential educational-vocational qualifications that may be required 943998 RD Administration Support Officer.pdf\n\nAppointment will be subject to satisfactory Criminal History Clearances and compliant immunisation screening as indicated in the role description.\n\nCurious about this role? \nConnect with\n\nCarlie Sangster, \n\nApply Now\nApplications close: 11:55 pm, Sunday, 9 August 2026\n\nJob Ref: 943998\n\nGo to the SA Health Career Website for how to apply, and Australian and International applicant guidelines for more information\n\nPlease note that unsolicited applications from recruitment agencies or third parties will not be accepted for this position\n\n \n\n\n\n\n\n\n Advertised: 24 Jul 2026 Cen. Australia Standard Time\n\n Applications close: 09 Aug 2026 Cen. Australia Standard Time\n\n\n\n\n Apply now Refer a friend    Click here to Apply now → ",
+          "displayFromDate": "2026-07-25T00:00:00",
+          "employerId": "CfDJ8Nn8cBBigUhPiuiVER7neZoq-5n19kZ3LA581PDRlwd3bp4BXBXUtVsXIGFq3lcTFimLWj5_Z-B-BaX4oKqHMPckjoXQICnUn70Bxg4IbPsWuPXNl5WZlYg5gTqVUTkVCQ",
+          "employerName": "Medical Jobs Australia",
+          "expiryDate": "2026-08-24T10:00:00",
+          "howToApplyCode": "PSD",
+          "industry": {
+            "code": "112",
+            "label": "Admin & Office"
+          },
+          "isApplyOnlineJob": false,
+          "isExternalJob": false,
+          "isFavourite": false,
+          "isIndigenousJob": false,
+          "isNewJob": false,
+          "jobType": {
+            "code": "H",
+            "label": "Normal position"
+          },
+          "latitude": "-34.52177446000",
+          "location": {
+            "code": "59BRSS",
+            "label": "SA - Regional - Barossa "
+          },
+          "logoUrl": "/api/v1/global/vacancies/logos/cms?code=PX28",
+          "longitude": "138.96027792999",
+          "modifiedDate": "2026-07-28T10:07:30.99",
+          "occupation": {
+            "code": "542112",
+            "label": "Admissions Clerk"
+          },
+          "organisation": {
+            "code": "VVNW",
+            "label": "MedicalJobsAustralia"
+          },
+          "positionsAvailable": 10,
+          "postCode": "5352",
+          "salary": {
+            "code": "SLNS",
+            "label": "Not Specified"
+          },
+          "site": {
+            "code": "PX28",
+            "label": "MedicalJobsAustralia"
+          },
+          "state": "SA",
+          "suburb": "Tanunda",
+          "tenure": {
+            "code": "N",
+            "label": "Contract position"
+          },
+          "title": "Administration Support Officer",
+          "vacancyId": 2351644194,
+          "workType": {
+            "code": "C",
+            "label": "Casual position"
+          }
+        }
+      },
+      {
+        "score": 5.4115868,
+        "result": {
+          "contractType": null,
+          "creationDate": "2026-07-08T19:01:41.573",
+          "description": "  MedicalJobsAustralia.com     Assistant Human Resources Consultant\n\n\n\n Apply now\n Job no: 941205\n\n Work type: Part time\n\n Location: Various\n\n Categories: Administration, Business and Management, Human Resources and WHS\n\n\n\n\n\n \n\nBarossa Hills Fleurieu Local Health Network \n\nLocated in: Various-Remote \n\nSalary: ASO3 $74,095 - $78,694 per annum (adjusted to hours worked)\n\nPart-Time 22.5 hrs per week, Temporary (up to 17th April 2027)\n\nWHAT ARE WE OFFERING? \n\nThis is an excellent opportunity to join a supportive and professional Human Resources team where you will gain broad exposure to a wide range of HR functions, including recruitment and selection, employee relations, workforce planning, organisational development, HR governance and compliance. Working closely with experienced HR Business Partners and leaders, you will build valuable consultancy skills, contribute to meaningful projects, and provide trusted advice and support to managers and staff across the organisation. We offer a collaborative environment that values continuous learning, professional development and innovation, providing an ideal opportunity to further develop your HR career while making a positive impact on our workforce and services.\n\nWHO ARE WE? \n\nThe Barossa Hills Fleurieu Local Health Network offers opportunities across our sites, from Kangaroo Island to Eudunda, wrapping all the way around our metropolitan areas. We pride ourselves on providing exceptional care to all our consumers, residents, their families, and community. Our mission is to ensure that you always receive the best quality, safe, consistent, collaborative care and always with kindness. We do this by maintaining exceptional levels of care at all times supported by systems and processes that assure us of quality and safety of our staff and those we serve. \n\nWHERE AND HOW YOU WILL WORK \n\nThis role allows for flexibility to work from any of our BHFLHN sites by negotiation, or the ability to work remotely, and benefit from the work-life balance this provides \n\nWHO ARE WE LOOKING FOR? \n\n Are you motivated by providing clear, timely and accurate HR advice that helps managers and staff make confident, compliant decisions in complex environments? \n\nDo you take pride in maintaining high-quality HR data, systems and reporting that directly supports workforce planning, compliance and organisational performance? \n\nCan you confidently interpret policies and legislation to support recruitment, performance, classification and employee relations processes with fairness and consistency? \n\nAre you driven to build strong, collaborative relationships with stakeholders while balancing competing priorities and delivering responsive HR support? \n\nDo you enjoy contributing to continuous improvement, projects and reporting that strengthen HR service delivery and align with public sector values and standards? \n\n If you have answered yes to any of these questions - then read on. \n\nHOW WILL YOU CONTRIBUTE? \n\nYou will.... \n\nProvide timely and accurate HR advice and operational support to managers and staff on employment conditions, policies, procedures and SA Public Sector guidelines. \n\nManage HR systems and databases, ensuring data integrity, accurate record keeping and effective maintenance of workforce information. \n\nSupport recruitment, promotion, classification, performance management, disciplinary and remuneration processes by preparing documentation and gathering relevant information. \n\nContribute to HR reporting, KPIs and project work by undertaking research, analysis and preparing reports, recommendations and administrative documentation. \n\nAssist in policy implementation, stakeholder engagement, training support and compliance activities to ensure HR services are effective, consistent and aligned with legislation and organisational standards. \n\nWHAT WILL WE OFFER YOU IN RETURN? \n\nAt BHFLHN, not only will you be working in an environment surrounded by beautiful scenery and nature we see your work here as not just as a job, but an opportunity to extend, progress or consolidate your career with us. We therefore offer you opportunities to be supported in the following ways: \n\nSalary package a range of benefits (including living expenses such as mortgage, rent, utility bills and groceries) up to $9,010 each FBT year + $2,650 for Meal Entertainment expenses each FBT year Click here more information \n\nAccess to generous leave provisions and professional development opportunities. \n\nSupport for you and your family via our free Employee Assistance Program. \n\nHealth and Fitness Benefits: Access to Fitness Passport, a discounted workplace health and fitness program available to BHFLHN staff and their families. \n\nWHAT ELSE DO YOU NEED TO KNOW-WHAT IS ESSENTIAL FOR SUCCESS? \n\nWorking in this environment, it is important to us that we only employ people with the upmost integrity and commitment to serving the South Australian community and its visitors to the highest possible standards. To ensure that we meet that commitment there are a few checks that you will be required to undertake. These are detailed on the Role Description, but are likely to include the following: \n\nYou will need to be immunised. Please contact the Enquiries Person for this position if you have any queries. Addressing vaccine preventable disease: Occupational assessment, screening and vaccination policy. Further information is in the application for to help guide you. \n\nYou will need to undergo employment screening, what you require is also on the front page of the Role Description. \n\nOUR COMMITMENT TO DIVERSITY & INCLUSION \n\nWe employ people as diverse as the clients we support and the environments we work in. At BHFLHN we pride ourselves on being an Equal Opportunity employer committed to providing an inclusive workplace that embraces diversity and inclusion for all employees and therefore we encourage applications from people of Aboriginal and Torres Strait Islander descent, culturally diverse backgrounds, disability, all genders, and LGBTQI+ community. We continually look for ways to support and promote diversity and flexible ways of working so please let us know what interests you. \n\nNEED TO RELOCATE? \n\nRelocation financial support may be negotiated, subject to eligibility. See what is available here: Relocation support | SA Health. Find out more about working in the Barossa Hills Fleurieu Local Health Network, and see what it looks like to work and live in regional Australia at: https:--movetomore.com.au- \n\nHELP IS HERE! \n\nPlease refer to all the details in the Role Description below (job ref: 941205), or reach out to Sara Hamilton, Team Leader HR Administration on Phone: 0481 452 904 or via E-mail: sara.hamilton@sa.gov.au \n\nTo find out what you need to apply, and what is required to be offered a role, please refer to the Applicant Checklist BHFLHN Applicant Checklist.pdf. Please also click here for our Australian applicant guidelines \n\nFIND OUT MORE ABOUT OUR NETWORK \n\nStay connected with our Network! F\n\nClick here for more details: https://www.medicaljobsaustralia.com/jobs/542102/    Click here to Apply now → ",
+          "displayFromDate": "2026-07-08T00:00:00",
+          "employerId": "CfDJ8Nn8cBBigUhPiuiVER7neZpdSxQJahJww3Ia01TbA78OCimgEV7qmLfsqF64YfK7Kz11d3eVGk4gpO3gFf9q-7q240SPytkRxE0gkNttP4JevnSHHxLfRTkgP1sHCsuI_A",
+          "employerName": "Medical Jobs Australia",
+          "expiryDate": "2026-08-07T10:00:00",
+          "howToApplyCode": "PSD",
+          "industry": {
+            "code": "112",
+            "label": "Admin & Office"
+          },
+          "isApplyOnlineJob": false,
+          "isExternalJob": false,
+          "isFavourite": false,
+          "isIndigenousJob": false,
+          "isNewJob": false,
+          "jobType": {
+            "code": "H",
+            "label": "Normal position"
+          },
+          "latitude": "-34.52177446000",
+          "location": {
+            "code": "59BRSS",
+            "label": "SA - Regional - Barossa "
+          },
+          "logoUrl": "/api/v1/global/vacancies/logos/cms?code=PX28",
+          "longitude": "138.96027792999",
+          "modifiedDate": "2026-07-09T20:00:12.63",
+          "occupation": {
+            "code": "542112",
+            "label": "Admissions Clerk"
+          },
+          "organisation": {
+            "code": "VVNW",
+            "label": "MedicalJobsAustralia"
+          },
+          "positionsAvailable": 10,
+          "postCode": "5352",
+          "salary": {
+            "code": "SLNS",
+            "label": "Not Specified"
+          },
+          "site": {
+            "code": "PX28",
+            "label": "MedicalJobsAustralia"
+          },
+          "state": "SA",
+          "suburb": "Tanunda",
+          "tenure": {
+            "code": "N",
+            "label": "Contract position"
+          },
+          "title": "Assistant Human Resources Consultant Apply now Job no: 941205 Work type: Part time Location: Various Categories: Administration, Business and Manag...",
+          "vacancyId": 2350991314,
+          "workType": {
+            "code": "C",
+            "label": "Casual position"
+          }
+        }
+      },
+      {
+        "score": 5.4115868,
+        "result": {
+          "contractType": null,
+          "creationDate": "2026-07-16T19:03:03.47",
+          "description": "  MedicalJobsAustralia.com     Senior Client Services Officer (534162)\n\n\n\n\n\n Department of Health\n\n Hospitals & Primary Care - Hospitals Sth\n\n Hospitals Sth - SAA&CS\n\n\n\n\n\n Applications must be submitted by Sunday 26 July, 2026 11:55 PM \n\n\n\n\nPosition details\n\n\n\n\n \n\n \n\n \nApplications close:\n\n \nSunday 26 July, 2026 11:55 PM AEST\n\n \n\n \n\n \nAward-Classification:\n\n \nHealth and Human Services (Tasmanian State Service) Award, General Stream, Band 3\n\n \n\n \n\nSalary:\n\n$76,849 to $82,996 per annum\n\n\n \n \n\n \nEmployment type:\n\n \nPermanent, part-time\n\n \n\n \n\n \nRegion:\n\n \nSouth\n\n \n\n \n\nLocated in:\n\nKaringal, St John's Park\n\n\n \n\n \nJob description:\n\n \nClient Services Officers coordinate client referrals, assessments, and support plan reviews, ensuring services remain appropriate, compliant, and responsive to client needs. They also maintain accurate records, support staff training and onboarding, manage client concerns, and contribute to quality, safety, and continuous improvement initiatives.\n\n \n\n \n\n\n\n\n\n\n \n\nThe Team\n\nHome Care South is a dynamic and client-focused team within the Department of Health (Tasmania), dedicated to delivering high-quality in-home support services across Southern Tasmania. Our primary mission is to support frail older people and younger people with disabilities to remain safely and independently in their homes and communities, in line with the Charter of Aged Care Rights and the Aged Care Quality Standards.\n\nOur team operates as a critical link between clients, families, care providers, and the wider health system. Client Services Officers (CSOs) form the backbone of Home Care South, working autonomously while travelling across the region to ensure service quality, conduct assessments, support field staff, and respond to individual client needs.\n\nThe Role\n\nClient Services Officers work with a high degree of independence and are regularly required to travel throughout Southern Tasmania. The Client Services Officer reports directly to the Manager, Home Care South and is responsible for:\n\nCoordinating new referrals and home care assessments for incoming and re-engaging clients.\n\nReassessing support plans to ensure services remain appropriate, responsive, and compliant with statutory obligations.\n\nMaintaining accurate and up-to-date client databases and documentation for reporting and quality assurance.\n\nInvestigating and resolving client concerns independently to uphold service quality and accountability.\n\nLeading the onboarding, orientation, and ongoing training of field staff to maintain high standards of care delivery.\n\nDriving continuous improvement by contributing to quality and safety initiatives and maintaining Work Health & Safety compliance.\n\nYou will need\n\nDemonstrated ability to contribute effectively to the development and continuing improvement of services provided to clients.\n\nDemonstrated ability to assist with the design and delivery of training programs for new and existing staff.\n\nDemonstrated analytical and problem-solving skills with the ability to make independent and collaborative judgments as well as implement management decisions.\n\nNote: - Please refer to the Statement of Duties for all the selection criteria of this position to address in your application.\n\nWhy Tasmania\n\nThe Department of Health Tasmania oversees various hospitals across the state, including the Royal Hobart Hospital, Launceston General Hospital, Northwest Regional Hospital, and Mersey Community Hospital, as well as district hospitals and ambulance services. Additionally, it provides community health, mental health, and primary healthcare services to the Tasmanian community through more than 300 sites.\n\nTasmania, Australia's only island state, offers unparalleled natural beauty and a luxurious lifestyle. Pursuing your health career in Tasmania's public health system means building strong connections with colleagues and patients. It also means embracing a lifestyle where you can enjoy extraordinary experiences outside of work while making a significant impact on the community during work.\n\nDetails of appointment\n\nPermanent part time, day worker position, working 30.4 hours per fortnight, commencing as soon as possible.\n\n*Notwithstanding hours to be negotiated with the successful applicant.\n\nApplicants should note that, for a period of twelve months from the date of publication, this selection process may be used to fill subsequent or similar full time, part time, and casual vacancies.\n\nSalary\n\n$76,849 to $82,996 per annum (Pro rata). Our Employer 12% superannuation contribution is on top of this amount.\n\nSalary range is in accordance with Public Sector Unions Wages Agreement 2025.\n\nSalary Packaging\n\nYou'll have access to salary package a range of benefits including living expenses up to $9,010 + $2,650 in meal entertainment each FBT year + other benefits if eligible. \n\nBenefits available to eligible candidates\n\nProfessional development and accelerated pathways.\n\nA range of leave entitlements, including study leave and Professional Development Support.\n\nFitness Passport - You, and your family can access 40+ fitness facilities across Tasmania for just $14.50 per week per person, or $28.05 for a family.\n\nMore information about our Employee Benefits can be found here\n\nEligibility\n\nApplicants should note the following criteria are desirable:\n\nCertificate Level III in Individual Support or a related qualification and a demonstrated willingness to increase knowledge and skills.\n\nCurrent Driver's Licence\n\nNote: - Please refer to the Application Guide for more information of pre-employment check.\n\nDownload the Statement of Duties and any Associated Documents\n\nWe encourage you to review the Statement of Duties, Applicant Guide, prior to applying for an overview of the duties, program, selection process and application guidance.\n\nStatement of Duties: \n\nSenior Client Services Officer (band 3).docx\n\nApplication Guide: \n\nApplicant Guide.docx\n\nHow to apply\n\nApply Online. Please click the \"Apply\" button on this screen to ensure that important questions about you are answered.\n\nYou will be prompted to complete a 1-2 page application detailing your experience, skills and knowledge as they relate to the attached Statement of Duties. A separate statement addressing the selection criteria in the Statement of Duties is not required.\n\n*applications from Recruitment agencies will not be accepted for this role\n\nFor more information\n\nApplicants who require further information are encouraged to contact the Contact person for detailed information about the vacancy.\n\nNicolie Hyland\n\nhomecaresouth@ths.tas.gov.au \n\nWhat it is like working at the Department of Health?\n\nCompassion, Accountability, Respect, Excellence are the key values to work in Department of Health. Listen to some of the lived experiences from within the department through some of our wonderful staff and hear about their journey in relocating to Tasmania!\n\nMove to Tasmania | Tasmanian\n\nOne Health Podcast - Spotify \n\nOne Health \n\nClick here for more details: https://www.medicaljobsaustralia.com/jobs/596177/    Click here to Apply now → ",
+          "displayFromDate": "2026-07-16T00:00:00",
+          "employerId": "CfDJ8Nn8cBBigUhPiuiVER7neZpc2lgu0h0wu6LMcUck-lI0hTwSOP80Zx6dWzuE8M5zTgh-mT7eD5U7XezBjfmdRi_ld98kOyuFNoYmvGmFQMLkwXoUPU9puqafT8k5DiTxtg",
+          "employerName": "Medical Jobs Australia",
+          "expiryDate": "2026-08-15T10:00:00",
+          "howToApplyCode": "PSD",
+          "industry": {
+            "code": "112",
+            "label": "Admin & Office"
+          },
+          "isApplyOnlineJob": false,
+          "isExternalJob": false,
+          "isFavourite": false,
+          "isIndigenousJob": false,
+          "isNewJob": false,
+          "jobType": {
+            "code": "H",
+            "label": "Normal position"
+          },
+          "latitude": "-42.13393305000",
+          "location": {
+            "code": "61HRBT",
+            "label": "TAS - Hobart & Southern Tasmania"
+          },
+          "logoUrl": "/api/v1/global/vacancies/logos/cms?code=PX28",
+          "longitude": "146.24733724000",
+          "modifiedDate": "2026-07-17T20:00:10.457",
+          "occupation": {
+            "code": "542112",
+            "label": "Admissions Clerk"
+          },
+          "organisation": {
+            "code": "VVNW",
+            "label": "MedicalJobsAustralia"
+          },
+          "positionsAvailable": 10,
+          "postCode": "7140",
+          "salary": {
+            "code": "SLNS",
+            "label": "Not Specified"
+          },
+          "site": {
+            "code": "PX28",
+            "label": "MedicalJobsAustralia"
+          },
+          "state": "TAS",
+          "suburb": "Derwent Bridge",
+          "tenure": {
+            "code": "N",
+            "label": "Contract position"
+          },
+          "title": "Senior Client Services Officer (534162)",
+          "vacancyId": 2351281828,
+          "workType": {
+            "code": "C",
+            "label": "Casual position"
+          }
+        }
+      },
+      {
+        "score": 5.3537865,
+        "result": {
+          "contractType": null,
+          "creationDate": "2026-07-25T19:00:56.96",
+          "description": "  MedicalJobsAustralia.com     Administrative Officer, Immunology and Allergy\n\n\n\n\n\nJob no: 946044\n\nWork type: Full time\n\nLocated in: Adelaide CBD\n\nCategories: Administration, Business and Management\n\n\n\n\n \n\nCentral Adelaide Local Health Network (CALHN)\n\nThe Royal Adelaide Hospital\n\nSalary ASO-2 $66,442 - $69,504.p.a. + super + salary packaging\n\nFull-time temporary up to 6-8-27\n\nAbout CALHN\nAt Central Adelaide (CALHN), we're shaping the future of health through excellence in clinical care, research, and innovation. As South Australia's largest health network, we deliver exceptional, safe and connected healthcare - for our patients, our community, and our people.\n\nWith more than 17,000 dedicated employees, every day at CALHN presents an opportunity to make a real impact-not because it's expected, but because our values guide us to be our best. Find out more about CALHN sites and services, our stories and the opportunities to be part of CALHN.\n\nAbout the Role\n\nJoin our Immunology and Allergy team and play a key role in keeping our outpatient service running smoothly. You'll manage busy administrative tasks, build strong relationships with patients and staff, maintain accurate records and create a welcoming experience through responsive, confidential support every day.\n\nKey Responsibilities\n\n- Provide warm, professional frontline support for patients, visitors and enquiries\n- Manage appointments, referrals and daily outpatient administration\n- Maintain accurate patient records and confidential information\n- Build strong working relationships with clinicians and multidisciplinary teams\n- Liaise with internal teams, referring services and external stakeholders\n- Support smooth patient flow and day to day clinic operations\n- Work across a shared roster and adapt to changing service needs\n- Resolve administrative queries with confidence and care\n- Prepare correspondence, forms and routine documentation\n- Contribute to a positive, collaborative and patient focused team culture\n\nAbout You\n\nYou're a friendly, organised administrator who enjoys supporting people and thrives in a busy healthcare environment. You bring a professional approach, strong attention to detail and the ability to balance competing priorities while delivering exceptional customer service.\n\n- Experience in confidential frontline administration\n- Strong customer service and communication skills\n- Skilled in Microsoft Office and accurate data entry\n- Knowledge of medical terminology and admin practices\n- Type around 50 words per minute with high accuracy\n\nWhy You'll Love It Here - CALHN benefits that matter\nWe know that a great career is about more than just the work you do, it's also about the support you receive. At CALHN, you'll enjoy :\n\nSalary packaging - up to $9,010 for living expenses + $2,650 for meals & entertainment + pre-tax super & novated lease options\n\nSafe connections - be part of a culture of safety and connectivity, focusing on outcomes and continuous improvements\n\nRecognition & growth - celebrate success and explore opportunities across CALHN's many sites\n\nFlexible work options - speak to us about flexibility options for this role to suit your lifestyle\n\nPaid leave - with leave loading for rest and recharge\n\nHealth & fitness perks - discounted access to Fitness Passport & free flu vaccinations\n\nWellbeing support - Employee Assistance Program for you & your family\n\nDiversity & Inclusion\nWe're committed to building an inclusive workplace where everyone feels safe, respected, and supported. We strongly encourage applications from Aboriginal and Torres Strait Islander peoples, people with disabilities, culturally diverse backgrounds, and LGBTQIA+ communities.\n\nApplication Information\n\nPlease refer to the role description for essential educational-vocational qualifications that may be required 946044 RD Administrative Officer, Immunology and Allergy.pdf\n\nAppointment will be subject to satisfactory Criminal History Clearances and compliant immunisation screening as indicated in the role description.\n\nCurious about this role? \nConnect with\n\nPolina Marinov, \n\nApply Now\nApplications close: 11:55 pm, Sunday 2 August 2026\nJob Ref: 946044\n\nGo to the SA Health Career Website for how to apply, and Australian and International applicant guidelines for more information\n\nPlease note that unsolicited applications from recruitment agencies or third parties will not be accepted for this position\n\n\n\n\n\n Advertised: 24 Jul 2026 Cen. Australia Standard Time\n\n Applications close: 02 Aug 2026 Cen. Australia Standard Time\n\n\n\n\n Apply now Refer a friend    Click here to Apply now → ",
+          "displayFromDate": "2026-07-25T00:00:00",
+          "employerId": "CfDJ8Nn8cBBigUhPiuiVER7neZoD6WqmZY3NKjBiJrfBvOCSPgYtK2ey528uP-hQ1TvEdoUOmzdiGQN_JyisplrFwdLdC8TcVMnrdBNOLj4fcE487rlh84v9BowU5q336iZ9uA",
+          "employerName": "Medical Jobs Australia",
+          "expiryDate": "2026-08-24T10:00:00",
+          "howToApplyCode": "PSD",
+          "industry": {
+            "code": "112",
+            "label": "Admin & Office"
+          },
+          "isApplyOnlineJob": false,
+          "isExternalJob": false,
+          "isFavourite": false,
+          "isIndigenousJob": false,
+          "isNewJob": false,
+          "jobType": {
+            "code": "H",
+            "label": "Normal position"
+          },
+          "latitude": "-34.52177446000",
+          "location": {
+            "code": "59BRSS",
+            "label": "SA - Regional - Barossa "
+          },
+          "logoUrl": "/api/v1/global/vacancies/logos/cms?code=PX28",
+          "longitude": "138.96027792999",
+          "modifiedDate": "2026-07-28T10:07:30.99",
+          "occupation": {
+            "code": "542112",
+            "label": "Admissions Clerk"
+          },
+          "organisation": {
+            "code": "VVNW",
+            "label": "MedicalJobsAustralia"
+          },
+          "positionsAvailable": 10,
+          "postCode": "5352",
+          "salary": {
+            "code": "SLNS",
+            "label": "Not Specified"
+          },
+          "site": {
+            "code": "PX28",
+            "label": "MedicalJobsAustralia"
+          },
+          "state": "SA",
+          "suburb": "Tanunda",
+          "tenure": {
+            "code": "N",
+            "label": "Contract position"
+          },
+          "title": "Administrative Officer, Immunology and Allergy",
+          "vacancyId": 2351644149,
+          "workType": {
+            "code": "C",
+            "label": "Casual position"
+          }
+        }
+      },
+      {
+        "score": 4.9327393,
+        "result": {
+          "contractType": null,
+          "creationDate": "2026-07-11T16:30:08.27",
+          "description": " Universe Accountants PTY Ltd   Office Manager – Accounting Practice    Universe Accountants Pty Ltd    Location:  [Blacktown], NSW / Australia   Employment Type:  Full-time   Salary:  $80,000 – $90,000 plus superannuation, depending on experience   Industry:  Accounting, Taxation and Business Services   About Universe Accountants   Universe Accountants Pty Ltd is a professional accounting and taxation practice providing accounting, tax, bookkeeping, business advisory and compliance services to individuals, families, small businesses and growing enterprises.  We are seeking an experienced  Office Manager  to take responsibility for the day-to-day running of our accounting practice. This is a hands-on operational role suited to someone who can manage office administration, client service workflows, internal systems, staff coordination and practice support functions in a busy professional services environment.   About the Role   The Office Manager will be responsible for ensuring the office operates efficiently and that our accountants, bookkeepers and support staff have the administrative systems, resources and workflow support required to deliver timely and accurate client services.  This role requires strong office management experience, excellent organisation, confidence supervising administrative work, and the ability to manage confidential client and business information in a professional accounting practice.   Key Responsibilities   The successful applicant will be responsible for:   Managing the day-to-day operations of the accounting office, including reception, administration, client service support and office workflow.  Coordinating client onboarding, engagement documentation, appointment scheduling, document collection and follow-up procedures.  Managing office systems for client records, correspondence, lodgement tracking, document storage, workflow monitoring and internal reporting.  Supporting accountants and bookkeepers with administrative coordination for tax returns, BAS, bookkeeping, ASIC, payroll and business compliance work.  Allocating tasks to administrative support staff and monitoring completion, quality, deadlines and service standards.  Reviewing office procedures and implementing practical improvements to improve efficiency, accuracy and client response times.  Liaising with clients, accountants, bookkeepers, suppliers, software providers and external advisers to resolve administrative and operational matters.  Managing office resources, including software subscriptions, supplies, office equipment, stationery, facilities and service provider arrangements.  Maintaining supplier records, invoices, office accounts, subscription registers and other administrative financial records.  Coordinating staff administration, including onboarding support, leave records, training coordination, timesheets and payroll administration support.  Assisting management with recruitment administration, staff scheduling, performance documentation and internal policy implementation.  Supporting compliance with privacy requirements, workplace procedures, occupational health and safety obligations and internal practice standards.  Preparing management reports, administrative updates and workflow summaries for the Director.  Ensuring the office environment remains organised, professional, confidential and client-focused.    Skills and Experience   To be considered for this role, applicants should have:   Previous experience as an Office Manager, Practice Manager, Administration Manager, Senior Administrator or similar.  Experience in an accounting, taxation, bookkeeping, finance, legal or other professional services office will be highly regarded.  Strong knowledge of office administration, workflow coordination, document management and staff task allocation.  Ability to supervise administrative work and ensure deadlines are met.  Excellent written and verbal communication skills.  High attention to detail and strong ability to handle confidential information.  Strong computer skills, including Microsoft Office and cloud-based business systems.  Experience using accounting practice software, client management systems or document management platforms will be highly regarded.  Ability to work independently, solve operational problems and manage competing priorities.  Professional presentation and a client-focused approach.    Qualifications   Relevant qualifications in business administration, management, accounting administration or a related field will be highly regarded.  Applicants with substantial relevant office management or professional services administration experience are also encouraged to apply.   Why Join Us?    Full-time role with a professional accounting and taxation practice.  Opportunity to manage and improve office operations.  Work closely with accountants, bookkeepers and business services professionals.  Support a client-focused practice servicing individuals, families and small businesses.  Stable role with responsibility across administration, systems, workflow and staff coordination.    How to Apply   Please submit your resume and a short cover letter outlining your relevant office management, administration and professional services experience.  Only shortlisted applicants will be contacted.      Work Type:  Full time   Salary:  $80000-90000   Job Publish:  11-07-2026   Job Expire:  10-08-2026  Apply on:  Office Manager – Accounting Practice Job here!    This job is brought to you by workinitiatives.com.au. ",
+          "displayFromDate": "2026-07-11T00:00:00",
+          "employerId": "",
+          "employerName": "SocialbleTech",
+          "expiryDate": "2026-08-10T10:00:00",
+          "howToApplyCode": "PSD",
+          "industry": {
+            "code": "112",
+            "label": "Admin & Office"
+          },
+          "isApplyOnlineJob": false,
+          "isExternalJob": false,
+          "isFavourite": false,
+          "isIndigenousJob": true,
+          "isNewJob": false,
+          "jobType": {
+            "code": "H",
+            "label": "Normal position"
+          },
+          "latitude": "-33.99254136999",
+          "location": {
+            "code": "21WSNE",
+            "label": "NSW - Sydney - Western Sydney & Nepean"
+          },
+          "logoUrl": "",
+          "longitude": "150.74268336",
+          "modifiedDate": "2026-07-14T10:35:47.3",
+          "occupation": {
+            "code": "542112",
+            "label": "Admissions Clerk"
+          },
+          "organisation": {
+            "code": "TTNW",
+            "label": "Sociable Tech"
+          },
+          "positionsAvailable": 1,
+          "postCode": "2570",
+          "salary": {
+            "code": "SLL4",
+            "label": "$80,001 - $100,000"
+          },
+          "site": {
+            "code": "DM68",
+            "label": "Sociable Tech"
+          },
+          "state": "NSW",
+          "suburb": "Oran Park",
+          "tenure": {
+            "code": "P",
+            "label": "Permanent position"
+          },
+          "title": "Office Manager – Accounting Practice",
+          "vacancyId": 2351058768,
+          "workType": {
+            "code": "F",
+            "label": "Full time position"
+          }
+        }
+      },
+      {
+        "score": 4.7694535,
+        "result": {
+          "contractType": null,
+          "creationDate": "2026-07-18T19:02:26.843",
+          "description": "  MedicalJobsAustralia.com     Statewide 2027 Advanced Trainee General Medicine (NALHN, CALHN, SALHN) (Multiple Positions)\n\n\n\n\n\nJob no: 940555\n\nWork type: Full time\n\nLocated in: Adelaide Metro Northern\n\nCategories: Medical\n\n\n\n\n \n\nSA Health - NALHN - CALHN - SALHN (Multiple Positions)\n\nTotal Indicative Remuneration: $118,024 - $190,058 p.a. - MDP2 \n\nTemporary Full-Time, up to 30 January 2028 (Multiple Positions)\n\nAbout Adelaide:\n\nAdelaide is consistently recognised as a city that artfully combines its compact charm and world-class cuisine with picturesque nature escapes. Ranked one of the worlds \"Most Liveable Cities\" and \"Most Beautiful Cities\", Adelaide provides something for everyone combining a wonderful mix of nature with nearby beaches, rolling hills and wildlife and culinary delights with fine dining restaurants, award-winning cafes, bustling food markets and booming boutique bars. Events like the LIV Golf, SANTOS Tour Down Under, Adelaide Fringe and the Adelaide Cabaret Festival add extra appeal to living here.\n\nAbout the Role:\n\nThe Advanced Trainee - General Medicine is responsible for providing high quality services managing the care of all patients under a specific General Medicine Unit in consultation with the responsible Junior Staff, Consultants, Nurses and Allied Health Professionals. In this role you will actively contribute to Continuous Quality Improvement and education activities. \n\nAs a member of a multi-disciplinary team, the Advanced Trainee will be committed to maintaining and improving the health and wellbeing of the South Australian community.\n\nAs per the SA Health Salaried Medical Officers Enterprise Agreement 2022, the total term of employment with SA Health will be 3 years. Rotations following the initial 12 month allocation as Medical Practitioner will be determined in line with your training and SA Health's requirements. This may include transfer to other SA Health locations to perform work appropriate to classification, skills and capabilities.\n\nTo be eligible for this position, you must hold a Bachelor of Medicine; Bachelor of Surgery (MBBS) or equivalent, registrable with the Medical Board of Australia as a Medical Practitioner with General Registration. Eligibility for registration as an advanced trainee in General and Acute Care Medicine is highly desirable.\n\nThe Total Indicative Remuneration figure is calculated taking into account base salary, leave loading and superannuation as well as managerial allowances, professional development or any other allowances where appropriate.\n\nAbout You:\n\nAre you a dedicated, compassionate and enthusiastic Medical Practitioner looking for an opportunity to join a dynamic, growing healthcare network where you will be part of a supportive team delivering high quality care to the community? If so, then this could be the opportunity for you. This position will offer you professional growth opportunities within a supportive and inclusive culture.\n\nYou will be part of growing Local Health Networks (LHNs) that provides an expanding suite of treatment modalities in contemporary, modern facilities.\n\nThis is an excellent opportunity to contribute to a passionate, highly driven, dedicated and progressive team.\n\nBenefits of working at SA Health:\n\nSA Health is committed to fostering a supportive and inclusive work environment that values diversity and encourages continuous learning. We offer competitive remuneration packages, comprehensive training opportunities and the chance to work alongside a team of dedicated healthcare professionals.\n\nFrom salary packaging to flexible working arrangements, a large range of opportunities for movement and career progression, you'll find there are lots of benefits of working with us.\n\nSalary packaging is an option for saving money by paying for some of your everyday expenses from your salary before it is taxed.\n\nRelocation assistance may be available for successful applicants from interstate or overseas.\n\nSA Health supports and fosters a culture in which employees feel they belong and feel safe at work. The culture aims to encourage all people to use their talents and to be valued and rewarded for their contributions.\n\nThe South Australian public sector promotes diversity and flexible ways of working including part-time. Applicants are encouraged to discuss the flexible working arrangements for this role.\n\nAppointment will be subject to a satisfactory Criminal History Check.\n\nCheck(s):\n\nDHS Working With Children Check (WWCC)\n\nNational Police Check (National Police Certificate) for general employment probity, vulnerable person-related employment and aged care sector screening - apply to any of the accredited bodies approved to offer a service direct to the public. Accreditation is provided by the Australian Criminal Intelligence Commission. See our National Police Certificate accredited bodies page for links to lodge screening requests.\n\nImmunisation Risk for this position is - Category A (direct contact with blood or body substances)\n\nSA Health Services are required to implement the Addressing vaccine preventable disease: Occupational assessment, screening and vaccination policy in the workplace.\n\nAboriginal and Torres Strait Islander applicants are encouraged to apply. Job Ref: 940555\n\nEnquiries:\n\nSenior Medical Administrator\n\nNALHN Division of Medicine\n\nPhone: (08) 8182 9420\n\nE-mail: NALHNMFF_MSS.GenericMailbox@sa.gov.au\n\nApplication Closing Date:\n\n21 August 2026 - 11.55PM\n\nRole Description and Further Information:\n\n 904015 - Statewide 2026 Advanced Trainee General Medicine (NALHN, CALHN, SALHN) (Multiple Positions) - MDP2 NALHN - role description.pdf\n\n 904015 - Statewide 2026 Advanced Trainee General Medicine (NALHN, CALHN, SALHN) (Multiple Positions) - MDP2 CALHN - role description.pdf\n\n 904015 - Statewide 2026 Advanced Trainee General Medicine (NALHN, CALHN, SALHN) (Multiple Positions) - MDP2 SALHN - role description.pdf\n\n* Refer to the SA Health Career Website - How to apply for further information.\n\n\n\n\n\n Advertised: 17 Jul 2026 Cen. Australia Standard Time\n\n Applications close: 21 Aug 2026 Cen. Australia Standard Time\n\n\n\n\n Apply now Refer a friend    Click here to Apply now → ",
+          "displayFromDate": "2026-07-18T00:00:00",
+          "employerId": "CfDJ8Nn8cBBigUhPiuiVER7neZogd6TWtc8r6tkDR6w01I7VeacyOw3wdpXKN8RSMaQnRPhJSsKuGS820IPsItG63IRcOzXW0BjM2_291dTs-xMwpiPEOu0UAIL-mpBLyaKXxA",
+          "employerName": "Medical Jobs Australia",
+          "expiryDate": "2026-08-17T10:00:00",
+          "howToApplyCode": "PSD",
+          "industry": {
+            "code": "112",
+            "label": "Admin & Office"
+          },
+          "isApplyOnlineJob": false,
+          "isExternalJob": false,
+          "isFavourite": false,
+          "isIndigenousJob": false,
+          "isNewJob": false,
+          "jobType": {
+            "code": "H",
+            "label": "Normal position"
+          },
+          "latitude": "-34.52177446000",
+          "location": {
+            "code": "59BRSS",
+            "label": "SA - Regional - Barossa "
+          },
+          "logoUrl": "/api/v1/global/vacancies/logos/cms?code=PX28",
+          "longitude": "138.96027792999",
+          "modifiedDate": "2026-07-21T10:30:12.877",
+          "occupation": {
+            "code": "542112",
+            "label": "Admissions Clerk"
+          },
+          "organisation": {
+            "code": "VVNW",
+            "label": "MedicalJobsAustralia"
+          },
+          "positionsAvailable": 10,
+          "postCode": "5352",
+          "salary": {
+            "code": "SLNS",
+            "label": "Not Specified"
+          },
+          "site": {
+            "code": "PX28",
+            "label": "MedicalJobsAustralia"
+          },
+          "state": "SA",
+          "suburb": "Tanunda",
+          "tenure": {
+            "code": "N",
+            "label": "Contract position"
+          },
+          "title": "Statewide 2027 Advanced Trainee General Medicine (NALHN, CALHN, SALHN) (Multiple Positions)",
+          "vacancyId": 2351350533,
+          "workType": {
+            "code": "C",
+            "label": "Casual position"
+          }
+        }
+      },
+      {
+        "score": 4.723707,
+        "result": {
+          "contractType": null,
+          "creationDate": "2026-07-15T19:09:58.12",
+          "description": "  MedicalJobsAustralia.com     Monash Health exists to reimagine care, so that people can live their best lives. \n\n\n\n\n\n\nWe provide safe and equitable care, for every stage of life, delivered with world-leading expertise and over 175 years of experience. \n\n\n\n\n\n\nAs a leading academic health service, we're committed to providing tomorrow's care today by integrating research, teaching and training into everyday practice. \n\n\n\n\n\n\nOur team of 24,000 people are full hearted, open minded and all in. Together, we provide more than 250 integrated services for every stage of life at over 50 locations and in the community across south-east Melbourne, Victoria, serving 1.2 million residents in the South Metro Local Health Service Network. \n\n\nAre you currently part of the team at Monash Health? Use your network login to access the Monash Health Careers portal and discover all the job opportunities open to you, to support growing your career within the organisation.\n\n\n\n\nTo see first-hand what our colleagues think about working here, take a look at the following short videos monashhealth.org-careers.\n\n\n\n\nAbout the Department - Program \n\n\n\n\n\n\n\nCasey Hospital (Berwick) and Dandenong Hospital deliver a comprehensive range of maternity, birthing, postnatal and gynaecology services, supported by an integrated network that includes Monash Medical Centre. Following service enhancements introduced in 2026, Casey Hospital has expanded its capacity to support growing demand for higher-acuity maternity and newborn care within the region, while Dandenong Hospital continues to provide high-quality care for women with low to medium-risk pregnancies and a broad range of women's health services. Together, these sites offer patient-centred, evidence-based care within a diverse and inclusive community, supported by multidisciplinary teams committed to clinical excellence, innovation and exceptional outcomes for women, babies and families. \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAbout the Role \n\n\n\n\n\n\n\nThis is an exciting opportunity for a highly organised and proactive administrator to provide executive and operational support to the Service Medical Director and Operations Manager, Women's Casey and Dandenong, as well as the Quality team within the Women's and Newborn Program. Working in a fast-paced healthcare environment, you will play a pivotal role in ensuring the smooth day-to-day coordination of key administrative functions while supporting senior leaders and key service initiatives. This is a full-time ongoing position from Monday to Friday, working between Casey and Dandenong Hospitals.\n\n\n\n\n\n\n\n\n\n\n\n\nKey responsibilities include: \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nProviding high-quality customer service and administrative support to internal and external stakeholders. \n\n\n\n\n\n\n\n\n\n\n\n\nManaging complex and changing diaries for the Service Medical Director and Operations Manager, Women's Casey and Dandenong. \n\n\n\n\n\n\n\n\n\n\n\n\nCoordinating meetings and committees, including venue bookings, scheduling, agenda preparation and minute taking as required. \n\n\n\n\n\n\n\n\n\n\n\n\nPreparing presentations, reports, briefing papers, correspondence and other documentation. \n\n\n\n\n\n\n\n\n\n\n\n\nSupporting efficient office management and administrative processes, including electronic task management and meeting preparation. \n\n\n\n\n\n\n\n\n\n\n\n\nMaintaining a high level of accuracy, attention to detail and confidentiality across all administrative activities. \n\n\n\n\n\n\n\n\n\n\n\n\nProactively managing competing priorities and adapting to changing business needs and schedules. \n\n\n\n\n\n\n\n\n\n\n\n\nLiaising professionally and sensitively with consumers, clinicians, senior leaders and external partners. \n\n\n\n\n\n\n\n\n\n\n\n\nSupporting quality improvement and service initiatives across the Women's and Newborn Program. \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAbout You \n\n\n\n\n\n\n\n\n\n\n\n\nTo be successful in this healthcare role, you will bring the following demonstrated skills, experience, and attributes: \n\n\n\n\n\n\n\n\n\nHighly developed skills in M365 application suite, with a particular focus in Excel, along with Word, Teams, PowerPoint, SharePoint, Outlook and a high level of technology-system literacy \n\n\n\n\n\n\n\n\n\n\n\n\nDemonstrated experience using iPM, EMR, UKG, eHub and SMR (desirable) \n\n\n\n\n\n\n\n\n\n\n\n\nHighly developed customer service skills - excellent self-presentation, organised and strong interpersonal skills \n\n\n\n\n\n\n\n\n\n\n\n\nAbility to manage multiple tasks concurrently and work comfortably in a fast-paced environment to meet deadlines \n\n\n\n\n\n\n\n\n\n\n\n\nAbility to manage and resolve challenging issues, including conflict, in a professional manner \n\n\n\n\n\n\n\n\n\n\n\n\nExcellent verbal and written communication skills, with an ability to adapt communication style for a range of audiences and purposes \n\n\n\n\n\n\n\n\n\n\n\n\nPrevious experience within a healthcare environment (desirable) \n\n\n\n\n\n\n\nFor a confidential discussion and to explore this opportunity further, please reach out to Lisa Wilson, Recruitment Specialist on 0460 859 058.\n\n\nPosition Description can be found here\n\n\n\n\n\nOur Culture and Values \n\n\n\n\n\n\nAt Monash Health, our people are at the heart of everything we do. Our culture is inclusive, supportive and future-focused, underpinned by clear values and a commitment to continuous improvement. \n\n\n\n\n\n\n\nOur teams play a critical role in bringing our new strategy to life, challenging traditional approaches, embracing innovation, and ensuring every appointment reflects our commitment to equity, transparency and excellence. \n\n\n\n\n\n\n\nYou'll be encouraged to share ideas, contribute to improvement initiatives, and grow alongside experienced professionals who are passionate about what they do. \n\n\n\n\n\n\n\nWe are Full Hearted, Open Minded and All In, enabling excellent service delivery and a positive candidate and employee experience every time. \n\n\n\n\n\n\n\nWe recognise the value of equal employment opportunity. We are committed to patient safety, promoting fairness, equity and diversity in the workplace and to Child Safe Standards. \n\n\n\n\n\nHow to Apply\n\n\nApplications are accepted via the Monash Health online EHub system. For information including how to apply and probity check requirements, please click here for the 'Application Guide'\n\n\nApplications will be screened upon receipt and selection activity may commence prior to the closing date. \n\n\nApplications close: 23rd July, 2026    Click here to Apply now → ",
+          "displayFromDate": "2026-07-15T00:00:00",
+          "employerId": "CfDJ8Nn8cBBigUhPiuiVER7neZoPB9WdqnPyNBMW81it6oBoGX5BP_PnT79DzHzSy32VIFh01xTGBEvxm7j1Pkg9xi_ofj6WVVskhJxOrLoSWn5rmLUW9oRFBRCcWUvJJYQQHw",
+          "employerName": "Medical Jobs Australia",
+          "expiryDate": "2026-08-14T10:00:00",
+          "howToApplyCode": "PSD",
+          "industry": {
+            "code": "112",
+            "label": "Admin & Office"
+          },
+          "isApplyOnlineJob": false,
+          "isExternalJob": false,
+          "isFavourite": false,
+          "isIndigenousJob": false,
+          "isNewJob": false,
+          "jobType": {
+            "code": "H",
+            "label": "Normal position"
+          },
+          "latitude": "-37.82503942000",
+          "location": {
+            "code": "71CBDS",
+            "label": "VIC - Melbourne - CBD & Surrounds"
+          },
+          "logoUrl": "/api/v1/global/vacancies/logos/cms?code=PX28",
+          "longitude": "144.97151194",
+          "modifiedDate": "2026-07-16T20:00:12.12",
+          "occupation": {
+            "code": "542112",
+            "label": "Admissions Clerk"
+          },
+          "organisation": {
+            "code": "VVNW",
+            "label": "MedicalJobsAustralia"
+          },
+          "positionsAvailable": 10,
+          "postCode": "3000",
+          "salary": {
+            "code": "SLNS",
+            "label": "Not Specified"
+          },
+          "site": {
+            "code": "PX28",
+            "label": "MedicalJobsAustralia"
+          },
+          "state": "VIC",
+          "suburb": "Melbourne",
+          "tenure": {
+            "code": "N",
+            "label": "Contract position"
+          },
+          "title": "Personal Assistance Women's Program Casey and Dandenong",
+          "vacancyId": 2351238093,
+          "workType": {
+            "code": "C",
+            "label": "Casual position"
+          }
+        }
+      },
+      {
+        "score": 4.646761,
+        "result": {
+          "contractType": null,
+          "creationDate": "2026-07-13T16:46:12.27",
+          "description": " A W Edwards Pty Ltd   About the Role   As a Cost Controller, you will play a key role in supporting the financial success of major construction projects by providing accurate cost control, financial forecasting, and risk management. Working closely with project and finance teams, you will monitor project costs, analyse financial performance, ensure compliance with company policies and statutory requirements, and provide practical financial advice to support informed decision-making. This role reports to the Chief Financial Officer and is part of the Finance & Accounting Team.      Benefits      Competitive salary package.   Opportunity to work on large-scale construction projects.   Collaborative and supportive team environment.   Professional development and career progression opportunities.   Exposure to complex project finance and cost management.   Ongoing training and continuous improvement initiatives.   Opportunity to work closely with experienced finance and project professionals.     Task & responsibilities  The primary purpose of this position is to create value for the business through, but not limited to:   Mitigating operational risks and optimising opportunities   Responsibility over the performance of project financial functions  Supporting Project Team by providing cost control expertise through accurate financial forecasting and risk control, financial operations and ensuring legal and procedural compliance   Providing accurate, pragmatic advice to the project whilst maintaining an acceptable level of risk    Primary tasks/ responsibilities    Prepare and manage monthly project cost reports, forecasts, and financial analysis.   Monitor project budgets, actual costs, accruals, and cash flow forecasts.   Conduct variance analysis and recommend cost-saving opportunities.   Identify financial risks and develop mitigation strategies.   Support project teams by providing cost control and financial advice.   Maintain Work Breakdown Structure (WBS) and ensure accurate budget allocation.   Review subcontractor accruals and cost reallocations.   Prepare internal and external financial reports.   Ensure compliance with company policies, accounting standards, and legislative requirements.   Assist with internal and external audits.   Review accounting entries and maintain accurate financial records.   Build strong relationships with project managers, contract administrators, and finance stakeholders.   Drive continuous improvement of financial processes and reporting.   Provide technical expertise and mentor less experienced staff where required.        Qualification & experience   Essential    Bachelor's degree in Accounting, Business, Finance, or a related discipline.   Minimum 5 years' experience in Cost Control within the construction industry or similar project environments.   Demonstrated experience in:   Project financial forecasting   Cost management   Risk management   Accounting principles   Continuous improvement initiatives     Advanced Microsoft Excel skills.   Experience using accounting software.   Excellent analytical, problem-solving, communication, and stakeholder management skills.        Desirable    Progress towards or completion of CA or CPA qualification.   Experience using SAP.        The Skills We Need    Financial forecasting and budgeting   Cost control and cost analysis   Risk identification and mitigation   Project financial reporting   Advanced Microsoft Excel   Accounting systems (SAP experience highly regarded)   Strong analytical and problem-solving skills   Excellent communication and stakeholder management   Planning and organisational skills   Decision-making and sound commercial judgment   Customer relationship management   Operational and financial management   Knowledge of construction industry standards and compliance requirements   Ability to work collaboratively across multidisciplinary project teams   High attention to detail and commitment to continuous improvement      About Company     A W Edwards Pty Ltd  is a leading Australian construction company with over 100 years of experience delivering high-quality building projects across the commercial, health, education, industrial, infrastructure, hospitality, and residential sectors. Established in 1921, the company has built a strong reputation for excellence, innovation, quality workmanship, and long-term client relationships.  Operating across New South Wales, Victoria, Queensland, and the Australian Capital Territory, A W Edwards provides comprehensive construction services including design and construct, construction management, fit-out, refurbishment, and project delivery. The company is committed to safety, sustainability, collaboration, and delivering exceptional outcomes for its clients while fostering a supportive and professional working environment for its employees.      Work Type:  Full time   Job Publish:  13-07-2026   Job Expire:  12-08-2026  Apply on:  Cost Controller Job here!    This job is brought to you by workinitiatives.com.au. ",
+          "displayFromDate": "2026-07-13T00:00:00",
+          "employerId": "",
+          "employerName": "SocialbleTech",
+          "expiryDate": "2026-08-12T10:00:00",
+          "howToApplyCode": "PSD",
+          "industry": {
+            "code": "112",
+            "label": "Admin & Office"
+          },
+          "isApplyOnlineJob": false,
+          "isExternalJob": false,
+          "isFavourite": false,
+          "isIndigenousJob": true,
+          "isNewJob": false,
+          "jobType": {
+            "code": "H",
+            "label": "Normal position"
+          },
+          "latitude": "-33.82280361000",
+          "location": {
+            "code": "21NSCC",
+            "label": "NSW - Sydney - Northern Sydney & Central Coast"
+          },
+          "logoUrl": "",
+          "longitude": "151.19282881999",
+          "modifiedDate": "2026-07-14T17:23:40.417",
+          "occupation": {
+            "code": "542112",
+            "label": "Admissions Clerk"
+          },
+          "organisation": {
+            "code": "TTNW",
+            "label": "Sociable Tech"
+          },
+          "positionsAvailable": 1,
+          "postCode": "2065",
+          "salary": {
+            "code": "SLNS",
+            "label": "Not Specified"
+          },
+          "site": {
+            "code": "DM68",
+            "label": "Sociable Tech"
+          },
+          "state": "NSW",
+          "suburb": "St Leonards",
+          "tenure": {
+            "code": "P",
+            "label": "Permanent position"
+          },
+          "title": "Cost Controller",
+          "vacancyId": 2351118150,
+          "workType": {
+            "code": "F",
+            "label": "Full time position"
+          }
+        }
+      },
+      {
+        "score": 4.558445,
+        "result": {
+          "contractType": null,
+          "creationDate": "2026-06-30T19:02:26.947",
+          "description": "  MedicalJobsAustralia.com     Monash Health exists to reimagine care, so that people can live their best lives. \n\n\n\n\n\n\nWe provide safe and equitable care, for every stage of life, delivered with world-leading expertise and over 175 years of experience. \n\n\n\n\n\n\nAs a leading academic health service, we're committed to providing tomorrow's care today by integrating research, teaching and training into everyday practice. \n\n\n\n\n\n\nOur team of 24,000 people are full hearted, open minded and all in. Together, we provide more than 250 integrated services for every stage of life at over 50 locations and in the community across south-east Melbourne, Victoria, serving 1.2 million residents in the South Metro Local Health Service Network. \n\n\nAre you currently part of the team at Monash Health? Use your network login to access the Monash Health Careers portal and discover all the job opportunities open to you, to support growing your career within the organisation.\n\n\n\n\nTo see first-hand what our colleagues think about working here, take a look at the following short videos monashhealth.org-careers.\n\n\n\n\nMonash Health's General Genetics Service are looking for an individual to join our patient focused team. The Administration Officer contributes to patient care while ensuring Department of Health and Human Services mandates are met. \n\n\n\n\n\n\n\n\n\n\n\n\nAbout the Role: \n\n\n\n\n\n\n\n\n\nPart Time Ongoing Position Available 0.6EFT (3 days a week) ongoing position.\n\n\n\n\n\n\n\n\n\n\n\n\nDoes helping others give you job satisfaction? \n\n\n\n\n\n\n\n\n\n\n\n\nDo you enjoy a variety of tasks in your working day? \n\n\n\n\n\n\n\n\n\nThe role is responsible for responding to incoming calls and emails, processing referrals, scheduling appointments, managing wait list referrals, attending clinic and data entry. The successful incumbent requires excellent communication and customer service skills in addition to intermediate computer skills. We currently have a Part Time Position available; Shifts will be Monday to Friday (No weekend work). Position will be based on-site at Monash Medical Centre, Clayton. \n\n\n\n\n\n\n\n\n\n\n\n\nA Day in the Life \n\n\n\n\n\n\nYou will be responsible for ensuring the patient experience is second to none and patients are treated with respect and dignity while seeking the support and services of Monash Health. Creating an excellent first impression of Monash Health, you will provide a friendly, courteous and professional greeting to all visitors to the General Genetics Service either by telephone or in person, and to support them in relation to the purpose for their contact and-or visit. Typical daily duties will include: \n\n\n\n\n\n\n\n\n\nProvide a friendly, courteous and professional greeting to all visitors-patients. \n\n\n\n\n\n\n\n\n\n\n\n\nAnswer and assist incoming callers in a friendly, courteous, and professional manner at all times. \n\n\n\n\n\n\n\n\n\n\n\n\nEnsure appropriate standard of presentation and maintenance of reception area. \n\n\n\n\n\n\n\n\n\n\n\n\nMaintaining a high level of customer service at all times \n\n\n\n\n\n\n\n\n\n\n\n\nEnsure all outpatient activity is accurately captured and data including VINAH data requirements meet required standard and regulation. \n\n\n\n\n\n\n\n\n\n\n\n\nDemonstrate respect and support towards other team members.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAbout You \n\n\n\n\n\n\nCommunication skills and teamwork are extremely important in this role as you will be working in a diverse team. You are a proactive and experienced healthcare administrator who enjoys working in a fast-paced environment. Working in a hospital environment doesn't faze you and you are able to maintain and demonstrate integrity, compassion, accountability, respect, and excellence. You will also demonstrate: \n\n\n\n\n\n\n\n\n\nGeneral clerical and-or administrative skills \n\n\n\n\n\n\n\n\n\n\n\n\nMedical terminology knowledge \n\n\n\n\n\n\n\n\n\n\n\n\nExcellent computer skills and a willingness to learn new software packages. \n\n\n\n\n\n\n\n\n\n\n\n\nKnowledge of iPM or similar patient management systems \n\n\n\n\n\n\n\n\n\n\n\n\nThe ability to adapt in a changing environment to meet demands. \n\n\n\n\n\n\n\n\n\n\n\n\nFriendly and helpful customer service and communication skills \n\n\n\n\n\n\n\n\n\n\n\n\nProven organisational skills and can work autonomously. \n\n\n\n\n\n\n\n\n\n\n\n\nDemonstrable ability to manage a range of administration responsibilities across a number of areas. \n\n\n\n\n\n\n\n\n\n\n\n\nA quality focus whilst ensuring work is completed within the required timeframes. \n\n\n\n\n\n\n\n\n\nAs well as advanced verbal, written and interpersonal skills involving good use of English are required. Time management skills are essential, including capacity to prioritise effectively to meet the requirements of the position. \n\n\n\n\n\n\n\n\n\n\n\n\nIn Return \n\n\n\n\n\n\nOurs is a connected team with strong shared values and an unwavering commitment to excellence. Ours is also a highly skilled, collaborative, and welcoming team where the only limit in your career is you. There is no better time to join us and here's just a few reasons why: \n\n\n\n\n\n\n\n\n\nAccess to Monash Health in-house learning portals to further expand your skills and knowledge base. \n\n\n\n\n\n\n\n\n\n\n\n\nMentorship and career guidance \n\n\n\n\n\n\n\n\n\n\n\n\nCompetitive salary \n\n\n\n\n\n\n\n\n\n\n\n\n5 weeks of Annual Leave \n\n\n\n\n\n\n\n\n\n\n\n\nSalary packaging \n\n\n\n\n\n\n\n\n\n\n\n\nOpportunity to experience various teams. \n\n\n\n\n\n\n\n\n\n\n\n\nOn-going supervision and professional development \n\n\n\n\n\n\n\n\n\nIn addition, you will have access to benefits including salary packaging to increase your take-home pay, access to onsite staff car parking and gym, uniform and a comprehensive Employee Assistance Program (EAP). As part of our selection process, you may be invited by email to participate in an on-camera video interview.\n\n\n\n\nFor a confidential discussion and to explore this opportunity further, please reach out to Angie Byrnes - Administration Mangaer on (03) 9594 2026.\n\n\nPosition Description can be found here\n\n\n\n\n\nOur Culture and Values \n\n\n\n\n\n\nAt Monash Health, our people are at the heart of everything we do. Our culture is inclusive, supportive and future-focused, underpinned by clear values and a commitment to continuous improvement. \n\n\n\n\n\n\nOur teams play a critical role in bringing our new strategy to life, challenging traditional approaches, embracing innovation, and ensuring every appointment reflects our commitment to equity, transparency and excellence. \n\n\n\n\n\n\nYou'll be encouraged to share ideas, contribute to improvement initiatives, and grow alongside experienced professionals who are passionate about what they do. \n\n\n\n\n\n\nWe are Full Hearted, Open Minded and All In, enabling excellent service delivery and a positive candidate and employee experience every time. \n\n\n\n\n\n\nWe recognise the value of equal employment opportunity. We are committed to patient safety, promoting fairness, equity and diversity in the workplace and to Child Safe Standards. \n\n\n\n\n\nHow to Apply\n\n\nApplications are accepted via\n\nClick here for more details: https://www.medicaljobsaustralia.com/jobs/495432/    Click here to Apply now → ",
+          "displayFromDate": "2026-06-30T00:00:00",
+          "employerId": "CfDJ8Nn8cBBigUhPiuiVER7neZoYjNJAUZPpp6sRO4t6qoaeHqNy7aYc6IPDXMpLvqGLmcOibJd1fGlbLhDejo7wB4MK9FeZHTxIrNixswtjIWeXGXGttspluABv6gpsTWJfBQ",
+          "employerName": "Medical Jobs Australia",
+          "expiryDate": "2026-07-30T10:00:00",
+          "howToApplyCode": "PSD",
+          "industry": {
+            "code": "112",
+            "label": "Admin & Office"
+          },
+          "isApplyOnlineJob": false,
+          "isExternalJob": false,
+          "isFavourite": false,
+          "isIndigenousJob": false,
+          "isNewJob": false,
+          "jobType": {
+            "code": "H",
+            "label": "Normal position"
+          },
+          "latitude": "-37.82503942000",
+          "location": {
+            "code": "71CBDS",
+            "label": "VIC - Melbourne - CBD & Surrounds"
+          },
+          "logoUrl": "/api/v1/global/vacancies/logos/cms?code=PX28",
+          "longitude": "144.97151194",
+          "modifiedDate": "2026-07-01T20:00:14.137",
+          "occupation": {
+            "code": "542112",
+            "label": "Admissions Clerk"
+          },
+          "organisation": {
+            "code": "VVNW",
+            "label": "MedicalJobsAustralia"
+          },
+          "positionsAvailable": 10,
+          "postCode": "3000",
+          "salary": {
+            "code": "SLNS",
+            "label": "Not Specified"
+          },
+          "site": {
+            "code": "PX28",
+            "label": "MedicalJobsAustralia"
+          },
+          "state": "VIC",
+          "suburb": "Melbourne",
+          "tenure": {
+            "code": "N",
+            "label": "Contract position"
+          },
+          "title": "Administrative Officer - Genetics Services",
+          "vacancyId": 2350760674,
+          "workType": {
+            "code": "C",
+            "label": "Casual position"
+          }
+        }
+      },
+      {
+        "score": 4.4183307,
+        "result": {
+          "contractType": null,
+          "creationDate": "2026-07-10T19:03:09.08",
+          "description": "  MedicalJobsAustralia.com     Job Description:\n\nLocated in Fitzroy, close to CBD and PT\n\nFriendly and supportive team environment\n\nPermanent position available 0.4 - 1 FTE\n \n\nAbout the Role\n\nThe Quality Assurance Officer will support, resource and advise the business in all aspects of clinical quality assurance. This will include supporting the business to maintain performance in accordance with best practice, which is consistent with all relevant standards, and support the values of St Vincent's in order to meet the expectations of the community we serve.\n\nResponsibilities within this role include auditing, data reporting, reviewing incidents in RiskMan, conducting formal incident reviews, facilitating clinical risk committees, assisting the business with accreditation preparation and providing secretariat support to the Mortality & Clinical Review Committee, including conducting mortality audits and coordinating Coronial correspondence.\n\nThis is a full-time position, however consideration will be given to a job share arrangement.\n\nClassifications for this position will range from HS3 - HS24 ($74,448.40 - $78,171.60 per annum) + over-award.\n\nYour Contribution \n\nDegree in a health-related discipline or significant experience working in healthcare\n\nQualification or extensive experience in healthcare quality assurance\n\nCurrent National criminal history check, or willing to obtain\n \n\nWhat we Offer\n\nA focus on wellbeing initiatives, with regular events and programs\n\nConfidential, solutions-focused employee counselling\n\nA healthy work-life balance encouraged.\n\nAbility to join Fitness Passport - Your pass to an extensive choice of fitness facilities\n\nSalary Packaging - Increase your take home pay!\n\nIn the heart of Fitzroy, CBD at our doorstep, close to some of Melbourne's best cafes, public transport and lots of carparks\n\nDiscounts and Promotions always available through our Foundation\n\nRegular opportunities for professional development to assist you to reach your career goals\n\nCulture of continuous improvement\n\nFlexible working arrangements\n\nAbout Quality & Patient Safety\nThe Quality Assurance Officer's work environment will be located at the Fitzroy site but may require travel to all-any of the SVHM sites throughout Melbourne for the conduct of the role.\n\nWorking at St Vincent's \nSt Vincent's Hospital Melbourne (SVHM) is a leading teaching, research and tertiary health service. SVHM provides a diverse range of adult clinical services and is driven by values of Compassion, Justice, Integrity and Excellence.\n\nApplication\nPlease attach your resume and cover letter to your application.\n\nShortlisting for this position will commence immediately. We encourage you to apply promptly as the advertisement may close early should a suitable applicant be sourced.\n\nWe encourage applications from people of all backgrounds and abilities. Inclusion is essential to our mission and diversity reflects the community we serve. \n\nPlease visit our website, for further information regarding our Aboriginal and Torres Strait Islander Employment at SVHM.\n\nSVHA has a duty of care under work health and safety legislation to eliminate and-or control the risk of transmission of vaccine preventable diseases in healthcare settings. You may therefore be required to undergo mandatory immunisations-vaccinations (including flu vaccinations).\n\nPlease see below for the copy of the job description\n\n1.POSITION PURPOSE\n\nThe Quality Assurance Officer will support, resource and advise the business in all aspects of clinical quality assurance. This will include supporting the business to maintain performance in accordance with best practice, which is consistent with all relevant standards, and support the values of St Vincent's in order to meet the expectations of the community we serve. As part of the Quality Assurance team the Quality Assurance Officer will perform a range of duties outlined below.\n\n2.POSITION DUTIES\n\nQuality measurement and reporting\n\nAssist to identify and develop indicators to monitor program, departmental and organisational performance\n\nProvide support to programs and departments around quality assurance reporting\n\nAssist to develop methods to audit, analyse, evaluate and monitor clinical care in relation to patient outcomes\n\nSchedule and conduct regular audits consistent with quality planning and current priorities\n\nConduct mortality and morbidity audits and assist medicals unit to review their performance.\n\nCoordinate the provision of SVHM quality data to external bodies for reporting and benchmarking purposes\n\nClinical governance and assurance\n\nProvide leadership, direction and coordination for the conduct of clinical governance and other assurance committees\n\nCoordinate and facilitate the clinical risk advisory committees\n\nProvide oversight of the quality of detailed clinical incident investigations (including Root Cause Analysis and In Depth Case Reviews) and other reviews as required\n\nOversee and coordinate the SVHM policy management system\n\nOversee and coordinate the SVHM clinical audit system MARS\n\nSupport the systems in place to monitor compliance with clinical policies, clinical practice guidelines and procedures\n\nConduct other clinical quality assurance work as directed\n\nConsumer participation\n\nFacilitate and oversee the patient experience measurement systems and programs including data analysis and reporting\n\nOversee and coordinate the SVHM Consumer Advisory Committee\n\nCoordinate consumer representation for peak clinical governance committees and projects\n\nSupport the Patient Liaison Officer team to review and respond to feedback as required\n\nAccreditation\n\nAssist the business in accreditation preparation by the provision of advice, leadership and knowledge of the relevant standards and applicable legislation\n\nIn partnership with the business, identify gaps in compliance with the standards and legislation\n\nCollate evidence for accreditation events\n\nCoach staff around the requirements of accreditation standards and provide relevant education and information\n\nClinical incident reporting systems and investigations\n\nOversee and administer the clinical incident reporting system\n\nPerform the role of system administrator including maintaining the organisation structure register and alerts\n\nLiaise with SVHA and system vendor for upgrades and system configuration\n\nFacilitate the provision of relevant data and reports to the business\n\nOversee clinical incident investigation processes and reporting\n\nOther\n\nArrange and coordinate educational expos\n\nDevelop and deliver quality assurance education\n\n3.INCUMBENT OBLIGATIONS\n\nGeneral\n\nPerform duties of the position to best of their ability and to a standard acceptable to SVHM\n\nComply with all SVHM policies, procedures, by laws and directions\n\nTreat others with respect and always behave professionally and in accordance with the SVHM Code of Conduct\n\nOnly access confidential information held by SVHM when this is necessary for business purposes, maintaining the confidentiality of th\n\nClick here for more details: https://www.medicaljobsaustralia.com/jobs/561384/    Click here to Apply now → ",
+          "displayFromDate": "2026-07-10T00:00:00",
+          "employerId": "CfDJ8Nn8cBBigUhPiuiVER7neZoAQ9Y5WYYtJMctaEOQ9dBgpUKWFuxkc9PQM2m2E3ClBi1SpEZROFiZIR-v_muNbtQMMnDMYPv04L5QgwBZSD88JwSH6NnrO8Q6Tt_2Ko7mdQ",
+          "employerName": "Medical Jobs Australia",
+          "expiryDate": "2026-08-09T10:00:00",
+          "howToApplyCode": "PSD",
+          "industry": {
+            "code": "112",
+            "label": "Admin & Office"
+          },
+          "isApplyOnlineJob": false,
+          "isExternalJob": false,
+          "isFavourite": false,
+          "isIndigenousJob": false,
+          "isNewJob": false,
+          "jobType": {
+            "code": "H",
+            "label": "Normal position"
+          },
+          "latitude": "-37.82503942000",
+          "location": {
+            "code": "71CBDS",
+            "label": "VIC - Melbourne - CBD & Surrounds"
+          },
+          "logoUrl": "/api/v1/global/vacancies/logos/cms?code=PX28",
+          "longitude": "144.97151194",
+          "modifiedDate": "2026-07-13T20:00:14.867",
+          "occupation": {
+            "code": "542112",
+            "label": "Admissions Clerk"
+          },
+          "organisation": {
+            "code": "VVNW",
+            "label": "MedicalJobsAustralia"
+          },
+          "positionsAvailable": 10,
+          "postCode": "3000",
+          "salary": {
+            "code": "SLNS",
+            "label": "Not Specified"
+          },
+          "site": {
+            "code": "PX28",
+            "label": "MedicalJobsAustralia"
+          },
+          "state": "VIC",
+          "suburb": "Melbourne",
+          "tenure": {
+            "code": "N",
+            "label": "Contract position"
+          },
+          "title": "Quality Assurance Officer",
+          "vacancyId": 2351054693,
+          "workType": {
+            "code": "C",
+            "label": "Casual position"
+          }
+        }
+      },
+      {
+        "score": 4.2674456,
+        "result": {
+          "contractType": null,
+          "creationDate": "2026-07-17T19:00:47.277",
+          "description": "  MedicalJobsAustralia.com     Requisition ID: REQ679032\nEmployment Type: Permanent Full Time, 38 hours per week and Temporary Part-Full Time, minimum 16 hours up to 38 hours per week until 28-02-2027 with the possibility of extension of same-reduced hours\nRemuneration: $41.22 - $57.88 per hour + 12% Superannuation + Salary Packaging + Flexible Working (subject to approval)\nLocated in: Level 4, 203 Northumberland St Liverpool\nApplications close: 02-08-2026\nContact: Louise Smith - SWSLHD Public Health unit, Operational Nurse Manager on 0498 349 181 | louise.smith2@health.nsw.gov.au \n\nPlease note: A current influenza (flu) vaccination is a mandatory requirement for appointment to this position. \n\n \n\nWith your skills and experience, you can contribute to the millions of ways we're enriching health, and develop your career as part of the largest health organisation in Australia. \n \n\nAchieve Something Great \nJoin the South Western Sydney Local Health District (SWSLHD) Public Health Unit and contribute to protecting and improving the health of one of Australia's largest and most culturally diverse communities. As a Registered Nurse within the Communicable Diseases Team, you will play a key role in the assessment, management, and prevention of notifiable communicable diseases, working collaboratively with colleagues and stakeholders to deliver consistent, high-quality public health services. \n\nBased in Liverpool CBD, you will be part of a multidisciplinary Public Health Unit that includes Communicable Diseases, Immunisation, Environmental Health, and Administration teams, alongside Doctors, Nurses, Epidemiologists, and Data Quality Administrators dedicated to improving community health outcomes.\n\nAre You the Right Fit? \nWe are seeking a passionate nurse with a strong interest in public health and communicable disease management who thrives in a multidisciplinary team environment. You will possess exceptional interpersonal and communication skills, with the ability to use telephone and other communication platforms to gather and convey critical information for the assessment and management of communicable diseases in an engaging, sensitive, and culturally appropriate manner. You will provide advice and support to healthcare professionals, aged care facilities, disability providers, schools, childcare centres, and other community stakeholders, helping to protect people and communities at risk of infection. \n\nIf you are collaborative, adaptable, and committed to improving public health across South Western Sydney, this rewarding role offers the opportunity to make a genuine difference, including participation in after-hours and weekend coverage with medical support.\n\nSelection Criteria \nTo help us assess your suitability for the role, please tell us as much as you can about yourself in response to the questions below. \n\nCurrent Authority to Practice as a Registered Nurse with Australian Health Practitioners Regulation Agency (AHPRA).Immunisation accreditation, or willing to undertake.\n\nDescribe your recent nursing experience and how it has prepared you to work in public health or communicable disease management. Include an example of how you assessed the risk to prioritise your work, using clinical assessment, critical thinking, and evidence-based practice and achieve a timely and appropriate outcome for a patient, client, or community.\n\nProvide an example of a time when you communicate complex or sensitive health information to a patient, community member, or stakeholder. How did you ensure your communication was culturally appropriate, and how did you work with others to achieve the best outcome?\n\nApplicants must possess an Australian C-Class driver's license (including P1 or P2). Those who hold a C class license (P1 or P2 included) from a state other than NSW must obtain a NSW C class (P1 or P2 included) license within three months of appointment. Learner's licenses are not permitted. \n\nIf you'd like more details, we're here to help.\n\nPosition Information\n\nApplicants will be assessed against the criteria in the Position Description.\n\nHow to Apply \n\nRead our application guide and tips for improving your application. \n\nDiversity, Culture & Inclusion\n\nWe are proud to be an equal opportunity employer dedicated to accessibility and a supportive recruitment experience. If you require adjustments or assistance during the application process, please contact SWSLHDJobs@health.nsw.gov.au\n\nWe value the diverse backgrounds, experiences, and perspectives of our workforce and are committed to fostering a respectful and welcoming environment. We strongly encourage applications from Aboriginal and-or Torres Strait Islander peoples, people with disability, neurodivergent individuals, those from Refugee, multicultural and multifaith backgrounds, and members of the LGBTQI+ community.\n\nAboriginal Workforce \n\nFor Aboriginal candidates who would like to talk to our Aboriginal Workforce Team, please contact. Support is also available through the Stepping Up website.\n\nMore Than Just a Job - Why Work With Us?\n\nFinancial Perks\n\n12% superannuation\n\nSalary packaging and novated leasing via Smart Salary\n\nAnnual leave with 17.5% leave loading (for full-time and part-time staff)\n\nOne extra day off each month for full-time employees\n\nWork-Life Balance\n\nFlexible work options, including hybrid and varied hours (depending on the role)\n\nPaid maternity and parental leave\n\nGenerous leave options like long service and carers leave\n\nGrow Your Career\n\nAccess to learning opportunities through our dedicated Education and Organisational Development team, who support staff with training, workshops, and career development programs.\n\nHealth & Wellbeing\n\nDiscounted gym membership through Fitness Passport\n\nFree and confidential support for staff and their families via our Staff Wellbeing and Support Service (EAP)\n\nWellbeing programs that promote mental health, resilience, and balance\n\nAdditional Information \n\nVaccination Requirements \n\nAll staff must meet NSW Health's vaccination and screening requirements before starting.\n\nChild Safe Employment \n\nSouth Western Sydney Local Health District is dedicated to fostering a child-safe environment that respects and upholds the rights of children and young people, aligned with NSW Health's commitment to implementing the Child Safe Standards. We aim to ensure that children and young people feel safe, supported, and included in their care. All current and prospective staff are expected to prioritise the safety, welfare, and well-being of children and young people, actively working to protect them from harm and abuse.\n\nTemporary Positions \n\nFor fixed-term or temporary contracts, there may be opportunities for ongoing permanent employment, subject to policy and organisational requirements. \n\n \n \n\n \n \n \n \n \n \n\n \n.    Click here to Apply now → ",
+          "displayFromDate": "2026-07-17T00:00:00",
+          "employerId": "CfDJ8Nn8cBBigUhPiuiVER7neZr9vppStofmgNAqqGFsGqEoBU9nI_CGUMfYMDahWrpXbj4mTQDzJaRND_tMSFtpObB9yQmgxkO_KCjC-XbWeEg-k2VPB3i0fy1J77tvkv_rCg",
+          "employerName": "Medical Jobs Australia",
+          "expiryDate": "2026-08-16T10:00:00",
+          "howToApplyCode": "PSD",
+          "industry": {
+            "code": "112",
+            "label": "Admin & Office"
+          },
+          "isApplyOnlineJob": false,
+          "isExternalJob": false,
+          "isFavourite": false,
+          "isIndigenousJob": false,
+          "isNewJob": false,
+          "jobType": {
+            "code": "H",
+            "label": "Normal position"
+          },
+          "latitude": "-30.75285942",
+          "location": {
+            "code": "89KALG",
+            "label": "WA - Regional - Kalgoorlie"
+          },
+          "logoUrl": "/api/v1/global/vacancies/logos/cms?code=PX28",
+          "longitude": "121.4697252",
+          "modifiedDate": "2026-07-20T20:00:23.833",
+          "occupation": {
+            "code": "542112",
+            "label": "Admissions Clerk"
+          },
+          "organisation": {
+            "code": "VVNW",
+            "label": "MedicalJobsAustralia"
+          },
+          "positionsAvailable": 10,
+          "postCode": "6430",
+          "salary": {
+            "code": "SLNS",
+            "label": "Not Specified"
+          },
+          "site": {
+            "code": "PX28",
+            "label": "MedicalJobsAustralia"
+          },
+          "state": "WA",
+          "suburb": "Kalgoorlie",
+          "tenure": {
+            "code": "N",
+            "label": "Contract position"
+          },
+          "title": "Registered Nurse (Communicable Diseases) - Perm & Temp FT/PT",
+          "vacancyId": 2351343018,
+          "workType": {
+            "code": "C",
+            "label": "Casual position"
+          }
+        }
+      },
+      {
+        "score": 4.2317142,
+        "result": {
+          "contractType": null,
+          "creationDate": "2026-06-30T19:03:05.307",
+          "description": "  MedicalJobsAustralia.com     Team Leader Patient Services - Backfill\n\n\n\n Apply now\n Job no: 942455\n\n Work type: Full time\n\n Location: Eyre and Western\n\n Categories: Administration, Business and Management\n\n\n\n\n\n \n\nEyre and Far North Local Health Network\n\nPosition located in Port Lincoln\n\nSalary: ASO3 $71,589 - $76,033 p.a. + 12% Superannuation + Leave Loading + Salary Sacrifice Benefits\n\nTemporary Full Time position working up to 31 January 2027, across a rotating 7 day, 24 hour roster\n\nOverview\n\nPort Lincoln Hospital is the cornerstone of healthcare across the Eyre Peninsula, and the team behind the front desk is just as important as the clinical staff on the floor. If you're an experienced healthcare administrator ready to step into a leadership role, this short-term contract offers a genuine opportunity to make your mark at the heart of Eyre and Far North Local Health Network.\n\nWhat You'll Be Leading\n\nReporting to the Manager of Patient Services, you'll oversee the day-to-day delivery of administrative and patient services across Port Lincoln Hospital. This is a hands-on leadership role operating across a 24-7 roster environment, with a contract end date of 31 January 2027.\n\nLead, supervise, and allocate work to patient services staff, ensuring consistent and timely service delivery\n\nOversee patient record management including creation, storage, retention, and disposal of medical and general records in line with policy\n\nManage Freedom of Information requests and human resource administration duties\n\nMaintain a professional reception function, ensuring patients and visitors receive a respectful and efficient experience\n\nWhat You'll Bring\n\nDemonstrated experience in a supervisory or team leadership role within a healthcare or health administration setting\n\nSound knowledge of patient information systems and medical records management\n\nFamiliarity with SA Health or public health sector administrative frameworks, policies, and compliance requirements\n\nProven ability to coordinate rosters and manage workload allocation across a team\n\nStrong interpersonal skills with a commitment to patient-centred service\n\nAvailability and willingness to work across a 24-hour, 7-day roster\n\nReady to Apply?\n\nSubmit your application via the SA Health careers portal, including a current CV and a cover letter addressing the key responsibilities outlined above. For a confidential discussion about the role, reach out to the hiring manager through the contact details listed on the advertisement. Applications are reviewed as received, so don't wait to put yours forward.\n\nAbout Us\n\nWith its ancient outback landscapes, boutique vineyards, oyster farms and Australia's best-kept-secret surf coast, Eyre and Far North will inspire and energise you.\n\nThe Eyre and Far North Local Health Network (EFNLHN) is responsible for the planning and delivery of hospital and health services over 337,626 square kilometres, taking in the Eyre Peninsula, western part of South Australia and north to Coober Pedy. We are one of the largest LHNs by area in Australia and communities include Ceduna, Cleve, Coober Pedy, Cowell, Cummins, Elliston, Kimba, Oodnadatta, Port Lincoln, Streaky Bay, Tumby Bay and Wudinna.\n\nServices include acute care, medical, accident and emergency, surgery, birthing and midwifery, specialist consultancy, renal dialysis, chemotherapy, transfusions, rehabilitation, residential and community aged care, respite care, transitional care packages, Aboriginal health, mental health, allied health, community health, community nursing, palliative care, community home support packages and home modifications.\n\nClick here to learn more about living and working in Eyre and Far North Local Health Network.\n\nWhy Join Us\n\nMake a real difference and feel like an important part of the community. Being part of Eyre & Far North means you will be supported both personally and professionally, can take advantage of education and training opportunities, will have access to flexible working hours and be part of an inter-professional approach to holistic health care.\n\nSalary package a range of benefits (including living expenses such as mortgage, rent, utility bills and groceries) up to $9,010 each FBT year + $2,650 for Meal Entertainment expenses each FBT year Click here more information\n\nWellbeing and counselling support: support for you and your family via our free Employee Assistance Program\n\nRelocation support: relocation reimbursement of up to $15,000 may be available to people relocating for this opportunity. More information available from SA Health Careers - Relocation support.\n\nEmployee recognition: supportive and collaborative work environment where your contributions are valued and recognised.\n\nOur Commitment to Diversity and Inclusion\n\nSA Health is committed to providing an inclusive workplace that embraces diversity and inclusion for all employees. We strongly encourage applications from people of Aboriginal and Torres Strait Islander descent, culturally diverse backgrounds, members of the LGBTIQA+SB community and people who live with disability and-or neurodivergence.\n\nWe are committed to making workplace adjustments to provide a positive and supportive work environment. You are encouraged to let us know if have any support or access requirements during the recruitment process and beyond to ensure you can perform at your best.\n\nApplicant Information\n\nThe South Australian public sector promotes diversity and flexible ways of working part-time. Applicants are encouraged to discuss the flexible working arrangements for this role.\n\nAppointment will be subject to a satisfactory Criminal History Check and appropriate immunisation requirements.\n\nCheck(s)\n\nNational Police Certificate (NPC) for employment involving unsupervised contact with vulnerable groups required for this position (E.g. aged care employment or work involving vulnerable clients)\n\nImmunisation Risk for this position is - Category B (indirect contact with blood or body substances)\n\nSA Health Services are required to implement the Addressing vaccine preventable disease: Occupational assessment, screening and vaccination policy in the workplace.\n\nFor more information about the role please refer to the role description provided below. Job Ref: 942455\n\nEnquiries\n\nShane LeBrun\nPosition: Patient Services Team Leader\nPhone: 7669 1016\nE-mail: Shane.LeBrun@sa.gov.au\n\nApplication Closing Date: 10 July 2026 - 11:55PM\n\nRefer to the SA Health Career Website - How to apply for further information.\n\nEligibility: Open to Everyone\n\n 942455 - ASO3 - Team Leader Patient Services - Port Lincoln - Role Description.pdf\n\n \n\n\n\n\n\n\n\n Advertised: 27 Jun 2026 Cen. Australia Standard Time\n\n Applications close: 10 Jul 2026 11:55 PM Cen. Australia Standard Time \n\n\n\n\n Apply now Refer a friend    Click here to Apply now → ",
+          "displayFromDate": "2026-06-30T00:00:00",
+          "employerId": "CfDJ8Nn8cBBigUhPiuiVER7neZqYhLt09m6FOxGaFaqRNkV1vkKmrBmOczpEgimamXdq2-Opj0SdZB617SeJN2WRYlA1bWCfUhhmrUbeBy0bu_Umpe1HA7q4xeZy-AXT--za8g",
+          "employerName": "Medical Jobs Australia",
+          "expiryDate": "2026-07-30T10:00:00",
+          "howToApplyCode": "PSD",
+          "industry": {
+            "code": "112",
+            "label": "Admin & Office"
+          },
+          "isApplyOnlineJob": false,
+          "isExternalJob": false,
+          "isFavourite": false,
+          "isIndigenousJob": false,
+          "isNewJob": false,
+          "jobType": {
+            "code": "H",
+            "label": "Normal position"
+          },
+          "latitude": "-34.52177446000",
+          "location": {
+            "code": "59BRSS",
+            "label": "SA - Regional - Barossa "
+          },
+          "logoUrl": "/api/v1/global/vacancies/logos/cms?code=PX28",
+          "longitude": "138.96027792999",
+          "modifiedDate": "2026-07-01T20:00:14.137",
+          "occupation": {
+            "code": "542112",
+            "label": "Admissions Clerk"
+          },
+          "organisation": {
+            "code": "VVNW",
+            "label": "MedicalJobsAustralia"
+          },
+          "positionsAvailable": 10,
+          "postCode": "5352",
+          "salary": {
+            "code": "SLNS",
+            "label": "Not Specified"
+          },
+          "site": {
+            "code": "PX28",
+            "label": "MedicalJobsAustralia"
+          },
+          "state": "SA",
+          "suburb": "Tanunda",
+          "tenure": {
+            "code": "N",
+            "label": "Contract position"
+          },
+          "title": "Team Leader Patient Services - Backfill Apply now Job no: 942455 Work type: Full time Location: Eyre and Western Categories: Administration, Busine...",
+          "vacancyId": 2350760738,
+          "workType": {
+            "code": "C",
+            "label": "Casual position"
+          }
+        }
+      },
+      {
+        "score": 4.0661883,
+        "result": {
+          "contractType": null,
+          "creationDate": "2026-07-25T19:01:09.403",
+          "description": "  MedicalJobsAustralia.com     Administration Officer - HAT, TPS, VAD and Medical Infusion - Division of Medicine\n\n\n\n\n\nJob no: 944862\n\nWork type: Full time\n\nLocated in: Adelaide Metro Northern\n\nCategories: Administration, Business and Management\n\n\n\n\n \n\nNorthern Adelaide Local Health Network - Lyell McEwin Hospital - ELIZABETH VALE SA 5112\n\nSalary: $66,442 - $69,504 p.a. - ASO2\n\nOngoing Full-Time \n\nAbout the Role:\n\nLyell McEwin Hospital is one of South Australia's busiest metropolitan hospitals, and the people who keep it running behind the scenes are just as important as those at the bedside. If you're an organised, people-focused administrator who takes pride in delivering accurate, timely support in a healthcare environment, this ongoing full-time opportunity within the Northern Adelaide Local Health Network (NALHN) is worth your attention.\n\nWorking across multiple services, you'll play a key role in maintaining continuity, efficiency and high-quality service delivery across the division.\n\nWhat You'll Be Doing\n\nBased at Lyell McEwin Health Service in Adelaide's northern suburbs, you'll provide essential administrative support that directly enables clinical teams to focus on patient care. Your day-to-day will include:\n\nManaging correspondence, records, and document workflows in line with SA Health policies and privacy requirements\n\nCoordinating scheduling, appointments, and meeting logistics for the unit\n\nResponding to internal and external enquiries with accuracy and professionalism\n\nSupporting data entry, reporting, and administrative processes using health information systems\n\nWhat You'll Bring\n\nDemonstrated experience in an administrative or customer-facing support role\n\nStrong written and verbal communication skills with a high level of attention to detail\n\nAbility to prioritise competing tasks and manage time effectively in a busy environment\n\nConfidence using Microsoft Office and the ability to learn SA Health's clinical and administrative systems\n\nA professional, respectful approach when engaging with patients, families, and clinical staff\n\nUnderstanding of, or willingness to learn, confidentiality obligations in a public health setting\n\nAbout You:\n\nYou will be joining a dynamic and expanding Local Health Network that is committed to delivering contemporary, innovative and high-quality health services within modern facilities.\n\nThis is a fantastic opportunity to become part of a passionate, highly driven and progressive team-where your skills, flexibility and positive attitude will make a genuine difference. We encourage you to apply and take the next step in your administrative career with us.\n\nAbout Adelaide:\n\nAbout Us:\n\nThe Northern Adelaide Local Health Network (NALHN) is a leading provider of public healthcare services in South Australia, and one of the largest employers in northern Adelaide. \n\nNALHN serves over 400,000 people in northern Adelaide with a comprehensive range of high-quality healthcare services, including emergency, surgical, obstetric, neonatal, paediatric, oncology, geriatric, palliative care and rehabilitation, and mental health care, as well as primary health care services with a focus on community health promotion and chronic disease management.\n\nWith a commitment for ongoing upgrades to our facilities and the introduction of new services, our priority is delivering exceptional health and wellbeing services that enhance the quality of life for our community.\n\nWith over 7,000 employees, NALHN emphasises quality care and a supportive work environment guided by respect, integrity, and accountability. Our core values foster excellence, innovation, and equitable health outcomes. \n\nAt NALHN Everyone Has a Story, Everyone Matters, Everyone Contributes and Everyone Grows. \n\nOur Local Health Network Sites and Services:\n\nNALHN provides a range of hospital (inpatient), outpatient, community and home-based services across multiple sites in Adelaide's north and north-eastern suburbs, including Aboriginal health, mental health, and GP services.\n\nLyell McEwin Hospital - the major hospital in northern Adelaide for emergency care, complex and multi-day surgery, medicine, obstetric, paediatrics and outpatient services.\n\nModbury Hospital - a general hospital with emergency care, elective surgery, medicine, outpatient and sub-acute services, rehabilitation, geriatric and palliative care.\n\nMental Health Services - adult and older persons mental health services and statewide forensic mental health services, across hospital and community settings.\n\nWatto Purrunna Aboriginal Primary Health Care Services - provides culturally responsive primary healthcare services for Aboriginal and Torres Strait Islander people in-hospital and across four community sites.\n\nPrimary Health Care Services - including GP Plus sites at Elizabeth, Modbury and Gilles Plains.\n\nBenefits of working at NALHN:\n\nFrom salary packaging to flexible working arrangements, a large range of opportunities for movement and career progression, you'll find there are lots of benefits of working with Northern Adelaide Local Health Network.\n\nSalary packaging is an option for saving money by paying for some of your everyday expenses from your salary before it is taxed.\n\nRelocation assistance may be available for successful applicants from interstate or overseas.\n\nNALHN supports and fosters a culture in which employees feel they belong and feel safe at work. The culture aims to encourage all people to use their talents and to be valued and rewarded for their contributions.\n\nSA Health is committed to providing an inclusive workplace that embraces diversity and inclusion for all employees. We strongly encourage applications from people of Aboriginal and Torres Strait Islander descent, culturally diverse backgrounds, members of the LGBTIQA+SB community and people who live with disability and-or neurodivergence.\n\nWe are committed to making workplace adjustments to provide a positive and supportive work environment. You are encouraged to let us know if you have any support or access requirements during the recruitment process and beyond to ensure you can perform at your best.\n\nThe South Australian public sector promotes diversity and flexible ways of working including part-time. Applicants are encouraged to discuss the flexible working arrangements for this role.\n\nAppointment will be subject to a satisfactory Criminal History Check.\n\nCheck(s)\n\nNational Police Check (National Police Certificate) for vulnerable person-related employment screening - apply to any of the accredited bodies approved to offer a service direct to the public. Accreditation is provided by the Australian Criminal Intelligence Commission. See our National Police Certificate accredited bodies page for links to lodge screening requests.\n\nImmunisation Risk for this position is - Category B (indirect contact with blood or body substances) \n\nSA Health Services are required to implement the Addressing vaccine preventable disease: Occupational assessment, screening a\n\nClick here for more details: https://www.medicaljobsaustralia.com/jobs/652714/    Click here to Apply now → ",
+          "displayFromDate": "2026-07-25T00:00:00",
+          "employerId": "CfDJ8Nn8cBBigUhPiuiVER7neZpucwiH-KT-ulhl1kD4D9EdLGICI_E4ivXcF4b6sL7yQkcFWby-sZcZavt2Ivy5Aaq0ic4L-ajXwLKabJtgv-Ll90KigVzcZMTMXiwb0dBIIw",
+          "employerName": "Medical Jobs Australia",
+          "expiryDate": "2026-08-24T10:00:00",
+          "howToApplyCode": "PSD",
+          "industry": {
+            "code": "112",
+            "label": "Admin & Office"
+          },
+          "isApplyOnlineJob": false,
+          "isExternalJob": false,
+          "isFavourite": false,
+          "isIndigenousJob": false,
+          "isNewJob": false,
+          "jobType": {
+            "code": "H",
+            "label": "Normal position"
+          },
+          "latitude": "-34.52177446000",
+          "location": {
+            "code": "59BRSS",
+            "label": "SA - Regional - Barossa "
+          },
+          "logoUrl": "/api/v1/global/vacancies/logos/cms?code=PX28",
+          "longitude": "138.96027792999",
+          "modifiedDate": "2026-07-28T10:07:30.99",
+          "occupation": {
+            "code": "542112",
+            "label": "Admissions Clerk"
+          },
+          "organisation": {
+            "code": "VVNW",
+            "label": "MedicalJobsAustralia"
+          },
+          "positionsAvailable": 10,
+          "postCode": "5352",
+          "salary": {
+            "code": "SLNS",
+            "label": "Not Specified"
+          },
+          "site": {
+            "code": "PX28",
+            "label": "MedicalJobsAustralia"
+          },
+          "state": "SA",
+          "suburb": "Tanunda",
+          "tenure": {
+            "code": "N",
+            "label": "Contract position"
+          },
+          "title": "Administration Officer - HAT, TPS, VAD and Medical Infusion - Division of Medicine",
+          "vacancyId": 2351644169,
+          "workType": {
+            "code": "C",
+            "label": "Casual position"
+          }
+        }
+      }
+    ],
+    "pageSize": 100,
+    "pageNumber": 38
+  }
+}

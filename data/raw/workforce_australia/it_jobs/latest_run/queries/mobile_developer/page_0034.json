@@ -1,0 +1,593 @@
+{
+  "source": "Workforce Australia",
+  "api_url": "https://www.workforceaustralia.gov.au/api/v1/global/vacancies/",
+  "request_url": "https://www.workforceaustralia.gov.au/api/v1/global/vacancies/?searchText=mobile+developer&pageNumber=34&pageSize=100",
+  "search_term": "mobile developer",
+  "page_number": 34,
+  "page_size": 100,
+  "downloaded_at_utc": "2026-07-28T07:54:15.178467+00:00",
+  "records_detected": 9,
+  "response": {
+    "totalCount": 3309,
+    "results": [
+      {
+        "score": 4.6446476,
+        "result": {
+          "contractType": null,
+          "creationDate": "2026-07-17T09:14:33.33",
+          "description": " Are you a qualified Shopfitter or Carpenter looking to escape the unpredictable subcontracting grind, long commutes, and erratic site schedules? We are currently seeking a skilled  Shopfitter / Maintenance Carpenter  to join a premier building services team operational across a major  Government Health Precinct  based in  Woolloongabba . \n This position offers an immediate start with a clear  temp-to-perm pathway . Prove your attention to detail on-site and transition into a permanent, secure public sector career. \n  The Package & Perks  \n \n \n  Premium Hourly Rate:   $56.95 per hour + Super  (paid weekly). \n \n \n  Work-Life Balance:  Structured  9-day fortnight  roster (enjoy an extra 26 days off per year). \n \n \n  Standard Hours:  Fixed day-shift from  7:00 AM to 4:00 PM  with zero erratic night requirements or unexpected weekend call-outs. \n \n \n  Career Security:  Strong temp-to-perm pathway to secure a permanent footprint within public sector infrastructure. \n \n \n  The Work  \n This role delivers a diverse mix of commercial facility maintenance, detailed joinery remediations, fit-outs, and minor structural modifications across a high-compliance hospital campus. \n \n \n  Detailed Carpentry & Shopfitting:  Carry out high-quality commercial maintenance, cabinetry adjustments, internal fit-outs, and precision timber modifications across clinical and public spaces. \n \n \n  Remediations & Hardware:  Repair and maintain high-use doors, architectural hardware, frames, locks, and detailed cabinetry fixtures. \n \n \n  Safety & Hazard Management:  Complete daily risk assessments (JSA/TAK) with a comprehensive understanding of working within high-stakes, dust-controlled clinical environments. \n \n \n  Digital Logging:  Use hand-held mobile devices to manage job logs, complete electronic work orders, and input data. \n \n \n  What You Need  \n We are tracking for a reliable, safety-conscious trade professional who takes pride in a premium finish and understands the high cleanliness and safety standards required in a busy hospital environment. \n \n \n  Trade Qualification:  Cert III in Shopfitting, Carpentry, Joinery, or an equivalent trade qualification. \n \n \n  Safety Tickets:  Current Construction Industry White Card. \n \n \n  Pre-Employment Compliance:  Willingness to meet standard hospital Vaccination Personnel Compliance (VPD) requirements. \n \n \n  Compliance:  Solid working knowledge of current building standards, WHS legislation, and environmental codes. \n \n \n  Working at Heights (WAH) or other trade-specific tickets are highly advantageous.  \n \n \n  Apply Now  \n If you are a qualified Shopfitter or Carpenter looking for a stable local run with an exceptional roster and a clear permanent career pathway, click  APPLY  to submit your resume. \n For a confidential discussion regarding this Woolloongabba opportunity, please contact  Samuel Vella  at  samuel.vella@randstad.com.au .  Please  click here  to apply. ",
+          "displayFromDate": "2026-07-17T00:00:00",
+          "employerId": "CfDJ8Nn8cBBigUhPiuiVER7neZor4IcgUaDBBZ9OGtdO_2rDQ79K6lRPS4TolsmcLH1myGGWscQ58Q4c9wRqcVyVRy9OR-1c1U6laPHRuDVmRtX5CD0o2oXf7iYYksDidq8p3g",
+          "employerName": "Samuel Vella",
+          "expiryDate": "2026-08-15T10:00:00",
+          "howToApplyCode": "PSD",
+          "industry": {
+            "code": "137",
+            "label": "Trades"
+          },
+          "isApplyOnlineJob": false,
+          "isExternalJob": false,
+          "isFavourite": false,
+          "isIndigenousJob": false,
+          "isNewJob": false,
+          "jobType": {
+            "code": "H",
+            "label": "Normal position"
+          },
+          "latitude": "-27.49292476000",
+          "location": {
+            "code": "41BRIS",
+            "label": "QLD - Brisbane & Gold Coast - Brisbane & Surrounds"
+          },
+          "logoUrl": "/api/v1/global/vacancies/logos/employer?employerId=cDtmsB84c1IY5IqqwaesUg&logoSize=100",
+          "longitude": "153.03685546",
+          "modifiedDate": "2026-07-18T10:32:17.457",
+          "occupation": {
+            "code": "331212",
+            "label": "Carpenter"
+          },
+          "organisation": {
+            "code": "SSEL",
+            "label": "Randstad"
+          },
+          "positionsAvailable": 1,
+          "postCode": "4102",
+          "salary": {
+            "code": "SLHR",
+            "label": "Hourly Rate"
+          },
+          "site": {
+            "code": "EIDZ",
+            "label": "Select Aust Sydney"
+          },
+          "state": "QLD",
+          "suburb": "WOOLLOONGABBA",
+          "tenure": {
+            "code": "N",
+            "label": "Contract position"
+          },
+          "title": "Shopfitter / Maintenance Carpenter",
+          "vacancyId": 2351300364,
+          "workType": {
+            "code": "F",
+            "label": "Full time position"
+          }
+        }
+      },
+      {
+        "score": 4.320059,
+        "result": {
+          "contractType": null,
+          "creationDate": "2026-07-27T19:00:48.857",
+          "description": "  MedicalJobsAustralia.com     Registered Nurse and-or Registered Midwife | Child and Family Health | Temporary Maternity Relief Part-time 24 hours per week Monday to Friday up to 9 March 2027 | Tresillian Dubbo\n\nReference Number: Tresillian 11-2026\n\nEmployment Status: Temporary Maternity Relief Part-time 24 hours per week Monday to Friday up to 9 March 2027\n\nEnterprise Agreement: The Named NSW (Non-Declared) Affiliated Health Organisation Nurses Agreement 2017\n\nVaccination Category: CAT A\n\n Location: Tresillian Dubbo, 214 Darling Street, Dubbo\n\nDo you want a job that engages all your skills and aspirations and delivers therapeutic programs in a way that truly make a difference to parents with young children?\n\nDo you want to work with the largest Child and Family Health organisation with sites across NSW, the ACT and Tasmania?Is this a career direction you would be interested in developing further? You would be working in a supportive learning environment, surrounded by a caring clinical team, with access to regular professional development, enhancing skills and career opportunity. The role involves working within a team of multidisciplinary clinicians.\n\nDoes this sound like a work domain with favourable conditions, all while transitioning to CFH practice?\n\n If so, then Tresillian would like to hear from you.\n\nTresillian is currently recruiting for an experienced Registered Nurse and or Midwife with Child and Family Health (CFH) post graduate qualifications or *working towards a CFH qualification (*completed at least two subjects of CFH qualification) to join the team at the Dubbo Centre.\n\nThis position will be involved in the provision of quality child and family health services to families caring for children 0-3 years of age within a Tresillian service. This will be achieved by working within the Tresillian Model of Care, Practice Principles and the NSW Health Professional Practice Framework for Child and Family Health clinicians (CFH).\n\nThe CFH RN-RM will use a strength-based and wellness focus, building on parental confidence and skills through the provision of information, education, resources, guidance, and role modelling safe responsive care. The CFH clinician, utilising evidenced based screening and assessment tools, uses their family partnership skills to identify health variations or family vulnerabilities in order to negotiate individual care plans and discharge pathways to meet the goals of the family.\n\nAbout us:\n\nThe Royal Society for the Welfare of Mothers and Babies, trading as Tresillian, is a not-for-profit organisation which was formed in 1918 to coordinate early child and maternal health care services in New South Wales (NSW). Tresillian is now the largest early child and family health and parenting service in Australia, operating from more than 25 centres across NSW, the ACT and Tasmania.\n\nTresillian is a Certified Child Safe Leader and is dedicated to creating a workplace environment where children's rights are recognised and championed.\n\nTresillian operates throughout NSW, the ACT and soon to be Tasmania, providing early parenting services including health and parenting assessments; parenting advice; education; and support to families via a range of service delivery models including centre-based day programs, home visiting, telehealth, helpline, internet, virtual residential and face to face residential services. In addition, Tresillian provides education, training, and consultancy across a range of sectors including within the health care service and higher education. For further information on Tresillian, please visit our website https:--www.tresillian.org.au\n\n: 1) Current authority to practice as a Registered Nurse and-or Midwife with the Australian Health Practitioner Regulation Agency (AHPRA).2) Postgraduate -post registration qualifications in Child and Family Health or *working towards (*evidence of CFH qualification progress with at least two subjects completed). 3) Understanding of, and commitment to, evidence-based practice. 4) Demonstrated experience in attending to the physical, social and emotional needs of children, and their families. 5) Demonstrated knowledge and understanding of the principles of population health and primary health care. 6) Demonstrated knowledge and understanding of the principles and skills of working in partnership and the principles that underpin NSW SafeStart, within a multidisciplinary team environment. 7) Demonstrate effective verbal and written communication and negotiation skills, including computer literacy. 8)Current NSW Drivers Licence Class C.\n\nWhat We Offer: 1) Generous salary packaging up to $15,900 per FBT year and Meal & Entertainment on top of this amount utilising an additional $2,650 (as a Not-for-profit and registered Health Promotion Charity).2) Opportunity to access a large range of clinical and non-clinical education programs, including access to study leave, extended child and family health practice skills for clinicians and a biannual Tresillian conference.3) Access to our free and confidential Employee Assistance Program.4) Access to Fitness Passport for eligible staff.5) Applicants who currently work within NSW Health or another Affiliated Health Organisation may be able to transfer their service and leave entitlements to Tresillian.\n\nThis position requires a Working with Children Check (WWCC) issued by the Office of the Children's Guardian. For more information and how to apply, please visit the Office of the Children's Guardian websitewww.kidsguardian.nsw.gov.au-working-with-children-working-with-children-check\n\nAppropriate criminal record and child protection checks are conducted for all successful candidates. Employment with Tresillian is subject to having current immunity status that complies with the Assessment, Screening & Vaccination against Specified Infectious Diseases - Policy Directive Immunisation History Complies with NSW Health Policy Directive PD2024_015. Appointment and ongoing employment will be subject to continued compliance with the Policy Directive.\n\nHow to apply:Interested applicants need to email the following documentation directly to the contact person provided:1) Cover letter addressing the selection criteria.2) Curriculum Vitae.3) Name and contact details of two referees (phone and email).\n\nPlease note: In accordance with NSW Health policy, priority will be given to Australian citizens and permanent residents. A person who is not an Australian citizen or permanent resident is only eligible for temporary employment for a period not longer than the duration of their current visa or the advertised position.\n\nFor further enquiries regarding the position or a copy of the job description please contact:Nurse Unit Manager IMsMarsha McBroom I Tresillian Dubbo|Phone: (02) 6809 6050 | Mobile: 0438 165 605 | Email: Marsha.McBroom@health.nsw.gov.au\n\nInterested applicants, please submit your application ASAP to organise an interview if you meet the above criteria    Click here to Apply now → ",
+          "displayFromDate": "2026-07-27T00:00:00",
+          "employerId": "CfDJ8Nn8cBBigUhPiuiVER7neZoEdaUIVOm-3oxTzR16ErCuNgg66B4MHOQTZ7d8AJ3o5tG9OEcFPfGsmk2vIQz1HKsaREHbmTbE1B9qPbC8o5v4IpbTdbbMmCdca_gzGlgAQw",
+          "employerName": "Medical Jobs Australia",
+          "expiryDate": "2026-08-26T10:00:00",
+          "howToApplyCode": "PSD",
+          "industry": {
+            "code": "112",
+            "label": "Admin & Office"
+          },
+          "isApplyOnlineJob": false,
+          "isExternalJob": false,
+          "isFavourite": false,
+          "isIndigenousJob": false,
+          "isNewJob": false,
+          "jobType": {
+            "code": "H",
+            "label": "Normal position"
+          },
+          "latitude": "-28.84169791000",
+          "location": {
+            "code": "29FRNC",
+            "label": "NSW - Regional - Far North Coast "
+          },
+          "logoUrl": "/api/v1/global/vacancies/logos/cms?code=PX28",
+          "longitude": "153.5600298",
+          "modifiedDate": "2026-07-28T20:00:13.897",
+          "occupation": {
+            "code": "542112",
+            "label": "Admissions Clerk"
+          },
+          "organisation": {
+            "code": "VVNW",
+            "label": "MedicalJobsAustralia"
+          },
+          "positionsAvailable": 10,
+          "postCode": "2478",
+          "salary": {
+            "code": "SLNS",
+            "label": "Not Specified"
+          },
+          "site": {
+            "code": "PX28",
+            "label": "MedicalJobsAustralia"
+          },
+          "state": "NSW",
+          "suburb": "Ballina",
+          "tenure": {
+            "code": "N",
+            "label": "Contract position"
+          },
+          "title": "Registered Nurse and/or Registered Midwife | Child and Family Health | Temporary Maternity Relief Part-time 24 hours per week Monday to Friday up t...",
+          "vacancyId": 2351758925,
+          "workType": {
+            "code": "C",
+            "label": "Casual position"
+          }
+        }
+      },
+      {
+        "score": 4.3130026,
+        "result": {
+          "contractType": null,
+          "creationDate": "2026-07-15T19:00:56.303",
+          "description": "  MedicalJobsAustralia.com     Employment Type: Temporary Full Time-Part Time until May 2027\nPosition Classification: Registered Nurse\nRemuneration: $81,748.17 - $114,771.98 per annum, plus superannuation\nHours Per Week: 38\nRequisition ID: REQ676855\nApplications close: Sunday, 26 July 2026\n\nPrince of Wales Hospital - Registered Nurse, Community Health \n\nAre you ready for a new experience?\n\nWe are looking for passionate and dedicated Registered Nurses to join our Community Health Unit at Prince of Wales Hospital.\n\nAt Prince of Wales Hospital, we embrace the Person-Centred Practice Framework as the foundation of our care. This approach is embedded in our everyday practice, ensuring that each individual's care experience is at the heart of what we do.\n\nWe are committed to supporting our staff and prioritising their wellbeing, creating a positive and collaborative work environment where you can thrive.\nJoin us and be part of a team that values compassion, respect, and excellence in care.\n\nBenefits\n\nA workplace culture with a foundation that promotes person centred care approaches and staff wellbeing\n\nOrientation and supported transition into your new role\n\nTargeted clinical stream education programs affiliated with university partners\n\nDevelopment pathways that are aimed at career progression\n\nUp to 12 allocated days off each year (for full-time employees) in addition to annual leave\n\nSalary Packaging options that reduce your taxable income and increase your take-home pay! Up to $9K for living expenses and $2.6K meal & entertainment & Novated Leasing\n\nCorporate health and fitness program, discounted gym memberships with a Fitness Passport\n\nEmployee Assistance Program (EAP) for employees and family members\n\nDiscounted Private Health Insurance\n\nEstablished partnerships with Universities that promote cutting edge research in well being, education and teaching.\n\nOpportunity to apply for Continuing Education allowance based on tertiary qualifications attained where applicable\n\nOpportunity to obtain Clinical Nurse Specialist status where relevant\n\nFor more information on careers and benefits of working for SESLHD, visit our page. \n\nThe Role\n\nAs a Registered Nurse in our Community Health team, you'll provide high-quality, person-centred care while working collaboratively with a supportive multidisciplinary team. Use your clinical expertise and critical thinking to make a meaningful impact, with opportunities to grow your skills, share your knowledge, and advance your career in an innovative and compassionate healthcare environment.\n\nWhere you'll be working\n\nPrince of Wales Hospital and Community Health Service is a Level 6 Tertiary Referral Hospital with an inpatient bed base of 370. Each year we care for more than 70,000 patients in our Emergency Department and have around 50,000 admissions to the inpatient units. POWH offers an outpatient service and rural outreach service and provides more than 900,000 occasions of non-admitted patient care each year, including innovative virtual models of care. We have transitioned the majority of inpatient units and wards to the Acute Services Building (ASB) including a state of the art Emergency Department and Intensive Care Unit. POWH provides an exceptional staff experience and enhanced patient and family outcomes as a result of the provision of person-centred care.\n\nRandwick Local council is renowned for our world-class beaches and supported by cafes and restaurants to tickle your taste-buds, Randwick's fascinating coastline and atmosphere will have you in awe the minute you arrive. Offering a mix of historic buildings, impressive beaches and coastal walks coupled with boutique restaurants, transport links and a vibrant nightlife, you'll never be short of things to do in this progressive community.\n\nSelection criteria\n\nTo be considered for this position, please ensure you address the below questions as thoroughly as possible.\n\nRegistered with the Australian Health Practitioner Regulation Agency (AHPRA) as a Registered Nurse- Midwife. Current NSW Drivers Licence.\n\nDemonstrated recent clinical experience as a Registered Nurse- Midwife that applies to aged care nursing in either the acute or community settings.\n\nDemonstrated high level written and verbal communication skills, interpersonal skills and be able to identify key messages, issues and concerns when communicating with others.\n\nAbility to work as part of an interdisciplinary team and apply professional and ethical boundaries when dealing with complex situations.\n\nCurrent computer skills and proven ability to use health information systems, and a commitment to working in a mobile computer environment.\n\nDemonstrated experience in comprehensive assessment of client.\n\nDemonstrated application of evidence-based practice and critical thinking to patient care.\n\nDemonstrated ability to effectively prioritise and organise own workload, working independently as a member of a multidisciplinary team\n\nNeed more information? \n 1) Click here for the Position Description and SESLHD Expected Standards\n 2) Find out more about applying for this position\nFor role related queries or questions contact Patricia Comerford on Patricia.Comerford@health.nsw.gov.au\n\nOur COREValues are Collaboration, Openness, Respect and Empowerment and have been created by employees for employees and help define how we work and to inspire positive interactions in the workplace.\n\nWe embrace diversity as our strength and are committed to maintaining an inclusive and collaborative work environment. Our workplaces are welcoming and safe for all our employees, irrespective of their unique characteristic including age, ethnicity, cultural or spiritual background, gender identity, disability, education and social-economic status. Read about ourDiversity, Inclusion and Belonging Strategy for more information.\n\nReasonable Adjustments\n\nNSW Health recognises everyone is unique, and that you may require some adjustments to ensure you have the best opportunity to apply. If we can make some adjustments to the NSW Health recruitment-interview process, then please emailSESLHD-Recruitment-POWH-SSEH@health.nsw.gov.au and let us know.\n\nAdjustments may include but are not limited to, physical requirements, interview setups and specific interview availability times where required.\n\nInformation for applicants:\n\nAn eligibility list may be created for future vacancies\n\nEmployment of a temporary visa holder may only occur if no suitable permanent resident or citizen of Australia has been identified for this position following suitable labour market testing.\n\nApplicants will be assessed against the essential requirements and selection criteria contained within the position description\n\nRecommended applicants will be reviewed for compliance with NSW Health policy directive Occupational Assessment, Screening and Vaccination against Specific Diseases for all positions prior to offer\n\nWe do have an Aboriginal Workforce Team that can also provide support (SESLHD-AboriginalWorkforce@hea\n\nClick here for more details: https://www.medicaljobsaustralia.com/jobs/586615/    Click here to Apply now → ",
+          "displayFromDate": "2026-07-15T00:00:00",
+          "employerId": "CfDJ8Nn8cBBigUhPiuiVER7neZrpHVPlk6S_l2C_TkCP1Mz23q3Dv854EdSHQWTyTVotRkzjldcbioA6GmTjfqJezrLcU8hI7IzcFt3CJnRW94ZVdIMgmx6vBPh8xfldQMuwBw",
+          "employerName": "Medical Jobs Australia",
+          "expiryDate": "2026-08-14T10:00:00",
+          "howToApplyCode": "PSD",
+          "industry": {
+            "code": "112",
+            "label": "Admin & Office"
+          },
+          "isApplyOnlineJob": false,
+          "isExternalJob": false,
+          "isFavourite": false,
+          "isIndigenousJob": false,
+          "isNewJob": false,
+          "jobType": {
+            "code": "H",
+            "label": "Normal position"
+          },
+          "latitude": "-34.52177446000",
+          "location": {
+            "code": "59BRSS",
+            "label": "SA - Regional - Barossa "
+          },
+          "logoUrl": "/api/v1/global/vacancies/logos/cms?code=PX28",
+          "longitude": "138.96027792999",
+          "modifiedDate": "2026-07-16T20:00:12.12",
+          "occupation": {
+            "code": "542112",
+            "label": "Admissions Clerk"
+          },
+          "organisation": {
+            "code": "VVNW",
+            "label": "MedicalJobsAustralia"
+          },
+          "positionsAvailable": 10,
+          "postCode": "5352",
+          "salary": {
+            "code": "SLNS",
+            "label": "Not Specified"
+          },
+          "site": {
+            "code": "PX28",
+            "label": "MedicalJobsAustralia"
+          },
+          "state": "SA",
+          "suburb": "Tanunda",
+          "tenure": {
+            "code": "N",
+            "label": "Contract position"
+          },
+          "title": "Registered Nurse, Community Health",
+          "vacancyId": 2351237218,
+          "workType": {
+            "code": "C",
+            "label": "Casual position"
+          }
+        }
+      },
+      {
+        "score": 4.3047924,
+        "result": {
+          "contractType": null,
+          "creationDate": "2026-07-21T19:01:31.423",
+          "description": "  MedicalJobsAustralia.com     Registered Nurse and-or Registered Midwife | Child and Family Health | Permanent Full-time- Part-time various positions available | Rotating roster 24 hours- 7 days per week | Tresillian Canterbury\n\nReference Number: Tresillian 55-2026\n\nEmployment Status: Permanent Full-time- Part-time positions | Rotating roster 24 hours- 7 days per week | Canterbury Residential Unit\n\nEnterprise Agreement: The Named NSW (Non-Declared) Affiliated Health Organisation Nurses Agreement 2017\n\nVaccination Category: CAT A\n\n Location: Tresillian Canterbury Residential Unit, 2 McKenzie Street, Belmore NSW\n\nPLEASE ADVISE YOUR PREFERENCE OF HOURS ON YOUR APPLICATION\n\nDo you want a job that engages all your skills and aspirations and delivers therapeutic programs in a way that truly make a difference to parents with young children?\n\nDo you want to work with the largest Child and Family Health organisation with sites across NSW, the ACT and Tasmania?Is this a career direction you would be interested in developing further? You would be working in a supportive learning environment, surrounded by a caring clinical team, with access to regular professional development, enhancing skills and career opportunity. The role involves working within a team of multidisciplinary clinicians.\n\nDoes this sound like a work domain with favourable conditions, all while transitioning to CFH practice?\n\n If so, then Tresillian would like to hear from you.\n\nTresillian is currently recruiting for Registered Nurse and-or Midwife with Child and Family Health (CFH) post graduate qualifications or *working towards CFH qualification (*applicants must provide evidence of enrolment and or transcript of course progress) to our Canterbury Residential Unit which provides care 24 hours per day, 7 days a week rotating roster.These positions will be involved in the provision of quality child and family health services to families caring for children 0-3 years of age within a Tresillian service.\n\nThe CFH RN-RM will use a strength-based and wellness focus, building on parental confidence and skills through the provision of information, education, resources, guidance, and role modelling safe responsive care. The CFH clinician, utilising evidenced based screening and assessment tools, uses their family partnership skills to identify health variations or family vulnerabilities to negotiate individual care plans and discharge pathways to meet the goals of the family.\n\nAbout us:\n\nThe Royal Society for the Welfare of Mothers and Babies, trading as Tresillian, is a not-for-profit organisation which was formed in 1918 to coordinate early child and maternal health care services in New South Wales (NSW). Tresillian is now the largest early child and family health and parenting service in Australia, operating from more than 25 centres across NSW, the ACT and Tasmania.\n\nTresillian is a Certified Child Safe Leader and is dedicated to creating a workplace environment where children's rights are recognised and championed.\n\nTresillian operates throughout NSW, the ACT and Tasmania, providing early parenting services including health and parenting assessments; parenting advice; education; and support to families via a range of service delivery models including centre-based day programs, home visiting, telehealth, helpline, internet, virtual residential and face to face residential services. In addition, Tresillian provides education, training, and consultancy across a range of sectors including within the health care service and higher education. For further information on Tresillian, please visit our website https:--www.tresillian.org.au\n\nCurrent authority to practice as a Registered Nurse and-or Midwife with the Australian Health Practitioner Regulation Agency (AHPRA).\n\nPostgraduate-post registration qualifications in Child and Family Health or *working towards (*must be enrolled with a tertiary facility and provide evidence of enrolment).\n\nUnderstanding of, and commitment to, evidence-based practice.\n\nDemonstrated experience in attending to the physical, social, and emotional needs of children, and their families.\n\nDemonstrated knowledge and understanding of the principles of population health and primary health care.\n\nDemonstrated knowledge and understanding of the principles and skills of working in partnership and the principles that underpin NSW SafeStart, within a multidisciplinary team environment.\n\nDemonstrate effective verbal and written communication and negotiation skills, including computer literacy.\n\nCurrent NSW Drivers Licence Class C\n\nWhat We Offer: 1) Generous salary packaging up to $15,900 per FBT year and Meal & Entertainment on top of this amount utilising an additional $2,650 (as a Not-for-profit and registered Health Promotion Charity).2) Opportunity to access a large range of clinical and non-clinical education programs, including access to study leave, extended child and family health practice skills for clinicians and a biannual Tresillian conference.3) Access to our free and confidential Employee Assistance Program.4) Access to Fitness Passport for eligible staff.5) Applicants who currently work within NSW Health or another Affiliated Health Organisation may be able to transfer their service and leave entitlements to Tresillian.\n\nThis position requires a Working with Children Check (WWCC) issued by the Office of the Children's Guardian. For more information and how to apply, please visit the Office of the Children's Guardian websitewww.kidsguardian.nsw.gov.au-working-with-children-working-with-children-check\n\nAppropriate criminal record and child protection checks are conducted for all successful candidates. Employment with Tresillian is subject to having current immunity status that complies with the Assessment, Screening & Vaccination against Specified Infectious Diseases - Policy Directive Immunisation History Complies with NSW Health Policy Directive PD2026_004. Appointment and ongoing employment will be subject to continued compliance with the Policy Directive.\n\nHow to apply:Interested applicants need to email the following documentation directly to the contact person provided:1) Cover letter addressing the selection criteria.2) Curriculum Vitae.3) Name and contact details of two referees (phone and email).\n\nPlease note: In accordance with NSW Health policy, priority will be given to Australian citizens and permanent residents. A person who is not an Australian citizen or permanent resident is only eligible for temporary employment for a period not longer than the duration of their current visa or the advertised position.\n\nFor further enquiries regarding the position or a copy of the job description please contact:Nurse Unit Manager IMs Amanda Bamford I Tresillian Canterbury Residential | Phone: (02) 9123 8804 | Mobile: 0448 980 397 | Email: Amanda.Bamford@health.nsw.gov.au    Click here to Apply now → ",
+          "displayFromDate": "2026-07-21T00:00:00",
+          "employerId": "CfDJ8Nn8cBBigUhPiuiVER7neZqJvHOAW8q5dnZ_fROFQGrCYdxR5pa5lPBHM-cqJPJFcL7PGtnjappMHy33pPWgsbR3VSBeQ4c6dRALSIXaSFE6jQOdDCmAmwlCxwkkyJNdgQ",
+          "employerName": "Medical Jobs Australia",
+          "expiryDate": "2026-08-20T10:00:00",
+          "howToApplyCode": "PSD",
+          "industry": {
+            "code": "112",
+            "label": "Admin & Office"
+          },
+          "isApplyOnlineJob": false,
+          "isExternalJob": false,
+          "isFavourite": false,
+          "isIndigenousJob": false,
+          "isNewJob": false,
+          "jobType": {
+            "code": "H",
+            "label": "Normal position"
+          },
+          "latitude": "-28.84169791000",
+          "location": {
+            "code": "29FRNC",
+            "label": "NSW - Regional - Far North Coast "
+          },
+          "logoUrl": "/api/v1/global/vacancies/logos/cms?code=PX28",
+          "longitude": "153.5600298",
+          "modifiedDate": "2026-07-22T20:00:06.86",
+          "occupation": {
+            "code": "542112",
+            "label": "Admissions Clerk"
+          },
+          "organisation": {
+            "code": "VVNW",
+            "label": "MedicalJobsAustralia"
+          },
+          "positionsAvailable": 10,
+          "postCode": "2478",
+          "salary": {
+            "code": "SLNS",
+            "label": "Not Specified"
+          },
+          "site": {
+            "code": "PX28",
+            "label": "MedicalJobsAustralia"
+          },
+          "state": "NSW",
+          "suburb": "Ballina",
+          "tenure": {
+            "code": "N",
+            "label": "Contract position"
+          },
+          "title": "Registered Nurse and/or Registered Midwife | Child and Family Health | Permanent Full-time/ Part-time various positions available | Rotating roster...",
+          "vacancyId": 2351485734,
+          "workType": {
+            "code": "C",
+            "label": "Casual position"
+          }
+        }
+      },
+      {
+        "score": 4.2829247,
+        "result": {
+          "contractType": null,
+          "creationDate": "2026-07-10T19:02:56.487",
+          "description": "  MedicalJobsAustralia.com     Recruitment Consultant\n\n\n\n Apply now\n Job no: 937620\n\n Work type: Full time\n\n Location: Adelaide CBD\n\n Categories: Human Resources and WHS\n\n\n\n\n\n \n\nBarossa Hills Fleurieu Local Health Network \n\nPeople & Culture - Adelaide \n\nSalary: $92,122 per annum - $102,456 per annum\n\nMultiple Full-time, Ongoing & Temporary Opportunities available\n\nWHAT ARE WE OFFERING? \n\nJoin our People and Culture team as a Recruitment Specialist and play a key role in delivering best-practice recruitment, selection and onboarding services across the network. In this dynamic position, you will provide expert advice and consultancy to managers and selection panels, ensuring recruitment processes are fair, compliant, efficient and aligned with contemporary workforce practices. You will support a broad range of recruitment activities, including large-scale campaigns, international recruitment, visa and relocation processes, stakeholder engagement, and the effective use of e-recruitment systems. Working closely with leaders and business units, you will help attract and secure high-quality talent while delivering an exceptional candidate and hiring manager experience. \n\nThis role offers the opportunity to lead innovative recruitment projects, drive continuous improvement initiatives, and contribute to workforce planning and talent attraction strategies. You will analyse recruitment data, identify opportunities to enhance processes and customer service, develop and deliver recruitment training programs, and collaborate with key stakeholders to implement modern recruitment solutions across the organisation. If you are a proactive human resources professional with strong consultancy skills, a passion for innovation, and a commitment to delivering outstanding recruitment outcomes, this is an exciting opportunity to make a meaningful impact. \n\nWHO ARE WE? \n\nThe Barossa Hills Fleurieu Local Health Network offers opportunities across our sites, from Kangaroo Island to Eudunda, wrapping all the way around our metropolitan areas. We pride ourselves on providing exceptional care to all our consumers, residents, their families, and community. Our mission is to ensure that you always receive the best quality, safe, consistent, collaborative care and always with kindness. We do this by maintaining exceptional levels of care at all times supported by systems and processes that assure us of quality and safety of our staff and those we serve. \n\n WHERE AND HOW YOU WILL WORK \n\nIn this role you will be required to work in our Regional Offices in the Adelaide CBD 2 - 3 days per week and enjoy working from home or from one of our many sites on other days of the week - flexibility is offered in regard to what days you work in the city to assist you in creating a work-life balance. Enjoy the flexibility of being mobile whilst supporting our sites across our region. \n\nWHO ARE WE LOOKING FOR? \n\nDo you have a passion for attracting, engaging and securing high-quality talent through contemporary recruitment and selection practices? \n\nAre you commited to delivering exceptional customer service, building trusted relationships and providing professional advice to managers, candidates and stakeholders? \n\nCan you identify opportunities for innovation, continuous improvement and process optimisation to enhance recruitment outcomes and efficiency? \n\nDo you have great communication, influencing and consultancy skills, with the confidence to guide and support stakeholders through complex recruitment matters? \n\nAre you proactive, solutions-focused with the ability to lead projects, manage competing priorities and drive positive workforce outcomes in a fast-paced environment? \n\nIf you have answered yes to any of these questions - then read on. \n\nHOW WILL YOU CONTRIBUTE? \n\nIn this role you will..... \n\nlead and coordinate end-to-end recruitment, selection and onboarding processes while ensuring compliance with legislation, policies and best-practice workforce standards. \n\nprovide expert advice and consultancy to managers and selection panels on recruitment strategies, merit-based selection, talent attraction and workforce planning initiatives. \n\nmanage large-scale and specialised recruitment campaigns, including international recruitment, visa and relocation processes, to attract and secure high-quality talent. \n\nidentify opportunities for continuous improvement by analysing recruitment data, reviewing processes and implementing innovative solutions that enhance service delivery and candidate experience \n\ndevelop and deliver training, resources and recruitment projects that build stakeholder capability and maximise the use of contemporary recruitment tools and e-recruitment systems. \n\nWHAT WILL WE OFFER YOU IN RETURN? \n\nAt BHFLHN, not only will you be working in an environment surrounded by beautiful scenery and nature we see your work here not just as a job, but an opportunity to extend, progress or consolidate your career with us. We therefore offer you opportunities to be supported in the following ways: \n\nSalary package a range of benefits (including living expenses such as mortgage, rent, utility bills and groceries) up to $9,010 each FBT year + $2,650 for Meal Entertainment expenses each FBT year Click here more information \n\nAccess to generous leave provisions and professional development opportunities. \n\nSupport for you and your family via our free Employee Assistance Program. \n\nHealth and Fitness Benefits: Access to Fitness Passport, a discounted workplace health and fitness program available to BHFLHN staff and their families. \n\nWHAT ELSE DO YOU NEED TO KNOW-WHAT IS ESSENTIAL FOR SUCCESS? \n\nWorking in this environment, it is important to us that we only employ people with the upmost integrity and commitment to serving the South Australian community and its visitors to the highest possible standards. To ensure that we meet that commitment there are a few checks that you will be required to undertake. These are detailed on the Role Description, but are likely to include the following: \n\nYou will need to be immunised. Please contact the Enquiries Person for this position if you have any queries. Addressing vaccine preventable disease: Occupational assessment, screening and vaccination policy. Further information is in the application for to help guide you. \n\nYou will need to undergo employment screening, what you require is also on the front page of the Role Description. \n\nOUR COMMITMENT TO DIVERSITY & INCLUSION \n\nWe employ people as diverse as the clients we support and the environments we work in. At BHFLHN we pride ourselves on being an Equal Opportunity employer committed to providing an inclusive workplace that embraces diversity and inclusion for all employees and therefore we encourage applications from people of Aboriginal and Torres Strait Islander descent, culturally diverse backgrounds, disability, all genders, and LGBTQI+ community. We continually look for ways to support and promote diversity and flexible ways of\n\nClick here for more details: https://www.medicaljobsaustralia.com/jobs/559899/    Click here to Apply now → ",
+          "displayFromDate": "2026-07-10T00:00:00",
+          "employerId": "CfDJ8Nn8cBBigUhPiuiVER7neZqV2REJ8hSFP3617WyBiLnlwbezo_pljImGQEHNIOhzp-3I8hLhYAA_fo3M-oF7ydPm_MenLr5FzbB2hMrgecjsk8XGOrVxAFFetNLz6w82UQ",
+          "employerName": "Medical Jobs Australia",
+          "expiryDate": "2026-08-09T10:00:00",
+          "howToApplyCode": "PSD",
+          "industry": {
+            "code": "112",
+            "label": "Admin & Office"
+          },
+          "isApplyOnlineJob": false,
+          "isExternalJob": false,
+          "isFavourite": false,
+          "isIndigenousJob": false,
+          "isNewJob": false,
+          "jobType": {
+            "code": "H",
+            "label": "Normal position"
+          },
+          "latitude": "-34.52177446000",
+          "location": {
+            "code": "59BRSS",
+            "label": "SA - Regional - Barossa "
+          },
+          "logoUrl": "/api/v1/global/vacancies/logos/cms?code=PX28",
+          "longitude": "138.96027792999",
+          "modifiedDate": "2026-07-13T20:00:14.867",
+          "occupation": {
+            "code": "542112",
+            "label": "Admissions Clerk"
+          },
+          "organisation": {
+            "code": "VVNW",
+            "label": "MedicalJobsAustralia"
+          },
+          "positionsAvailable": 10,
+          "postCode": "5352",
+          "salary": {
+            "code": "SLNS",
+            "label": "Not Specified"
+          },
+          "site": {
+            "code": "PX28",
+            "label": "MedicalJobsAustralia"
+          },
+          "state": "SA",
+          "suburb": "Tanunda",
+          "tenure": {
+            "code": "N",
+            "label": "Contract position"
+          },
+          "title": "Recruitment Consultant Apply now Job no: 937620 Work type: Full time Location: Adelaide CBD Categories: Human Resources and WHS Barossa Hills Fleur...",
+          "vacancyId": 2351054673,
+          "workType": {
+            "code": "C",
+            "label": "Casual position"
+          }
+        }
+      },
+      {
+        "score": 4.2829247,
+        "result": {
+          "contractType": null,
+          "creationDate": "2026-07-17T19:00:41.33",
+          "description": "  MedicalJobsAustralia.com     Employment Type: Permanent Full Time - Permanent Part Time\nPosition Classification: Registered Nurse\nRemuneration: $41.23 - $57.88 per hour plus superannuation\nHours Per Week: 38\nRequisition ID: REQ678561\nApplications Close: Sunday 2 August 2026\n\nRegistered Nurse, Community Health, Prince of Wales Hospital\n\nAre you ready for a new experience?\n\nWe are looking for passionate and dedicated Registered Nurses to join our Community Health Unit at Prince of Wales Hospital.\n\nAt Prince of Wales Hospital, we embrace the Person-Centred Practice Framework as the foundation of our care. This approach is embedded in our everyday practice, ensuring that each individual's care experience is at the heart of what we do.\n\nWe are committed to supporting our staff and prioritising their wellbeing, creating a positive and collaborative work environment where you can thrive.\n\nJoin us and be part of a team that values compassion, respect, and excellence in care.\n\nBenefits\n\nA workplace culture with a foundation that promotes person centred care approaches and staff wellbeing\n\nOrientation and supported transition into your new role\n\nTargeted clinical stream education programs affiliated with university partners\n\nDevelopment pathways that are aimed at career progression\n\nUp to 12 allocated days off each year (for full-time employees) in addition to annual leave\n\nSalary Packaging options that reduce your taxable income and increase your take-home pay! Up to $9K for living expenses and $2.6K meal & entertainment & Novated Leasing\n\nCorporate health and fitness program, discounted gym memberships with a Fitness Passport\n\nEmployee Assistance Program (EAP) for employees and family members\n\nDiscounted Private Health Insurance\n\nEstablished partnerships with Universities that promote cutting edge research in well being, education and teaching.\n\nOpportunity to apply for Continuing Education allowance based on tertiary qualifications attained where applicable\n\nOpportunity to obtain Clinical Nurse Specialist status where relevant\n\nFor more information on careers and benefits of working for SESLHD, visit our page. \n\nThe Role\n\nAs a Registered Nurse in the Community Health unit at Prince of Wales Hospital, the role involves delivering high-quality, person-centred care in accordance with the Nursing and Midwifery Board of Australia Standards of Practice. The nurse is responsible for coordinating and implementing nursing care, including comprehensive assessment, planning, intervention, and evaluation, to support patients in achieving optimal health outcomes. \n\nThis includes maintaining accurate and timely clinical documentation, communicating effectively with patients, carers, and the multidisciplinary team, and delegating and supervising care provided by Enrolled Nurses and Assistants in Nursing within their scope of practice. The role also encompasses participation in quality improvement initiatives, clinical supervision, and ongoing professional development, while adhering to NSW Health and SESLHD policies, demonstrating CORE values, and promoting a culture of wellbeing and exceptional care.\n\nWhere You'll be Working\n\nPrince of Wales Hospital and Community Health Service is a Level 6 Tertiary Referral Hospital with an inpatient bed base of 370. Each year we care for more than 70,000 patients in our Emergency Department and have around 50,000 admissions to the inpatient units. POWH offers an outpatient service and rural outreach service and provides more than 900,000 occasions of non-admitted patient care each year, including innovative virtual models of care. We have transitioned the majority of inpatient units and wards to the Acute Services Building (ASB) including a state of the art Emergency Department and Intensive Care Unit. POWH provides an exceptional staff experience and enhanced patient and family outcomes as a result of the provision of person-centred care.\n\nRandwick Local council is renowned for our world-class beaches and supported by cafes and restaurants to tickle your taste-buds, Randwick's fascinating coastline and atmosphere will have you in awe the minute you arrive. Offering a mix of historic buildings, impressive beaches and coastal walks coupled with boutique restaurants, transport links and a vibrant nightlife, you'll never be short of things to do in this progressive community.\n\nSelection Criteria\n\nTo be considered for this position, please ensure you address the below questions as thoroughly as possible.\n\n \n\nRegistered with the Australian Health Practitioner Regulation Agency (AHPRA) as a Registered Nurse- Midwife. Current NSW Drivers Licence.\n\nDemonstrated recent clinical experience as a Registered Nurse- Midwife that applies to aged care nursing in either the acute or community settings.\n\nDemonstrated high level written and verbal communication skills, interpersonal skills and be able to identify key messages, issues and concerns when communicating with others.\n\nAbility to work as part of an interdisciplinary team and apply professional and ethical boundaries when dealing with complex situations.\n\nCurrent computer skills and proven ability to use health information systems, and a commitment to working in a mobile computer environment.\n\nDemonstrated experience in comprehensive assessment of client.\n\nDemonstrated application of evidence-based practice and critical thinking to patient care.\n\nDemonstrated ability to effectively prioritise and organise own workload, working independently as a member of a multidisciplinary team\n\nNeed more information? \n\n 1) Click here for the Position Description and SESLHD Expected Standards\n 2) Find out more about applying for this position\n\nFor role related queries or questions contact Patricia Comerford on Patricia.Comerford@health.nsw.gov.au\n\nOur CORE Values are Collaboration, Openness, Respect and Empowerment and have been created by employees for employees and help define how we work and to inspire positive interactions in the workplace.\n\nWe embrace diversity as our strength and are committed to maintaining an inclusive and collaborative work environment. Our workplaces are welcoming and safe for all our employees, irrespective of their unique characteristic including age, ethnicity, cultural or spiritual background, gender identity, disability, education and social-economic status. Read about our Diversity, Inclusion and Belonging Strategy for more information.\n\nReasonable Adjustments\n\nNSW Health recognises everyone is unique, and that you may require some adjustments to ensure you have the best opportunity to apply. If we can make some adjustments to the NSW Health recruitment-interview process, then please email SESLHD-Recruitment-POWH-SSEH@health.nsw.gov.au and let us know.\n\nAdjustments may include but are not limited to, physical requirements, interview setups and specific interview availability times where required.\n\nInformation for Applicants:\n\nAn eligibility list may be created for future vacancies\n\nEmployment of a temporary visa holder may\n\nClick here for more details: https://www.medicaljobsaustralia.com/jobs/604542/    Click here to Apply now → ",
+          "displayFromDate": "2026-07-17T00:00:00",
+          "employerId": "CfDJ8Nn8cBBigUhPiuiVER7neZpxuSDGMOYTQIzcmX_SOUsmkGc4lPkKL1pEvsxvSWjYgRJdco-oDE_yHEmvjdvQZLpkOpqMby7JmHmrRgZ0_-qyfRVX4xBoOIKbtyYYopsA-Q",
+          "employerName": "Medical Jobs Australia",
+          "expiryDate": "2026-08-16T10:00:00",
+          "howToApplyCode": "PSD",
+          "industry": {
+            "code": "112",
+            "label": "Admin & Office"
+          },
+          "isApplyOnlineJob": false,
+          "isExternalJob": false,
+          "isFavourite": false,
+          "isIndigenousJob": false,
+          "isNewJob": false,
+          "jobType": {
+            "code": "H",
+            "label": "Normal position"
+          },
+          "latitude": "-34.52177446000",
+          "location": {
+            "code": "59BRSS",
+            "label": "SA - Regional - Barossa "
+          },
+          "logoUrl": "/api/v1/global/vacancies/logos/cms?code=PX28",
+          "longitude": "138.96027792999",
+          "modifiedDate": "2026-07-20T20:00:23.833",
+          "occupation": {
+            "code": "542112",
+            "label": "Admissions Clerk"
+          },
+          "organisation": {
+            "code": "VVNW",
+            "label": "MedicalJobsAustralia"
+          },
+          "positionsAvailable": 10,
+          "postCode": "5352",
+          "salary": {
+            "code": "SLNS",
+            "label": "Not Specified"
+          },
+          "site": {
+            "code": "PX28",
+            "label": "MedicalJobsAustralia"
+          },
+          "state": "SA",
+          "suburb": "Tanunda",
+          "tenure": {
+            "code": "N",
+            "label": "Contract position"
+          },
+          "title": "Registered Nurse - Community Health",
+          "vacancyId": 2351343009,
+          "workType": {
+            "code": "C",
+            "label": "Casual position"
+          }
+        }
+      },
+      {
+        "score": 4.2829247,
+        "result": {
+          "contractType": null,
+          "creationDate": "2026-07-18T19:02:55.08",
+          "description": "  MedicalJobsAustralia.com     Monash Health exists to reimagine care, so that people can live their best lives. \n\n\n\n\n\n\nWe provide safe and equitable care, for every stage of life, delivered with world-leading expertise and over 175 years of experience. \n\n\n\n\n\n\nAs a leading academic health service, we're committed to providing tomorrow's care today by integrating research, teaching and training into everyday practice. \n\n\n\n\n\n\nOur team of 24,000 people are full hearted, open minded and all in. Together, we provide more than 250 integrated services for every stage of life at over 50 locations and in the community across south-east Melbourne, Victoria, serving 1.2 million residents in the South Metro Local Health Service Network. \n\n\nAre you currently part of the team at Monash Health? Use your network login to access the Monash Health Careers portal and discover all the job opportunities open to you, to support growing your career within the organisation.\n\n\n\n\nTo see first-hand what our colleagues think about working here, take a look at the following short videos monashhealth.org-careers.\n\nHelp shape the next chapter of maternity care\n\n\nJoin a growing service where your expertise makes a lasting difference.\n\n\nOpportunity to join the leadership team at Casey Hospitals Birth Suite and PAU to lead the provision of best practice care supporting women and Maternity staff\n\n\n\n\n\nMake your mark in leadership with an ongoing opportunity\n\n\nShowcase your clinical excellence and leadership skills \n\n\nA strong communicator will thrive in this critical role\n\n\n\n\nEvery birth is unique. Every family deserves exceptional care. And every midwife deserves the opportunity to work in a service that's investing in its people and its future.\n\n\nAt Monash Women's at Casey Hospital, we're expanding to meet the needs of one of Melbourne's fastest-growing communities. As our maternity service continues to grow, we're looking for experienced Registered Midwives who are ready to be part of an exciting new chapter.\n\n\nAbout the role\n\n\nJoin our team as a Associate Midwife Manager with multiple part-time opportunities to work at Birth Suite - PAU based at Casey\n\n\n\nAs a key member of our team, you'll play a vital role in ensuring the smooth operation of our Birth Suite and PAU, leading clinical activities, and enhancing patient care outcomes. This role provides the opportunity to develop your leadership skills and contribute to high-quality, compassionate care for women.\n\n\n\nKey Responsibilities:\n\n\n\n\nAssist the Midwife Manager in overseeing the day-to-day operations of the department ensuring a positive and efficient environment for both staff and patients.\n\n\nSupport staff with escalating care as required, ensuring timely follow-up and facilitating smooth care pathways for patients.\n\n\nFacilitate the care of high-risk patients by ensuring proper coordination of care and maintaining effective communication with the broader healthcare team.\n\n\nContribute to service improvements through involvement in various projects and initiatives.\n\n\nMentor and guide junior midwifery staff, offering advice and practical guidance to foster development.\n\n\nWork collaboratively with other healthcare professionals to ensure holistic and patient-centered care.\n\n\n\n\nThe opportunity is Ongoing fulltime or part time positions available - working across a rotating roster, 7 days a week.\n\n\nAbout Monash Women's at Casey\n\n\nLocated in Melbourne's rapidly growing south-east, Casey Hospital is a contemporary, purpose-built facility caring for one of Victoria's most diverse and vibrant communities.\n\n\nOur maternity service includes:\n\n\n\nContemporary birthing suites\n\n\nAntenatal and specialist clinics\n\n\nComprehensive postnatal services\n\n\nA welcoming, inclusive and collaborative team\n\n\n\nGuided by Monash Health's Care, Reimagined 2026-2031 strategy, we're delivering care beyond the hospital walls, embracing innovation and creating a workplace where our people can do their best work every day.\n\n\nAbout you\n\n\nYou're an experienced Registered Midwife who is passionate about delivering safe, respectful and culturally responsive care.\n\n\nYou'll bring:\n\n\n\nCurrent AHPRA registration as a Registered Midwife\n\n\nRecent experience across maternity services\n\n\nStrong clinical judgement and communication skills\n\n\nA commitment to woman-centred care\n\n\nFlexibility to work across a rotating roster\n\n\n\nMost importantly, you'll bring compassion, curiosity and a genuine desire to make a difference for women, babies and families.\n\n\nWhy Casey?\n\n\nWith more than 4,000 births each year, Casey Hospital offers the perfect balance of high-acuity clinical experience and genuinely woman-centred care. Our service is entering an exciting period of growth, with services such as Midwifery Group Practice (MGP) and Homebirth as our service expands.\n\n\nWhether you're passionate about clinical excellence, mentoring others or helping shape innovative models of care, you'll find the support, opportunities and team culture to thrive.\n\n\nWhat you'll enjoy\n\n\n\nA modern maternity service with diverse clinical experiences\n\n\nDedicated Midwifery Educators and Clinical Support staff invested in your development\n\n\nOpportunities to expand your scope of practice as our service grows\n\n\nA collaborative team culture where your ideas and experience are valued\n\n\nOpportunities to mentor students and early career midwives\n\n\nInvolvement in quality improvement, research and evidence-based practice\n\n\n\nThis is more than your next role-it's an opportunity to help shape the future of maternity care.\n\n\nReady to grow with us?\n\n\nIf you're looking for a role where your expertise is valued, your career can flourish and every day brings the opportunity to make a meaningful difference, we'd love to hear from you.\n\n\nJoin Monash Women's at Casey and help shape the future of maternity care.\n\n\n\nFor a confidential discussion and to explore this opportunity further, please reach out to Acting Manager Mel Blacker on mobile 0455320152\n\n\n\nPosition Description can be found here\n\n\n\n\n\nOur Culture and Values \n\n\n\n\n\n\nAt Monash Health, our people are at the heart of everything we do. Our culture is inclusive, supportive and future-focused, underpinned by clear values and a commitment to continuous improvement. \n\n\n\n\n\n\n\nOur teams play a critical role in bringing our new strategy to life, challenging traditional approaches, embracing innovation, and ensuring every appointment reflects our commitment to equity, transparency and excellence. \n\n\n\n\n\n\n\nYou'll be encouraged to share ideas, contribute to improvement initiatives, and grow alongside experienced professionals who are passionate about what they do. \n\n\n\n\n\n\n\nWe are Full Hearted, Open Minded and All In, enabling excellent service delivery and a positive candidate and employee experience every time. \n\n\n\n\n\n\n\nWe recognise the value of equal employment opportunity. We are committed to patient safety, promoting fairness, equity and\n\nClick here for more details: https://www.medicaljobsaustralia.com/jobs/612311/    Click here to Apply now → ",
+          "displayFromDate": "2026-07-18T00:00:00",
+          "employerId": "CfDJ8Nn8cBBigUhPiuiVER7neZohkd1VtmmCO3mqvIPq07dHX2iCgMk5ypTLdayWUrXKXlIFfZbZQJgOkhHNbEznA2_6D5ER8qg15Z20Ysot4uLsCbP-c6BSoHdgyjKniYRU3g",
+          "employerName": "Medical Jobs Australia",
+          "expiryDate": "2026-08-17T10:00:00",
+          "howToApplyCode": "PSD",
+          "industry": {
+            "code": "112",
+            "label": "Admin & Office"
+          },
+          "isApplyOnlineJob": false,
+          "isExternalJob": false,
+          "isFavourite": false,
+          "isIndigenousJob": false,
+          "isNewJob": false,
+          "jobType": {
+            "code": "H",
+            "label": "Normal position"
+          },
+          "latitude": "-37.82503942000",
+          "location": {
+            "code": "71CBDS",
+            "label": "VIC - Melbourne - CBD & Surrounds"
+          },
+          "logoUrl": "/api/v1/global/vacancies/logos/cms?code=PX28",
+          "longitude": "144.97151194",
+          "modifiedDate": "2026-07-21T10:30:12.877",
+          "occupation": {
+            "code": "542112",
+            "label": "Admissions Clerk"
+          },
+          "organisation": {
+            "code": "VVNW",
+            "label": "MedicalJobsAustralia"
+          },
+          "positionsAvailable": 10,
+          "postCode": "3000",
+          "salary": {
+            "code": "SLNS",
+            "label": "Not Specified"
+          },
+          "site": {
+            "code": "PX28",
+            "label": "MedicalJobsAustralia"
+          },
+          "state": "VIC",
+          "suburb": "Melbourne",
+          "tenure": {
+            "code": "N",
+            "label": "Contract position"
+          },
+          "title": "Associate Midwife Manager - Core Birth Suite/PAU",
+          "vacancyId": 2351350582,
+          "workType": {
+            "code": "C",
+            "label": "Casual position"
+          }
+        }
+      },
+      {
+        "score": 4.2573833,
+        "result": {
+          "contractType": null,
+          "creationDate": "2026-07-09T19:02:13.023",
+          "description": "  MedicalJobsAustralia.com     Job Description:\n\nExcellent benefits including salary packaging\n\nFriendly and supportive team environment\n\nPermanent, part time, (15.2 hours per week) \n\nAbout the Role\nYou will be responsible for the support and professional supervision of Occupational Therapy graduates and novice learners in the Mental Health and Addiction Medicine program. You will liaise with stakeholders to ensure all governance and clinical requirements of the program are met.\n\nProvide strong and effective leadership in Occupational Therapy Clinical Education\n\nEnsure the Allied Health Mental Health Graduate program aligns with the Department of Health model and guidelines\n\nPromote a culture of reflection and continuous development\n\nThe classification for this position is Occupational Therapy Clinical Educator Grade 5 AJ15 ($147,394 per annum pro rata).\n\nYour Contribution \n\nMinimum of ten years post graduate experience in mental health\n\nBachelor Occupational Therapy or Masters\n\nA valid Nationally Coordinated Criminal History Check, or willing to obtain\n\nWhat we Offer\n\nA focus on wellbeing initiatives, with regular events and programs\n\nConfidential, solutions-focused employee counselling\n\nA healthy work-life balance encouraged. Full time employment comes with a monthly Accrued Day Off (additional day off per month!)\n\nAbility to join Fitness Passport - Your pass to an extensive choice of fitness facilities\n\nSalary Packaging - Increase your take home pay!\n\nDiscounts and Promotions always available through our Foundation\n\nRegular opportunities for professional development to assist you to reach your career goals\n\nCulture of continuous improvement\n\nAbout Mental Health and Addiction Medicine \nThe program provides high-quality, recovery-oriented services for adults and older adults in the Cities of Yarra and Boroondara and parts of Darebin. A strengths model of recovery is embedded across all parts of the mental health service.\n\nWorking at St Vincent's \nSt Vincent's Hospital Melbourne (SVHM) is a leading teaching, research and tertiary health service. SVHM provides a diverse range of adult clinical services and is driven by values of Compassion, Justice, Integrity and Excellence.\n\nApplication\n\nPlease contact Alexandra Savage, General Manager Mental Health & Addiction Medicine for a copy of the position description alexandra.savage@svha.org.au \n\nPlease attach your resume and cover letter to your application.\n\nShortlisting for this position will commence immediately. We encourage you to apply promptly as the advertisement may close early should a suitable applicant be sourced.\n\nWe encourage applications from people of all backgrounds and abilities. Inclusion is essential to our mission and diversity reflects the community we serve. \n\nPlease visit our website, for further information regarding our Aboriginal and Torres Strait Islander Employment at SVHM\n\nSVHA has a duty of care under work health and safety legislation to eliminate and-or control the risk of transmission of vaccine preventable diseases in healthcare settings. You may therefore be required to undergo mandatory immunisations-vaccinations (including flu vaccinations).\n\nLOCAL WORK ENVIRONMENT\n\nSt. Vincent's Hospital Melbourne (SVHM) Mental Health & Wellbeing Program includes an adult area mental health and wellbeing service for the inner city areas of Yarra and Boroondara. The adult mental health service components are: the Footbridge Community Care Unit (CCU), the 44 bed Acute Inpatient Service (AIS) located on the St. Vincent's Hospital site, and two community mental health services (CMHS) at Hawthorn and East Melbourne (Clarendon CMHS). Community mental health services comprise Continuing Care (CCT), Mobile Support and Treatment (MST), Homeless Outreach (CHOPS), Perinatal Emotional Health and Public Housing Tenancy Support (STAY) services. The adult prevention and recovery care (PARC) service provides a short-term, intensive residential service with a recovery focus. A Consultation & Liaison Psychiatry Service is provided to the health service. NEXUS Dual Diagnosis Service, the Body Image and Eating Disorders Assessment and Treatment Service (BETRS) are regional services. The Community Acute Response Team (CART) is comprised of the Triage and Crisis assessment and Treatment (CAT) service, Emergency Department Mental Health (EDMH) and Emergency Department Mental Health & AOD Hub, Extended Triage and Hospital Post-Suicidal Engagement (HOPE) services. State-wide services are the Victorian Dual Disability Service, the Victorian Transcultural Mental Health Unit and Dual Diagnosis Education and Training Unit. The AIS includes 5 beds designated as the Koori State-wide Inpatient Service and linked to the Victorian Aboriginal Health Service.\n\nPOSITION PURPOSE\n\nThe Occupational Therapy Educator Mental Health & Wellbeing is a role that has been established as part of a grant from the Victorian Department of Health following recommendations from the Royal Commission into Victoria's Mental Health System. The role has been funded by the Victorian Department of Health for a fixed period until December 2025 to support the implementation of the Statewide Early Careers Initiative.\n\nThe Occupational Therapy Educator is responsible for the support, professional supervision and management of Occupational Therapy graduates and novice learners in the Mental Health & Wellbeing and Addiction Medicine Program.\n\nThe incumbent will liaise with key stakeholders within operational teams and the Mental Health Education Team, to ensure all governance and clinical requirements of the program are met in accordance with the terms of the Victorian Allied Health Mental Health graduate program.\n\nThe program management encompasses direct learner support, marketing as required, bulk intake recruitment, supporting performance issues, learner health and wellbeing, planning, delivery and evaluation of formal study day programs, monitoring of program requirements and managing rotations of learners across the health service.\n\nThe role will also contribute to the delivery of education and support more broadly across the organisation within a multidisciplinary and interprofessional environment.\n\nPOSITION DUTIES\n\nProvide strong and effective leadership in the area of Allied Health Clinical Education\n\nImplement and maintain the Allied Health Mental Health Graduate Program in line with the Department of Health Model requirements and recommendations\n\nWork collaboratively with the Occupational Therapy Discipline lead to further develop Allied Health-Occupational Therapy Clinical Education\n\nPromote a culture of reflection, continuous learning, and workforce development.\n\nDevelop effective working relationships with operational managers and ensure that graduates are provided with the appropriate level of support\n\nParticipates and contributes to the MH Education Team meetings and initiatives\n\nPromote the development, identification and implementation of evidence based practice\n\nPromote participat\n\nClick here for more details: https://www.medicaljobsaustralia.com/jobs/553387/    Click here to Apply now → ",
+          "displayFromDate": "2026-07-09T00:00:00",
+          "employerId": "CfDJ8Nn8cBBigUhPiuiVER7neZpb5RSBsh_cASZYtSsIfXx2hqhWD3LlLPPYEtppW-NHJsQypa9vkUYvGfGTFzCk0kpzfuu5oGxff1WTXhgVC4t7o5x4ukjJ4xoSJjlPk7qiTA",
+          "employerName": "Medical Jobs Australia",
+          "expiryDate": "2026-08-08T10:00:00",
+          "howToApplyCode": "PSD",
+          "industry": {
+            "code": "112",
+            "label": "Admin & Office"
+          },
+          "isApplyOnlineJob": false,
+          "isExternalJob": false,
+          "isFavourite": false,
+          "isIndigenousJob": false,
+          "isNewJob": false,
+          "jobType": {
+            "code": "H",
+            "label": "Normal position"
+          },
+          "latitude": "-37.82503942000",
+          "location": {
+            "code": "71CBDS",
+            "label": "VIC - Melbourne - CBD & Surrounds"
+          },
+          "logoUrl": "/api/v1/global/vacancies/logos/cms?code=PX28",
+          "longitude": "144.97151194",
+          "modifiedDate": "2026-07-10T20:00:11.863",
+          "occupation": {
+            "code": "542112",
+            "label": "Admissions Clerk"
+          },
+          "organisation": {
+            "code": "VVNW",
+            "label": "MedicalJobsAustralia"
+          },
+          "positionsAvailable": 10,
+          "postCode": "3000",
+          "salary": {
+            "code": "SLNS",
+            "label": "Not Specified"
+          },
+          "site": {
+            "code": "PX28",
+            "label": "MedicalJobsAustralia"
+          },
+          "state": "VIC",
+          "suburb": "Melbourne",
+          "tenure": {
+            "code": "N",
+            "label": "Contract position"
+          },
+          "title": "Mental Health Occupational Therapy Clinical Educator",
+          "vacancyId": 2351033627,
+          "workType": {
+            "code": "C",
+            "label": "Casual position"
+          }
+        }
+      },
+      {
+        "score": 4.1857395,
+        "result": {
+          "contractType": null,
+          "creationDate": "2026-07-20T19:01:29.28",
+          "description": "  MedicalJobsAustralia.com     Registered Nurse and-or Registered Midwife | Child and Family Health | Permanent Part-time 24 hours per week Monday to Friday | Tresillian Griffith\n\nReference Number: Tresillian 24-2025\n\nEmployment Status: Permanent Part-time 24 hours per week\n\nEnterprise Agreement: The Named NSW (Non-Declared) Affiliated Health Organisations Nurses Agreement 2017\n\nVaccination Category: CAT A\n\nLocated in: Tresillian Griffith, 101 Binya Street, Griffith\n\n \n\nAre you passionate about Child and Family Health (CFH)? Qualified, or working toward acquiring your CFHN qualification?\n\nDo you want a job that engages all your skills and aspirations and delivers therapeutic programs in a way that truly make a difference to parents with young children?\n\nDo you want to work with the largest Child and Family Health organisation with sites across NSW, the ACT and Tasmania?Is this a career direction you would be interested in developing further?\n\nYou would be working in a supportive learning environment, surrounded by a caring clinical team, with access to regular professional development, enhancing skills and career opportunity. The role involves working within a team of multidisciplinary clinicians.\n\nDoes this sound like a work domain with favourable conditions, all while transitioning to CFH practice? \n\nIf so, then Tresillian would like to hear from you.\n\nTresillian is currently recruiting for a Registered Nurse and-or Registered Midwife with Child and Family Health (CFH) post graduate qualifications or *working towards CFH qualification (*applicants must provide evidence of enrolment and or transcript of course progress) to our Griffith Centre.\n\nThis position will be involved in the provision of quality child and family health services to families caring for children 0-3 years of age within a Tresillian service. This will be achieved by working within the Tresillian Model of Care, Practice Principles and the NSW Health Professional Practice Framework for Child and Family Health clinicians (CFH).\n\nThe CFH RN-RM will use a strength-based and wellness focus, building on parental confidence and skills through the provision of information, education, resources, guidance, and role modelling safe responsive care. The CFH clinician, utilising evidenced based screening and assessment tools, uses their family partnership skills to identify health variations or family vulnerabilities to negotiate individual care plans and discharge pathways to meet the goals of the family.\n\nThe successful applicant-s will be supported by a comprehensive onboarding programme which includes innovative clinical supervision that will further increase your knowledge and confidence.\n\nAbout us:\n\nThe Royal Society for the Welfare of Mothers and Babies, trading as Tresillian, is a not-for-profit organisation which was formed in 1918 to coordinate early child and maternal health care services in New South Wales (NSW). Tresillian is now the largest early child and family health and parenting service in Australia, operating from more than 25 centres across NSW, the ACT and Tasmania.\n\nTresillian is a Certified Child Safe Leader and is dedicated to creating a workplace environment where children's rights are recognised and championed.\n\nTresillian operates throughout NSW, the ACT and Tasmania, providing early parenting services including health and parenting assessments; parenting advice; education; and support to families via a range of service delivery models including centre-based day programs, home visiting, telehealth, helpline, internet, virtual residential and face to face residential services. In addition, Tresillian provides education, training, and consultancy across a range of sectors including within the health care service and higher education. For further information on Tresillian, please visit our website https:--www.tresillian.org.au\n\nSelection Criteria - Applicants must address the Selection Criteria: 1) Current authority to practice as a Registered Nurse and-or Midwife with the Australian Health Practitioner Regulation Agency (AHPRA). 2) Postgraduate-post registration qualifications in Child and Family Health or *working towards (*must be enrolled with a tertiary facility and provide evidence of enrolment). 3) Understanding of, and commitment to, evidence-based practice. 4) Demonstrated experience in attending to the physical, social, and emotional needs of children, and their families. 5) Demonstrated knowledge and understanding of the principles of population health and primary health care. 6) Demonstrated knowledge and understanding of the principles and skills of working in partnership and the principles that underpin NSW SafeStart, within a multidisciplinary team environment. 7) Demonstrate effective verbal and written communication and negotiation skills, including computer literacy. 8) Current NSW Drivers Licence Class C.\n\nWhat We Offer: 1) Generous salary packaging up to $15,900 per FBT year and Meal & Entertainment on top of this amount utilising an additional $2,650 (as a Not-for-profit and registered Health Promotion Charity).2) Opportunity to access a large range of clinical and non-clinical education programs, including access to study leave, extended child and family health practice skills for clinicians and a biannual Tresillian conference.3) Access to our free and confidential Employee Assistance Program.4) Access to Fitness Passport for eligible staff.5) Applicants who currently work within NSW Health or another Affiliated Health Organisation may be able to transfer their service and leave entitlements to Tresillian.\n\nThis position requires a Working with Children Check (WWCC) issued by the Office of the Children's Guardian. For more information and how to apply, please visit the Office of the Children's Guardian websitewww.kidsguardian.nsw.gov.au-working-with-children-working-with-children-check\n\nAppropriate criminal record and child protection checks are conducted for all successful candidates. Employment with Tresillian is subject to having current immunity status that complies with the Assessment, Screening & Vaccination against Specified Infectious Diseases - Policy Directive Immunisation History Complies with NSW Health Policy Directive PD2026_004. Appointment and ongoing employment will be subject to continued compliance with the Policy Directive.\n\nHow to apply:Interested applicants need to email the following documentation directly to the contact person provided:1) Cover letter addressing the selection criteria.2) Curriculum Vitae.3) Name and contact details of two referees (phone and email).\n\nFor further enquiries regarding the position or a copy of the job description please contact:Nurse Unit Manager IMs Lynne Shelton I Tresillian Griffith |Phone: (02) 6909 1961 | Mobile: 0438 278 495 | Email: Lynne.Shelton@health.nsw.gov.au    Click here to Apply now → ",
+          "displayFromDate": "2026-07-20T00:00:00",
+          "employerId": "CfDJ8Nn8cBBigUhPiuiVER7neZr1brUwC1gQfqdvg55l2MEmlcL0RbxP-PlHeio1h809Uo9i3DiyichcJyZ4RB02LtccEYDg41mr4AvbUj2qmXkAst63aQDMuijUSo3Kc4-IAA",
+          "employerName": "Medical Jobs Australia",
+          "expiryDate": "2026-08-19T10:00:00",
+          "howToApplyCode": "PSD",
+          "industry": {
+            "code": "112",
+            "label": "Admin & Office"
+          },
+          "isApplyOnlineJob": false,
+          "isExternalJob": false,
+          "isFavourite": false,
+          "isIndigenousJob": false,
+          "isNewJob": false,
+          "jobType": {
+            "code": "H",
+            "label": "Normal position"
+          },
+          "latitude": "-28.84169791000",
+          "location": {
+            "code": "29FRNC",
+            "label": "NSW - Regional - Far North Coast "
+          },
+          "logoUrl": "/api/v1/global/vacancies/logos/cms?code=PX28",
+          "longitude": "153.5600298",
+          "modifiedDate": "2026-07-21T20:00:10.037",
+          "occupation": {
+            "code": "542112",
+            "label": "Admissions Clerk"
+          },
+          "organisation": {
+            "code": "VVNW",
+            "label": "MedicalJobsAustralia"
+          },
+          "positionsAvailable": 10,
+          "postCode": "2478",
+          "salary": {
+            "code": "SLNS",
+            "label": "Not Specified"
+          },
+          "site": {
+            "code": "PX28",
+            "label": "MedicalJobsAustralia"
+          },
+          "state": "NSW",
+          "suburb": "Ballina",
+          "tenure": {
+            "code": "N",
+            "label": "Contract position"
+          },
+          "title": "Registered Nurse and/or Registered Midwife | Child and Family Health | Permanent Part-time 24 hours per week Monday to Friday | Tresillian Griffith",
+          "vacancyId": 2351459155,
+          "workType": {
+            "code": "C",
+            "label": "Casual position"
+          }
+        }
+      }
+    ],
+    "pageSize": 100,
+    "pageNumber": 34
+  }
+}

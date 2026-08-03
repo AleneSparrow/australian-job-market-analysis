@@ -1,0 +1,669 @@
+{
+  "__CLASS__": "Adzuna::API::Response::JobSearchResults",
+  "results": [
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgwMzQ0MDcxOCIsInMiOiJJR1A3YW51SjhSRzN0T2tMUjBaeDN3In0.fykOvdQhWVaPJqNzvkfq3YexIZmnMnOtWXBBFEBHkcM",
+      "created": "2026-07-17T02:58:25Z",
+      "id": "5803440718",
+      "redirect_url": "https://www.adzuna.com.au/details/5803440718?utm_medium=api&utm_source=4e5ae6d3",
+      "location": {
+        "display_name": "Sydney CBD, Sydney",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney",
+          "Sydney CBD"
+        ]
+      },
+      "latitude": -33.88078,
+      "contract_time": "full_time",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Beaumont People"
+      },
+      "longitude": 151.2028,
+      "description": "About the Role Working closely with business stakeholders, technical teams and solution architects, you will be responsible for designing robust data models, improving data quality, and delivering meaningful insights that support strategic objectives. Key Requirements 5-10 years' experience in a similar Data Analytics, Data Modelling or Business Intelligence role Advanced SQL skills for complex querying, analysis and data validation Strong Power BI and Excel skills, including Pivot Tables, Macr…",
+      "title": "Data Analyst",
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      }
+    },
+    {
+      "location": {
+        "display_name": "Darwin Region, Northern Territory",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Northern Territory",
+          "Darwin Region"
+        ]
+      },
+      "latitude": -15.622074,
+      "title": "Data Analyst",
+      "salary_is_predicted": "0",
+      "longitude": 131.955335,
+      "contract_time": "full_time",
+      "description": "Ensure the department meets all information management requirements as a Test Administration Authority for the National Assessment Program that includes the National Assessment Program Literacy and Numeracy assessment",
+      "company": {
+        "display_name": "Northern Territory Government",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "category": {
+        "tag": "admin-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Admin Jobs"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSUdQN2FudUo4UkczdE9rTFIwWngzdyIsImkiOiI1ODEzMjgwODY4In0.al9YpV_PAT1vhXWWCWMB7I3W7Uds1oOnMZEE8MGLbso",
+      "id": "5813280868",
+      "redirect_url": "https://www.adzuna.com.au/details/5813280868?utm_medium=api&utm_source=4e5ae6d3",
+      "created": "2026-07-24T12:55:05Z"
+    },
+    {
+      "location": {
+        "area": [
+          "Australia",
+          "Australian Capital Territory",
+          "Canberra Region",
+          "South Canberra",
+          "Barton"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Barton, South Canberra"
+      },
+      "latitude": -35.309391,
+      "salary_is_predicted": "0",
+      "title": "data analyst",
+      "contract_time": "part_time",
+      "company": {
+        "display_name": "HR Partners",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "longitude": 149.133481,
+      "description": "12 month contract Canberra based, other state can be considered Hybrid working arrangement Baseline clearance Randstad Digital (Formerly Finite Recruitment) Randstad Digital was announced on August 30, 2023, under the umbrella of Randstad, the world's largest talent company and a partner of choice to clients. Our 46,000 employees around the world make a positive impact on society by helping people to realize their true potential throughout their working life. In 2022, in our 39 markets, we help…",
+      "category": {
+        "tag": "consultancy-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Consultancy Jobs"
+      },
+      "contract_type": "permanent",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSUdQN2FudUo4UkczdE9rTFIwWngzdyIsImkiOiI1ODA1MTk5Mzc1In0.J-ZQUhCnlhQG5dwklBtjGyvP8fH6O2BtmVuP-n9JQKs",
+      "redirect_url": "https://www.adzuna.com.au/details/5805199375?utm_medium=api&utm_source=4e5ae6d3",
+      "id": "5805199375",
+      "created": "2026-07-18T07:04:39Z"
+    },
+    {
+      "latitude": -34.933718,
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "South Australia",
+          "Adelaide Region",
+          "Adelaide",
+          "Adelaide CBD"
+        ],
+        "display_name": "Adelaide CBD, Adelaide"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "contract_type": "permanent",
+      "contract_time": "part_time",
+      "longitude": 138.597963,
+      "description": "About the role: People First Bank (PFB)’s Data and Insights team manages an on-premises Data Warehouse (DWH) that supports all regulatory reporting requirements for the organization. We are also building a new modern data and analytics platform using Azure Databricks, hence we are seeking a highly skilled and experienced analyst to support in the operations of the data warehouse environment This role is offered as a 12 months fixed term contract with potential extension or permanency. Key Respo…",
+      "company": {
+        "display_name": "People First Bank",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "title": "Data Analyst",
+      "salary_is_predicted": "0",
+      "created": "2026-07-02T12:17:22Z",
+      "redirect_url": "https://www.adzuna.com.au/details/5784765832?utm_medium=api&utm_source=4e5ae6d3",
+      "id": "5784765832",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSUdQN2FudUo4UkczdE9rTFIwWngzdyIsImkiOiI1Nzg0NzY1ODMyIn0.pagntQceAwpZlZUAbKFPnmrI6KTft6JYcd5XkLAiY04"
+    },
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgxNTg4NzA0MiIsInMiOiJJR1A3YW51SjhSRzN0T2tMUjBaeDN3In0.n-AGJC9a64imoYBO2H2cBqWwmEfYUf_hHkJVNpAZrsw",
+      "id": "5815887042",
+      "redirect_url": "https://www.adzuna.com.au/details/5815887042?utm_medium=api&utm_source=4e5ae6d3",
+      "created": "2026-07-26T09:12:57Z",
+      "salary_is_predicted": "0",
+      "title": "Data Analyst/ Data Scientist",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "HorizonOne"
+      },
+      "contract_time": "full_time",
+      "description": "This role is within a large federal health agency, delivering one of a series of national data modernisation initiatives currently underway across the portfolio. The team provides analytics, dashboard and reporting support that informs policy and program decisions across a significant, nationally significant program and its dataset, as well as emergency preparedness functions. Their work helps program areas understand coverage, emerging risk, and system performance across a large, interconnecte…",
+      "contract_type": "contract",
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "display_name": "Canberra Region, Australian Capital Territory",
+        "area": [
+          "Australia",
+          "Australian Capital Territory",
+          "Canberra Region"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      }
+    },
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSUdQN2FudUo4UkczdE9rTFIwWngzdyIsImkiOiI1ODE1OTIxNTIxIn0.23mrX-dR1pq2RzIbROTHdVo26pO1CGh5jpESIsKpCTI",
+      "redirect_url": "https://www.adzuna.com.au/details/5815921521?utm_medium=api&utm_source=4e5ae6d3",
+      "id": "5815921521",
+      "created": "2026-07-26T09:49:53Z",
+      "location": {
+        "display_name": "Barton, South Canberra",
+        "area": [
+          "Australia",
+          "Australian Capital Territory",
+          "Canberra Region",
+          "South Canberra",
+          "Barton"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "latitude": -35.309391,
+      "title": "Data Analyst/ Data Scientist",
+      "salary_is_predicted": "0",
+      "contract_time": "part_time",
+      "longitude": 149.133481,
+      "description": "Two Data Analyst/Scientist roles across dashboards, analysis and quant in a data hub | Long-term contract through to 30/6/27  12-month extension. This role is within a large federal health agency, delivering one of a series of national data modernisation initiatives currently underway across the portfolio. The team provides analytics, dashboard and reporting support that informs policy and program decisions across a significant, nationally significant program and its dataset, as well as emergen…",
+      "company": {
+        "display_name": "HorizonOne Recruitment",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "contract_type": "permanent",
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job"
+    },
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSUdQN2FudUo4UkczdE9rTFIwWngzdyIsImkiOiI1Nzk5OTY2NzY1In0.0jij-Z7CbdwknO2TwJoDLFfsXU5ejfraIdGy39OIEPs",
+      "redirect_url": "https://www.adzuna.com.au/details/5799966765?utm_medium=api&utm_source=4e5ae6d3",
+      "id": "5799966765",
+      "created": "2026-07-14T23:11:22Z",
+      "salary_is_predicted": "0",
+      "title": "Business & Data Analyst",
+      "contract_time": "full_time",
+      "company": {
+        "display_name": "Storage King",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "longitude": 151.20648,
+      "description": "About us Storage King is a fast-growing business offering stable and rewarding employment opportunities. With a fun and friendly culture across our store network of over 200 locations throughout Australia and New Zealand, we are proud to be a market leader in the self-storage industry. With continued growth plans, this is an exciting time to join the Storage King team and be part of our ongoing success. Certified Great Place to Work – 2025/2026 in Australia and New Zealand The Role We currently…",
+      "contract_type": "permanent",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "display_name": "North Sydney, North Sydney Area",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "North Shore",
+          "North Sydney Area",
+          "North Sydney"
+        ]
+      },
+      "latitude": -33.83827
+    },
+    {
+      "salary_max": 260000,
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney"
+        ],
+        "display_name": "Sydney, Sydney Region"
+      },
+      "salary_min": 208000,
+      "salary_is_predicted": "0",
+      "title": "Senior Data Analyst",
+      "contract_time": "full_time",
+      "company": {
+        "display_name": "Mane Consulting",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "description": "Feel empowered in this Innovative team with AI and data analytics in its DNA. You'll drive results that combines cutting edge advanced analytics and automated AI with an integrated suite of leading tools and technologies. We have an exciting opportunity for a Senior Data Analyst to join a Data Analytics practice within our Financial Services client where you will be at the forefront of providing operational insights and valuable analysis to support the data driven business, developing reporting…",
+      "category": {
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSUdQN2FudUo4UkczdE9rTFIwWngzdyIsImkiOiI1ODExNzIyNzk3In0.9Kw4cDJtm9Wq8MfEnPE5L5RAjheVJT6Fo_hpexVjL3M",
+      "id": "5811722797",
+      "redirect_url": "https://www.adzuna.com.au/details/5811722797?utm_medium=api&utm_source=4e5ae6d3",
+      "created": "2026-07-23T11:50:11Z"
+    },
+    {
+      "id": "5813184692",
+      "redirect_url": "https://www.adzuna.com.au/details/5813184692?utm_medium=api&utm_source=4e5ae6d3",
+      "created": "2026-07-24T11:52:09Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSUdQN2FudUo4UkczdE9rTFIwWngzdyIsImkiOiI1ODEzMTg0NjkyIn0.WzAdQ4jtWBG9kTtDk7aeL0dwDT5ugzQPlgNykbFGMDg",
+      "location": {
+        "display_name": "Sydney, Sydney Region",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney"
+        ]
+      },
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "contract_type": "permanent",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "title": "FP&A & Data Analyst",
+      "salary_is_predicted": "0",
+      "contract_time": "full_time",
+      "description": "FP&A & Data Analyst Sydney (in-office) Salary  super Scale-up business - expanding in the next 12 months You've built strong finance foundations - FP&A, reporting, forecasting. And somewhere along the way, the manual reporting grind pushed you into SQL, Power BI, APIs, or automation - not because it was your job title, but because you got tired of fixing the same broken report every month. But in most roles, that's where it stops. You build the workaround, automate the one process, and then you…",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Ambition Group"
+      }
+    },
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgxNTA5MzI0MSIsInMiOiJJR1A3YW51SjhSRzN0T2tMUjBaeDN3In0.owSKfEXFZ5dojffm1Kx9KWUBmizSd47dd2um-TemzaM",
+      "created": "2026-07-25T18:18:52Z",
+      "id": "5815093241",
+      "redirect_url": "https://www.adzuna.com.au/details/5815093241?utm_medium=api&utm_source=4e5ae6d3",
+      "location": {
+        "display_name": "Victoria, Australia",
+        "area": [
+          "Australia",
+          "Victoria"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "latitude": -37.094406,
+      "contract_time": "full_time",
+      "longitude": 144.352833,
+      "description": "About the Client Insignia Financial is a leading Australian wealth management company that provides superannuation, financial advice, and asset management services. the company traces its origins back to 1846. About the Role We are seeking an experienced Senior Data Analyst to join a high-performing Data Engineering team, supporting the delivery of enterprise-wide data initiatives. This role is ideal for someone who enjoys working at the intersection of business and technology, translating comp…",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Ethos BeathChapman"
+      },
+      "salary_is_predicted": "0",
+      "title": "Senior Data Analyst",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "contract_type": "contract"
+    },
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSUdQN2FudUo4UkczdE9rTFIwWngzdyIsImkiOiI1ODAxOTU4NTU2In0.tczEnP3sX54bKFHq0i2TNnu4hMFv0MwTB7ELChP9hYU",
+      "created": "2026-07-16T10:09:36Z",
+      "id": "5801958556",
+      "redirect_url": "https://www.adzuna.com.au/details/5801958556?utm_medium=api&utm_source=4e5ae6d3",
+      "contract_time": "full_time",
+      "company": {
+        "display_name": "Hydrogen Group",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "longitude": 151.207114,
+      "description": "Role: Senior Data Analyst – Investment & Data Platforms Duration : 6 months Location : Sydney Daily rate : $850 - $900 Organisation · An established Australian financial services organisation is seeking a skilled Data Analyst to join a growing data and investment analytics function. This role will play a key part in supporting data quality, investment reporting, platform optimisation, and analytical initiatives across the business. Key Responsibilities · Analyse and validate large datasets to s…",
+      "title": "Senior Data Analyst",
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "contract_type": "contract",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      },
+      "location": {
+        "display_name": "The Rocks, Sydney",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney",
+          "The Rocks"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "latitude": -33.867139
+    },
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgwMTk1ODU0NCIsInMiOiJJR1A3YW51SjhSRzN0T2tMUjBaeDN3In0.f6osboE1jcwfsYaDc7w1t4QIkfDOM5GgeZ9Y5shexMw",
+      "created": "2026-07-16T10:09:35Z",
+      "redirect_url": "https://www.adzuna.com.au/details/5801958544?utm_medium=api&utm_source=4e5ae6d3",
+      "id": "5801958544",
+      "contract_time": "full_time",
+      "company": {
+        "display_name": "Hydrogen Group",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "longitude": 144.976335,
+      "description": "Role: Senior Data Analyst – Investment & Data Platforms Duration : 6 months Location : Melbourne Daily rate : $850 - $900 Organisation · An established Australian financial services organisation is seeking a skilled Data Analyst to join a growing data and investment analytics function. This role will play a key part in supporting data quality, investment reporting, platform optimisation, and analytical initiatives across the business. Key Responsibilities · Analyse and validate large datasets t…",
+      "title": "Senior Data Analyst",
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "contract_type": "contract",
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "location": {
+        "display_name": "South Yarra, Stonnington Area",
+        "area": [
+          "Australia",
+          "Victoria",
+          "Melbourne Region",
+          "Stonnington Area",
+          "South Yarra"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "latitude": -37.837324
+    },
+    {
+      "id": "5764753086",
+      "redirect_url": "https://www.adzuna.com.au/details/5764753086?utm_medium=api&utm_source=4e5ae6d3",
+      "created": "2026-06-16T08:10:13Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc2NDc1MzA4NiIsInMiOiJJR1A3YW51SjhSRzN0T2tMUjBaeDN3In0.Ami8keI5IHfyQ-Tx0Ho5hWWZgnxC5b5ic0Fu68eTUcg",
+      "latitude": -27.4679,
+      "location": {
+        "display_name": "Brisbane CBD, Brisbane",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Queensland",
+          "Brisbane Region",
+          "Brisbane",
+          "Brisbane CBD"
+        ]
+      },
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "title": "SENIOR DATA ANALYST",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Lime Recruitment"
+      },
+      "contract_time": "full_time",
+      "longitude": 153.0281,
+      "description": "Senior Data Analyst Contract for 6 months | Brisbane City AO6/1 level $79.17 per hour We are partnering with a leading Queensland Government to recruit an experienced Senior Data Analyst. In this role you will maintain a range of quantitative and qualitative data sources to provide insights about the procurement profile, performance and practices (e.g. market analysis, spend analysis, tendering and contract analysis, trends, insights).? Key responsibilities: Maintain a range of data, analysis a…"
+    },
+    {
+      "latitude": -31.953357,
+      "location": {
+        "area": [
+          "Australia",
+          "Western Australia",
+          "Perth Region",
+          "Perth",
+          "Perth CBD"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Perth CBD, Perth"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "contract_type": "permanent",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "PHILLIP RILEY PROJECTS"
+      },
+      "contract_time": "part_time",
+      "longitude": 115.859784,
+      "description": "Job Info Location: PERTH, WA Salary: Not Specified Job Type: Permanent position | Full time position Job Description Phillip Riley are looking for an experience Data Analyst to join our team As our Data Analyst you will gather, processes, analyses and interprets data using data analytical tools. Communicates findings through reports and data visualisations, such as charts and infographics. Some of you main tasks will be to: Set up processes to securely collect, store, process and validate data …",
+      "title": "Data Analyst - WA",
+      "salary_is_predicted": "0",
+      "created": "2026-07-04T09:21:48Z",
+      "redirect_url": "https://www.adzuna.com.au/details/5787354860?utm_medium=api&utm_source=4e5ae6d3",
+      "id": "5787354860",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSUdQN2FudUo4UkczdE9rTFIwWngzdyIsImkiOiI1Nzg3MzU0ODYwIn0.f_lLHyRJ2cBQWhHZzl-FSIvVqJDInnog2E09pdf6Kgc"
+    },
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc4NzM1NDg1OSIsInMiOiJJR1A3YW51SjhSRzN0T2tMUjBaeDN3In0.1ZKRbxEt_m8V7qNhEx3auzOTSn6DK228i0mlNpnkhp4",
+      "id": "5787354859",
+      "redirect_url": "https://www.adzuna.com.au/details/5787354859?utm_medium=api&utm_source=4e5ae6d3",
+      "created": "2026-07-04T09:21:48Z",
+      "salary_is_predicted": "0",
+      "title": "Data Analyst - SA",
+      "longitude": 138.597963,
+      "contract_time": "part_time",
+      "description": "Job Info Location: ADELAIDE, SA Salary: Not Specified Job Type: Permanent position | Full time position Job Description Phillip Riley are looking for an experience Data Analyst to join our team As our Data Analyst you will gather, processes, analyses and interprets data using data analytical tools. Communicates findings through reports and data visualisations, such as charts and infographics. Some of you main tasks will be to: Set up processes to securely collect, store, process and validate da…",
+      "company": {
+        "display_name": "PHILLIP RILEY PROJECTS",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "contract_type": "permanent",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "area": [
+          "Australia",
+          "South Australia",
+          "Adelaide Region",
+          "Adelaide",
+          "Adelaide CBD"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Adelaide CBD, Adelaide"
+      },
+      "latitude": -34.933718
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "description": "BI / Data Analyst Our client is seeking a skilled BI / Data Analyst to join its growing IT team in Perth. With a strong presence across international markets and a focus on innovation, the organisation continues to invest in infrastructure, technology, and people to support long-term growth. This is an exciting opportunity for a driven analyst to play a key role in delivering data-driven insights that influence operational and strategic decision-making. The Role You will be responsible for desi…",
+      "contract_time": "full_time",
+      "longitude": 115.91223,
+      "company": {
+        "display_name": "Sharp & Carter",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_is_predicted": "0",
+      "title": "BI/Data Analyst",
+      "latitude": -31.924074,
+      "location": {
+        "display_name": "Bayswater, Bayswater Area",
+        "area": [
+          "Australia",
+          "Western Australia",
+          "Perth Region",
+          "Bayswater Area",
+          "Bayswater"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "created": "2026-07-02T08:41:48Z",
+      "redirect_url": "https://www.adzuna.com.au/details/5784521260?utm_medium=api&utm_source=4e5ae6d3",
+      "id": "5784521260",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc4NDUyMTI2MCIsInMiOiJJR1A3YW51SjhSRzN0T2tMUjBaeDN3In0.2GgQS6hIGP-BpPuNWxW86mqkmcK9tOaVvMFjv_h0pRM"
+    },
+    {
+      "created": "2026-06-28T08:56:24Z",
+      "redirect_url": "https://www.adzuna.com.au/details/5779544148?utm_medium=api&utm_source=4e5ae6d3",
+      "id": "5779544148",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc3OTU0NDE0OCIsInMiOiJJR1A3YW51SjhSRzN0T2tMUjBaeDN3In0.UYlZYVcGh_Q5Tf5-VxYj6mAgPB0bS4eSpbBrkePGGnI",
+      "latitude": -34.933718,
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "South Australia",
+          "Adelaide Region",
+          "Adelaide",
+          "Adelaide CBD"
+        ],
+        "display_name": "Adelaide CBD, Adelaide"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "contract_type": "permanent",
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "longitude": 138.597963,
+      "contract_time": "full_time",
+      "company": {
+        "display_name": "South Australia Police",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "description": "South Australia Police Job reference: 849685 Location: 5000 - ADELAIDE Job status: Long Term Contract Eligibility: SA Public Sector Employees only Term full-time vacancy up to 30/06/2030. SAPOL Crime Service provides support in the investigation of crime which by reason of seriousness, public expectation, expertise or resource requirements is beyond the capacity of Regions and Districts. Public Protection Branch (PPB) provides centralised management, coordination and support for SAPOL’s respons…",
+      "salary_is_predicted": "0",
+      "title": "Senior Data Analyst"
+    },
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSUdQN2FudUo4UkczdE9rTFIwWngzdyIsImkiOiI1Nzc0MDYwMDQwIn0.Qn7DxRg-rd5l5WtYpNdWw5LKNv8TH5q4Zm4WnjNiH48",
+      "created": "2026-06-24T08:37:46Z",
+      "id": "5774060040",
+      "redirect_url": "https://www.adzuna.com.au/details/5774060040?utm_medium=api&utm_source=4e5ae6d3",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Sands Fridge Lines"
+      },
+      "contract_time": "full_time",
+      "longitude": 116.010649,
+      "description": "What We Offer The opportunity to influence key business decisions through data and analytics A dynamic and diverse transport and logistics environment A supportive leadership team with a strong focus on continuous improvement Career development and progression opportunities A competitive salary package based on experience The chance to be part of a proudly Western Australian business servicing metropolitan and regional communities Why Join Us? This role places you at the centre of a complex tra…",
+      "salary_is_predicted": "0",
+      "title": "Transport Data Analyst",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "logistics-warehouse-jobs",
+        "label": "Logistics & Warehouse Jobs"
+      },
+      "location": {
+        "display_name": "Forrestfield, Kalamunda Area",
+        "area": [
+          "Australia",
+          "Western Australia",
+          "Perth Region",
+          "Kalamunda Area",
+          "Forrestfield"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "latitude": -31.986574
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "category": {
+        "tag": "accounting-finance-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Accounting & Finance Jobs"
+      },
+      "contract_type": "permanent",
+      "contract_time": "part_time",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "National Health Funding Body"
+      },
+      "longitude": 149.133481,
+      "description": "About the National Health Funding Body The Administrator of the National Health Funding Pool (the Administrator) and the National Health Funding Body (NHFB) were established through the Council of Australian Government’s National Health Reform Agreement (NHRA) of August 2011. NHFB is a small, high-performing agency based in Canberra. The primary functions of the NHFB are to assist the Administrator in: § calculating and advising the Commonwealth Treasurer of the Commonwealth’s contribution to p…",
+      "salary_is_predicted": "0",
+      "title": "Senior Data Analyst",
+      "latitude": -35.309391,
+      "location": {
+        "display_name": "Barton, South Canberra",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Australian Capital Territory",
+          "Canberra Region",
+          "South Canberra",
+          "Barton"
+        ]
+      },
+      "created": "2026-07-11T09:24:14Z",
+      "redirect_url": "https://www.adzuna.com.au/details/5796294757?utm_medium=api&utm_source=4e5ae6d3",
+      "id": "5796294757",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSUdQN2FudUo4UkczdE9rTFIwWngzdyIsImkiOiI1Nzk2Mjk0NzU3In0.ngnA6zRdGGgZ85p-2NabpOLuCEzzgkni2_Xz_gYaxek"
+    },
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc5NzQ4MTk1MiIsInMiOiJJR1A3YW51SjhSRzN0T2tMUjBaeDN3In0.xX8dRKhNs9wveqiS35nA-e0WOUbv8DM1bBAd8PC-3yg",
+      "id": "5797481952",
+      "redirect_url": "https://www.adzuna.com.au/details/5797481952?utm_medium=api&utm_source=4e5ae6d3",
+      "created": "2026-07-12T11:08:23Z",
+      "salary_is_predicted": "0",
+      "title": "Finance Data Analyst",
+      "contract_time": "part_time",
+      "longitude": 151.927065,
+      "description": "Role Description We are seeking a qualified Finance Data Analyst with advanced data analytics capabilities for a full-time, on-site position based in Kathmandu, Nepal. Key Responsibilities Data Analytics & Business Intelligence: Perform complex financial modeling and analysis to support strategic decision-making and identify areas of cost optimization and revenue enhancementDevelop a deep understanding of business operations, financial drivers, and key performance indicators (KPIs) to provide a…",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "WorldLink Communications"
+      },
+      "category": {
+        "tag": "accounting-finance-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Accounting & Finance Jobs"
+      },
+      "contract_type": "permanent",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "display_name": "Harristown, Toowoomba",
+        "area": [
+          "Australia",
+          "Queensland",
+          "Toowoomba Region",
+          "Toowoomba",
+          "Harristown"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "latitude": -27.563665
+    }
+  ],
+  "count": 526,
+  "mean": 164676.12
+}

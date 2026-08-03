@@ -1,0 +1,8 @@
+{
+  "status": 200,
+  "resource_type": "stylesheet",
+  "content_type": "text/css; charset=utf-8",
+  "url": "https://fonts.googleapis.com/css?family=Material+Icons%7CMaterial+Icons+Outlined%7CMaterial+Icons+Round",
+  "request_method": "GET",
+  "request_post_data": null
+}

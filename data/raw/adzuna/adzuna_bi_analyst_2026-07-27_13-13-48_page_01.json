@@ -1,0 +1,633 @@
+{
+  "results": [
+    {
+      "title": "Power BI Analyst",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "latitude": -31.953357,
+      "salary_is_predicted": "0",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Chandler Macleod Group"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc5NDc5MzQyMCIsInMiOiJpdmNTZTRLSjhSR0VvcGJ5ZDBmOEh3In0.erBypkYyxYZT_XWq-75ZDeG9SmjzdtsbCJTvG31Osd4",
+      "longitude": 115.859784,
+      "created": "2026-07-10T08:58:43Z",
+      "id": "5794793420",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "We are seeking a Power BI Analyst who is passionate about turning data into meaningful insights that support better business decisions. Working closely with HR and business leaders, you will develop workforce analytics, dashboards, and reporting solutions that provide actionable insights across the organisation. This role will be a 3-month casual contract. Key Responsibilities Develop and maintain Power BI dashboards and reports for HR and workforce analytics. Build, optimise, and maintain data…",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Perth CBD, Perth",
+        "area": [
+          "Australia",
+          "Western Australia",
+          "Perth Region",
+          "Perth",
+          "Perth CBD"
+        ]
+      },
+      "contract_time": "part_time",
+      "redirect_url": "https://www.adzuna.com.au/details/5794793420?utm_medium=api&utm_source=4e5ae6d3",
+      "contract_type": "permanent"
+    },
+    {
+      "description": "BI / Data Analyst Our client is seeking a skilled BI / Data Analyst to join its growing IT team in Perth. With a strong presence across international markets and a focus on innovation, the organisation continues to invest in infrastructure, technology, and people to support long-term growth. This is an exciting opportunity for a driven analyst to play a key role in delivering data-driven insights that influence operational and strategic decision-making. The Role You will be responsible for desi…",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5784521260?utm_medium=api&utm_source=4e5ae6d3",
+      "contract_time": "full_time",
+      "location": {
+        "area": [
+          "Australia",
+          "Western Australia",
+          "Perth Region",
+          "Bayswater Area",
+          "Bayswater"
+        ],
+        "display_name": "Bayswater, Bayswater Area",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "salary_is_predicted": "0",
+      "title": "BI/Data Analyst",
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "latitude": -31.924074,
+      "created": "2026-07-02T08:41:48Z",
+      "longitude": 115.91223,
+      "id": "5784521260",
+      "company": {
+        "display_name": "Sharp & Carter",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiaXZjU2U0S0o4UkdFb3BieWQwZjhIdyIsImkiOiI1Nzg0NTIxMjYwIn0.AyEFEpTQZsyZZ9Y4o1DpHNV4WVA0pX1T9j4o96RgJoU"
+    },
+    {
+      "salary_is_predicted": "0",
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "title": "Data Analyst / BI Developer",
+      "id": "5778409551",
+      "created": "2026-06-27T10:51:03Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc3ODQwOTU1MSIsInMiOiJpdmNTZTRLSjhSR0VvcGJ5ZDBmOEh3In0.nElkrFZOxxL8rBaouEPOXXhpGXdFDko_k3D_86BwnkY",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "INGRITY"
+      },
+      "description": "Data Analyst / BI Developer Mid to Senior Sydney CBD - Hybrid. Flexibility - Contract and/or Full Time, Perm. Full Australian Working Rights Required Turn Data Into Business Impact Do you enjoy solving complex problems with data? We're looking for a Data Analyst / BI Developer who can transform raw data into meaningful insights that help drive smarter business decisions. If you're passionate about Power BI, SQL, Python and building intuitive reporting solutions, we'd love to hear from you. You'…",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5778409551?utm_medium=api&utm_source=4e5ae6d3",
+      "location": {
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney"
+        ],
+        "display_name": "Sydney, Sydney Region",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      }
+    },
+    {
+      "description": "Data Engineer Analyst (Fabric, Power BI)Location: PerthSummaryAs a Fabric Data Engineer / Power BI Analyst at Avanade, you'll design and build scalable data pipelines, ETL/ELT solutions, and modern analytics platforms using Microsoft Fabric. You will also develop interactive Power BI dashboards, reports, and semantic models that enable data-driven decision-making. Working closely with architects, analysts, and business stakeholders, you'll deliver secure, high-quality data and insights across b…",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5811787015?utm_medium=api&utm_source=4e5ae6d3",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Perth, Perth Region",
+        "area": [
+          "Australia",
+          "Western Australia",
+          "Perth Region",
+          "Perth"
+        ]
+      },
+      "salary_is_predicted": "0",
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "latitude": -31.948808,
+      "title": "Data Engineer Analyst (Fabric, Power BI)",
+      "id": "5811787015",
+      "longitude": 115.86056,
+      "created": "2026-07-23T12:54:53Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgxMTc4NzAxNSIsInMiOiJpdmNTZTRLSjhSR0VvcGJ5ZDBmOEh3In0.MdTVpK4HdOVws-1iYkOT5N5wa7ZDqFVQv0G2xr8iR58",
+      "company": {
+        "display_name": "Avanade Inc.",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      }
+    },
+    {
+      "company": {
+        "display_name": "JobRadars - AU",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc4MDYyODA5OCIsInMiOiJpdmNTZTRLSjhSR0VvcGJ5ZDBmOEh3In0.OcTopt3mmZS3jSOnqEn_B72CQbtuf2yuCtDrwySqdLs",
+      "longitude": 147.317877,
+      "created": "2026-06-29T09:12:04Z",
+      "id": "5780628098",
+      "title": "Head of Finance",
+      "latitude": -42.874248,
+      "category": {
+        "tag": "accounting-finance-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Accounting & Finance Jobs"
+      },
+      "salary_is_predicted": "0",
+      "contract_time": "part_time",
+      "location": {
+        "display_name": "North Hobart, Hobart",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Tasmania",
+          "Hobart Region",
+          "Hobart",
+          "North Hobart"
+        ]
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5780628098?utm_medium=api&utm_source=4e5ae6d3",
+      "contract_type": "permanent",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Who We Are Art Processors are leading experience designers, partnering with cultural and tourism organisations to attract and engage large audiences. We combine the most inventive creative and technical skills to design compelling exhibitions, attractions and places. A Little About The Role… We have an opportunity for a Head of Finance to join our team, ideally based in either Melbourne or Hobart. The Head of Finance will report to our Founding Principal and work closely with our company founde…"
+    },
+    {
+      "description": "Own Power BI reporting for Pacific | Turn complex data into commercial actionable insights | Influence decisions across Sales, Category & Marketing We are Pernod Ricard, a leading company in the global spirits industry with over 19,000 employees globally. We hold one of the most prestigious and comprehensive brand portfolios in the industry with premium brands including: Absolut vodka, The Glenlivet Scotch whisky, Jameson Irish whiskey, Martell cognac, Havana Club rum, Beefeater, Malfy and Monk…",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5793442349?utm_medium=api&utm_source=4e5ae6d3",
+      "location": {
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney",
+          "The Rocks"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "The Rocks, Sydney"
+      },
+      "contract_time": "full_time",
+      "salary_is_predicted": "0",
+      "title": "BI Developer / Sales Operations Business Analyst",
+      "latitude": -33.867139,
+      "category": {
+        "label": "Sales Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "sales-jobs"
+      },
+      "longitude": 151.207114,
+      "created": "2026-07-09T10:02:52Z",
+      "id": "5793442349",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Pernod Ricard Australia"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiaXZjU2U0S0o4UkdFb3BieWQwZjhIdyIsImkiOiI1NzkzNDQyMzQ5In0.nXj716wLc5mC0_swQxdjpA64r2WqjVtHHTZ3CIWmnJ4"
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Own Power BI reporting for Pacific | Turn complex data into commercial actionable insights | Influence decisions across Sales, Category & Marketing We are Pernod Ricard, a leading company in the global spirits industry with over 19,000 employees globally. We hold one of the most prestigious and comprehensive brand portfolios in the industry with premium brands including: Absolut vodka, The Glenlivet Scotch whisky, Jameson Irish whiskey, Martell cognac, Havana Club rum, Beefeater, Malfy and Monk…",
+      "contract_time": "full_time",
+      "location": {
+        "area": [
+          "Australia"
+        ],
+        "display_name": "Australia",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5794907126?utm_medium=api&utm_source=4e5ae6d3",
+      "category": {
+        "tag": "sales-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Sales Jobs"
+      },
+      "title": "BI Developer / Sales Operations Business Analyst",
+      "salary_is_predicted": "0",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc5NDkwNzEyNiIsInMiOiJpdmNTZTRLSjhSR0VvcGJ5ZDBmOEh3In0.caN8m14KvlO2_DRjDoTV1TA_yUmuacX3IIs5-QoLa7Q",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Pernod Ricard"
+      },
+      "id": "5794907126",
+      "created": "2026-07-10T10:54:54Z"
+    },
+    {
+      "id": "5807778913",
+      "created": "2026-07-20T14:50:35Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiaXZjU2U0S0o4UkdFb3BieWQwZjhIdyIsImkiOiI1ODA3Nzc4OTEzIn0.wamKGbUG-L9pRmN4qDJZaGp-UADy9DhsFtJ_a3ANkzA",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Amazon Web Services "
+      },
+      "salary_max": 280,
+      "salary_is_predicted": "0",
+      "category": {
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs"
+      },
+      "title": "Director, Head of AI Sales, Australia & New Zealand, AWS",
+      "redirect_url": "https://www.adzuna.com.au/details/5807778913?utm_medium=api&utm_source=4e5ae6d3",
+      "location": {
+        "display_name": "Australia",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia"
+        ]
+      },
+      "description": "AWS is changing how enterprise customers get work done through AI. Our suite of AI products and services puts specialized agentic capabilities in the hands of every knowledge worker — business users, BI analysts, product managers, developers, and supply chain analysts, so they can pull insights from their data and move faster on the work that matters. We’re looking for a sales leader to build and own the go-to-market for AWS AI products across Australia and New Zealand (ANZ). You’ll identify ne…",
+      "salary_min": 180,
+      "__CLASS__": "Adzuna::API::Response::Job"
+    },
+    {
+      "created": "2026-07-09T11:05:51Z",
+      "longitude": 149.92899,
+      "id": "5793518612",
+      "company": {
+        "display_name": "Flight Centre",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiaXZjU2U0S0o4UkdFb3BieWQwZjhIdyIsImkiOiI1NzkzNTE4NjEyIn0.FIaNCL2E-hQ8Rnb1FhZJsEJHUEyI7xlkRPG_L0iGka4",
+      "salary_is_predicted": "0",
+      "title": "Principal Business Intelligence Analyst, AI Enablement- South Bank, QLD",
+      "latitude": -24.31344,
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5793518612?utm_medium=api&utm_source=4e5ae6d3",
+      "contract_time": "full_time",
+      "location": {
+        "display_name": "Queensland, Australia",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Queensland"
+        ]
+      },
+      "description": "Own the context. Govern the insight. Lead AI‑enabled BI at enterprise scale. About the Opportunity As a Principal Business Intelligence Analyst, AI Enablement, you will play a pivotal role in transforming Flight Centre Travel Group’s BI capability into an AI‑accelerated operating model. You will design the semantic foundations and governance that allow AI assistants to deliver trusted, business‑ready insights at scale. This is a senior, high‑impact role partnering closely with Finance, Marketin…",
+      "__CLASS__": "Adzuna::API::Response::Job"
+    },
+    {
+      "location": {
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney"
+        ],
+        "display_name": "Sydney, Sydney Region",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5802159821?utm_medium=api&utm_source=4e5ae6d3",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Description AWS is changing how enterprise customers get work done through AI. Our suite of AI products and services puts specialized agentic capabilities in the hands of every knowledge worker - business users, BI analysts, product managers, developers, and supply chain analysts, so they can pull insights from their data and move faster on the work that matters. We're looking for a sales leader to build and own the go-to-market for AWS AI products across Australia and New Zealand (ANZ). You'll…",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Amazon"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiaXZjU2U0S0o4UkdFb3BieWQwZjhIdyIsImkiOiI1ODAyMTU5ODIxIn0.mx2Fu4n0STQZ1m4KYI34X1FgMqDLRWAvd1qK5SpDn5E",
+      "longitude": 151.203231,
+      "created": "2026-07-16T12:52:42Z",
+      "id": "5802159821",
+      "title": "Director, Head of AI Sales, Australia & New Zealand, AWS",
+      "latitude": -33.885283,
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "salary_is_predicted": "0"
+    },
+    {
+      "company": {
+        "display_name": "Amazon",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiaXZjU2U0S0o4UkdFb3BieWQwZjhIdyIsImkiOiI1ODAyMDQwMzQyIn0.yhfwaw89fSf0lVMr3Hi2BQNOAnxb0jxcCubdj3kp-xE",
+      "created": "2026-07-16T11:11:53Z",
+      "id": "5802040342",
+      "title": "Director, Head of AI Sales, Australia & New Zealand, AWS",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "salary_is_predicted": "0",
+      "location": {
+        "display_name": "Sydney, Sydney Region",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney"
+        ]
+      },
+      "contract_time": "full_time",
+      "redirect_url": "https://www.adzuna.com.au/details/5802040342?utm_medium=api&utm_source=4e5ae6d3",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "AWS is changing how enterprise customers get work done through AI. Our suite of AI products and services puts specialized agentic capabilities in the hands of every knowledge worker — business users, BI analysts, product managers, developers, and supply chain analysts, so they can pull insights from their data and move faster on the work that matters. We're looking for a sales leader to build and own the go-to-market for AWS AI products across Australia and New Zealand (ANZ). You'll identify ne…"
+    },
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiaXZjU2U0S0o4UkdFb3BieWQwZjhIdyIsImkiOiI1NzQxNzQ0MjE3In0.fwR1qFVHBhb81GxKavdQvqkkuZ7jCZLmiHq9mQ2RQNQ",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Flight Centre"
+      },
+      "id": "5741744217",
+      "longitude": 149.92899,
+      "created": "2026-05-27T10:43:41Z",
+      "category": {
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs"
+      },
+      "latitude": -24.31344,
+      "title": "Principal Business Intelligence Analyst, AI Enablement",
+      "salary_is_predicted": "0",
+      "location": {
+        "display_name": "Queensland, Australia",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Queensland"
+        ]
+      },
+      "contract_time": "full_time",
+      "redirect_url": "https://www.adzuna.com.au/details/5741744217?utm_medium=api&utm_source=4e5ae6d3",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Own the context. Govern the insight. Lead AI‑enabled BI at enterprise scale. About the Opportunity As a Principal Business Intelligence Analyst, AI Enablement, you will play a pivotal role in transforming Flight Centre Travel Group’s BI capability into an AI‑accelerated operating model. You will design the semantic foundations and governance that allow AI assistants to deliver trusted, business‑ready insights at scale. This is a senior, high‑impact role partnering closely with Finance, Marketin…"
+    },
+    {
+      "title": "Data & Reporting Analyst - SSRS / SQL / Power BI",
+      "longitude": 144.957935,
+      "created": "2026-07-03T23:10:11Z",
+      "company": {
+        "display_name": "Saltus Group",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "contract_type": "contract",
+      "redirect_url": "https://www.adzuna.com.au/details/5786838727?utm_medium=api&utm_source=4e5ae6d3",
+      "location": {
+        "area": [
+          "Australia",
+          "Victoria",
+          "Melbourne Region",
+          "Melbourne"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Melbourne, Melbourne Region"
+      },
+      "salary_max": 120000,
+      "salary_is_predicted": "0",
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "latitude": -37.806509,
+      "id": "5786838727",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc4NjgzODcyNyIsInMiOiJpdmNTZTRLSjhSR0VvcGJ5ZDBmOEh3In0.bnZgWkNwovngCRmBHihonerKOmNasjkVIXbkQDJRwLo",
+      "description": "Data & Reporting Analyst - SSRS / SQL / Power BI Contract Role | Initial 3 Months | Potential Extension | Immediate Start We are seeking a hands-on Data & Reporting Analyst to support a major Salesforce migration program. This role will focus on reviewing and understanding existing reporting assets, including SSRS reports, BI reports, and the underlying data sources used across the reporting environment. The successful candidate will act as a key point of contact for data and reporting queries,…",
+      "salary_min": 120000,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "contract_time": "full_time"
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "At Munro Footwear Group (MFG), we're looking for an experienced Senior Data Engineer to help shape the future of our enterprise data platform. Reporting to the Head of Engineering, you'll play a key role in designing, building and optimising scalable data solutions that power business intelligence, analytics and data-driven decision making across the organisation. This is a hands-on technical role where you'll work closely with engineering, analytics and business stakeholders to deliver reliabl…",
+      "contract_time": "full_time",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Melbourne, Melbourne Region",
+        "area": [
+          "Australia",
+          "Victoria",
+          "Melbourne Region",
+          "Melbourne"
+        ]
+      },
+      "contract_type": "permanent",
+      "redirect_url": "https://www.adzuna.com.au/details/5811483404?utm_medium=api&utm_source=4e5ae6d3",
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "latitude": -37.806509,
+      "title": "Senior Data Engineer",
+      "salary_is_predicted": "0",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgxMTQ4MzQwNCIsInMiOiJpdmNTZTRLSjhSR0VvcGJ5ZDBmOEh3In0.hUbRxLr5jWEAm6I4oZpKIDAvbZq50w9fbN26p26D0W0",
+      "company": {
+        "display_name": "Munro Footwear Group",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "id": "5811483404",
+      "created": "2026-07-23T09:14:46Z",
+      "longitude": 144.957935
+    },
+    {
+      "created": "2026-07-08T10:56:58Z",
+      "id": "5791618608",
+      "company": {
+        "display_name": "Genpact Australia Pty",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiaXZjU2U0S0o4UkdFb3BieWQwZjhIdyIsImkiOiI1NzkxNjE4NjA4In0.MDLx413IIMR-CpMOkV3-19U593NXa7vPbZlbZxiqzl0",
+      "salary_is_predicted": "0",
+      "title": "Associate Director - Industry Advisory 3",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Consultancy Jobs",
+        "tag": "consultancy-jobs"
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5791618608?utm_medium=api&utm_source=4e5ae6d3",
+      "contract_time": "full_time",
+      "location": {
+        "display_name": "Australia",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia"
+        ]
+      },
+      "description": "Associate Director- Industry Advisory Ready to turn bold ideas into real-world impact? At Genpact, we don’t just adapt to change, we lead it. AI and digital innovation are transforming the way businesses work, and we’re at the forefront of it. Genpact’s AI Gigafactory , our industry-first accelerator, exemplifies how we scale advanced technology solutions to help global enterprises work smarter, grow faster, and transform at scale. Whether tackling complex challenges through large-scale models …",
+      "__CLASS__": "Adzuna::API::Response::Job"
+    },
+    {
+      "redirect_url": "https://www.adzuna.com.au/details/5784689914?utm_medium=api&utm_source=4e5ae6d3",
+      "contract_time": "full_time",
+      "location": {
+        "area": [
+          "Australia"
+        ],
+        "display_name": "Australia",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "description": "Associate Director- Industry Advisory Ready to turn bold ideas into real-world impact? At Genpact, we don’t just adapt to change, we lead it. AI and digital innovation are transforming the way businesses work, and we’re at the forefront of it. Genpact’s AI Gigafactory , our industry-first accelerator, exemplifies how we scale advanced technology solutions to help global enterprises work smarter, grow faster, and transform at scale. Whether tackling complex challenges through large-scale models …",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "id": "5784689914",
+      "created": "2026-07-02T10:54:17Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiaXZjU2U0S0o4UkdFb3BieWQwZjhIdyIsImkiOiI1Nzg0Njg5OTE0In0.OIHv0TMTaaO-UE5FNVZL4btkKHu8VCRfJDWtrbo8d6A",
+      "company": {
+        "display_name": "Genpact Australia Pty",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_is_predicted": "0",
+      "category": {
+        "tag": "consultancy-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Consultancy Jobs"
+      },
+      "title": "Associate Director - Industry Advisory 3"
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "SalaryBand 3 commencing from $84,664 per year ( superannuation)Employment type Full TimeLocationMildura or Swan HillApplications close Friday 7 August 2026Mandatory/key requirements Driver’s license, Criminal background check, Confirmation of fitness for work About the role As our Business Intelligence Support Analyst, you will play an important role in supporting Lower Murray Water’s business intelligence, reporting and data analytics functions. Working within the Technology department and rep…",
+      "contract_time": "part_time",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Merbein, Mildura",
+        "area": [
+          "Australia",
+          "Victoria",
+          "Mildura Region",
+          "Mildura",
+          "Merbein"
+        ]
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5814543907?utm_medium=api&utm_source=4e5ae6d3",
+      "contract_type": "permanent",
+      "latitude": -34.147528,
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "title": "Business Intelligence Support Analyst",
+      "salary_is_predicted": "0",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiaXZjU2U0S0o4UkdFb3BieWQwZjhIdyIsImkiOiI1ODE0NTQzOTA3In0.vykQXFgWh-lTJreTlyZLxmBH26e9KCZc9uhx6OuKDVg",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Lower Murray Water"
+      },
+      "id": "5814543907",
+      "longitude": 142.06355,
+      "created": "2026-07-25T08:58:28Z"
+    },
+    {
+      "contract_time": "full_time",
+      "location": {
+        "display_name": "Australia",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia"
+        ]
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5753407670?utm_medium=api&utm_source=4e5ae6d3",
+      "contract_type": "permanent",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_min": 114251,
+      "description": "Work Health & Safety Officer (Health Manager Level 2) Temporary Full Time Exempt 6 months, with the possibility of extension and consideration for ongoing employment Opportunity to work from our modern offices | Chatswood, St Leonards Attractive salary starting at $114,251  12% Super  17.5% annual leave loading Applications Close: 11:59pm, Wednesday 10 th June 2026 Your work matters at Single Digital Patient Record (SDPR), NSW Health Be part of one of the biggest digital transformations in Aust…",
+      "company": {
+        "display_name": "NSW Government",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiaXZjU2U0S0o4UkdFb3BieWQwZjhIdyIsImkiOiI1NzUzNDA3NjcwIn0.WMhJw4Cd0oHLIPju20yMor4NChuq4iazdu_241RC_9I",
+      "created": "2026-06-06T05:38:24Z",
+      "id": "5753407670",
+      "title": "Work Health & Safety Officer - Single Digital Patient Record and eHealth",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "HR & Recruitment Jobs",
+        "tag": "hr-jobs"
+      },
+      "salary_max": 134809,
+      "salary_is_predicted": "0"
+    },
+    {
+      "contract_time": "full_time",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_min": 125000,
+      "description": "Data Engineer I Modernisation & Data Analytics Why join us at SCC? We have a long history of providing exceptional care that empowers older people to live a full life. When you join us, you will be provided with not-for-profit salary packaging benefits and the support of an experienced leadership team. About the Role: We are seeking an experienced Data Engineer to join our team and support the delivery of Data & Analytics Modernisation program using Microsoft Fabric. You will design, develop, a…",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiaXZjU2U0S0o4UkdFb3BieWQwZjhIdyIsImkiOiI1ODE0MTA5MTEyIn0.uBzaqQzIKx0ZOgA3AnAG_B7NlogY0JDBej8rskPCbvY",
+      "id": "5814109112",
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "latitude": -33.772549,
+      "salary_max": 125000,
+      "salary_is_predicted": "0",
+      "location": {
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Northern Suburbs",
+          "Ryde Area",
+          "Epping"
+        ],
+        "display_name": "Epping, Ryde Area",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5814109112?utm_medium=api&utm_source=4e5ae6d3",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Southern Cross Care NSW & ACT"
+      },
+      "created": "2026-07-25T02:13:14Z",
+      "longitude": 151.082365,
+      "title": "Data Engineer"
+    },
+    {
+      "latitude": -28.00041,
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "title": "Platform Administrator",
+      "salary_is_predicted": "0",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc4ODI2NzE2NCIsInMiOiJpdmNTZTRLSjhSR0VvcGJ5ZDBmOEh3In0.wIYGMfoIee2358NILXDPCeyBuQ4aseL084k86EiHD5I",
+      "company": {
+        "display_name": "City of Gold Coast",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "id": "5788267164",
+      "longitude": 153.414533,
+      "created": "2026-07-05T07:46:47Z",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Full Time | 9-day fortnight | 36 hours per week Salary: From $111,401 - $117,924 per annum plus SuperannuationPosition Brief - Platform Administrator About the team We're entering a new chapter for the Chief Technology Office at the City of Gold Coast as we deliver bold, future-focused technology solutions. With the launch of our IT Operating Model and the transition of critical IT services in-house, we're transforming the way we deliver technology making it faster, more responsive and better a…",
+      "contract_time": "full_time",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Bundall, Gold Coast",
+        "area": [
+          "Australia",
+          "Queensland",
+          "Gold Coast Region",
+          "Gold Coast",
+          "Bundall"
+        ]
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5788267164?utm_medium=api&utm_source=4e5ae6d3",
+      "contract_type": "permanent"
+    }
+  ],
+  "__CLASS__": "Adzuna::API::Response::JobSearchResults",
+  "mean": 123176.67,
+  "count": 20
+}

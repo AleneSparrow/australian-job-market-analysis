@@ -1,0 +1,1653 @@
+{
+  "mean": 152186.95,
+  "count": 1348,
+  "results": [
+    {
+      "contract_time": "full_time",
+      "company": {
+        "display_name": "Velox Security Pty Ltd",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Western Sydney",
+          "Blacktown Area",
+          "Seven Hills"
+        ],
+        "display_name": "Seven Hills, Blacktown Area",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc5NDg2MDU3MCIsInMiOiJxak1pYjRLSjhSR3JnNVlRZV9lQUVBIn0.fYRPmAVxhcYIFdr9RRKu6pJRsd2aVJKJQ3LppX0nZc0",
+      "id": "5794860570",
+      "description": "About the Role At Velox Security, based in Seven Hills, NSW, we are seeking an experienced Business Analyst for full-time role to support the smooth functioning of our systems and processes across the organisation. Role Purpose: This role will play a crucial role in driving our business forward and ensuring the smooth functioning of our systems and processes. Main responsibilities will encompass a wide range of tasks aimed at enhancing our business operations and delivering value to our users. …",
+      "salary_min": 85000,
+      "redirect_url": "https://www.adzuna.com.au/details/5794860570?utm_medium=api&utm_source=4e5ae6d3",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      },
+      "created": "2026-07-10T09:48:52Z",
+      "longitude": 150.934257,
+      "title": "Business Analyst",
+      "latitude": -33.775477,
+      "salary_max": 95000
+    },
+    {
+      "contract_type": "permanent",
+      "category": {
+        "label": "Consultancy Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "consultancy-jobs"
+      },
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "OCRT Consulting"
+      },
+      "contract_time": "full_time",
+      "longitude": 149.133481,
+      "created": "2026-07-19T07:41:06Z",
+      "salary_is_predicted": "0",
+      "title": "Business Analyst",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": -35.309391,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgwNjQ1ODAzNyIsInMiOiJxak1pYjRLSjhSR3JnNVlRZV9lQUVBIn0.ipDK4lwqEgRfnnNugMXNy1U0QEX3GuHRgDW6l9bpgak",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Australian Capital Territory",
+          "Canberra Region",
+          "South Canberra",
+          "Barton"
+        ],
+        "display_name": "Barton, South Canberra"
+      },
+      "id": "5806458037",
+      "description": "OCRT Consulting is a sovereign and veteran-owned SME delivering expertise and outcomes to Government, Defence, industry and the private sector. We are a cohort of diverse talent aligned by the same goal: to work on impactful projects that build sovereign capability and make a positive difference in the lives of those around us. Our deep experience includes strategy, planning, risk management, intelligence, innovation, technology integration, and operational support. OCRT is seeking to hire a Se…",
+      "redirect_url": "https://www.adzuna.com.au/details/5806458037?utm_medium=api&utm_source=4e5ae6d3"
+    },
+    {
+      "contract_time": "full_time",
+      "company": {
+        "display_name": "Verse",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_is_predicted": "0",
+      "title": "Business Analyst",
+      "created": "2026-07-08T09:19:27Z",
+      "longitude": 115.859784,
+      "contract_type": "permanent",
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "description": "Business AnalystWe are seeking an experienced Business Analyst with strong functional knowledge of accounting, solid process mapping capability and a genuine interest in technology enabled solutions. This role suits someone from a Big Four or similar consulting environment who is ready to step into a permanent position and take the next step in their career. About the role You will analyse business processes, document requirements and support the delivery of high value and high risk solutions a…",
+      "redirect_url": "https://www.adzuna.com.au/details/5791539935?utm_medium=api&utm_source=4e5ae6d3",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": -31.953357,
+      "id": "5791539935",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicWpNaWI0S0o4UkdyZzVZUWVfZUFFQSIsImkiOiI1NzkxNTM5OTM1In0.G1-4UqIz-P_c_qnhfL32zrp0fgXdj5cOL59NBO8m9hc",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Western Australia",
+          "Perth Region",
+          "Perth",
+          "Perth CBD"
+        ],
+        "display_name": "Perth CBD, Perth"
+      }
+    },
+    {
+      "category": {
+        "tag": "admin-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Admin Jobs"
+      },
+      "contract_type": "permanent",
+      "created": "2026-05-19T00:27:40Z",
+      "longitude": 151.278529,
+      "title": "Business Analyst",
+      "salary_max": 110271,
+      "latitude": -33.386188,
+      "salary_is_predicted": "0",
+      "contract_time": "full_time",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "NSW Government"
+      },
+      "location": {
+        "display_name": "Somersby, Gosford Area",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Central Coast NSW Region",
+          "Gosford Area",
+          "Somersby"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTczMzIxMjIxNyIsInMiOiJxak1pYjRLSjhSR3JnNVlRZV9lQUVBIn0.3ZIbCwNA7qN23V09dikV5FJohr981xQPX4TOUnz9s_8",
+      "id": "5733212217",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5733212217?utm_medium=api&utm_source=4e5ae6d3",
+      "description": "Business Analyst - Ongoing opportunity based in Sydney CBD, Parramatta or Gosford  hybrid working options available The Department of Customer Service (DCS) is looking for an enthusiastic and team-orientated individual to join the Corporate Services Procurement Team! The successful applicant will support DCS Corporate Procurement to provide excellent procurement support and administrative services, supporting the team to help stakeholders plan, source, and manage procurement and contract manage…",
+      "salary_min": 99938
+    },
+    {
+      "created": "2026-07-05T07:47:30Z",
+      "longitude": 138.597963,
+      "title": "Business Analyst",
+      "salary_is_predicted": "0",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Beyond Bank Australia"
+      },
+      "contract_time": "full_time",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      },
+      "contract_type": "permanent",
+      "redirect_url": "https://www.adzuna.com.au/details/5788268861?utm_medium=api&utm_source=4e5ae6d3",
+      "description": "National OpportunityFull time (75 hours per fortnight)Hybrid work arrangementsBe part of Beyond Bank a bank that is for and with you. We are one of Australia's largest, 100% customer-owned mutual banks with a credit union heritage. With over 300,000 customers and over 40 branches across five states, we are working hard to be the best relationship bank for customers and communities in Australia. When you join Beyond Bank, you will work for a B Corp and be part of a friendly, inclusive, and suppo…",
+      "location": {
+        "display_name": "Adelaide CBD, Adelaide",
+        "area": [
+          "Australia",
+          "South Australia",
+          "Adelaide Region",
+          "Adelaide",
+          "Adelaide CBD"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc4ODI2ODg2MSIsInMiOiJxak1pYjRLSjhSR3JnNVlRZV9lQUVBIn0.f6C1WHJAd9yADJ-4hzMCnHYuqJXvgKm9pPIOhcoQrWI",
+      "id": "5788268861",
+      "latitude": -34.933718,
+      "__CLASS__": "Adzuna::API::Response::Job"
+    },
+    {
+      "description": "National Opportunity Full time (75 hours per fortnight) Hybrid work arrangements Be part of Beyond Bank a bank that is for and with you. We are one of Australia's largest, 100% customer-owned mutual banks with a credit union heritage. With over 300,000 customers and over 40 branches across five states, we are working hard to be the best relationship bank for customers and communities in Australia. When you join Beyond Bank, you will work for a B Corp and be part of a friendly, inclusive, and su…",
+      "redirect_url": "https://www.adzuna.com.au/details/5789299210?utm_medium=api&utm_source=4e5ae6d3",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": -31.953357,
+      "id": "5789299210",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Western Australia",
+          "Perth Region",
+          "Perth",
+          "Perth CBD"
+        ],
+        "display_name": "Perth CBD, Perth"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc4OTI5OTIxMCIsInMiOiJxak1pYjRLSjhSR3JnNVlRZV9lQUVBIn0._MT0j5yMNXrByqXlgB4rHx41hdwSOSUxOYT0quTRtRk",
+      "contract_time": "part_time",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "JobRadars - AU"
+      },
+      "title": "Business Analyst",
+      "salary_is_predicted": "0",
+      "created": "2026-07-06T06:29:27Z",
+      "longitude": 115.859784,
+      "contract_type": "permanent",
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      }
+    },
+    {
+      "description": "National Opportunity Full time (75 hours per fortnight) Hybrid work arrangements Be part of Beyond Bank a bank that is for and with you. We are one of Australia's largest, 100% customer-owned mutual banks with a credit union heritage. With over 300,000 customers and over 40 branches across five states, we are working hard to be the best relationship bank for customers and communities in Australia. When you join Beyond Bank, you will work for a B Corp and be part of a friendly, inclusive, and su…",
+      "redirect_url": "https://www.adzuna.com.au/details/5789299117?utm_medium=api&utm_source=4e5ae6d3",
+      "latitude": -34.933718,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicWpNaWI0S0o4UkdyZzVZUWVfZUFFQSIsImkiOiI1Nzg5Mjk5MTE3In0.UNljeuSTHU2dwgDzznD87Wfx7ec6NWTLgD7Iw3NyDlQ",
+      "location": {
+        "area": [
+          "Australia",
+          "South Australia",
+          "Adelaide Region",
+          "Adelaide",
+          "Adelaide CBD"
+        ],
+        "display_name": "Adelaide CBD, Adelaide",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "id": "5789299117",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "JobRadars - AU"
+      },
+      "contract_time": "part_time",
+      "created": "2026-07-06T06:29:26Z",
+      "longitude": 138.597963,
+      "salary_is_predicted": "0",
+      "title": "Business Analyst",
+      "contract_type": "permanent",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      }
+    },
+    {
+      "latitude": -37.837324,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "id": "5815972677",
+      "location": {
+        "display_name": "South Yarra, Stonnington Area",
+        "area": [
+          "Australia",
+          "Victoria",
+          "Melbourne Region",
+          "Stonnington Area",
+          "South Yarra"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgxNTk3MjY3NyIsInMiOiJxak1pYjRLSjhSR3JnNVlRZV9lQUVBIn0.jtfxrgoOyDnMvs1JbML9Ui-L49rO_a6Zt-PNq53uAL4",
+      "description": "We’re looking for a Business Analyst to join our Enterprise Project Management Office and help turn strategy into practical, high-impact change. You’ll work with stakeholders across the business to understand challenges, uncover opportunities and shape clear requirements, processes and solutions that deliver meaningful outcomes for our customers and our business. In this role, you’ll be at the centre of turning ideas into practical, deliverable solutions. Partnering with SMEs, Product Owners, P…",
+      "redirect_url": "https://www.adzuna.com.au/details/5815972677?utm_medium=api&utm_source=4e5ae6d3",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      },
+      "company": {
+        "display_name": "Aussie Broadband",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "contract_time": "full_time",
+      "salary_is_predicted": "0",
+      "title": "Business Analyst",
+      "created": "2026-07-26T10:13:53Z",
+      "longitude": 144.976335
+    },
+    {
+      "id": "5767407169",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicWpNaWI0S0o4UkdyZzVZUWVfZUFFQSIsImkiOiI1NzY3NDA3MTY5In0.uR6tYIkYrOGw9ZEIy-U9dt1JaQMLFzYPFEYn3KPG3V8",
+      "location": {
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney",
+          "The Rocks"
+        ],
+        "display_name": "The Rocks, Sydney",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": -33.865715,
+      "redirect_url": "https://www.adzuna.com.au/details/5767407169?utm_medium=api&utm_source=4e5ae6d3",
+      "description": "About Brighte Our mission is to make consumer energy resources (CER) affordable and accessible for everyone. Brighte is building the platform to enable and accelerate the energy transition by making it affordable, easy and less risky to buy and sell energy equipment. Our founder and CEO, Katherine McConnell, has been awarded Telstra Businesswoman of the year in 2020 as well as winning the Sustainability Crusader award at B&T’s 2023 Women Leading Tech Awards. She is a passionate and humble leade…",
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "salary_is_predicted": "0",
+      "title": "Business Analyst",
+      "created": "2026-06-18T10:59:26Z",
+      "longitude": 151.206616,
+      "company": {
+        "display_name": "Brighte Capital",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "contract_time": "full_time"
+    },
+    {
+      "salary_is_predicted": "0",
+      "title": "Business Analyst",
+      "created": "2026-07-07T07:31:39Z",
+      "longitude": 115.859784,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Beyond Bank Australia"
+      },
+      "contract_time": "full_time",
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "contract_type": "permanent",
+      "redirect_url": "https://www.adzuna.com.au/details/5790276902?utm_medium=api&utm_source=4e5ae6d3",
+      "description": "National OpportunityFull time (75 hours per fortnight)Hybrid work arrangementsBe part of Beyond Bank a bank that is for and with you. We are one of Australia's largest, 100% customer-owned mutual banks with a credit union heritage. With over 300,000 customers and over 40 branches across five states, we are working hard to be the best relationship bank for customers and communities in Australia. When you join Beyond Bank, you will work for a B Corp and be part of a friendly, inclusive, and suppo…",
+      "id": "5790276902",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc5MDI3NjkwMiIsInMiOiJxak1pYjRLSjhSR3JnNVlRZV9lQUVBIn0.VxW_j1dQ-lXA_j_aswdZbovff6Yqx6JnAAQNVdi4G6M",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Perth CBD, Perth",
+        "area": [
+          "Australia",
+          "Western Australia",
+          "Perth Region",
+          "Perth",
+          "Perth CBD"
+        ]
+      },
+      "latitude": -31.953357,
+      "__CLASS__": "Adzuna::API::Response::Job"
+    },
+    {
+      "description": "Role Overview As Business Analyst at Brighte, you'll sit at the heart of our AI and automation transformation within our sales and operations team. You'll identify where technology can unlock the most value, shape how that value is experienced by users, and lead implementation from start to finish — working across Commercial, Data, Operations, Technology, and Engineering to get things done. This is a hands-on role with real impact. One week you might be mapping a broken process and designing an…",
+      "redirect_url": "https://www.adzuna.com.au/details/5774191826?utm_medium=api&utm_source=4e5ae6d3",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicWpNaWI0S0o4UkdyZzVZUWVfZUFFQSIsImkiOiI1Nzc0MTkxODI2In0.MwpwvzMUuUVsHLXrMXLSUkKpS1bPAWEU3FBTH3XSkTE",
+      "location": {
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney"
+        ],
+        "display_name": "Sydney, Sydney Region",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "id": "5774191826",
+      "company": {
+        "display_name": "Brighte",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "contract_time": "full_time",
+      "created": "2026-06-24T10:53:15Z",
+      "title": "Business Analyst",
+      "salary_is_predicted": "0",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      }
+    },
+    {
+      "category": {
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs"
+      },
+      "longitude": 145.002153,
+      "created": "2026-07-10T11:01:55Z",
+      "title": "Business Analyst",
+      "salary_is_predicted": "0",
+      "contract_time": "full_time",
+      "company": {
+        "display_name": "Revium",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "location": {
+        "display_name": "Richmond North, Yarra Area",
+        "area": [
+          "Australia",
+          "Victoria",
+          "Melbourne Region",
+          "Yarra Area",
+          "Richmond North"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicWpNaWI0S0o4UkdyZzVZUWVfZUFFQSIsImkiOiI1Nzk0OTE5MDc3In0.knXfhDKg64F-1zrGbc5afuO9x1aw4PynfwD0rFghba0",
+      "id": "5794919077",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": -37.82287,
+      "redirect_url": "https://www.adzuna.com.au/details/5794919077?utm_medium=api&utm_source=4e5ae6d3",
+      "description": "WHO ARE WE? We’re Revium - Australia’s foremost digital and AI consultancy helping organisations solve complex challenges and unlock new opportunities through AI and bespoke solutions. Our services span Strategy & Advisory, AI Solutions, Websites & Portals, Application Development and MarTech & Data. We work closely with our clients to design, build and optimise digital experiences that deliver real impact. With over 20 years of experience and a tight-knit team of around 40 specialists across A…"
+    },
+    {
+      "latitude": -27.31833,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "id": "5674167267",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY3NDE2NzI2NyIsInMiOiJxak1pYjRLSjhSR3JnNVlRZV9lQUVBIn0.rcUIOj8eH1c9sERh_ydeTG76yY465oT5m3pSoIo8H4s",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Queensland",
+          "Brisbane Region",
+          "Pine Rivers Area",
+          "Brendale"
+        ],
+        "display_name": "Brendale, Pine Rivers Area"
+      },
+      "description": "About Auto Parts Group (APG) At Auto Parts Group (APG), we aim to be Australia’s top independent supplier of genuine and aftermarket automotive parts, providing our customers with a \"Real Advantage.\" APG is part of GPC Asia Pacific, a leading supplier of industrial and automotive parts in Australia, New Zealand, and Southeast Asia. GPC has over 8,000 employees in Asia Pacific and more than 60,000 globally, with well-known brands like Repco, NAPA, AMX, and Motion Industries. About The Role As a …",
+      "redirect_url": "https://www.adzuna.com.au/details/5674167267?utm_medium=api&utm_source=4e5ae6d3",
+      "contract_type": "permanent",
+      "category": {
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs"
+      },
+      "contract_time": "full_time",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Auto Parts Group"
+      },
+      "title": "Business Analyst",
+      "salary_is_predicted": "0",
+      "longitude": 152.988227,
+      "created": "2026-03-21T21:17:19Z"
+    },
+    {
+      "redirect_url": "https://www.adzuna.com.au/details/5766189691?utm_medium=api&utm_source=4e5ae6d3",
+      "description": "As a Business Analyst , and part of the Product Management Team. you'll play a critical role in bridging client needs and technical solutions — translating complex business requirements into clear, actionable outcomes that drive client satisfaction and product excellence across global markets. You'll thrive in this position if you're analytical, client-focused, and energized by working in a fast-paced environment where your contributions have real, measurable impact. What You’ll Do Elicit, docu…",
+      "location": {
+        "display_name": "Sydney, Sydney Region",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicWpNaWI0S0o4UkdyZzVZUWVfZUFFQSIsImkiOiI1NzY2MTg5NjkxIn0.oPuFRZQdIWkAzEYWDkQeXXpj2KHI3wNG_LxwJe3AvLI",
+      "id": "5766189691",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "created": "2026-06-17T10:55:40Z",
+      "title": "Business Analyst",
+      "salary_is_predicted": "0",
+      "company": {
+        "display_name": "ADTM Adenza Technology de Mexico S de RL de CV",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "contract_time": "full_time",
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "contract_type": "permanent"
+    },
+    {
+      "description": "APNA is the peak body for Australia’s 104,000 primary health care nurses. We champion a bold, vibrant, and well‑supported nursing workforce because when nurses thrive, communities thrive. We’re looking for a purpose-driven Business Analyst to strengthen APNA’s operational performance and help shape the future of primary health care nursing in Australia. Why join APNA? You’ll be part of a passionate, mission-driven organisation that is shaping the future of primary health care in Australia. Your…",
+      "redirect_url": "https://www.adzuna.com.au/details/5760733724?utm_medium=api&utm_source=4e5ae6d3",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": -37.81521,
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Melbourne CBD, Melbourne",
+        "area": [
+          "Australia",
+          "Victoria",
+          "Melbourne Region",
+          "Melbourne",
+          "Melbourne CBD"
+        ]
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc2MDczMzcyNCIsInMiOiJxak1pYjRLSjhSR3JnNVlRZV9lQUVBIn0.7B0yol2MqLmckYYJ3YOUxHY8IDQGGvqM35Z4qQjc55Q",
+      "id": "5760733724",
+      "contract_time": "full_time",
+      "company": {
+        "display_name": "APNA",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "created": "2026-06-12T10:50:56Z",
+      "longitude": 144.963953,
+      "salary_is_predicted": "0",
+      "title": "Business Analyst",
+      "category": {
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs"
+      }
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": -33.885283,
+      "id": "5700756519",
+      "location": {
+        "display_name": "Sydney, Sydney Region",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcwMDc1NjUxOSIsInMiOiJxak1pYjRLSjhSR3JnNVlRZV9lQUVBIn0.1OqHBTyFYsAo335gMwANzqIcwTOzJd5_f_mxUgaQfdg",
+      "description": "UTS College provides a pathway for students into the University of Technology, Sydney (UTS), one of Australia's leading universities, and it is our vision to actualise potential and enhance lives through the power of learning, our actions and our people. Our purpose is to provide the best available opportunity for students to develop the knowledge, skills & attributes they need to attain their goals through market-leading courses, teaching excellence and an emphasis on the student experience. W…",
+      "redirect_url": "https://www.adzuna.com.au/details/5700756519?utm_medium=api&utm_source=4e5ae6d3",
+      "contract_type": "contract",
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "UTS College"
+      },
+      "contract_time": "full_time",
+      "title": "Business Analyst",
+      "salary_is_predicted": "0",
+      "longitude": 151.203231,
+      "created": "2026-04-16T10:14:51Z"
+    },
+    {
+      "contract_type": "permanent",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      },
+      "company": {
+        "display_name": "TAFE WA North Metropolitan",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "contract_time": "part_time",
+      "salary_is_predicted": "0",
+      "title": "Business Analyst",
+      "longitude": 115.859784,
+      "created": "2026-07-25T08:59:11Z",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": -31.953357,
+      "id": "5814547426",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Western Australia",
+          "Perth Region",
+          "Perth",
+          "Perth CBD"
+        ],
+        "display_name": "Perth CBD, Perth"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicWpNaWI0S0o4UkdyZzVZUWVfZUFFQSIsImkiOiI1ODE0NTQ3NDI2In0.PQA1CNrZTalngGvLmyjbBZGlct0wlizejIfkeAaYSIE",
+      "description": "Join North Metropolitan TAFE in this permanent full-time opportunity to drive business process improvements and system enhancements that deliver better outcomes for students and staff . About You As a Business Analyst, you will play a key role in supporting North Metropolitan TAFE's digital transformation and continuous improvement initiatives. Working closely with stakeholders across the organisation, you will analyse business processes, identify opportunities to improve efficiency and user ex…",
+      "redirect_url": "https://www.adzuna.com.au/details/5814547426?utm_medium=api&utm_source=4e5ae6d3"
+    },
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicWpNaWI0S0o4UkdyZzVZUWVfZUFFQSIsImkiOiI1NzgxMTIxMDU3In0.u5vXJD1GDJ-KupnZXo4VllXWXMJji1-P6-c0oRDIUAU",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Adelaide, Adelaide Region",
+        "area": [
+          "Australia",
+          "South Australia",
+          "Adelaide Region",
+          "Adelaide"
+        ]
+      },
+      "id": "5781121057",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": -34.917705,
+      "redirect_url": "https://www.adzuna.com.au/details/5781121057?utm_medium=api&utm_source=4e5ae6d3",
+      "description": "We currently have an opportunity for an Operational Technology Business Analyst. Join our technology hub team and play a key role in leading structured requirements gathering, scoping and analysis required to support Operational Technology (OT) upgrades across multiple Public-Private Partnership (PPP) contracts. Reporting to Program Manager, you'll help deliver high-quality outcomes that support our essential services. This is a fixed-term contract role, with possibility for extension. What You…",
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "contract_type": "contract",
+      "created": "2026-06-29T21:53:43Z",
+      "longitude": 138.59607,
+      "title": "Business Analyst",
+      "salary_is_predicted": "0",
+      "company": {
+        "display_name": "Downer Group",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      }
+    },
+    {
+      "contract_type": "permanent",
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "contract_time": "part_time",
+      "company": {
+        "display_name": "JobRadars - AU",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_is_predicted": "0",
+      "title": "Business Analyst",
+      "created": "2026-06-28T08:56:50Z",
+      "longitude": 138.597963,
+      "latitude": -34.933718,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "id": "5779546098",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc3OTU0NjA5OCIsInMiOiJxak1pYjRLSjhSR3JnNVlRZV9lQUVBIn0.zGnuu055hYoT1AW7V3hTU5lOpCAVu57t-cdJRAnM5zk",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "South Australia",
+          "Adelaide Region",
+          "Adelaide",
+          "Adelaide CBD"
+        ],
+        "display_name": "Adelaide CBD, Adelaide"
+      },
+      "description": "We currently have an opportunity for an Operational Technology Business Analyst. Join our technology hub team and play a key role in leading structured requirements gathering, scoping and analysis required to support Operational Technology (OT) upgrades across multiple Public-Private Partnership (PPP) contracts. Reporting to Program Manager, you'll help deliver high-quality outcomes that support our essential services. This is a fixed-term contract role, with possibility for extension. What You…",
+      "redirect_url": "https://www.adzuna.com.au/details/5779546098?utm_medium=api&utm_source=4e5ae6d3"
+    },
+    {
+      "contract_time": "part_time",
+      "company": {
+        "display_name": "Qantas Airways",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "title": "Business Analyst",
+      "salary_is_predicted": "0",
+      "created": "2026-07-22T05:50:44Z",
+      "longitude": 138.597963,
+      "contract_type": "permanent",
+      "category": {
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs"
+      },
+      "description": "At Qantas, our teams come together to create new and unique experiences for our customers and a great opportunity within our Qantas Digital business unit Collaboratively create innovative customer-facing digital product experiences with an industry leader Full-time permanent position based at our new Product and Innovation Centre in Adelaide Join Qantas in our brand-new Product and Innovation Centre located in Adelaide, by meeting consumer needs by translating customer insights and market data …",
+      "redirect_url": "https://www.adzuna.com.au/details/5809640440?utm_medium=api&utm_source=4e5ae6d3",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": -34.933718,
+      "id": "5809640440",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgwOTY0MDQ0MCIsInMiOiJxak1pYjRLSjhSR3JnNVlRZV9lQUVBIn0.u9yXSTT2kdaYDL6IZtGFDNwKWhikb7zawTRgT5qEMAA",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Adelaide CBD, Adelaide",
+        "area": [
+          "Australia",
+          "South Australia",
+          "Adelaide Region",
+          "Adelaide",
+          "Adelaide CBD"
+        ]
+      }
+    },
+    {
+      "company": {
+        "display_name": "Qantas Airways",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "contract_time": "part_time",
+      "title": "Business Analyst",
+      "salary_is_predicted": "0",
+      "longitude": 138.597963,
+      "created": "2026-06-28T08:57:12Z",
+      "contract_type": "permanent",
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "description": "At Qantas, our teams come together to create new and unique experiences for our customers Collaboratively create innovative customer and crew facing digital product experiences with an industry leader Full-time permanent position based at our new Product and Innovation Centre in Adelaide Join Qantas in our brand-new Product and Innovation Centre located in Adelaide to help meet evolving consumer needs by enabling agile teams to deliver faster, more adaptive solutions that prioritise customer va…",
+      "redirect_url": "https://www.adzuna.com.au/details/5779547701?utm_medium=api&utm_source=4e5ae6d3",
+      "latitude": -34.933718,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "id": "5779547701",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc3OTU0NzcwMSIsInMiOiJxak1pYjRLSjhSR3JnNVlRZV9lQUVBIn0.XTTbf9GAlb9WsELZCDBNYjBNAy_vVzsSls0gdFxGfXc",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Adelaide CBD, Adelaide",
+        "area": [
+          "Australia",
+          "South Australia",
+          "Adelaide Region",
+          "Adelaide",
+          "Adelaide CBD"
+        ]
+      }
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": -34.933718,
+      "location": {
+        "area": [
+          "Australia",
+          "South Australia",
+          "Adelaide Region",
+          "Adelaide",
+          "Adelaide CBD"
+        ],
+        "display_name": "Adelaide CBD, Adelaide",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicWpNaWI0S0o4UkdyZzVZUWVfZUFFQSIsImkiOiI1Nzc5NTQ3MzgyIn0.YTw9OOi2XRg5MuTVJ5YyhhkEpynUIQ0c7DSmusMFi-4",
+      "id": "5779547382",
+      "description": "Job Description At Qantas, our teams come together to create new and unique experiences for our customersCollaboratively create innovative customer and crew facing digital product experiences with an industry leaderFull-time permanent position based at our new Product and Innovation Centre in Adelaide Join Qantas in our brand-new Product and Innovation Centre located in Adelaide to help meet evolving consumer needs by enabling agile teams to deliver faster, more adaptive solutions that prioriti…",
+      "redirect_url": "https://www.adzuna.com.au/details/5779547382?utm_medium=api&utm_source=4e5ae6d3",
+      "contract_type": "permanent",
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "contract_time": "full_time",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Qantas"
+      },
+      "longitude": 138.597963,
+      "created": "2026-06-28T08:57:08Z",
+      "salary_is_predicted": "0",
+      "title": "Business Analyst"
+    },
+    {
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      },
+      "contract_type": "permanent",
+      "salary_is_predicted": "0",
+      "title": "Business Analyst",
+      "created": "2026-05-19T00:27:31Z",
+      "company": {
+        "display_name": "NSW Government",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "contract_time": "full_time",
+      "id": "5733211318",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTczMzIxMTMxOCIsInMiOiJxak1pYjRLSjhSR3JnNVlRZV9lQUVBIn0.Pq3ucJwg4yKyKGuhOL1Zcogs8dpp16WTPGAOG5VNoLo",
+      "location": {
+        "display_name": "Australia",
+        "area": [
+          "Australia"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5733211318?utm_medium=api&utm_source=4e5ae6d3",
+      "description": "Business Analyst At the NSW Department of Education , we educate and inspire lifelong learners – from early childhood, through schooling to vocational education and training. Ongoing Full-Time Located in Parramatta with flexible working arrangements available Salary range $129,464 - $142,665 plus employer's contribution to superannuation and annual leave loading. About the role The primary purpose of the role is to support the delivery of user centred digital products by gathering insights, sha…"
+    },
+    {
+      "salary_is_predicted": "0",
+      "title": "Business Analyst",
+      "created": "2026-05-08T10:27:57Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Plenti"
+      },
+      "contract_time": "full_time",
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5722280216?utm_medium=api&utm_source=4e5ae6d3",
+      "description": "Who is Plenti? Plenti is a fintech lender, providing faster, fairer loans by leveraging its smart technology. Plenti is a dynamic and innovative business that is growing strongly. By continuing to deliver better customer experiences, Plenti is taking market share from incumbent players in the personal lending, renewable energy, and automotive finance markets. We are a fast moving and ambitious business that seeks to recruit smart and capable people, who can take ownership of their role to help …",
+      "id": "5722280216",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia"
+        ],
+        "display_name": "Australia"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicWpNaWI0S0o4UkdyZzVZUWVfZUFFQSIsImkiOiI1NzIyMjgwMjE2In0.nsIj71zDJEtnS6Uh8FZtS4qbHAnt0DvOX1DDBYdO45A",
+      "__CLASS__": "Adzuna::API::Response::Job"
+    },
+    {
+      "company": {
+        "display_name": "Downer Group",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "longitude": 144.957935,
+      "created": "2026-07-16T20:15:14Z",
+      "salary_is_predicted": "0",
+      "title": "Business Analyst",
+      "contract_type": "permanent",
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "description": "We're proud to announce a major milestone for Downer. Downer has been awarded the Property and Asset Services (PAS) contract to deliver base and estate services across their two largest regions NSW/ACT and QLD. This is a significant milestone for our business and our enduring 80 year relationship with the Australian Defence Force. We're inviting applications to join our permanent workforce in Melbourne / Brisbane / Sydney, as a Business Analyst . We're committed to building a workplace where ev…",
+      "redirect_url": "https://www.adzuna.com.au/details/5802751018?utm_medium=api&utm_source=4e5ae6d3",
+      "latitude": -37.806509,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgwMjc1MTAxOCIsInMiOiJxak1pYjRLSjhSR3JnNVlRZV9lQUVBIn0.obw6g4-qTmA35lTKXaPCTAemR2WmUhhUxsTf4CzKeL4",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Victoria",
+          "Melbourne Region",
+          "Melbourne"
+        ],
+        "display_name": "Melbourne, Melbourne Region"
+      },
+      "id": "5802751018"
+    },
+    {
+      "category": {
+        "tag": "accounting-finance-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Accounting & Finance Jobs"
+      },
+      "title": "Business Analyst",
+      "salary_is_predicted": "0",
+      "created": "2026-06-30T08:39:29Z",
+      "longitude": 115.91223,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "McKinsey & Company"
+      },
+      "contract_time": "full_time",
+      "id": "5781480821",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicWpNaWI0S0o4UkdyZzVZUWVfZUFFQSIsImkiOiI1NzgxNDgwODIxIn0.SRTNYK9orQtsppSBf951ypyCTQ1s-GG-tXZ9G8iy23Q",
+      "location": {
+        "area": [
+          "Australia",
+          "Western Australia",
+          "Perth Region",
+          "Bayswater Area",
+          "Bayswater"
+        ],
+        "display_name": "Bayswater, Bayswater Area",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "latitude": -31.924074,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5781480821?utm_medium=api&utm_source=4e5ae6d3",
+      "description": "Do you want to do work that matters, alongside supportive leaders who will help you grow faster than you ever thought possible? Are you a creative problem-solver who is energized by challenges? You’ve come to the right place. YOUR IMPACT As a business analyst, you will join a client service team and take ownership of a workstream to solve some of the toughest challenges our clients face. And these aren’t just any clients—they're some of the most influential organizations around, from Fortune 50…"
+    },
+    {
+      "id": "5781480816",
+      "location": {
+        "display_name": "City, North Canberra",
+        "area": [
+          "Australia",
+          "Australian Capital Territory",
+          "Canberra Region",
+          "North Canberra",
+          "City"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicWpNaWI0S0o4UkdyZzVZUWVfZUFFQSIsImkiOiI1NzgxNDgwODE2In0.hpSURCN1tozER9a_NlQqTJGMHl2iYGIyYWS_tsbW1GE",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": -35.2813,
+      "redirect_url": "https://www.adzuna.com.au/details/5781480816?utm_medium=api&utm_source=4e5ae6d3",
+      "description": "Do you want to do work that matters, alongside supportive leaders who will help you grow faster than you ever thought possible? Are you a creative problem-solver who is energized by challenges? You’ve come to the right place. YOUR IMPACT As a business analyst, you will join a client service team and take ownership of a workstream to solve some of the toughest challenges our clients face. And these aren’t just any clients—they're some of the most influential organizations around, from Fortune 50…",
+      "category": {
+        "tag": "accounting-finance-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Accounting & Finance Jobs"
+      },
+      "salary_is_predicted": "0",
+      "title": "Business Analyst",
+      "longitude": 149.1293,
+      "created": "2026-06-30T08:39:29Z",
+      "company": {
+        "display_name": "McKinsey & Company",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "contract_time": "full_time"
+    },
+    {
+      "category": {
+        "tag": "accounting-finance-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Accounting & Finance Jobs"
+      },
+      "longitude": 153.0281,
+      "created": "2026-06-30T08:39:29Z",
+      "salary_is_predicted": "0",
+      "title": "Business Analyst",
+      "company": {
+        "display_name": "McKinsey & Company",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "contract_time": "full_time",
+      "location": {
+        "area": [
+          "Australia",
+          "Queensland",
+          "Brisbane Region",
+          "Brisbane",
+          "Brisbane CBD"
+        ],
+        "display_name": "Brisbane CBD, Brisbane",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc4MTQ4MDgxMiIsInMiOiJxak1pYjRLSjhSR3JnNVlRZV9lQUVBIn0.zouPXhaxru_Ca41ZtnkfonUpx_m9Aofe-CqNmN_Da6o",
+      "id": "5781480812",
+      "latitude": -27.4679,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5781480812?utm_medium=api&utm_source=4e5ae6d3",
+      "description": "Do you want to do work that matters, alongside supportive leaders who will help you grow faster than you ever thought possible? Are you a creative problem-solver who is energized by challenges? You’ve come to the right place. YOUR IMPACT As a business analyst, you will join a client service team and take ownership of a workstream to solve some of the toughest challenges our clients face. And these aren’t just any clients—they're some of the most influential organizations around, from Fortune 50…"
+    },
+    {
+      "company": {
+        "display_name": "NSW Government",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "contract_time": "full_time",
+      "created": "2026-05-19T00:27:40Z",
+      "title": "Business Analyst",
+      "salary_is_predicted": "0",
+      "contract_type": "permanent",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "admin-jobs",
+        "label": "Admin Jobs"
+      },
+      "description": "Business Analyst Join Create NSW, a division of the Department of Creative Industries, Tourism, Hospitality and Sport Clerk Grade 7/8 with a salary range of $113,574 - $125,720 per annum (pro rata) plus superannuation Temporary part-time role (21 hours per week) up to 24 December 2026 (with possibility of extension) based in The Rocks About Create NSW Create NSW supports the people, places, communities, and creative work that shape the cultural life of NSW. Through investment, programs and part…",
+      "salary_min": 113574,
+      "redirect_url": "https://www.adzuna.com.au/details/5733212129?utm_medium=api&utm_source=4e5ae6d3",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicWpNaWI0S0o4UkdyZzVZUWVfZUFFQSIsImkiOiI1NzMzMjEyMTI5In0.leCVav-za_T0dGfdau3RXwQpCp-BnhJfxFrJaq5c-fk",
+      "location": {
+        "display_name": "Australia",
+        "area": [
+          "Australia"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "id": "5733212129",
+      "salary_max": 125720
+    },
+    {
+      "salary_min": 114251,
+      "description": "Employment Type: Permanent Part Time Position Classification: Health Manager Level 2 Location: Richmond Community Health Centre Remuneration: $57.62 - $67.98 per hour Hours Per Week: 24 Requisition ID: REQ668056 Applications Close: 15/06/2026 With CORE Values of C ollaboration, O penness, R espect and E mpowerment, working with us will ensure your professional life is provided every opportunity to succeed and develop in your chosen career role. About Us Nepean Blue Mountains Local Health Distri…",
+      "redirect_url": "https://www.adzuna.com.au/details/5753079565?utm_medium=api&utm_source=4e5ae6d3",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "id": "5753079565",
+      "salary_max": 134809,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc1MzA3OTU2NSIsInMiOiJxak1pYjRLSjhSR3JnNVlRZV9lQUVBIn0.eDLXdDioMVAdrf7QT6e9nM6PS-uEgF64-M5SEnnHcxo",
+      "location": {
+        "display_name": "Australia",
+        "area": [
+          "Australia"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "contract_time": "full_time",
+      "company": {
+        "display_name": "NSW Government",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_is_predicted": "0",
+      "title": "Business Analyst",
+      "created": "2026-06-05T20:16:21Z",
+      "contract_type": "permanent",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "healthcare-nursing-jobs",
+        "label": "Healthcare & Nursing Jobs"
+      }
+    },
+    {
+      "longitude": 144.976335,
+      "created": "2026-03-02T14:42:00Z",
+      "title": "Business Analyst",
+      "salary_is_predicted": "0",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Swinburne University of Technology"
+      },
+      "contract_time": "full_time",
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "contract_type": "contract",
+      "redirect_url": "https://www.adzuna.com.au/details/5650822535?utm_medium=api&utm_source=4e5ae6d3",
+      "description": "Messages To proceed, please enable JavaScript in your internet browser. After enabling JavaScript, you will need to close and re-open this browser window. Join the application portfolio as a Business Systems Analyst Fixed term (Oct 2026), full time position based at our Hawthorn campus HEW 8  17% super and staff benefits About the Role We’re looking for a dynamic Business Systems Analyst to lead innovation across our application portfolio. In this pivotal role, you’ll collaborate closely with s…",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY1MDgyMjUzNSIsInMiOiJxak1pYjRLSjhSR3JnNVlRZV9lQUVBIn0.METDo1_li2Wmi9geqgXVvPkJkGfzbfORjW6cDzhBYGw",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "South Yarra, Stonnington Area",
+        "area": [
+          "Australia",
+          "Victoria",
+          "Melbourne Region",
+          "Stonnington Area",
+          "South Yarra"
+        ]
+      },
+      "id": "5650822535",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": -37.837324
+    },
+    {
+      "title": "Business Analyst",
+      "salary_is_predicted": "0",
+      "created": "2026-06-06T10:42:19Z",
+      "longitude": 149.112048,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Leidos"
+      },
+      "contract_time": "full_time",
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "contract_type": "permanent",
+      "redirect_url": "https://www.adzuna.com.au/details/5753773075?utm_medium=api&utm_source=4e5ae6d3",
+      "description": "Accrue up to an extra 12 days of leave per year through our Life Days program. Work with world leading technology business at the forefront of innovation. We’re a ‘Family Friendly’ certified workplace – we understand the often many and varied roles our team members need to play within their own unique family setting and actively support them. Our team feel Leidos is a great place to work. Learn more about our culture and benefits by visiting us here https://www.leidos.com/company/global/austral…",
+      "id": "5753773075",
+      "location": {
+        "display_name": "Canberra Region, Australian Capital Territory",
+        "area": [
+          "Australia",
+          "Australian Capital Territory",
+          "Canberra Region"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicWpNaWI0S0o4UkdyZzVZUWVfZUFFQSIsImkiOiI1NzUzNzczMDc1In0.DyvOSSijzff_JMN5Xlj3tpgJA-N6RzQPopC2abA_4X0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": -35.311933
+    },
+    {
+      "redirect_url": "https://www.adzuna.com.au/details/5753407453?utm_medium=api&utm_source=4e5ae6d3",
+      "salary_min": 113574,
+      "description": "Business Analyst Employment Type - Full-Time (35hpw) Opportunity up to 11 months with possible of extension Clerk Grade - 7/8 Salary Range $113,574 - $125,720pa  super Location flexible across Revenue NSW offices with hybrid working About the Team Join a dynamic and collaborative team delivering exciting digital transformation and automation programs focused on modernising core systems, enhancing customer experiences, and streamlining business operations across the organisation. Working with co…",
+      "salary_max": 125720,
+      "id": "5753407453",
+      "location": {
+        "area": [
+          "Australia"
+        ],
+        "display_name": "Australia",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicWpNaWI0S0o4UkdyZzVZUWVfZUFFQSIsImkiOiI1NzUzNDA3NDUzIn0.V9G2qu4352DT0MDRoBduSideoCXtArIjS1sKslNZAao",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "title": "Business Analyst",
+      "created": "2026-06-06T05:38:22Z",
+      "company": {
+        "display_name": "NSW Government",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "contract_time": "full_time",
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "contract_type": "permanent"
+    },
+    {
+      "contract_type": "permanent",
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "contract_time": "part_time",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "CSIRO"
+      },
+      "longitude": 149.133481,
+      "created": "2026-07-19T07:40:18Z",
+      "salary_is_predicted": "0",
+      "title": "Business Analyst",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": -35.309391,
+      "location": {
+        "display_name": "Barton, South Canberra",
+        "area": [
+          "Australia",
+          "Australian Capital Territory",
+          "Canberra Region",
+          "South Canberra",
+          "Barton"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicWpNaWI0S0o4UkdyZzVZUWVfZUFFQSIsImkiOiI1ODA2NDUzNDE1In0.LmnW8S8YCldrWKtMIagKgPFIYb3arUMMtqPlclx-EvY",
+      "id": "5806453415",
+      "description": "Acknowledgement of Country CSIRO acknowledges the Traditional Owners of the land, sea and waters, of the area that we live and work on across Australia. We acknowledge their continuing connection to their culture and pay our respects to their Elders past and present. View our vision towards reconciliation . Role highlights Partner with stakeholders to shape solutions that deliver real business outcomes Drive improvement initiatives through analysis, facilitation and problem-solving Contribute t…",
+      "redirect_url": "https://www.adzuna.com.au/details/5806453415?utm_medium=api&utm_source=4e5ae6d3"
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "display_name": "Canberra Region, Australian Capital Territory",
+        "area": [
+          "Australia",
+          "Australian Capital Territory",
+          "Canberra Region"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicWpNaWI0S0o4UkdyZzVZUWVfZUFFQSIsImkiOiI1NzU1MDI5NDc4In0.YJfnYFrY-pTggzHUg5RgNYreDS8uvTULmwEjxwScbUU",
+      "id": "5755029478",
+      "description": "Description  Accrue up to an extra 12 days of leave per year through our Life Days program.  Work with world leading technology business at the forefront of innovation.  We're a 'Family Friendly' certified workplace - we understand the often many and varied roles our team members need to play within their own unique family setting and actively support them. Our team feel Leidos is a great place to work. Learn more about our culture and benefits by visiting us here https://www.leidos.com/company…",
+      "redirect_url": "https://www.adzuna.com.au/details/5755029478?utm_medium=api&utm_source=4e5ae6d3",
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "company": {
+        "display_name": "Leidos",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "created": "2026-06-07T12:34:50Z",
+      "title": "Business Analyst",
+      "salary_is_predicted": "0"
+    },
+    {
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Accenture"
+      },
+      "contract_time": "full_time",
+      "title": "*Business Analyst*",
+      "salary_is_predicted": "0",
+      "created": "2026-05-30T10:40:06Z",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "id": "5745061331",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc0NTA2MTMzMSIsInMiOiJxak1pYjRLSjhSR3JnNVlRZV9lQUVBIn0.sIUHgMEfoqasYX6PLRvwXmWwG5w7Qv0bIVKCJHnn0W0",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia"
+        ],
+        "display_name": "Australia"
+      },
+      "description": "About Accenture Accenture is a global professional services company with leading capabilities in digital, cloud and security. Find out more about us at www.accenture.com . THE WORK: Join Accenture’s Utilities practice to support energy, water, and infrastructure clients through business and technology transformation initiatives. You will work closely with client stakeholders and cross-functional teams to deliver Business and technology strategies and transformations across the Utilities industr…",
+      "redirect_url": "https://www.adzuna.com.au/details/5745061331?utm_medium=api&utm_source=4e5ae6d3"
+    },
+    {
+      "contract_type": "permanent",
+      "category": {
+        "tag": "logistics-warehouse-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Logistics & Warehouse Jobs"
+      },
+      "contract_time": "part_time",
+      "company": {
+        "display_name": "Glencore",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "created": "2026-07-25T08:59:11Z",
+      "longitude": 139.347262,
+      "title": "Business Analyst",
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": -20.789984,
+      "location": {
+        "area": [
+          "Australia",
+          "Queensland",
+          "Central QLD Region",
+          "Mt Isa",
+          "Parkside"
+        ],
+        "display_name": "Parkside, Mt Isa",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgxNDU0NzQxNyIsInMiOiJxak1pYjRLSjhSR3JnNVlRZV9lQUVBIn0.fVbzZ3MFduXlnvRFzGNRjad77KMQixVm4CJ9y3N0rtM",
+      "id": "5814547417",
+      "description": "Main objective of the position is the management of Copper metals and concentrate contracts from Australian operations. This encompasses administration of contracts with customers, managing the logistics and service provider contracts that perform movement of these purchases and sales to the port, receiving smelter, invoicing finance, hedging, documentation, insurance and other related matters.",
+      "redirect_url": "https://www.adzuna.com.au/details/5814547417?utm_medium=api&utm_source=4e5ae6d3"
+    },
+    {
+      "description": "This is a unique opportunity to work across strategic projects, business performance reporting and commercial initiatives, while gaining exposure to senior leadership, executive and the Board. As an Analyst within our Strategy & Corporate Development team, you'll play an important role in supporting strategic decision-making across the business. You'll work on a diverse range of initiatives including performance reporting, investment opportunities, project delivery, market analysis and process …",
+      "redirect_url": "https://www.adzuna.com.au/details/5794795287?utm_medium=api&utm_source=4e5ae6d3",
+      "latitude": -31.953357,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "id": "5794795287",
+      "location": {
+        "area": [
+          "Australia",
+          "Western Australia",
+          "Perth Region",
+          "Perth",
+          "Perth CBD"
+        ],
+        "display_name": "Perth CBD, Perth",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc5NDc5NTI4NyIsInMiOiJxak1pYjRLSjhSR3JnNVlRZV9lQUVBIn0.sqUUAVD8AqIpIGNxuBrvYv5QNrG5ZUrYikxNaynFQmI",
+      "company": {
+        "display_name": "Pioneer Credit",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "contract_time": "part_time",
+      "title": "Business Analyst",
+      "salary_is_predicted": "0",
+      "created": "2026-07-10T08:59:28Z",
+      "longitude": 115.859784,
+      "contract_type": "permanent",
+      "category": {
+        "label": "Accounting & Finance Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "accounting-finance-jobs"
+      }
+    },
+    {
+      "category": {
+        "label": "Consultancy Jobs",
+        "tag": "consultancy-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "contract_type": "permanent",
+      "longitude": 144.963056,
+      "created": "2026-07-15T09:15:49Z",
+      "title": "Business Analyst",
+      "salary_is_predicted": "0",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Victorian Government"
+      },
+      "contract_time": "full_time",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgwMDQ1NjM3OCIsInMiOiJxak1pYjRLSjhSR3JnNVlRZV9lQUVBIn0.PYV0vPX18BlljEpWir9QTZcuHOK3_op3sYUgXgfwDBk",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Melbourne CBD, Melbourne",
+        "area": [
+          "Australia",
+          "Victoria",
+          "Melbourne Region",
+          "Melbourne",
+          "Melbourne CBD"
+        ]
+      },
+      "id": "5800456378",
+      "latitude": -37.813611,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5800456378?utm_medium=api&utm_source=4e5ae6d3",
+      "description": "About the role: The role will be within the contracts and procurement function within the State Emergencies and Public Order (SEPO). SEPO drives Victoria Police's strategic agenda and operational response for emergency management, custodial management, and events managements. SEPO also holds the capability that supports our frontline police on a daily basis, whether it is in public order, critical incident response, or through deployment of key assets such as air, marine, and K9 support. Report…"
+    },
+    {
+      "id": "5801370121",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Western Australia",
+          "Bunbury Region",
+          "Mandurah Area",
+          "Mandurah"
+        ],
+        "display_name": "Mandurah, Mandurah Area"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgwMTM3MDEyMSIsInMiOiJxak1pYjRLSjhSR3JnNVlRZV9lQUVBIn0.pDRYIvQHGXb1u12y3oKs9sTS21JZtQEqtb59YWphU0A",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": -32.53301,
+      "redirect_url": "https://www.adzuna.com.au/details/5801370121?utm_medium=api&utm_source=4e5ae6d3",
+      "description": "Position No: 073/2026 Work Type: Permanent - Full Time, Fixed Term - Full Time 1 x Full-Time Permanent - Customer Services 1 x Full-Time Fixed term - 12-month contract - Business Improvement 1 x Full-Time Fixed term - 24-month contract - Business Improvement Level Eight (8) | *Salary $122,154 to $129,398 plus superannuation Vacancy 073/2026 The opportunity We are in the market for three experienced Business Analysts. Are you passionate about your profession and enjoy the rewards of a good chall…",
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "contract_type": "contract",
+      "title": "Business Analyst/Business Analyst Customer Services",
+      "salary_is_predicted": "0",
+      "created": "2026-07-16T02:14:40Z",
+      "longitude": 115.732537,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "CITY OF MANDURAH"
+      },
+      "contract_time": "full_time"
+    },
+    {
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      },
+      "contract_type": "permanent",
+      "created": "2026-07-10T08:56:23Z",
+      "longitude": 115.730975,
+      "salary_is_predicted": "0",
+      "title": "Business Analyst/Business Analyst Customer Services",
+      "company": {
+        "display_name": "City Of Mandurah",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "contract_time": "part_time",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc5NDc5MjEwNiIsInMiOiJxak1pYjRLSjhSR3JnNVlRZV9lQUVBIn0.D-NwSPHw483fPd8BDPrB-4eXZks9wVLIkNEwInfaplM",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Western Australia",
+          "Bunbury Region",
+          "Mandurah Area",
+          "Silver Sands"
+        ],
+        "display_name": "Silver Sands, Mandurah Area"
+      },
+      "id": "5794792106",
+      "latitude": -32.510619,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5794792106?utm_medium=api&utm_source=4e5ae6d3",
+      "description": "Position No: 073/2026 Work Type: Permanent - Full Time, Fixed Term - Full Time 1 x Full-Time Permanent - Customer Services 1 x Full-Time Fixed term - 12-month contract - Business Improvement 1 x Full-Time Fixed term - 24-month contract - Business Improvement Level Eight (8) | *Salary $122,154 to $129,398 plus superannuation Vacancy 073/2026 The opportunity We are in the market for three experienced Business Analysts. Are you passionate about your profession and enjoy the rewards of a good chall…"
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicWpNaWI0S0o4UkdyZzVZUWVfZUFFQSIsImkiOiI1Nzk5OTY2MzM2In0.9tJwXkV540X5lG1b6t172xbBzQnWKItT6eaP65LQN5Y",
+      "location": {
+        "area": [
+          "Australia",
+          "Queensland",
+          "Gold Coast Region",
+          "Gold Coast"
+        ],
+        "display_name": "Gold Coast, Gold Coast Region",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "id": "5799966336",
+      "description": "Senior Business Analyst | Digital Products | Agile | AI-Enabled Delivery Gold Coast | Hybrid We're partnering with an established Australian technology business that's investing heavily in the next generation of its digital platforms. We're looking for an experienced Senior Business Analyst to play a key role in delivering a new customer-facing platform while continuing to enhance existing business systems. You'll work closely with engineering, product and business stakeholders, helping shape r…",
+      "salary_min": 140000,
+      "redirect_url": "https://www.adzuna.com.au/details/5799966336?utm_medium=api&utm_source=4e5ae6d3",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Just Digital People"
+      },
+      "contract_time": "full_time",
+      "salary_is_predicted": "0",
+      "latitude": -27.999218,
+      "salary_max": 140000,
+      "contract_type": "permanent",
+      "category": {
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs"
+      },
+      "longitude": 153.384047,
+      "created": "2026-07-14T23:10:00Z",
+      "title": "Senior Business Analyst"
+    },
+    {
+      "salary_is_predicted": "0",
+      "contract_time": "full_time",
+      "company": {
+        "display_name": "The Network",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "id": "5799374529",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicWpNaWI0S0o4UkdyZzVZUWVfZUFFQSIsImkiOiI1Nzk5Mzc0NTI5In0.wZlUG_kk_e3ylEIVx4Wofu1npLbMgE_f0snY5vEow74",
+      "location": {
+        "display_name": "Sydney CBD, Sydney",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney",
+          "Sydney CBD"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5799374529?utm_medium=api&utm_source=4e5ae6d3",
+      "salary_min": 160000,
+      "description": "Lead Business Analyst - Consultancy Aged Care | Disability | Digital Transformation Are you a Senior Business Analyst who enjoys influencing strategy, leading discovery, and shaping solutions, not just documenting requirements? We're partnering with a specialist consulting organisation to recruit a Senior Business Analyst & Solution Consultant to play a key leadership role across major digital transformation programs within the aged care, disability and health sectors. This is more than a tradi…",
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "contract_type": "permanent",
+      "title": "Lead Business Analyst",
+      "longitude": 151.2028,
+      "created": "2026-07-14T11:47:13Z",
+      "salary_max": 180000,
+      "latitude": -33.88078
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": -37.814989,
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Victoria",
+          "Melbourne Region",
+          "Melbourne",
+          "West Melbourne"
+        ],
+        "display_name": "West Melbourne, Melbourne"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc5OTU1NzMzOSIsInMiOiJxak1pYjRLSjhSR3JnNVlRZV9lQUVBIn0.CSZNgOKqmV-nwwOCspEtOqQE4UmuqsMcI_huxPe7oHE",
+      "id": "5799557339",
+      "description": "In this exciting temporary role as a Senior Business Analyst, you will work within the technology department of a leading construction company. Based in Docklands, you'll play a key role in analysing business needs and driving the delivery of innovative technology solutions. Client Details This company is a well-established organisation in the property industry, recognised for its commitment to excellence and innovation. As a mid-sized organisation, it offers a professional and collaborative en…",
+      "redirect_url": "https://www.adzuna.com.au/details/5799557339?utm_medium=api&utm_source=4e5ae6d3",
+      "contract_type": "contract",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      },
+      "contract_time": "full_time",
+      "company": {
+        "display_name": "MPAU Technology",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "created": "2026-07-14T16:35:06Z",
+      "longitude": 144.94613,
+      "title": "Senior Business Analyst",
+      "salary_is_predicted": "0"
+    },
+    {
+      "redirect_url": "https://www.adzuna.com.au/details/5793573847?utm_medium=api&utm_source=4e5ae6d3",
+      "description": "Job Summary: We are looking for an Integration Business Analyst to gather business requirements, analyze system integration needs, and work with stakeholders and technical teams to deliver integration solutions. The role involves documenting requirements, supporting API and data integration projects, and ensuring successful implementation.",
+      "id": "5793573847",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Northern Suburbs",
+          "Ryde Area",
+          "Denistone West"
+        ],
+        "display_name": "Denistone West, Ryde Area"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc5MzU3Mzg0NyIsInMiOiJxak1pYjRLSjhSR3JnNVlRZV9lQUVBIn0.5ynPAKgzlul3bj9u4GzfhTHWLrems5l3JLdwNnGGStI",
+      "latitude": -33.800041,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "title": "Integration Business Analyst",
+      "salary_is_predicted": "0",
+      "longitude": 151.071872,
+      "created": "2026-07-09T12:02:11Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "XPT Software Australia Pty Ltd"
+      },
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "contract_type": "contract"
+    },
+    {
+      "location": {
+        "display_name": "Sydney, Sydney Region",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicWpNaWI0S0o4UkdyZzVZUWVfZUFFQSIsImkiOiI1Nzg2MjE5NDI3In0.B1dyzYaHqG_ICHYTIec4A_wQIejdp1_yTJWRo_Rj-Sk",
+      "salary_max": 234000,
+      "id": "5786219427",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5786219427?utm_medium=api&utm_source=4e5ae6d3",
+      "description": "Technical Business Analyst - API & CRM - 12 month contract Location: Sydney (3 days per week in CBD office) Start date: ASAP - very urgent Rate: $850-900  super per day Working rights: must be based in Australia and have full working rights About An exciting opportunity has become available for an experienced Technical Business Analyst to join a large-scale digital transformation program delivering customer-facing technology initiatives. You'll play a key role in shaping enterprise digital serv…",
+      "salary_min": 208000,
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "contract_type": "contract",
+      "created": "2026-07-03T11:44:59Z",
+      "title": "API Business Analyst",
+      "salary_is_predicted": "0",
+      "company": {
+        "display_name": "Precision Sourcing",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "contract_time": "full_time"
+    },
+    {
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Northern Suburbs",
+          "Ryde Area",
+          "Macquarie Park"
+        ],
+        "display_name": "Macquarie Park, Ryde Area"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc4NjIxOTY0MiIsInMiOiJxak1pYjRLSjhSR3JnNVlRZV9lQUVBIn0.h2bh_9b-CXLH8Bqp-YjAxgB6K4NX1MOsuJ3Q2sr062w",
+      "id": "5786219642",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": -33.7798,
+      "redirect_url": "https://www.adzuna.com.au/details/5786219642?utm_medium=api&utm_source=4e5ae6d3",
+      "description": "We're partnering with a leading Australian Telco to recruit a Senior Business Analyst to join a high-performing Business Analysis practice. Working within a centralised BA capability, you'll be deployed across a range of strategic initiatives, with an initial focus on Digital delivery before having the opportunity to support broader enterprise programs. This role is ideal for someone who enjoys working across both squad-based Agile delivery and end-to-end program environments, and can confident…",
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "contract_type": "permanent",
+      "longitude": 151.13404,
+      "created": "2026-07-03T11:45:16Z",
+      "title": "Senior Business Analyst",
+      "salary_is_predicted": "0",
+      "company": {
+        "display_name": "Talenza",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "contract_time": "full_time"
+    },
+    {
+      "latitude": -33.885283,
+      "salary_max": 160000,
+      "contract_type": "permanent",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      },
+      "created": "2026-07-08T23:52:52Z",
+      "longitude": 151.203231,
+      "title": "Business Analyst - Banking",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney"
+        ],
+        "display_name": "Sydney, Sydney Region"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicWpNaWI0S0o4UkdyZzVZUWVfZUFFQSIsImkiOiI1NzkyNDc1NzkxIn0.MFddXQOLEo3pVWnRn25EeDlicTjt8cyKEQWFO5pqvXY",
+      "id": "5792475791",
+      "description": "Overview We are seeking an experienced Business Analyst to join our Service Delivery team, supporting a major Core Banking Replacement Program. This role combines business analysis with application support responsibilities, ensuring stability of critical banking systems while contributing to ongoing transformation initiatives. Key Responsibilities Provide end-user and application support for core banking systems, troubleshooting issues and ensuring system stability Act as a key point of contact…",
+      "salary_min": 160000,
+      "redirect_url": "https://www.adzuna.com.au/details/5792475791?utm_medium=api&utm_source=4e5ae6d3",
+      "company": {
+        "display_name": "Sustainability Consulting",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "contract_time": "full_time",
+      "salary_is_predicted": "0"
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "id": "5811724311",
+      "location": {
+        "area": [
+          "Australia",
+          "Victoria",
+          "Melbourne Region",
+          "Melbourne",
+          "Melbourne CBD"
+        ],
+        "display_name": "Melbourne CBD, Melbourne",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicWpNaWI0S0o4UkdyZzVZUWVfZUFFQSIsImkiOiI1ODExNzI0MzExIn0.exIkNMNtpJp1G-jB41BsEMHkKlVuI9lFaEf1P2-6tU8",
+      "description": "About the role We are seeking an experienced Business Analyst with strong Payroll Implementation experience to play a key role in a major payroll transformation program. This newly created position will support the transition from an in-house payroll operating model to a managed services environment, while contributing to the implementation of a new payroll solution. About the Client Our client is a well-established Australian organisation currently undertaking significant organisational and op…",
+      "redirect_url": "https://www.adzuna.com.au/details/5811724311?utm_medium=api&utm_source=4e5ae6d3",
+      "contract_type": "contract",
+      "category": {
+        "label": "Accounting & Finance Jobs",
+        "tag": "accounting-finance-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Salt"
+      },
+      "contract_time": "full_time",
+      "salary_is_predicted": "0",
+      "title": "Senior Business Analyst",
+      "created": "2026-07-23T11:50:30Z"
+    },
+    {
+      "contract_time": "full_time",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Talenza"
+      },
+      "salary_is_predicted": "0",
+      "title": "Business Analyst - FTC",
+      "created": "2026-07-25T11:51:24Z",
+      "contract_type": "contract",
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "salary_min": 120000,
+      "description": "Business Analyst (Fixed-term Contract) Location: Melbourne CBD / Hybrid Salary: Up to 140K  Superannuation The Company A well-known, customer-facing organisation is investing in major strategic initiatives across its consumer portfolio. This is a chance to join a values-led team delivering meaningful change across business and technology. The Opportunity We're looking for an experienced Business Analyst to join a Consumer function on a max-term contract. You'll partner across business and techn…",
+      "redirect_url": "https://www.adzuna.com.au/details/5814806709?utm_medium=api&utm_source=4e5ae6d3",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_max": 140000,
+      "id": "5814806709",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicWpNaWI0S0o4UkdyZzVZUWVfZUFFQSIsImkiOiI1ODE0ODA2NzA5In0.zWMUqstFlUAQ0fiksc9T_SeFEfdKS8PVQQmrf8r9NS4",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Melbourne, Melbourne Region",
+        "area": [
+          "Australia",
+          "Victoria",
+          "Melbourne Region",
+          "Melbourne"
+        ]
+      }
+    }
+  ],
+  "__CLASS__": "Adzuna::API::Response::JobSearchResults"
+}

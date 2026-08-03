@@ -1,0 +1,1658 @@
+{
+  "__CLASS__": "Adzuna::API::Response::JobSearchResults",
+  "results": [
+    {
+      "contract_time": "part_time",
+      "created": "2026-07-01T11:02:31Z",
+      "company": {
+        "display_name": "Digital10",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "id": "5782664880",
+      "longitude": 149.133481,
+      "description": "Company Description Digital10 is a technology and consulting company with over 30 years of experience delivering digital and technology projects across government and industry. The company is listed on BuyICT/DTA Marketplace2 for cyber security, program and project management, architecture, digital sourcing and procurement services, as well as labour hire, and is also active on ICTPA and other government panels. Digital10 specializes in security assessments and frameworks such as iRAP, Essentia…",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Australian Capital Territory",
+          "Canberra Region",
+          "South Canberra",
+          "Barton"
+        ],
+        "display_name": "Barton, South Canberra"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5782664880?utm_medium=api&utm_source=4e5ae6d3",
+      "latitude": -35.309391,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc4MjY2NDg4MCIsInMiOiJ4Z0JGWG9LSjhSR191dVVHbEpnQ0FRIn0.20IUM8LCTK1r78H93miIJUhpNXSbyXMfwBFnGjj3xvU",
+      "title": "Senior Data Analyst - TSPV - NOT FOR OVERSEAS CANDIDATES",
+      "contract_type": "permanent",
+      "salary_is_predicted": "0",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      }
+    },
+    {
+      "id": "5816406611",
+      "created": "2026-07-26T19:50:35Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Aged Care Quality and Safety Commission"
+      },
+      "contract_time": "part_time",
+      "longitude": 138.597963,
+      "description": "APS6 $99,784 - $112,571 Adelaide - SA, Brisbane - QLD, Canberra - ACT, Hobart - TAS, Melbourne - VIC, Sydney - SYD, Western Australia - Perth, NT -Darwin About the Aged Care Quality and Safety Commission The Aged Care Quality and Safety Commission is the national regulator of Australian Government-funded aged care services. We protect and enhance the safety, health, wellbeing, and quality of life of people receiving aged care. This includes managing complaints and feedback about the care older …",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "South Australia",
+          "Adelaide Region",
+          "Adelaide",
+          "Adelaide CBD"
+        ],
+        "display_name": "Adelaide CBD, Adelaide"
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5816406611?utm_medium=api&utm_source=4e5ae6d3",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgxNjQwNjYxMSIsInMiOiJ4Z0JGWG9LSjhSR191dVVHbEpnQ0FRIn0.Rk-MODzt1yi3NR5UKrZDh6v9Q4JAoOg7FGI2i0Sv1VU",
+      "latitude": -34.933718,
+      "title": "Senior Data Analyst and Senior Reporting Analyst",
+      "contract_type": "permanent",
+      "salary_is_predicted": "0",
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      }
+    },
+    {
+      "salary_is_predicted": "0",
+      "contract_type": "permanent",
+      "category": {
+        "tag": "consultancy-jobs",
+        "label": "Consultancy Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "description": "Senior Improvement Data Analyst - Safe and Connected Apply now Job no:  Work type: Full time Location: Adelaide CBD Categories: Research and Data Analysis Central Adelaide Local Health Network (CALHN) Safe and Connected Improvement Team Location: Various – across CALHN sites ASO7 $116,089 to $125,490 p.a.  super  salary packaging Full time, permanent position About CALHN At Central Adelaide Local Health Network (CALHN), we’re shaping the future of health through excellence in clinical care, res…",
+      "longitude": 138.59973,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Central Adelaide Local Health Network"
+      },
+      "created": "2026-07-07T01:44:53Z",
+      "contract_time": "full_time",
+      "id": "5790000146",
+      "title": "Senior Improvement Data Analyst - Safe and Connected",
+      "redirect_url": "https://www.adzuna.com.au/details/5790000146?utm_medium=api&utm_source=4e5ae6d3",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": -34.92577,
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "South Australia",
+          "Adelaide Region",
+          "Adelaide",
+          "Adelaide CBD"
+        ],
+        "display_name": "Adelaide CBD, Adelaide"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc5MDAwMDE0NiIsInMiOiJ4Z0JGWG9LSjhSR191dVVHbEpnQ0FRIn0.VrprwGQtGWRdlEd0ce_durwHbIteMyhjJweZk_gPepE"
+    },
+    {
+      "salary_is_predicted": "0",
+      "contract_type": "permanent",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      },
+      "description": "About the Aged Care Quality and Safety Commission The Aged Care Quality and Safety Commission is the national regulator of Australian Government-funded aged care services. We protect and enhance the safety, health, wellbeing, and quality of life of people receiving aged care. This includes managing complaints and feedback about the care older people receive. We help build confidence and trust in aged care, by promoting best practice and a culture of safety and quality in the sector. We register…",
+      "created": "2026-07-26T09:50:05Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Aged Care Quality and Safety Commission"
+      },
+      "contract_time": "part_time",
+      "id": "5815923613",
+      "longitude": 115.859784,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5815923613?utm_medium=api&utm_source=4e5ae6d3",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgxNTkyMzYxMyIsInMiOiJ4Z0JGWG9LSjhSR191dVVHbEpnQ0FRIn0.xe1mRzKIX7Rw6m5GnrzL3PRRhF-yzWRLYhefSbIcXYI",
+      "location": {
+        "display_name": "Perth CBD, Perth",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Western Australia",
+          "Perth Region",
+          "Perth",
+          "Perth CBD"
+        ]
+      },
+      "latitude": -31.953357,
+      "title": "Senior Data Analyst and Senior Reporting Analyst"
+    },
+    {
+      "description": "About the Aged Care Quality and Safety Commission The Aged Care Quality and Safety Commission is the national regulator of Australian Government-funded aged care services. We protect and enhance the safety, health, wellbeing, and quality of life of people receiving aged care. This includes managing complaints and feedback about the care older people receive. We help build confidence and trust in aged care, by promoting best practice and a culture of safety and quality in the sector. We register…",
+      "created": "2026-07-26T09:50:05Z",
+      "contract_time": "part_time",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Aged Care Quality and Safety Commission"
+      },
+      "id": "5815923698",
+      "longitude": 149.133481,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5815923698?utm_medium=api&utm_source=4e5ae6d3",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieGdCRlhvS0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1ODE1OTIzNjk4In0.UGYKaK1p2USRZaSLBMuawQPQMICrDk6veEv3uIOjUSg",
+      "location": {
+        "display_name": "Barton, South Canberra",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Australian Capital Territory",
+          "Canberra Region",
+          "South Canberra",
+          "Barton"
+        ]
+      },
+      "latitude": -35.309391,
+      "title": "Senior Data Analyst and Senior Reporting Analyst",
+      "salary_is_predicted": "0",
+      "contract_type": "permanent",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      }
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5815923501?utm_medium=api&utm_source=4e5ae6d3",
+      "location": {
+        "area": [
+          "Australia",
+          "Tasmania",
+          "Hobart Region",
+          "Hobart",
+          "North Hobart"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "North Hobart, Hobart"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgxNTkyMzUwMSIsInMiOiJ4Z0JGWG9LSjhSR191dVVHbEpnQ0FRIn0.sBK74KWin23NqqVScdCKStD15fpi4cfg1pyFMyVWa1A",
+      "latitude": -42.874248,
+      "title": "Senior Data Analyst and Senior Reporting Analyst",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Aged Care Quality and Safety Commission"
+      },
+      "created": "2026-07-26T09:50:04Z",
+      "contract_time": "part_time",
+      "id": "5815923501",
+      "longitude": 147.317877,
+      "description": "About the Aged Care Quality and Safety Commission The Aged Care Quality and Safety Commission is the national regulator of Australian Government-funded aged care services. We protect and enhance the safety, health, wellbeing, and quality of life of people receiving aged care. This includes managing complaints and feedback about the care older people receive. We help build confidence and trust in aged care, by promoting best practice and a culture of safety and quality in the sector. We register…",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "contract_type": "permanent",
+      "salary_is_predicted": "0"
+    },
+    {
+      "contract_type": "permanent",
+      "salary_is_predicted": "0",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      },
+      "longitude": 130.841848,
+      "id": "5815923579",
+      "created": "2026-07-26T09:50:04Z",
+      "company": {
+        "display_name": "Aged Care Quality and Safety Commission",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "contract_time": "part_time",
+      "description": "About the Aged Care Quality and Safety Commission The Aged Care Quality and Safety Commission is the national regulator of Australian Government-funded aged care services. We protect and enhance the safety, health, wellbeing, and quality of life of people receiving aged care. This includes managing complaints and feedback about the care older people receive. We help build confidence and trust in aged care, by promoting best practice and a culture of safety and quality in the sector. We register…",
+      "title": "Senior Data Analyst and Senior Reporting Analyst",
+      "latitude": -12.462827,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5815923579?utm_medium=api&utm_source=4e5ae6d3",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Northern Territory",
+          "Darwin Region",
+          "Darwin",
+          "Larrakeyah"
+        ],
+        "display_name": "Larrakeyah, Darwin"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieGdCRlhvS0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1ODE1OTIzNTc5In0.LI_cMJIPPuEzehq0OkI8mN2bOeNvqcqY_09XBdiRL0A"
+    },
+    {
+      "salary_is_predicted": "0",
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "created": "2026-07-23T11:21:40Z",
+      "id": "5811675121",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Jobgether"
+      },
+      "contract_time": "full_time",
+      "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a UX Researcher, Data Analyst & Optimization Specialist based in Australia. This role sits at the intersection of UX research, data analytics, and digital optimization, helping teams make smarter decisions through evidence-based insights. You will transform user behavior data into actionable recommendations that improve customer experiences and business outcomes. The p…",
+      "title": "UX Researcher, Data Analyst & Optimization Specialist",
+      "redirect_url": "https://www.adzuna.com.au/details/5811675121?utm_medium=api&utm_source=4e5ae6d3",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieGdCRlhvS0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1ODExNjc1MTIxIn0.EyILbNh7uQcv4TQU2rFTBxN5U0mRWnptuzVXt7o5jVc",
+      "location": {
+        "display_name": "Australia",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia"
+        ]
+      }
+    },
+    {
+      "contract_type": "permanent",
+      "salary_is_predicted": "0",
+      "category": {
+        "tag": "healthcare-nursing-jobs",
+        "label": "Healthcare & Nursing Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "created": "2026-07-04T09:22:05Z",
+      "contract_time": "part_time",
+      "company": {
+        "display_name": "Australian Institute of Health and Welfare",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "id": "5787356468",
+      "longitude": 149.133481,
+      "description": "The Community Services Group develops, maintains and analyses national data to support monitoring and reporting of: the health and welfare of key subpopulations, including older Australians, people with disability, dementia, and victims and perpetrators of family, domestic and sexual violence use of services within a range of health and welfare sectors, including community-based services focused on aged care and disability pathways and outcomes for the general population, key subpopulations and…",
+      "redirect_url": "https://www.adzuna.com.au/details/5787356468?utm_medium=api&utm_source=4e5ae6d3",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": -35.309391,
+      "location": {
+        "display_name": "Barton, South Canberra",
+        "area": [
+          "Australia",
+          "Australian Capital Territory",
+          "Canberra Region",
+          "South Canberra",
+          "Barton"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc4NzM1NjQ2OCIsInMiOiJ4Z0JGWG9LSjhSR191dVVHbEpnQ0FRIn0._OdZeR0swffxL7d3PTjewJ6yRjmNFPchrUpBXHFKUZc",
+      "title": "APS6 Senior Data Analyst (CSG_AACAU)"
+    },
+    {
+      "contract_type": "permanent",
+      "salary_is_predicted": "0",
+      "category": {
+        "label": "Healthcare & Nursing Jobs",
+        "tag": "healthcare-nursing-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "longitude": 149.133481,
+      "contract_time": "part_time",
+      "created": "2026-07-04T09:22:00Z",
+      "company": {
+        "display_name": "Australian Institute of Health and Welfare",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "id": "5787356047",
+      "description": "Ongoing,Non-ongoing APS Level 6 $101,024 - $111,701 ACT,NSW,Remote The Community Services Group develops, maintains and analyses national data to support monitoring and reporting of: the health and welfare of key subpopulations, including older Australians, people with disability, dementia, and victims and perpetrators of family, domestic and sexual violence use of services within a range of health and welfare sectors, including community-based services focused on aged care and disability pathw…",
+      "title": "APS6 Senior Data Analyst (CSG_AACAU)",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5787356047?utm_medium=api&utm_source=4e5ae6d3",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc4NzM1NjA0NyIsInMiOiJ4Z0JGWG9LSjhSR191dVVHbEpnQ0FRIn0.MTIIPV9s6LaHd15VDdVHpUeHeUckLvhEfHMiFyaS7-E",
+      "location": {
+        "display_name": "Barton, South Canberra",
+        "area": [
+          "Australia",
+          "Australian Capital Territory",
+          "Canberra Region",
+          "South Canberra",
+          "Barton"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "latitude": -35.309391
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "display_name": "Australia",
+        "area": [
+          "Australia"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5800539745?utm_medium=api&utm_source=4e5ae6d3",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieGdCRlhvS0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1ODAwNTM5NzQ1In0.97uLGlopNCe743kDS5g87YW0NCDXa2vejIEcjdTKpbs",
+      "title": "Senior Data Analyst (12 month FTC)",
+      "created": "2026-07-15T11:07:34Z",
+      "contract_time": "full_time",
+      "company": {
+        "display_name": "Telstra Health",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "id": "5800539745",
+      "description": "Description Transform Digital Healthcare with Telstra Health At Telstra Health, we're shaping the future of healthcare with connected solutions that make care safer, faster, and more seamless. From hospitals and clinics to aged care and community programs, our technology empowers teams to deliver better care - wherever it's needed. Trusted across programs like 1800RESPECT, the Leaving Violence Program, and the National Cancer Screening Register, we connect care in ways that truly make a differe…",
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "contract_type": "contract",
+      "salary_is_predicted": "0"
+    },
+    {
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "accounting-finance-jobs",
+        "label": "Accounting & Finance Jobs"
+      },
+      "salary_is_predicted": "0",
+      "redirect_url": "https://www.adzuna.com.au/details/5815971672?utm_medium=api&utm_source=4e5ae6d3",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieGdCRlhvS0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1ODE1OTcxNjcyIn0.hozbUy5gztc3nzBlxSYrHgI5SgD4VOEFFN4Yauzz9qI",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Queensland",
+          "Brisbane Region",
+          "Brisbane",
+          "Robertson"
+        ],
+        "display_name": "Robertson, Brisbane"
+      },
+      "latitude": -27.553179,
+      "title": "Senior Data Analyst, Student Load Planning",
+      "contract_time": "full_time",
+      "created": "2026-07-26T10:13:25Z",
+      "company": {
+        "display_name": "Griffith University",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "id": "5815971672",
+      "longitude": 153.056433,
+      "description": "Company Description Every institution values excellence. What matters most is why. Griffith was created to be a different type of university. You’ll find we’re about leading research, academic excellence, and the transformative power of education. But what sets us apart is why those things matter and how you’ll achieve them. Why? Griffith brings together exceptional minds like yours from across the globe and from all walks of life. Here, we do incredible work, questioning and challenging, alway…"
+    },
+    {
+      "redirect_url": "https://www.adzuna.com.au/details/5799262517?utm_medium=api&utm_source=4e5ae6d3",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": -27.4679,
+      "location": {
+        "display_name": "Brisbane CBD, Brisbane",
+        "area": [
+          "Australia",
+          "Queensland",
+          "Brisbane Region",
+          "Brisbane",
+          "Brisbane CBD"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieGdCRlhvS0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1Nzk5MjYyNTE3In0.ou-feN2Yr0kwy0cGGormC9Qny28c75kMAWC2eqMBCwY",
+      "title": "Data Analyst HYBRID — SYDNEY / MELBOURNE / BRISBANE",
+      "description": "HomeMade, Mable, Leap in! and Mable Direct are entities under the Attain Healthtech Group of companies. While our companies are diverse, three similarities bind us: 1. We exist to create lasting, positive change across the entire care and support sector - impacting more lives, elevating standards and shaping the future of care 2. We believe in technology as an enabler 3. We’re driven by helping customers attain better outcomes This position is part of the Mable team. About Mable Mable is one of…",
+      "created": "2026-07-14T10:01:35Z",
+      "id": "5799262517",
+      "company": {
+        "display_name": "Mable",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "contract_time": "full_time",
+      "longitude": 153.0281,
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "salary_is_predicted": "0"
+    },
+    {
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      },
+      "salary_is_predicted": "0",
+      "title": "Data Analyst HYBRID — SYDNEY / MELBOURNE / BRISBANE",
+      "redirect_url": "https://www.adzuna.com.au/details/5799262497?utm_medium=api&utm_source=4e5ae6d3",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc5OTI2MjQ5NyIsInMiOiJ4Z0JGWG9LSjhSR191dVVHbEpnQ0FRIn0.usy3bpDS8gaDIETS14pmbWPlGvcS_jB8MviryKzrHiM",
+      "location": {
+        "display_name": "The Rocks, Sydney",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney",
+          "The Rocks"
+        ]
+      },
+      "latitude": -33.867139,
+      "description": "HomeMade, Mable, Leap in! and Mable Direct are entities under the Attain Healthtech Group of companies. While our companies are diverse, three similarities bind us: 1. We exist to create lasting, positive change across the entire care and support sector - impacting more lives, elevating standards and shaping the future of care 2. We believe in technology as an enabler 3. We’re driven by helping customers attain better outcomes This position is part of the Mable team. About Mable Mable is one of…",
+      "longitude": 151.207114,
+      "created": "2026-07-14T10:01:35Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Mable"
+      },
+      "id": "5799262497",
+      "contract_time": "full_time"
+    },
+    {
+      "description": "HomeMade, Mable, Leap in! and Mable Direct are entities under the Attain Healthtech Group of companies. While our companies are diverse, three similarities bind us: 1. We exist to create lasting, positive change across the entire care and support sector - impacting more lives, elevating standards and shaping the future of care 2. We believe in technology as an enabler 3. We’re driven by helping customers attain better outcomes This position is part of the Mable team. About Mable Mable is one of…",
+      "longitude": 144.976335,
+      "created": "2026-07-14T10:01:34Z",
+      "contract_time": "full_time",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Mable"
+      },
+      "id": "5799262456",
+      "title": "Data Analyst HYBRID — SYDNEY / MELBOURNE / BRISBANE",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Victoria",
+          "Melbourne Region",
+          "Stonnington Area",
+          "South Yarra"
+        ],
+        "display_name": "South Yarra, Stonnington Area"
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5799262456?utm_medium=api&utm_source=4e5ae6d3",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieGdCRlhvS0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1Nzk5MjYyNDU2In0.zACr6PK9evuDMi3nx0rdk0KvTP-J6odjOc8n2MYkfvY",
+      "latitude": -37.837324,
+      "salary_is_predicted": "0",
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      }
+    },
+    {
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      },
+      "salary_is_predicted": "0",
+      "contract_type": "contract",
+      "title": "Senior Technical Business Analyst / Data Analyst",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5814106081?utm_medium=api&utm_source=4e5ae6d3",
+      "location": {
+        "display_name": "Brisbane CBD, Brisbane",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Queensland",
+          "Brisbane Region",
+          "Brisbane",
+          "Brisbane CBD"
+        ]
+      },
+      "latitude": -27.4679,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgxNDEwNjA4MSIsInMiOiJ4Z0JGWG9LSjhSR191dVVHbEpnQ0FRIn0.-Hq69kAXt12f3NDOskGvFplcOaIuY3-tLStY1UkekMc",
+      "description": "Brisbane SE suburbs, work close to home Hybrid, 2-3 days onsite 3 - 6 Month Contract Join our Financial Services Consulting team on a Transformation program! Contract opportunity available to work as part of our team on a major transformation program supporting the migration and decommissioning of critical banking systems. We're looking for an experienced Senior Technical Business Analyst with strong data analysis capabilities to define and validate enterprise-wide data retention requirements a…",
+      "longitude": 153.0281,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Davidson"
+      },
+      "created": "2026-07-25T02:12:38Z",
+      "id": "5814106081"
+    },
+    {
+      "description": "About KAEFER AustraliaKAEFER Integrated Services Pty Ltd is the Australian subsidiary of the KAEFER Group, a company renowned worldwide for excellence in the fields of asset integrity solutions and industrial services, with an annual turnover of around €1.7 billion and around 30,000 employees worldwide.We specialise in the supply of asset integrity and industrial services solutions to the Oil, LNG, Mining and Power Industries and pride ourselves on our effective delivery of quality products and…",
+      "longitude": 115.859784,
+      "id": "5784358898",
+      "created": "2026-07-02T07:21:52Z",
+      "company": {
+        "display_name": "KAEFER Australia",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "contract_time": "full_time",
+      "title": "People Systems & Data Analyst - Success Factors",
+      "location": {
+        "display_name": "Perth CBD, Perth",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Western Australia",
+          "Perth Region",
+          "Perth",
+          "Perth CBD"
+        ]
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5784358898?utm_medium=api&utm_source=4e5ae6d3",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieGdCRlhvS0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1Nzg0MzU4ODk4In0.WTe-EecYJEroyYL0sOP3EEXrdhefROyYIzltS_QGpPQ",
+      "latitude": -31.953357,
+      "salary_is_predicted": "0",
+      "contract_type": "permanent",
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      }
+    },
+    {
+      "title": "Data/Business Analyst",
+      "redirect_url": "https://www.adzuna.com.au/details/5791842919?utm_medium=api&utm_source=4e5ae6d3",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Victoria",
+          "Melbourne Region",
+          "Wyndham Area",
+          "Laverton North"
+        ],
+        "display_name": "Laverton North, Wyndham Area"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc5MTg0MjkxOSIsInMiOiJ4Z0JGWG9LSjhSR191dVVHbEpnQ0FRIn0.okKaic8gT_stE1s3gEQfgqwumozYlZj_IDanToV4mSY",
+      "latitude": -37.82921,
+      "description": "We are currently seeking an experienced Data/Business Analyst to join our client's team based in Laverton. This is a fantastic opportunity for an analytical professional who enjoys turning complex data into meaningful business insights in a fast-paced environment. About the Role As a Data/Business Analyst, you will be responsible for collecting, analysing, and interpreting data to support business operations and decision-making. Working closely with key stakeholders, you'll help drive data accu…",
+      "longitude": 144.79895,
+      "created": "2026-07-08T12:44:04Z",
+      "id": "5791842919",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Toll People"
+      },
+      "contract_time": "full_time",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "salary_is_predicted": "0",
+      "contract_type": "contract"
+    },
+    {
+      "description": "YO IT Consulting is looking for a Data Analyst Excel to work remotely. In this role, you'll leverage your analytical skills to assist in training AI systems. No previous AI experience is necessary, emphasizing the importance of your domain knowledge. Your responsibilities will include analyzing data with Excel, collaborating with stakeholders, and developing reports to communicate insights effectively. J-18808-Ljbffr",
+      "longitude": 149.133481,
+      "created": "2026-07-01T06:04:41Z",
+      "contract_time": "part_time",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "YO IT Consulting"
+      },
+      "id": "5782369929",
+      "title": "Remote Data Analyst: Excel Insights for AI Training",
+      "location": {
+        "display_name": "Barton, South Canberra",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Australian Capital Territory",
+          "Canberra Region",
+          "South Canberra",
+          "Barton"
+        ]
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5782369929?utm_medium=api&utm_source=4e5ae6d3",
+      "latitude": -35.309391,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieGdCRlhvS0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1NzgyMzY5OTI5In0.P3idl24FDMhiLg3cCBb2jB0tD30hbuG2wn4ua6uaJ8Q",
+      "salary_is_predicted": "0",
+      "contract_type": "permanent",
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      }
+    },
+    {
+      "description": "Job descriptionAre you a detail-oriented individual with a passion for research and a good understanding of national and local geography? This freelance opportunity allows you to work at your own pace and from the comfort of your own home. A Day in the Life of an Online Data Analyst:In this role, you will be working on a project aimed at enhancing the content and quality of digital maps that are used by millions of people worldwideCompleting research and evaluation tasks in a web-based environm…",
+      "contract_time": "part_time",
+      "created": "2026-07-11T09:24:14Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "TELUS Digital AI Data Solutions"
+      },
+      "id": "5796294731",
+      "longitude": 151.776874,
+      "redirect_url": "https://www.adzuna.com.au/details/5796294731?utm_medium=api&utm_source=4e5ae6d3",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Newcastle Region",
+          "Newcastle Area",
+          "The Hill"
+        ],
+        "display_name": "The Hill, Newcastle Area"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieGdCRlhvS0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1Nzk2Mjk0NzMxIn0.zAcXltTFxa8yFIG7zlOid04sw4f3e1wgUjI2QmbgTx0",
+      "latitude": -32.931546,
+      "title": "Online Data Analyst - English (AU) | Fully Remote",
+      "salary_is_predicted": "0",
+      "contract_type": "permanent",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "scientific-qa-jobs",
+        "label": "Scientific & QA Jobs"
+      }
+    },
+    {
+      "salary_is_predicted": "0",
+      "contract_type": "permanent",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Scientific & QA Jobs",
+        "tag": "scientific-qa-jobs"
+      },
+      "description": "Job descriptionAre you a detail-oriented individual with a passion for research and a good understanding of national and local geography? This freelance opportunity allows you to work at your own pace and from the comfort of your own home. A Day in the Life of an Online Data Analyst:In this role, you will be working on a project aimed at enhancing the content and quality of digital maps that are used by millions of people worldwideCompleting research and evaluation tasks in a web-based environm…",
+      "longitude": 115.859784,
+      "id": "5796294673",
+      "created": "2026-07-11T09:24:13Z",
+      "company": {
+        "display_name": "TELUS Digital AI Data Solutions",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "contract_time": "part_time",
+      "title": "Online Data Analyst - English (AU) | Fully Remote",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieGdCRlhvS0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1Nzk2Mjk0NjczIn0.PZcnPWpprRDvCl2tRlcwCXM2SdC4I25AoCgGbIcFviI",
+      "redirect_url": "https://www.adzuna.com.au/details/5796294673?utm_medium=api&utm_source=4e5ae6d3",
+      "location": {
+        "area": [
+          "Australia",
+          "Western Australia",
+          "Perth Region",
+          "Perth",
+          "Perth CBD"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Perth CBD, Perth"
+      },
+      "latitude": -31.953357
+    },
+    {
+      "salary_is_predicted": "0",
+      "contract_type": "permanent",
+      "category": {
+        "tag": "creative-design-jobs",
+        "label": "Creative & Design Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "description": "TELUS Digital AI Data Solutions is seeking detail-oriented individuals for a freelance opportunity focused on enhancing digital maps used globally. This role allows you to work at your own pace from home. Applicants must demonstrate full professional proficiency in English and have lived in Australia for the past two years, with familiarity in local current affairs. The project includes quality assurance checks and a standard assessment process. J-18808-Ljbffr",
+      "created": "2026-06-28T08:56:37Z",
+      "id": "5779544973",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "TELUS Digital AI Data Solutions"
+      },
+      "contract_time": "part_time",
+      "longitude": 149.133481,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieGdCRlhvS0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1Nzc5NTQ0OTczIn0.CpD0DnNY3OciPmkqwu0YFzJA_hk_8bYQ0OoLlfW1gGU",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5779544973?utm_medium=api&utm_source=4e5ae6d3",
+      "location": {
+        "display_name": "Barton, South Canberra",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Australian Capital Territory",
+          "Canberra Region",
+          "South Canberra",
+          "Barton"
+        ]
+      },
+      "latitude": -35.309391,
+      "title": "Remote Online Data Analyst - Map Research & Quality"
+    },
+    {
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "salary_is_predicted": "0",
+      "contract_type": "permanent",
+      "redirect_url": "https://www.adzuna.com.au/details/5786123796?utm_medium=api&utm_source=4e5ae6d3",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "South Australia",
+          "Adelaide Region",
+          "Clare Area",
+          "Emu Flat"
+        ],
+        "display_name": "Emu Flat, Clare Area"
+      },
+      "latitude": -33.862334,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc4NjEyMzc5NiIsInMiOiJ4Z0JGWG9LSjhSR191dVVHbEpnQ0FRIn0._NYNwePdONv9uD9ki95pTzgg27twAsueML9k7j2x58Q",
+      "title": "Data Migration Analyst",
+      "description": "Senior Data Migration Analyst  Dublin, Ireland | Contract We're supporting a major business transformation programme and are looking for a Data Migration Analyst to help shape how critical data is prepared for migration. This role sits at the early stages of the data lifecycle, with a focus on understanding existing datasets, defining how they should be structured, and supporting a large-scale business separation. It's well suited to a technically minded data analyst who enjoys working with com…",
+      "created": "2026-07-03T09:13:20Z",
+      "contract_time": "part_time",
+      "company": {
+        "display_name": "TRC Group",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "id": "5786123796",
+      "longitude": 138.60256
+    },
+    {
+      "description": "Data Migration Analyst | Data Services Group | Melbourne, Australia | Hybrid RLDatix (RLD) is on a mission to help raise the standard of care…everywhere. Trusted by over 10,000 healthcare organizations around the world, our solutions help improve health and care. Our applications ensure that patients receive the best and safest care while supporting the providers who deliver it. Joining TeamRLD means being part of a global effort of over 2,000 team members in making a difference in healthcare…e…",
+      "longitude": 144.977613,
+      "contract_time": "full_time",
+      "created": "2026-05-22T11:16:14Z",
+      "company": {
+        "display_name": "Galen",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "id": "5737075608",
+      "title": "Data Migration Analyst",
+      "redirect_url": "https://www.adzuna.com.au/details/5737075608?utm_medium=api&utm_source=4e5ae6d3",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "display_name": "Middle Park, Port Phillip",
+        "area": [
+          "Australia",
+          "Victoria",
+          "Melbourne Region",
+          "Port Phillip",
+          "Middle Park"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieGdCRlhvS0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1NzM3MDc1NjA4In0.pQK9fxAY7ml8EI5oB78wFvXoHODAruH71-BQ9thljV0",
+      "latitude": -37.844856,
+      "salary_is_predicted": "0",
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      }
+    },
+    {
+      "description": "Data Migration Analyst | Data Services Group | Melbourne, Australia | Hybrid RLDatix (RLD) is on a mission to help raise the standard of care…everywhere. Trusted by over 10,000 healthcare organizations around the world, our solutions help improve health and care. Our applications ensure that patients receive the best and safest care while supporting the providers who deliver it. Joining TeamRLD means being part of a global effort of over 2,000 team members in making a difference in healthcare…e…",
+      "created": "2026-05-23T10:35:45Z",
+      "id": "5738205935",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "RLDatix"
+      },
+      "title": "Data Migration Analyst",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5738205935?utm_medium=api&utm_source=4e5ae6d3",
+      "location": {
+        "display_name": "Australia",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia"
+        ]
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTczODIwNTkzNSIsInMiOiJ4Z0JGWG9LSjhSR191dVVHbEpnQ0FRIn0.iJtwVFj9oNWxaS42JckhD5wci4pMCKDbqd1jWN1tQvc",
+      "salary_is_predicted": "0",
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      }
+    },
+    {
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      },
+      "salary_is_predicted": "0",
+      "contract_type": "permanent",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieGdCRlhvS0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1Nzg0MzU2MDUyIn0.mv5jbuGYzTwoI3Eb-416axIdZetmXYJMVJdfTCbXmbU",
+      "redirect_url": "https://www.adzuna.com.au/details/5784356052?utm_medium=api&utm_source=4e5ae6d3",
+      "location": {
+        "area": [
+          "Australia",
+          "South Australia",
+          "Adelaide Region",
+          "Adelaide",
+          "Adelaide CBD"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Adelaide CBD, Adelaide"
+      },
+      "latitude": -34.933718,
+      "title": "Data Compliance Analyst",
+      "description": "Data Compliance Analyst – Records Retention & Disposal Initial contract up until September 2026 with possibility of extension Adelaide Based Position Seeking a Data Compliance Analyst to support a legacy system decommissioning program. You’ll work with stakeholders to assess, classify, retain, archive, and dispose of records in line with privacy and regulatory requirements. Ideal candidates bring expertise in records management, data governance, compliance, and business analysis within regulate…",
+      "created": "2026-07-02T07:21:32Z",
+      "id": "5784356052",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Talent International"
+      },
+      "contract_time": "part_time",
+      "longitude": 138.597963
+    },
+    {
+      "description": "Job Title: Data & Reporting Analyst Location: Sydney Duration: 6 Months Contract Job Description: We are looking for a skilled Data & Reporting Analyst to join our team on a 6-month contract in Sydney. This role will focus on driving insights and optimization through advanced analytics and effective stakeholder engagement. The ideal candidate will have experience across data visualization tools, cloud platforms, and financial analysis. Key Responsibilities: Analyze cloud usage and cost data to …",
+      "created": "2025-08-01T20:52:45Z",
+      "id": "5331788576",
+      "company": {
+        "display_name": "Tech Aalto",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "title": "Data & Reporting Analyst",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5331788576?utm_medium=api&utm_source=4e5ae6d3",
+      "location": {
+        "display_name": "Sydney, Sydney Region",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieGdCRlhvS0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1MzMxNzg4NTc2In0.NjL44FRMgS6bRX_YqTTGu4LNS4SD4X_9PSL1OJesvy8",
+      "salary_is_predicted": "0",
+      "contract_type": "contract",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      }
+    },
+    {
+      "contract_type": "permanent",
+      "salary_is_predicted": "0",
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "longitude": 149.133481,
+      "id": "5784361661",
+      "created": "2026-07-02T07:22:10Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "IT Alliance"
+      },
+      "contract_time": "part_time",
+      "description": "One of our Federal Government clients is looking for a Data Migration Analyst in Canberra . We are looking for the following Skills/Experience: Demonstrable experience in data analysis, transformation and migration within complex ICT environments, with particular focus on ETL pipeline design and execution. Technical skills with Procedural Language/Structured Query Language (PL/SQL), Oracle databases, SQL Developer tool, Azure Data Factory, SQL Server Integration Services (SSIS) and code reposit…",
+      "title": "Data Migration Analyst",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": -35.309391,
+      "redirect_url": "https://www.adzuna.com.au/details/5784361661?utm_medium=api&utm_source=4e5ae6d3",
+      "location": {
+        "display_name": "Barton, South Canberra",
+        "area": [
+          "Australia",
+          "Australian Capital Territory",
+          "Canberra Region",
+          "South Canberra",
+          "Barton"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc4NDM2MTY2MSIsInMiOiJ4Z0JGWG9LSjhSR191dVVHbEpnQ0FRIn0.-YycDCb2Pw40bGqigA7O1XT5c2t5EKnJPl9w7vIMtmU"
+    },
+    {
+      "title": "Data & Reporting Analyst",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieGdCRlhvS0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1NzkwMDAwMjg4In0.1GPZtD83qwwRCXJ4nbf6wcxf1PIle580-aylI-P8rUU",
+      "redirect_url": "https://www.adzuna.com.au/details/5790000288?utm_medium=api&utm_source=4e5ae6d3",
+      "location": {
+        "display_name": "Marsfield, Ryde Area",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Northern Suburbs",
+          "Ryde Area",
+          "Marsfield"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "latitude": -33.773141,
+      "longitude": 151.107781,
+      "contract_time": "full_time",
+      "created": "2026-07-07T01:44:56Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "The Recruitment Company"
+      },
+      "id": "5790000288",
+      "description": "A fantastic opportunity for a hands-on, motivated Data & Reporting Analyst to join a friendly enterprise data & analytics team and gain real exposure to Microsoft Fabric in a live transformation environment . Macquarie Park | 3 days in office | $120K–$150K  super | 12-month fixed term This is a great fit for someone who enjoys working in Excel day-to-day, takes ownership of their work, and wants to build a long-term career in data & analytics within a modernising enterprise environment. You’ll …",
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "contract_type": "contract",
+      "salary_is_predicted": "0"
+    },
+    {
+      "title": "Data Integrity Analyst",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5800539815?utm_medium=api&utm_source=4e5ae6d3",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieGdCRlhvS0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1ODAwNTM5ODE1In0.VAmppPDkB0yIQpQIFN24B2w-fklBjFrLeEqg2RYsnfc",
+      "location": {
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "North Shore",
+          "North Sydney Area",
+          "North Sydney"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "North Sydney, North Sydney Area"
+      },
+      "latitude": -33.83827,
+      "description": "Whether it's the unique breadth of our integrated offering that covers Injectable Aesthetics, Dermatological Skincare and Therapeutic Dermatology products; or our commitment to recognizing and rewarding people for the contribution they make - working here isn't like anywhere else. At Galderma, we actively give our teams reasons to believe in our ambition to become the leading dermatology company in the world. With us, you have the ultimate opportunity to gain new and challenging work experience…",
+      "longitude": 151.20648,
+      "created": "2026-07-15T11:07:45Z",
+      "contract_time": "full_time",
+      "company": {
+        "display_name": "Galderma",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "id": "5800539815",
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "salary_is_predicted": "0"
+    },
+    {
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      },
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Tasmania",
+          "Hobart Region"
+        ],
+        "display_name": "Hobart Region, Tasmania"
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5778408474?utm_medium=api&utm_source=4e5ae6d3",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc3ODQwODQ3NCIsInMiOiJ4Z0JGWG9LSjhSR191dVVHbEpnQ0FRIn0.PisBeEMsiN5Se6_mDZVpW7MaFzXkeSZcdaCyDLdWLuc",
+      "title": "Data Business Analyst",
+      "created": "2026-06-27T10:49:59Z",
+      "company": {
+        "display_name": "CGI",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "contract_time": "full_time",
+      "id": "5778408474",
+      "description": "Position Description: Recognised as one of the world’s largest IT and business consulting firms, CGI has offices across Australia, supporting local public and private sector clients to solve real business problems. We are seeking a detail-oriented and analytical Data Business Analyst to support a large-scale healthcare data migration and EMR transformation initiative. This role will be responsible for assessing, profiling, mapping, and validating data across multiple source systems to ensure su…"
+    },
+    {
+      "salary_is_predicted": "0",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "longitude": 151.20648,
+      "id": "5800540679",
+      "created": "2026-07-15T11:09:26Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Galderma"
+      },
+      "contract_time": "full_time",
+      "description": "Galderma is the emerging pure-play dermatology category leader, present in approximately 90 countries. We deliver an innovative, science-based portfolio of premium flagship brands and services that span the full spectrum of the fast-growing dermatology market through Injectable Aesthetics, Dermatological Skincare and Therapeutic Dermatology. Since our foundation in 1981, we have dedicated our focus and passion to the human body's largest organ - the skin - meeting individual consumer and patien…",
+      "title": "Data Integrity Analyst",
+      "redirect_url": "https://www.adzuna.com.au/details/5800540679?utm_medium=api&utm_source=4e5ae6d3",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "North Shore",
+          "North Sydney Area",
+          "North Sydney"
+        ],
+        "display_name": "North Sydney, North Sydney Area"
+      },
+      "latitude": -33.83827,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgwMDU0MDY3OSIsInMiOiJ4Z0JGWG9LSjhSR191dVVHbEpnQ0FRIn0.TIgvAMynxm0GFHBtRoNMq5a2ghQoP8O2QiJc5MYO2bM"
+    },
+    {
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "contract_type": "contract",
+      "title": "Data Migration Analyst",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "area": [
+          "Australia",
+          "Western Australia",
+          "Perth Region",
+          "Belmont Area",
+          "Rivervale"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Rivervale, Belmont Area"
+      },
+      "latitude": -31.96091,
+      "redirect_url": "https://www.adzuna.com.au/details/5793519568?utm_medium=api&utm_source=4e5ae6d3",
+      "longitude": 115.920292,
+      "contract_time": "full_time",
+      "salary_is_predicted": "0",
+      "salary_min": 120000,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieGdCRlhvS0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1NzkzNTE5NTY4In0.PbjdR5QwqIkRavJdyX_9tzcjaauJHYTX1hVsaEBYNaE",
+      "salary_max": 140000,
+      "description": "At Southern Cross Care WA, we help people live extraordinary lives, every day, connected to communities. As a provider delivering care, support and accommodation for West Australians in greatest need, our purpose is clear, and our passion is strong. Southern Cross Care WA is a place where you can have an extraordinary impact, make an extraordinary difference, and be appreciated for extraordinary contributions. We hope you will join us and become one of the people who make Southern Cross Care WA…",
+      "created": "2026-07-09T11:06:58Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Southern Cross Care"
+      },
+      "id": "5793519568"
+    },
+    {
+      "description": "Enjoy the benefits of NFP salary packaging - up to $18,550 p.a.Come & join one of WA's largest aged care providers.Corporate Health Insurance discount! At Southern Cross Care WA, we help people live extraordinary lives, every day, connected to communities. As a provider delivering care, support and accommodation for West Australians in greatest need, our purpose is clear, and our passion is strong. Southern Cross Care WA is a place where you can have an extraordinary impact, make an extraordina…",
+      "contract_time": "full_time",
+      "created": "2026-07-10T08:58:45Z",
+      "company": {
+        "display_name": "Southern Cross Care WA",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "id": "5794793583",
+      "longitude": 115.859784,
+      "latitude": -31.953357,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5794793583?utm_medium=api&utm_source=4e5ae6d3",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Western Australia",
+          "Perth Region",
+          "Perth",
+          "Perth CBD"
+        ],
+        "display_name": "Perth CBD, Perth"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc5NDc5MzU4MyIsInMiOiJ4Z0JGWG9LSjhSR191dVVHbEpnQ0FRIn0.6AC_Xu7j2g8unWvRLTr8TWtpsQXzd7niY3EvSW26IOA",
+      "title": "Data Migration Analyst",
+      "salary_is_predicted": "0",
+      "contract_type": "permanent",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      }
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5777038299?utm_medium=api&utm_source=4e5ae6d3",
+      "latitude": -33.885283,
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney"
+        ],
+        "display_name": "Sydney, Sydney Region"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieGdCRlhvS0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1Nzc3MDM4Mjk5In0.MbjM_v3JKrT_X0d58LnWZRYpPI6p0zjvjZ9r0THaww0",
+      "title": "Data & AI Analyst",
+      "description": "ASX: Powering Australia's financial markets Why join the ASX? When you join ASX, you’re joining a company with a strong purpose – to power a stronger economic future by enabling a fair and dynamic marketplace for all. In your new role, you’ll be part of a leading global securities exchange with a strong brand. We are known for being a trusted market operator and an exciting data hub. Want to know why we are a great place to work, click on the link to learn more. www.asx.com.au/about/careers/a-g…",
+      "contract_time": "full_time",
+      "created": "2026-06-26T10:52:35Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "ASX"
+      },
+      "id": "5777038299",
+      "longitude": 151.203231,
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      },
+      "salary_is_predicted": "0",
+      "contract_type": "permanent"
+    },
+    {
+      "contract_type": "permanent",
+      "salary_is_predicted": "0",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      },
+      "contract_time": "part_time",
+      "created": "2026-07-24T18:34:44Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Hitech Asia Pacific"
+      },
+      "id": "5813546593",
+      "longitude": 149.133481,
+      "description": "Prominent Federal Government Agency Initial 12 month contract  12 month extension option Rewarding hourly rates $$ with flexible ACT, NSW or VIC locations We are seeking an experienced Senior Data Analyst to join a leading Federal Government Agency supporting critical data and analytics initiatives. The successful Senior Data Analyst will work within a multidisciplinary team to design, develop and maintain enterprise data products while transforming complex datasets into meaningful business ins…",
+      "location": {
+        "display_name": "Barton, South Canberra",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Australian Capital Territory",
+          "Canberra Region",
+          "South Canberra",
+          "Barton"
+        ]
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5813546593?utm_medium=api&utm_source=4e5ae6d3",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieGdCRlhvS0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1ODEzNTQ2NTkzIn0.fRtdMAbx6mVNE_Dk_Z19UlL4VaW1z_5AgCHmPiR_AL4",
+      "latitude": -35.309391,
+      "title": "Senior Data Analyst - SQL / Python / Snowflake - Federal Government"
+    },
+    {
+      "salary_is_predicted": "0",
+      "salary_min": 100000,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieGdCRlhvS0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1ODAxMjY5MjY1In0.60usriBa9c-HOOrw3oRiOl0x6yoyXGMV7h0LIZsPWbo",
+      "salary_max": 110000,
+      "description": "Looking to build a career in Data Governance? We're partnering with a well-established organisation investing heavily in its enterprise data capability. This is an excellent opportunity for a Data Steward, Junior Data Analyst or Data Management professional to develop your skills across data governance, metadata, data quality and modern data platforms while working alongside experienced governance leaders. You'll play a key role in improving the quality, accessibility and trust of enterprise da…",
+      "created": "2026-07-16T00:47:19Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "TheDriveGroup"
+      },
+      "id": "5801269265",
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "contract_type": "permanent",
+      "title": "Junior Data Governance Analyst",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": -33.885283,
+      "location": {
+        "display_name": "Sydney, Sydney Region",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney"
+        ]
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5801269265?utm_medium=api&utm_source=4e5ae6d3",
+      "longitude": 151.203231,
+      "contract_time": "full_time"
+    },
+    {
+      "contract_type": "permanent",
+      "salary_is_predicted": "0",
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "longitude": 144.976335,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Mable"
+      },
+      "created": "2026-06-26T08:30:45Z",
+      "id": "5776884631",
+      "contract_time": "full_time",
+      "description": "HomeMade, Mable, Leap in! and Mable Direct are entities under the Attain Healthtech Group of companies. While our companies are diverse, three similarities bind us: 1. We exist to create lasting, positive change across the entire care and support sector - impacting more lives, elevating standards and shaping the future of care 2. We believe in technology as an enabler 3. We’re driven by helping customers attain better outcomes This position is part of the Mable team. About Mable Mable is one of…",
+      "title": "Senior Data Analyst HYBRID — PERMANENT - FULL TIMESYDNEY / BRISBANE / MELBOURNE",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieGdCRlhvS0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1Nzc2ODg0NjMxIn0.H4Q6Y9QA5675cs32z8AR4CMmc3qwcPF4-UeO6kng05Y",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5776884631?utm_medium=api&utm_source=4e5ae6d3",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Victoria",
+          "Melbourne Region",
+          "Stonnington Area",
+          "South Yarra"
+        ],
+        "display_name": "South Yarra, Stonnington Area"
+      },
+      "latitude": -37.837324
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5776884660?utm_medium=api&utm_source=4e5ae6d3",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Queensland",
+          "Brisbane Region",
+          "Brisbane",
+          "Brisbane CBD"
+        ],
+        "display_name": "Brisbane CBD, Brisbane"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieGdCRlhvS0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1Nzc2ODg0NjYwIn0.65fANCj0rBez8bH11gaEekbPucABAeJhBlKT-j5BaYs",
+      "latitude": -27.4679,
+      "title": "Senior Data Analyst HYBRID — PERMANENT - FULL TIMESYDNEY / BRISBANE / MELBOURNE",
+      "created": "2026-06-26T08:30:45Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Mable"
+      },
+      "contract_time": "full_time",
+      "id": "5776884660",
+      "longitude": 153.0281,
+      "description": "HomeMade, Mable, Leap in! and Mable Direct are entities under the Attain Healthtech Group of companies. While our companies are diverse, three similarities bind us: 1. We exist to create lasting, positive change across the entire care and support sector - impacting more lives, elevating standards and shaping the future of care 2. We believe in technology as an enabler 3. We’re driven by helping customers attain better outcomes This position is part of the Mable team. About Mable Mable is one of…",
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "contract_type": "permanent",
+      "salary_is_predicted": "0"
+    },
+    {
+      "created": "2026-06-26T08:30:45Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Mable"
+      },
+      "id": "5776884630",
+      "contract_time": "full_time",
+      "longitude": 151.207114,
+      "description": "HomeMade, Mable, Leap in! and Mable Direct are entities under the Attain Healthtech Group of companies. While our companies are diverse, three similarities bind us: 1. We exist to create lasting, positive change across the entire care and support sector - impacting more lives, elevating standards and shaping the future of care 2. We believe in technology as an enabler 3. We’re driven by helping customers attain better outcomes This position is part of the Mable team. About Mable Mable is one of…",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5776884630?utm_medium=api&utm_source=4e5ae6d3",
+      "location": {
+        "display_name": "The Rocks, Sydney",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney",
+          "The Rocks"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "latitude": -33.867139,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc3Njg4NDYzMCIsInMiOiJ4Z0JGWG9LSjhSR191dVVHbEpnQ0FRIn0.BKdI3YZH-HWhCfbQnJS1hiegiVdZFZdipKh_aoXMthE",
+      "title": "Senior Data Analyst HYBRID — PERMANENT - FULL TIMESYDNEY / BRISBANE / MELBOURNE",
+      "contract_type": "permanent",
+      "salary_is_predicted": "0",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      }
+    },
+    {
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "salary_is_predicted": "0",
+      "contract_type": "permanent",
+      "title": "Data Engineers/Analysts/Scientists",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5784361850?utm_medium=api&utm_source=4e5ae6d3",
+      "location": {
+        "display_name": "Barton, South Canberra",
+        "area": [
+          "Australia",
+          "Australian Capital Territory",
+          "Canberra Region",
+          "South Canberra",
+          "Barton"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc4NDM2MTg1MCIsInMiOiJ4Z0JGWG9LSjhSR191dVVHbEpnQ0FRIn0.CxjUw-wogHzVd05znPBC0E1ge71MG5nU8sQbslvWGro",
+      "latitude": -35.309391,
+      "description": "The Network are seeking multiple Data specialists across (Data Engineering, Data Analytics, Data Scientists) to work on a Fraud and Intelligence platform within a Federal Government Department. Locations: Canberra, Sydney or Melbourne (Hybrid 2-3 days office) (Must be minimum AGSVA NV1 Cleared) Duties across the positions include: Develop code, patterns and frameworks in a data warehouse environment predominately using SQL. Understand databases, data latency, data and storage formats, persisten…",
+      "longitude": 149.133481,
+      "created": "2026-07-02T07:22:11Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "The Network"
+      },
+      "id": "5784361850",
+      "contract_time": "part_time"
+    },
+    {
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "salary_is_predicted": "0",
+      "title": "Retail Data Integrity Analyst",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5793440604?utm_medium=api&utm_source=4e5ae6d3",
+      "location": {
+        "area": [
+          "Australia",
+          "Victoria",
+          "Melbourne Region",
+          "Yarra Area",
+          "Richmond North"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Richmond North, Yarra Area"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieGdCRlhvS0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1NzkzNDQwNjA0In0.pxrWdcn4OLgU5VJomYSerMzPOP4Whl0NE7rJAjRPdZA",
+      "latitude": -37.818587,
+      "description": "Since 2024, 7-Eleven Australia has joined 7-Eleven international to be part of the biggest retail network across the world, represented in 20 countries with over 84,000 stores. We have big growth plans in Australia and a lot of opportunity for someone who wants to be part of ever growing retailer with a global footprint. Firstly, what we offer you! Vibrant Open Office in Richmond. Work in a dynamic, collaborative space that sparks creativity Work Your Way. Enjoy the perfect balance of remote fl…",
+      "longitude": 144.999181,
+      "created": "2026-07-09T10:01:22Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "7-Eleven"
+      },
+      "id": "5793440604",
+      "contract_time": "full_time"
+    },
+    {
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "salary_is_predicted": "0",
+      "title": "Retail Data Integrity Analyst",
+      "location": {
+        "area": [
+          "Australia"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Australia"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5744055822?utm_medium=api&utm_source=4e5ae6d3",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieGdCRlhvS0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1NzQ0MDU1ODIyIn0.eX83AKn3Mxhva86EkKKq1K13uhwUTJIaJuPL1XQcGLE",
+      "description": "Since 2024, 7-Eleven Australia has joined 7-Eleven international to be part of the biggest retail network across the world, represented in 20 countries with over 84,000 stores. We have big growth plans in Australia and a lot of opportunity for someone who wants to be part of ever growing retailer with a global footprint. Firstly, what we offer you! Vibrant Open Office in Richmond. Work in a dynamic, collaborative space that sparks creativity Work Your Way. Enjoy the perfect balance of remote fl…",
+      "id": "5744055822",
+      "created": "2026-05-29T10:38:33Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "7-Eleven"
+      },
+      "contract_time": "full_time"
+    },
+    {
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "salary_is_predicted": "0",
+      "contract_type": "contract",
+      "title": "Data Migration Analyst - Workday",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc4MjIyMDI2NSIsInMiOiJ4Z0JGWG9LSjhSR191dVVHbEpnQ0FRIn0.9hJ4oktqRT58UO5TpgGLvNeJQkAIgPOsnCSuShFXH5o",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5782220265?utm_medium=api&utm_source=4e5ae6d3",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney",
+          "The Rocks"
+        ],
+        "display_name": "The Rocks, Sydney"
+      },
+      "latitude": -33.867139,
+      "description": "Up to $165k  super | Secure 2-year FTC within a major Workday transformation Hybrid setup in Macquarie Park with flexible onsite days Join a large-scale enterprise HR and recruitment systems transformation Organisation: Join a leading healthcare organisation undergoing a major enterprise transformation, implementing Workday across core HR and Recruitment & Onboarding functions. You'll be part of a structured program focused on improving people data quality, reducing migration risks, and enablin…",
+      "longitude": 151.207114,
+      "created": "2026-07-01T00:27:27Z",
+      "contract_time": "full_time",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Talenza"
+      },
+      "id": "5782220265"
+    },
+    {
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "area": [
+          "Australia",
+          "Victoria",
+          "Melbourne Region",
+          "Port Phillip",
+          "Middle Park"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Middle Park, Port Phillip"
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5786201760?utm_medium=api&utm_source=4e5ae6d3",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc4NjIwMTc2MCIsInMiOiJ4Z0JGWG9LSjhSR191dVVHbEpnQ0FRIn0.rDOI9RGnGZ0BGVGpsmsMfYtCQirg6xwx06E1XTpiMk0",
+      "latitude": -37.844856,
+      "title": "Client Data Delivery Analyst",
+      "created": "2026-07-03T10:57:31Z",
+      "contract_time": "full_time",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Circana Careers"
+      },
+      "id": "5786201760",
+      "longitude": 144.977613,
+      "description": "Job Description – Client Data Delivery Analyst Let’s be unstoppable together! At Circana, we are fueled by our passion for continuous learning and growth, we seek and share feedback freely, and we celebrate victories both big and small in an environment that is flexible and accommodating to our work and personal lives. We’re a global company dedicated to fostering inclusivity and belonging. We value and celebrate the unique experiences, cultures, and viewpoints that each individual brings. By e…"
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5794915748?utm_medium=api&utm_source=4e5ae6d3",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Victoria",
+          "Melbourne Region",
+          "Melbourne",
+          "Melbourne CBD"
+        ],
+        "display_name": "Melbourne CBD, Melbourne"
+      },
+      "latitude": -37.81521,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc5NDkxNTc0OCIsInMiOiJ4Z0JGWG9LSjhSR191dVVHbEpnQ0FRIn0.75MxxTy9NIwMUXnpIi1Ru9dfqyZvtX4n_vyn9z8V-iQ",
+      "title": "Senior Data & Reporting Analyst",
+      "company": {
+        "display_name": "Zinfra",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "created": "2026-07-10T10:57:51Z",
+      "contract_time": "full_time",
+      "id": "5794915748",
+      "longitude": 144.963953,
+      "description": "This is an initial 12 month fixed-term opportunity. About the role The Senior Data & Reporting Analyst, whose role reports to the Operational & Performance Manager, has the following objectives: Supporting the Operational & Performance Manager in identifying opportunities for process improvement and automation to increase the efficiency and effectiveness of reporting. Supporting or leading activities ranging from discovery, hypothesis development, data profiling and engineering, application of …",
+      "category": {
+        "label": "Consultancy Jobs",
+        "tag": "consultancy-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "contract_type": "contract",
+      "salary_is_predicted": "0"
+    },
+    {
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Fugro"
+      },
+      "created": "2026-07-03T09:13:22Z",
+      "contract_time": "full_time",
+      "id": "5786124102",
+      "longitude": 138.597963,
+      "description": "Job Description The Opportunity If you like working with Maps, spatial data and enjoy a fast-paced role working with high volume of data, then this might be the perfect opportunity for you. Due to staff movements, we have a rare opening for an Aviation Data Acquisition Analyst to help our project teams deliver high‑quality survey data for our client’s assets. Assigning Acquisition Parameters (before Capture) The data is captured using advanced lidar scanning techniques and high-quality imagery.…",
+      "location": {
+        "display_name": "Adelaide CBD, Adelaide",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "South Australia",
+          "Adelaide Region",
+          "Adelaide",
+          "Adelaide CBD"
+        ]
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5786124102?utm_medium=api&utm_source=4e5ae6d3",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc4NjEyNDEwMiIsInMiOiJ4Z0JGWG9LSjhSR191dVVHbEpnQ0FRIn0.vkpLIkQGxTIAIQe1hMquFyR8j9KDtf-wj_5LbWMkdeM",
+      "latitude": -34.933718,
+      "title": "Aviation Data Acquisition Analyst",
+      "contract_type": "permanent",
+      "salary_is_predicted": "0",
+      "category": {
+        "tag": "scientific-qa-jobs",
+        "label": "Scientific & QA Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      }
+    },
+    {
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "contract_type": "permanent",
+      "salary_is_predicted": "0",
+      "title": "Senior Data Governance Analyst",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5790441124?utm_medium=api&utm_source=4e5ae6d3",
+      "latitude": -33.88882,
+      "location": {
+        "display_name": "Surry Hills, Sydney",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney",
+          "Surry Hills"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieGdCRlhvS0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1NzkwNDQxMTI0In0.0TxQwhoiwSxumxkCNPmkeof6AwYnQqtZX2I4USbZQzI",
+      "longitude": 151.21333,
+      "created": "2026-07-07T11:02:21Z",
+      "contract_time": "full_time",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Torrens University Australia"
+      },
+      "id": "5790441124",
+      "description": "Who we are ? At Torrens University Australia, making a difference is in our DNA. As a Certified B Corporation, we belong to a global community of future-focused companies using business as a force for good. We believe in the transformative power of education to change lives, families, communities – and the world. That’s why we’re on a mission to increase access to higher education, so learners from all walks of life can chase their dreams. Just like our students, our employees are a diverse gro…"
+    },
+    {
+      "description": "Up to $165k  super | Secure 2-year FTC within a major Workday transformation Hybrid setup in Macquarie Park with flexible onsite days Join a large-scale enterprise HR and recruitment systems transformation Organisation: Join a leading healthcare organisation undergoing a major enterprise transformation, implementing Workday across core HR and Recruitment & Onboarding functions. You'll be part of a structured program focused on improving people data quality, reducing migration risks, and enablin…",
+      "id": "5781574867",
+      "created": "2026-06-30T11:42:49Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Talenza"
+      },
+      "contract_time": "full_time",
+      "salary_min": 145000,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney"
+        ],
+        "display_name": "Sydney, Sydney Region"
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5781574867?utm_medium=api&utm_source=4e5ae6d3",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieGdCRlhvS0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1NzgxNTc0ODY3In0.P1y1tENk2ww0RB4wZy4mpnjC_8d7jfen4K8MliOJcBQ",
+      "salary_max": 165000,
+      "title": "Data Migration Analyst - Workday / HCM",
+      "salary_is_predicted": "0",
+      "contract_type": "contract",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      }
+    },
+    {
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia"
+        ],
+        "display_name": "Australia"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5733789238?utm_medium=api&utm_source=4e5ae6d3",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTczMzc4OTIzOCIsInMiOiJ4Z0JGWG9LSjhSR191dVVHbEpnQ0FRIn0.oGu-x69tsf-MXgBEdtOUI015dwvE9_fgjzhEJLOie4U",
+      "title": "Senior Spatial & Data Intelligence Analyst",
+      "description": "Ongoing Full Time, 35 hours per week Location: Willing to consider candidates across all NSW locations. Preference will be given to candidates based regionally, with a focus on Orange, Queanbeyan, Armidale, Dubbo and Coffs Harbour Clerk Grade 9/10 – salary from $129,464 to $142,665 per annum (FTE) plus super and leave loading About the Role: The Senior Spatial and Data Intelligence Analyst delivers high‑quality data analytics, spatial intelligence and visualisation to support improved service d…",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "NSW Government"
+      },
+      "created": "2026-05-19T15:35:16Z",
+      "id": "5733789238",
+      "contract_time": "full_time",
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "salary_is_predicted": "0",
+      "contract_type": "permanent"
+    }
+  ],
+  "count": 524,
+  "mean": 164749.3
+}

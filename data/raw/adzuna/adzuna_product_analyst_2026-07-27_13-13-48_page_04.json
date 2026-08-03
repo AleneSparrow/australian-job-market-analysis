@@ -1,0 +1,1291 @@
+{
+  "__CLASS__": "Adzuna::API::Response::JobSearchResults",
+  "count": 191,
+  "results": [
+    {
+      "description": "05th June, 2026 Indigeco is recruiting multiple Business Analyst and Data Analyst contractors for our Commonwealth Government client based in Canberra, ACT . These are 12-month labour hire contract opportunities supporting data, analytics, dashboard development, analytical application consolidation and business improvement activities across a Commonwealth Government environment. We are seeking experienced candidates for the following roles: EL1 Technical Business Analyst EL1 Technical Data Anal…",
+      "created": "2026-06-06T15:02:52Z",
+      "id": "5754040674",
+      "company": {
+        "display_name": "Indigeco",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "longitude": 149.108716,
+      "redirect_url": "https://www.adzuna.com.au/details/5754040674?utm_medium=api&utm_source=4e5ae6d3",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": -35.282087,
+      "location": {
+        "display_name": "Acton, North Canberra",
+        "area": [
+          "Australia",
+          "Australian Capital Territory",
+          "Canberra Region",
+          "North Canberra",
+          "Acton"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc1NDA0MDY3NCIsInMiOiJvbGJMdElLSjhSR191dVVHbEpnQ0FRIn0.FvRnrd9PmEk0juQZMVBZGQfXPJc4rhVnkc_aTM1PPDs",
+      "title": "TECHNICAL BUSINESS/DATA ANALYST",
+      "salary_is_predicted": "0",
+      "contract_type": "contract",
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      }
+    },
+    {
+      "contract_time": "full_time",
+      "created": "2026-07-17T11:13:14Z",
+      "company": {
+        "display_name": "Heidi",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "id": "5804114404",
+      "description": "We're Heidi. We're building the future of healthcare by giving every clinician the earth's finest AI Care Partner. In just 18 months, our clinical AI products have absorbed the administrative chaos of 73 million patient visits. Today, we support over 2.5 million patient sessions a week across 190 countries. Healthcare systems are failing us; clinicians spend more time on documentation than on patients, and the human connection that makes medicine worth practicing is eroding. Our mission is simp…",
+      "title": "Enterprise Sales Manager",
+      "redirect_url": "https://www.adzuna.com.au/details/5804114404?utm_medium=api&utm_source=4e5ae6d3",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgwNDExNDQwNCIsInMiOiJvbGJMdElLSjhSR191dVVHbEpnQ0FRIn0.Hfqiuzkajq34j0z7ToTekhrpMI8qdwxeoWI31GVjIPk",
+      "location": {
+        "area": [
+          "Australia",
+          "Victoria",
+          "Melbourne Region",
+          "Melbourne"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Melbourne, Melbourne Region"
+      },
+      "salary_is_predicted": "0",
+      "category": {
+        "label": "Sales Jobs",
+        "tag": "sales-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      }
+    },
+    {
+      "title": "Bid Manager",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5813144095?utm_medium=api&utm_source=4e5ae6d3",
+      "location": {
+        "display_name": "Melbourne, Melbourne Region",
+        "area": [
+          "Australia",
+          "Victoria",
+          "Melbourne Region",
+          "Melbourne"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoib2xiTHRJS0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1ODEzMTQ0MDk1In0.z8kp4etBM1figMeR1gp6OAX2BF_eEeBuhjdWevZKDCM",
+      "created": "2026-07-24T11:26:24Z",
+      "id": "5813144095",
+      "company": {
+        "display_name": "Heidi",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "contract_time": "full_time",
+      "description": "We're Heidi. We're building the future of healthcare by giving every clinician the earth's finest AI Care Partner. In just 18 months, our clinical AI products have absorbed the administrative chaos of 73 million patient visits. Today, we support over 2.5 million patient sessions a week across 190 countries. Healthcare systems are failing us; clinicians spend more time on documentation than on patients, and the human connection that makes medicine worth practicing is eroding. Our mission is simp…",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Healthcare & Nursing Jobs",
+        "tag": "healthcare-nursing-jobs"
+      },
+      "salary_is_predicted": "0"
+    },
+    {
+      "title": "Data Engineer",
+      "redirect_url": "https://www.adzuna.com.au/details/5796468319?utm_medium=api&utm_source=4e5ae6d3",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "display_name": "Sydney, Sydney Region",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc5NjQ2ODMxOSIsInMiOiJvbGJMdElLSjhSR191dVVHbEpnQ0FRIn0.zHtP0rVzuutCtJ7jYxag-XWw7SymjpRTiZSTfw4TD0w",
+      "latitude": -33.885283,
+      "description": "Data Engineer Job Description Exciting opportunity for a Senior Data Engineer to join Domain - CoStar in a period of great opportunity and growth. You will have a direct impact on the continued success of Domain-CoStar in the APAC region. Leveraging the largest reality data sets in the local market, to enhance Domain-CoStar's product service offering and refine internal business practices. The purpose of this role is to build data platform capabilities for batch and streaming pipelines on our L…",
+      "longitude": 151.203231,
+      "id": "5796468319",
+      "created": "2026-07-11T12:49:55Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "CoStar Realty Information, Inc."
+      },
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "salary_is_predicted": "0"
+    },
+    {
+      "description": "Join Australia’s Leading Digital Health Services Team Telecare is a fast-growing digital health company delivering high-quality telehealth services nationwide. We partner with hospitals, clinicians and patients to coordinate care efficiently through innovative technology and a highly responsive service team. We’re scaling our digital health products and looking for a proactive Business Analyst to own the analysis and specification side of delivery, turning intent into build-ready specs, and mak…",
+      "longitude": 145.150381,
+      "company": {
+        "display_name": "Telecare Australia Pty",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "created": "2026-07-11T11:02:32Z",
+      "id": "5796369030",
+      "contract_time": "full_time",
+      "title": "Business Analyst",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Victoria",
+          "Melbourne Region",
+          "Whitehorse Area",
+          "Blackburn"
+        ],
+        "display_name": "Blackburn, Whitehorse Area"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5796369030?utm_medium=api&utm_source=4e5ae6d3",
+      "latitude": -37.822896,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoib2xiTHRJS0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1Nzk2MzY5MDMwIn0.HgtUb3yek4HSa5VKrvFEbfk47LYvyzdwQHugNC693zE",
+      "salary_is_predicted": "0",
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      }
+    },
+    {
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5800531047?utm_medium=api&utm_source=4e5ae6d3",
+      "location": {
+        "display_name": "Australia",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia"
+        ]
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoib2xiTHRJS0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1ODAwNTMxMDQ3In0.KkKNnu9-qZqDS7NpRzL9wxcvtIPl4QJCqY-1NQiIsCM",
+      "title": "Threat Detection Analyst (Japanese & English speaking)",
+      "description": "Fastly helps people stay better connected with the things they love. Fastly’s edge cloud platform enables customers to create great digital experiences quickly, securely, and reliably by processing, serving, and securing our customers’ applications as close to their end-users as possible — at the edge of the Internet. The platform is designed to take advantage of the modern internet, to be programmable, and to support agile software development. Fastly’s customers include many of the world’s mo…",
+      "created": "2026-07-15T11:00:12Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Fastly"
+      },
+      "id": "5800531047"
+    },
+    {
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "salary_is_predicted": "0",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoib2xiTHRJS0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1NzY5OTkxMjg1In0.Q_xFOo2o8A-EsAPkTfi0WrRO0VaXkksY7H5udgxy8yk",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5769991285?utm_medium=api&utm_source=4e5ae6d3",
+      "location": {
+        "area": [
+          "Australia",
+          "Victoria",
+          "Melbourne Region",
+          "Melbourne"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Melbourne, Melbourne Region"
+      },
+      "latitude": -37.806509,
+      "title": "Solution Architect",
+      "created": "2026-06-20T11:41:18Z",
+      "id": "5769991285",
+      "company": {
+        "display_name": "HUB24",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "contract_time": "full_time",
+      "longitude": 144.957935,
+      "description": "HUB24 leads the wealth industry as the best provider of integrated platform, technology and data solutions. At HUB24, we know the smartest investments start with our people. We are innovative and ambitious, and we move fast. At HUB24, we empower our employees to bring their ideas and creativity to work. Rather than getting bogged down in bureaucracy and red tape, we build a culture that supports our team members to have a real impact on our business and the success of our customers. HUB24 Limit…"
+    },
+    {
+      "salary_is_predicted": "0",
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "created": "2026-07-17T18:13:56Z",
+      "company": {
+        "display_name": "Cognizant",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "id": "5804592846",
+      "contract_time": "full_time",
+      "longitude": 144.352833,
+      "description": "Cognizant (NASDAQ: CTSH) is a leading provider of information technology, consulting, and business process services, dedicated to helping the world's leading companies build stronger businesses. Headquartered in Teaneck, New Jersey (U.S.), Cognizant combines a passion for client satisfaction, technology innovation, deep industry and business process expertise, and a global, collaborative workforce that embodies the future of work. Cognizant is a member of the NASDAQ-100, the S&P 500, the Forbes…",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "display_name": "Victoria, Australia",
+        "area": [
+          "Australia",
+          "Victoria"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5804592846?utm_medium=api&utm_source=4e5ae6d3",
+      "latitude": -37.094406,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoib2xiTHRJS0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1ODA0NTkyODQ2In0.6yr6OOwx3o8dWZDVF_qd0Jt89kiNrr9ThzSQVvjF3wQ",
+      "title": "Senior Data Technical Lead"
+    },
+    {
+      "longitude": 150.502293,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Auto & General"
+      },
+      "created": "2026-07-09T02:04:56Z",
+      "id": "5792826968",
+      "contract_time": "full_time",
+      "description": "Test Analyst Your new team Join the Testing team within Auto & General's Technology department, part of the Technology, Space & Distribution division. As an individual contributor, you will report to a Test Lead and collaborate closely within an End-to-End team, working alongside Developers, Business Analysts, and Product Owners. Auto & General is a rapidly growing, privately-owned company that prioritises high performance and aims to be Australia's leading insurer. We foster a culture where te…",
+      "title": "Test Analyst",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc5MjgyNjk2OCIsInMiOiJvbGJMdElLSjhSR191dVVHbEpnQ0FRIn0.svzfeW02kyI2bNGVh32Ho_Bx7CuS4wsWwkuptonOOgk",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5792826968?utm_medium=api&utm_source=4e5ae6d3",
+      "location": {
+        "display_name": "Kawana, Rockhampton",
+        "area": [
+          "Australia",
+          "Queensland",
+          "Rockhampton Region",
+          "Rockhampton",
+          "Kawana"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "latitude": -23.333964,
+      "salary_is_predicted": "0",
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      }
+    },
+    {
+      "contract_type": "permanent",
+      "salary_is_predicted": "0",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "created": "2026-05-19T00:27:38Z",
+      "contract_time": "full_time",
+      "company": {
+        "display_name": "NSW Government",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "id": "5733211823",
+      "description": "Test Analyst Join a collaborative and delivery-focused team Advance your career working with a highly skilled and motivated team in a small, independent agency Ongoing role in Central Sydney with flexible working conditions About the role We require a Test Analyst experienced in Agile delivery and in ServiceNow software functionality to assist the Team in the key testing activities required for product delivery. The Test Analyst is integral to the delivery of core services by ensuring our servi…",
+      "location": {
+        "area": [
+          "Australia"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Australia"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5733211823?utm_medium=api&utm_source=4e5ae6d3",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoib2xiTHRJS0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1NzMzMjExODIzIn0.6rS77lX8x7IjpOGMX5U8cWdr8jG1GLeldBQsJNI-UdY",
+      "title": "Test Analyst"
+    },
+    {
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "salary_is_predicted": "0",
+      "salary_min": 170000,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoib2xiTHRJS0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1ODExNjc3NDg0In0.UjhCZ1CgYf3CAYXzNFeg3olg2C5dh6tRuyTm85L2toM",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5811677484?utm_medium=api&utm_source=4e5ae6d3",
+      "location": {
+        "display_name": "Sydney, Sydney Region",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "salary_max": 220000,
+      "title": "Deployed Product Manager, Health Systems",
+      "description": "Howdy, we’re Heidi  “The AI startup growing faster than Canva” That’s what the Financial Review called us. In 18 months, we supported over 73 million patient visits and become one of the fastest-growing companies in the world. We pivoted from broad healthcare AI to building Earth’s finest AI Care Partner. Today, we support over 2 million patient sessions weekly across 116 countries and over 110 languages. Hundreds of thousands of clinicians use Heidi to complete documentation. Our mission is si…",
+      "company": {
+        "display_name": "Heidi",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "created": "2026-07-23T11:24:01Z",
+      "id": "5811677484",
+      "contract_time": "full_time"
+    },
+    {
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "salary_is_predicted": "0",
+      "location": {
+        "display_name": "Sydney, Sydney Region",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5816035057?utm_medium=api&utm_source=4e5ae6d3",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoib2xiTHRJS0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1ODE2MDM1MDU3In0.fm4TzZ4k8uyPfn5sepzHcG5f6bqknG0IknfGKdTecgc",
+      "title": "Product Manager, Apps",
+      "description": "Howdy, we’re Heidi  “The AI startup growing faster than Canva” That’s what the Financial Review called us. In 18 months, we supported over 73 million patient visits and become one of the fastest-growing companies in the world. We pivoted from broad healthcare AI to building Earth’s finest AI Care Partner. Today, we support over 2 million patient sessions weekly across 116 countries and over 110 languages. Hundreds of thousands of clinicians use Heidi to complete documentation. Our mission is si…",
+      "created": "2026-07-26T11:27:20Z",
+      "contract_time": "full_time",
+      "company": {
+        "display_name": "Heidi",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "id": "5816035057"
+    },
+    {
+      "created": "2025-10-16T04:17:29Z",
+      "contract_time": "full_time",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Ippon Technologies"
+      },
+      "id": "5448806491",
+      "longitude": 144.957935,
+      "description": "Who we are Ippon is a global tech consulting firm. Originating in France, we are a group of more than 650 tech enthusiasts worldwide, guided by a collective energy and strong taste for challenge. Ippon Australia is a team of true technologists who leverage contemporary thinking and tools to enhance the way our clients drive value. Whether it’s a bespoke platform to improve employee engagement within a national retail chain, or developing an app that provides next level direct customer interacti…",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoib2xiTHRJS0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1NDQ4ODA2NDkxIn0.s3Ybty2Qf3CyQKb1KZoB4SDxLrjnGea3Cf5nle7LMc0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5448806491?utm_medium=api&utm_source=4e5ae6d3",
+      "location": {
+        "display_name": "Melbourne, Melbourne Region",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Victoria",
+          "Melbourne Region",
+          "Melbourne"
+        ]
+      },
+      "latitude": -37.806509,
+      "title": "Senior Software Engineer (.NET Developer)",
+      "salary_is_predicted": "0",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      }
+    },
+    {
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/4801300200?utm_medium=api&utm_source=4e5ae6d3",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDgwMTMwMDIwMCIsInMiOiJvbGJMdElLSjhSR191dVVHbEpnQ0FRIn0.ztrkbQutW67X7Ry5Awaouwuc_oZ6ayofWYi5BMTYzYU",
+      "location": {
+        "area": [
+          "Australia",
+          "Victoria",
+          "Melbourne Region",
+          "Melbourne"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Melbourne, Melbourne Region"
+      },
+      "latitude": -37.806509,
+      "title": "Senior Software Engineer",
+      "description": "Who we are Ippon is a global tech consulting firm. Originating in France, we are a group of more than 650 tech enthusiasts worldwide, guided by a collective energy and strong taste for challenge. Ippon Australia is a team of true technologists who leverage contemporary thinking and tools to enhance the way our clients drive value. Whether it’s a bespoke platform to improve employee engagement within a national retail chain, or developing an app that provides next level direct customer interacti…",
+      "created": "2024-07-31T07:17:39Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Ippon Technologies"
+      },
+      "contract_time": "full_time",
+      "id": "4801300200",
+      "longitude": 144.957935
+    },
+    {
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "salary_is_predicted": "0",
+      "contract_type": "contract",
+      "redirect_url": "https://www.adzuna.com.au/details/5764090911?utm_medium=api&utm_source=4e5ae6d3",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc2NDA5MDkxMSIsInMiOiJvbGJMdElLSjhSR191dVVHbEpnQ0FRIn0.gKynF0UgXkLlTPf9N3XO72gUeIRT0Uid46GTLwo6IQg",
+      "location": {
+        "display_name": "South Yarra, Stonnington Area",
+        "area": [
+          "Australia",
+          "Victoria",
+          "Melbourne Region",
+          "Stonnington Area",
+          "South Yarra"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "latitude": -37.837324,
+      "title": "Business Analyst",
+      "description": "Join the change. Electrify your future! We've been proudly Aussie since 1837, always finding new ways to innovate in energy and essential services. Now, we're moving towards a sustainable future through electrification and investing in renewable energy—and we’d like you to join us. Whether you're on-site, in the office, or somewhere in between, you'll find opportunities to grow your career here. You'll work with a team that's passionate about powering Australian lives, in a culture that values …",
+      "company": {
+        "display_name": "AGL",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "created": "2026-06-15T15:37:08Z",
+      "id": "5764090911",
+      "contract_time": "full_time",
+      "longitude": 144.976335
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5779547701?utm_medium=api&utm_source=4e5ae6d3",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc3OTU0NzcwMSIsInMiOiJvbGJMdElLSjhSR191dVVHbEpnQ0FRIn0.JoIlmlkQ3gA_AzrSQk1oSoIhpoWmLNlpBlF4Nn8WDGQ",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "South Australia",
+          "Adelaide Region",
+          "Adelaide",
+          "Adelaide CBD"
+        ],
+        "display_name": "Adelaide CBD, Adelaide"
+      },
+      "latitude": -34.933718,
+      "title": "Business Analyst",
+      "id": "5779547701",
+      "created": "2026-06-28T08:57:12Z",
+      "company": {
+        "display_name": "Qantas Airways",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "contract_time": "part_time",
+      "longitude": 138.597963,
+      "description": "At Qantas, our teams come together to create new and unique experiences for our customers Collaboratively create innovative customer and crew facing digital product experiences with an industry leader Full-time permanent position based at our new Product and Innovation Centre in Adelaide Join Qantas in our brand-new Product and Innovation Centre located in Adelaide to help meet evolving consumer needs by enabling agile teams to deliver faster, more adaptive solutions that prioritise customer va…",
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "contract_type": "permanent",
+      "salary_is_predicted": "0"
+    },
+    {
+      "id": "5779547382",
+      "created": "2026-06-28T08:57:08Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Qantas"
+      },
+      "contract_time": "full_time",
+      "longitude": 138.597963,
+      "description": "Job Description At Qantas, our teams come together to create new and unique experiences for our customersCollaboratively create innovative customer and crew facing digital product experiences with an industry leaderFull-time permanent position based at our new Product and Innovation Centre in Adelaide Join Qantas in our brand-new Product and Innovation Centre located in Adelaide to help meet evolving consumer needs by enabling agile teams to deliver faster, more adaptive solutions that prioriti…",
+      "redirect_url": "https://www.adzuna.com.au/details/5779547382?utm_medium=api&utm_source=4e5ae6d3",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc3OTU0NzM4MiIsInMiOiJvbGJMdElLSjhSR191dVVHbEpnQ0FRIn0.b0-sYoPO542-DMm2N9S_H7SwU3SZmX-mdse2RbIJbkw",
+      "location": {
+        "area": [
+          "Australia",
+          "South Australia",
+          "Adelaide Region",
+          "Adelaide",
+          "Adelaide CBD"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Adelaide CBD, Adelaide"
+      },
+      "latitude": -34.933718,
+      "title": "Business Analyst",
+      "contract_type": "permanent",
+      "salary_is_predicted": "0",
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      }
+    },
+    {
+      "description": "Do you want a job with a purpose? And do you want to make healthcare safer, better and more reliable? Join our Team! Join us as a Technical Lead - Data Engineering and Reporting at Dedalus one of the World’s leading healthcare technology companies and help shape the future of digital healthcare on our ORBIS Electronic Health Record (EHR) team . This hybrid role can be based in any of our Australian offices — Melbourne , Brisbane and Sydney. This is your opportunity to do the most meaningful wor…",
+      "created": "2026-06-19T10:54:22Z",
+      "id": "5768769467",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Dedalus Group"
+      },
+      "contract_time": "full_time",
+      "location": {
+        "display_name": "Australia",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia"
+        ]
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5768769467?utm_medium=api&utm_source=4e5ae6d3",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoib2xiTHRJS0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1NzY4NzY5NDY3In0.QByGbRb427Ju-RE4nebU1DVrr-kwreBBKSaopNmXhmI",
+      "title": "Technical Lead - Data Engineering and Reporting",
+      "salary_is_predicted": "0",
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      }
+    },
+    {
+      "title": "Senior Engineer",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5779745915?utm_medium=api&utm_source=4e5ae6d3",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney"
+        ],
+        "display_name": "Sydney, Sydney Region"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoib2xiTHRJS0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1Nzc5NzQ1OTE1In0.LbGvkQIOWto8lRInYvlQ2WAv4I6IInFcDKVx7_s53tQ",
+      "latitude": -33.885283,
+      "description": "Senior Engineer Job Description Role Summary The Senior Salesforce Industries (Vlocity) Developer is a senior individual contributor in the Salesforce team, responsible for building and maintaining high-quality solutions that power the sales process across the business. Working closely with engineers, business analysts and product partners, this role takes complex requirements through to robust, well-tested, production-ready solutions on the Salesforce platform. Operating with a high degree of …",
+      "longitude": 151.203231,
+      "id": "5779745915",
+      "created": "2026-06-28T12:44:24Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "CoStar Realty Information, Inc."
+      },
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "salary_is_predicted": "0"
+    },
+    {
+      "title": "Supply & Demand Analytics Specialist, ACM",
+      "latitude": -33.779795,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5803441888?utm_medium=api&utm_source=4e5ae6d3",
+      "location": {
+        "display_name": "Macquarie Park, Ryde Area",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Northern Suburbs",
+          "Ryde Area",
+          "Macquarie Park"
+        ]
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgwMzQ0MTg4OCIsInMiOiJvbGJMdElLSjhSR191dVVHbEpnQ0FRIn0.KL1tO9AaWOVD7IFs15GuBPxJPhvGWmwmENV2KhU_MQk",
+      "longitude": 151.134041,
+      "created": "2026-07-17T02:58:35Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "AUS Medtronic Australia"
+      },
+      "id": "5803441888",
+      "contract_time": "full_time",
+      "description": "Careers that change lives start here. Medtronic is a global leader in healthcare technology with a Mission to alleviate pain, restore health, and extend life. Our 95,000 employees work across more than 150 countries to put patients first — developing innovative medical technologies that improve the lives of 72 million patients each year. Your unique talents will help shape the future of healthcare while building a career grounded in purpose, growth, and impact. A Day in the Life Medtronic is a …",
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "salary_is_predicted": "0"
+    },
+    {
+      "title": "Supply & Demand Analytics Specialist, ACM",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "display_name": "Richmond North, Yarra Area",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Victoria",
+          "Melbourne Region",
+          "Yarra Area",
+          "Richmond North"
+        ]
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5803441934?utm_medium=api&utm_source=4e5ae6d3",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgwMzQ0MTkzNCIsInMiOiJvbGJMdElLSjhSR191dVVHbEpnQ0FRIn0.DQ3CYrdkzt73SQGzYjEfwPIJpuqTmcVDKTzZbB5zEj8",
+      "latitude": -37.818587,
+      "longitude": 144.999181,
+      "created": "2026-07-17T02:58:35Z",
+      "company": {
+        "display_name": "AUS Medtronic Australia",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "contract_time": "full_time",
+      "id": "5803441934",
+      "description": "Careers that change lives start here. Medtronic is a global leader in healthcare technology with a Mission to alleviate pain, restore health, and extend life. Our 95,000 employees work across more than 150 countries to put patients first — developing innovative medical technologies that improve the lives of 72 million patients each year. Your unique talents will help shape the future of healthcare while building a career grounded in purpose, growth, and impact. A Day in the Life Medtronic is a …",
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "salary_is_predicted": "0"
+    },
+    {
+      "description": "Careers that change lives start here. Medtronic is a global leader in healthcare technology with a Mission to alleviate pain, restore health, and extend life. Our 95,000 employees work across more than 150 countries to put patients first — developing innovative medical technologies that improve the lives of 72 million patients each year. Your unique talents will help shape the future of healthcare while building a career grounded in purpose, growth, and impact. A Day in the Life Medtronic is a …",
+      "longitude": 153.0281,
+      "contract_time": "full_time",
+      "created": "2026-07-17T02:58:35Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "AUS Medtronic Australia"
+      },
+      "id": "5803441890",
+      "title": "Supply & Demand Analytics Specialist, ACM",
+      "redirect_url": "https://www.adzuna.com.au/details/5803441890?utm_medium=api&utm_source=4e5ae6d3",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": -27.4679,
+      "location": {
+        "display_name": "Brisbane CBD, Brisbane",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Queensland",
+          "Brisbane Region",
+          "Brisbane",
+          "Brisbane CBD"
+        ]
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoib2xiTHRJS0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1ODAzNDQxODkwIn0.QlbnDJBDQ0n7BT7eFI5kysWgwvnD8_NJRvRWK80iyR4",
+      "salary_is_predicted": "0",
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      }
+    },
+    {
+      "latitude": -33.885283,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5816032141?utm_medium=api&utm_source=4e5ae6d3",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney"
+        ],
+        "display_name": "Sydney, Sydney Region"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgxNjAzMjE0MSIsInMiOiJvbGJMdElLSjhSR191dVVHbEpnQ0FRIn0.iuVTFKAZWY3T8YdMWKjY15AhJV9s_AndsFQCqFjZ3nU",
+      "title": "Scrum Master (Bonds & Repos) - Maximum Term Contract",
+      "contract_time": "full_time",
+      "created": "2026-07-26T11:22:58Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "ASX"
+      },
+      "id": "5816032141",
+      "longitude": 151.203231,
+      "description": "ASX: Powering Australia's financial markets Why join the ASX? When you join ASX, you’re joining a company with a strong purpose – to power a stronger economic future by enabling a fair and dynamic marketplace for all. In your new role, you’ll be part of a leading global securities exchange with a strong brand. We are known for being a trusted market operator and an exciting data hub. Want to know why we are a great place to work, click on the link to learn more. www.asx.com.au/about/careers/a-g…",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      },
+      "contract_type": "contract",
+      "salary_is_predicted": "0"
+    },
+    {
+      "salary_is_predicted": "0",
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "description": "Careers that change lives start here. Medtronic is a global leader in healthcare technology with a Mission to alleviate pain, restore health, and extend life. Our 95,000 employees work across more than 150 countries to put patients first — developing innovative medical technologies that improve the lives of 72 million patients each year. Your unique talents will help shape the future of healthcare while building a career grounded in purpose, growth, and impact. A Day in the Life Medtronic is a …",
+      "company": {
+        "display_name": "Medtronic",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "created": "2026-07-14T11:07:12Z",
+      "id": "5799349322",
+      "contract_time": "full_time",
+      "title": "Supply & Demand Analytics Specialist, ACM",
+      "location": {
+        "area": [
+          "Australia"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Australia"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5799349322?utm_medium=api&utm_source=4e5ae6d3",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoib2xiTHRJS0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1Nzk5MzQ5MzIyIn0.oaYARXOsA7-obKUidhC63ua6XEUIYun6sqf2vYFRwWc"
+    },
+    {
+      "company": {
+        "display_name": "MY1733 Sindutch Cable Manufacturer Sdn Bhd",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "created": "2026-04-28T21:09:38Z",
+      "contract_time": "full_time",
+      "id": "5712651439",
+      "longitude": 144.874299,
+      "description": "Business Analysis and Strategy: Participate in business process workshops, identifying opportunities for productivity and efficiency gains. Collaborate with business/IT teams like engineering, logistics, commercial and finance teams to understand business challenges and recommend suitable and sustainable solutions. Support business users to understand impacts of SAP systems and processes implemented to ensure readiness in the user community to adopt changes (if any). 2. Design Implementation an…",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5712651439?utm_medium=api&utm_source=4e5ae6d3",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcxMjY1MTQzOSIsInMiOiJvbGJMdElLSjhSR191dVVHbEpnQ0FRIn0.DToK6Xw4d33s0VBKXcGAx5wrVZUdNpn7eAczDPIvhpM",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Victoria",
+          "Melbourne Region",
+          "Maribyrnong Area",
+          "Maidstone"
+        ],
+        "display_name": "Maidstone, Maribyrnong Area"
+      },
+      "latitude": -37.782096,
+      "title": "APAC IT Senior Business Analyst",
+      "salary_is_predicted": "0",
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      }
+    },
+    {
+      "salary_is_predicted": "0",
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "longitude": 150.924429,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "MY1733 Sindutch Cable Manufacturer Sdn Bhd"
+      },
+      "created": "2026-04-28T21:09:38Z",
+      "id": "5712651454",
+      "contract_time": "full_time",
+      "description": "Business Analysis and Strategy: Participate in business process workshops, identifying opportunities for productivity and efficiency gains. Collaborate with business/IT teams like engineering, logistics, commercial and finance teams to understand business challenges and recommend suitable and sustainable solutions. Support business users to understand impacts of SAP systems and processes implemented to ensure readiness in the user community to adopt changes (if any). 2. Design Implementation an…",
+      "title": "APAC IT Senior Business Analyst",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5712651454?utm_medium=api&utm_source=4e5ae6d3",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Western Sydney",
+          "Liverpool Area",
+          "Liverpool"
+        ],
+        "display_name": "Liverpool, Liverpool Area"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcxMjY1MTQ1NCIsInMiOiJvbGJMdElLSjhSR191dVVHbEpnQ0FRIn0.ksKha-waQqHjRE3IDueXJsFCSBctd0waHHUhpPyLv1o",
+      "latitude": -33.92505
+    },
+    {
+      "salary_is_predicted": "0",
+      "contract_type": "permanent",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      },
+      "description": "Job Description Business Analyst (Supply Chain) Grow your Supply Chain career in an impactful analyst position Flexible work arrangement – 3 days in office, 2 days remote Collaborative and dynamic work environment Grow Your Supply Chain Career with Kraft Heinz! Are you looking to grow your Supply Chain career in an impactful Business Analyst role? Do you want to join a dynamic team with a proven track record of internal growth and career advancement opportunities? We have an exciting permanent …",
+      "longitude": 151.28577,
+      "created": "2026-06-23T10:52:21Z",
+      "company": {
+        "display_name": "Kraft Heinz",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "id": "5773042601",
+      "contract_time": "full_time",
+      "title": "Business Analyst (Supply Chain)",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": -33.77866,
+      "redirect_url": "https://www.adzuna.com.au/details/5773042601?utm_medium=api&utm_source=4e5ae6d3",
+      "location": {
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Northern Beaches",
+          "Manly Area",
+          "Freshwater"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Freshwater, Manly Area"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoib2xiTHRJS0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1NzczMDQyNjAxIn0.YIpUpz_CHqu8iYjeYdKRpE4NZy50AJnntZ1UMuWY0XA"
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "display_name": "Queensland, Australia",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Queensland"
+        ]
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5722426182?utm_medium=api&utm_source=4e5ae6d3",
+      "latitude": -24.31344,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcyMjQyNjE4MiIsInMiOiJvbGJMdElLSjhSR191dVVHbEpnQ0FRIn0.621CkXns4LsBA97SXnUKoM6q6fmMnRnKF6bsXa7Uf1I",
+      "title": "UX Designer",
+      "created": "2026-05-08T12:43:50Z",
+      "id": "5722426182",
+      "company": {
+        "display_name": "Fortive Corporation",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "longitude": 149.92899,
+      "description": "UX Designer - Accruent We are looking for an outstanding UX Designer to join our established design team to help us design the future of Accruent. As a UX Designer, you will be part of a dynamic atmosphere, taking ownership over multiple projects, being a champion for the user, and creating intuitive and accessible designs for thousands of people and businesses worldwide. Our ideal candidate is excited to engage in customer discovery, deeply understanding user needs and behaviours to inform the…",
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "salary_is_predicted": "0"
+    },
+    {
+      "salary_is_predicted": "0",
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "created": "2026-05-08T12:43:50Z",
+      "id": "5722426183",
+      "company": {
+        "display_name": "Fortive Corporation",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "longitude": 152.928532,
+      "description": "UX Designer - Accruent We are looking for an outstanding UX Designer to join our established design team to help us design the future of Accruent. As a UX Designer, you will be part of a dynamic atmosphere, taking ownership over multiple projects, being a champion for the user, and creating intuitive and accessible designs for thousands of people and businesses worldwide. Our ideal candidate is excited to engage in customer discovery, deeply understanding user needs and behaviours to inform the…",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5722426183?utm_medium=api&utm_source=4e5ae6d3",
+      "location": {
+        "area": [
+          "Australia",
+          "Queensland",
+          "Brisbane Region",
+          "Brisbane"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Brisbane, Brisbane Region"
+      },
+      "latitude": -27.416056,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcyMjQyNjE4MyIsInMiOiJvbGJMdElLSjhSR191dVVHbEpnQ0FRIn0.maunlBkzbrvgRjy_78cPcb1ZZTTuUua4skFFfNgfoRE",
+      "title": "UX Designer"
+    },
+    {
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      },
+      "salary_is_predicted": "0",
+      "title": "Technical Program Manager, Integrations",
+      "redirect_url": "https://www.adzuna.com.au/details/5796367512?utm_medium=api&utm_source=4e5ae6d3",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoib2xiTHRJS0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1Nzk2MzY3NTEyIn0.DOHoSYFISGQxLrO6Gu1hjHpyp47-i5UII7D7KSGBXmM",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Victoria",
+          "Melbourne Region",
+          "Melbourne"
+        ],
+        "display_name": "Melbourne, Melbourne Region"
+      },
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Heidi"
+      },
+      "created": "2026-07-11T11:02:17Z",
+      "id": "5796367512",
+      "contract_time": "full_time",
+      "description": "Who We Are Healthcare needs a better rhythm: one that keeps care continuous and deeply human. Heidi is building an AI Care Partner that works alongside clinicians to make that possible. We’re a team of doctors, engineers, designers, researchers, and creatives building tools that help clinicians stay focused on what matters most: their patients. In just 18 months, Heidi has given back more than 18 million hours to healthcare professionals — supporting 73 million patient visits in 116 countries. …"
+    },
+    {
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "contract_type": "permanent",
+      "salary_is_predicted": "0",
+      "title": "Head of Mobile App & Web",
+      "redirect_url": "https://www.adzuna.com.au/details/5810213716?utm_medium=api&utm_source=4e5ae6d3",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia"
+        ],
+        "display_name": "Australia"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoib2xiTHRJS0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1ODEwMjEzNzE2In0.bPGn8RWVGYDuhJ405VFoZEOlFXV3ON449oebHSCh_4s",
+      "created": "2026-07-22T11:35:16Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Telstra"
+      },
+      "id": "5810213716",
+      "contract_time": "full_time",
+      "description": "Employment Type Permanent Closing Date 30 July 2026 11:59pm Job Title Head of Mobile App & Web Job Summary Job Description Y ou will own and run mobile and web as a unified product system, ensuring clear product ownership, strong technical alignment, and consistent delivery across all customer-facing digital experiences. You’ll also alignment between product intent, engineering execution, and customer outcomes across sales and service. About the Team Telstra Digital is Telstra’s e-commerce and …"
+    },
+    {
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "hipages Group"
+      },
+      "created": "2026-05-30T10:44:08Z",
+      "id": "5745063793",
+      "description": "We’re hipages, Australia’s 1 digital platform connecting homeowners with trusted tradies. As an ASX-listed tech company, we're on a mission to transform the trade industry and improve lives. With teams across Australia, New Zealand, the Philippines and Vietnam, we work as one team with a shared purpose. We’re proud to be a certified Great Place to Work and WORK180’s 1 Employer for Women. At hipages, you’ll find real impact, career growth and a workplace where everyone belongs. About the role: A…",
+      "title": "Full Stack Tech Lead",
+      "location": {
+        "display_name": "Sydney, Sydney Region",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney"
+        ]
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5745063793?utm_medium=api&utm_source=4e5ae6d3",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc0NTA2Mzc5MyIsInMiOiJvbGJMdElLSjhSR191dVVHbEpnQ0FRIn0.AtNsBjKbMoY1tYF0wBif2OtMjKoS--1KNVTgojyhd5E",
+      "salary_is_predicted": "0",
+      "category": {
+        "label": "Engineering Jobs",
+        "tag": "engineering-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      }
+    },
+    {
+      "contract_time": "full_time",
+      "longitude": 151.082365,
+      "latitude": -33.772549,
+      "redirect_url": "https://www.adzuna.com.au/details/5814109112?utm_medium=api&utm_source=4e5ae6d3",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Northern Suburbs",
+          "Ryde Area",
+          "Epping"
+        ],
+        "display_name": "Epping, Ryde Area"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "title": "Data Engineer",
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "created": "2026-07-25T02:13:14Z",
+      "company": {
+        "display_name": "Southern Cross Care NSW & ACT",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "id": "5814109112",
+      "description": "Data Engineer I Modernisation & Data Analytics Why join us at SCC? We have a long history of providing exceptional care that empowers older people to live a full life. When you join us, you will be provided with not-for-profit salary packaging benefits and the support of an experienced leadership team. About the Role: We are seeking an experienced Data Engineer to join our team and support the delivery of Data & Analytics Modernisation program using Microsoft Fabric. You will design, develop, a…",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoib2xiTHRJS0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1ODE0MTA5MTEyIn0.1FXJCv9nCfanlAQa7zpwCg47-8VLg54-MHknzD6wVNk",
+      "salary_max": 125000,
+      "salary_min": 125000,
+      "salary_is_predicted": "0"
+    },
+    {
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "ResMed"
+      },
+      "created": "2026-01-27T05:28:33Z",
+      "id": "5601046324",
+      "description": "Global Technology Solutions (GTS) at ResMed is a division dedicated to creating innovative, scalable, and secure platforms and services for patients, providers, and people across ResMed. The primary goal of GTS is to accelerate well-being and growth by transforming the core, enabling patient, people, and partner outcomes, and building future-ready operations. The strategy of GTS focuses on aligning goals and promoting collaboration across all organizational areas. This includes fostering shared…",
+      "location": {
+        "display_name": "Sydney, Sydney Region",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney"
+        ]
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5601046324?utm_medium=api&utm_source=4e5ae6d3",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoib2xiTHRJS0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1NjAxMDQ2MzI0In0.oDENfxOtcl39o9GwxNhTrk7zFcp3dG1yr3nrlMnrGhE",
+      "title": "Senior Solutions Architect - Logistics and Global Trade Management (2 year Fixed Term Contract)",
+      "salary_is_predicted": "0",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      }
+    },
+    {
+      "description": "4 days ago Be among the first 25 applicants Direct message the job poster from IT Alliance Australia One of our Federal Government Clients is seeking to engage a Application Architect (Tech Lead)- EL2. This is a long-term contractual position. Please check below all the job details: Contract Duration: 02 Years (12 Months initially  12 Months extension) Work Location: Sydney and Melbourne (Hybrid model of 50/50 in the office) Eligibility: You must need to be Australian Citizen. Tentative Start D…",
+      "created": "2026-06-18T10:29:50Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "IT Alliance Australia"
+      },
+      "id": "5767367787",
+      "salary_min": 160,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc2NzM2Nzc4NyIsInMiOiJvbGJMdElLSjhSR191dVVHbEpnQ0FRIn0.uvruoM37YBHKMzRgn1isq6A8nL1Y3zQmY3O41468nCM",
+      "salary_max": 250,
+      "salary_is_predicted": "0",
+      "longitude": 144.352833,
+      "redirect_url": "https://www.adzuna.com.au/details/5767367787?utm_medium=api&utm_source=4e5ae6d3",
+      "latitude": -37.094406,
+      "location": {
+        "display_name": "Victoria, Australia",
+        "area": [
+          "Australia",
+          "Victoria"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "title": "Application Architect (Tech Lead)",
+      "contract_type": "contract",
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      }
+    },
+    {
+      "salary_is_predicted": "0",
+      "contract_type": "contract",
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "description": "Description Join the team redefining how the world experiences design. Hey, g'day, mabuhay, kia ora, 你好, hallo, vítejte! Thanks for stopping by. We know job hunting can be a little time consuming and you're probably keen to find out what's on offer, so we'll get straight to the point. About the team You'll join Canva's Marketing Technology (MarTech) group, the team behind the digital experiences that connect millions of people to Canva around the world. We build and run everything from Canva's …",
+      "company": {
+        "display_name": "Canva",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "created": "2026-07-24T18:14:10Z",
+      "id": "5813529095",
+      "contract_time": "full_time",
+      "longitude": 144.352833,
+      "redirect_url": "https://www.adzuna.com.au/details/5813529095?utm_medium=api&utm_source=4e5ae6d3",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "display_name": "Victoria, Australia",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Victoria"
+        ]
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoib2xiTHRJS0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1ODEzNTI5MDk1In0.oJ9_SZ9TpZ2BAydiKC1uQlR5sKqi4RJRtT2xUPYzhCE",
+      "latitude": -37.094406,
+      "title": "Product Manager - Marketing Technology (6 Month Fixed Term Contract)"
+    },
+    {
+      "title": "Senior Engineer",
+      "redirect_url": "https://www.adzuna.com.au/details/5791618844?utm_medium=api&utm_source=4e5ae6d3",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney"
+        ],
+        "display_name": "Sydney, Sydney Region"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoib2xiTHRJS0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1NzkxNjE4ODQ0In0.WTq0z4PGxDfhsNMH4RMD-MFtiA0MiRk3qKgPC4ZkLlY",
+      "latitude": -33.885283,
+      "longitude": 151.203231,
+      "id": "5791618844",
+      "created": "2026-07-08T10:57:58Z",
+      "company": {
+        "display_name": "People Service Centre",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "contract_time": "full_time",
+      "description": "Introduction Life at Steadfast Steadfast is built on a simple belief: none of us are as good as all of us. It shapes how we work, how we support our brokers and partners, and how we show up for each other every day. Our Together values guide everything we do – we listen, we collaborate, we include, and we back each other to succeed. As Australia’s largest general insurance broker network, we help businesses and communities feel supported, protected and confident in the moments that matter. When…",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "salary_is_predicted": "0"
+    },
+    {
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "salary_is_predicted": "0",
+      "location": {
+        "display_name": "Richmond, Yarra Area",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Victoria",
+          "Melbourne Region",
+          "Yarra Area",
+          "Richmond"
+        ]
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5800649795?utm_medium=api&utm_source=4e5ae6d3",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgwMDY0OTc5NSIsInMiOiJvbGJMdElLSjhSR191dVVHbEpnQ0FRIn0.vKoqpKdYu4hvXZbfSTfXmd7ZmtLxjxdeKIPX9uV8Pes",
+      "latitude": -37.81859,
+      "title": "Supply & Demand Analytics Specialist, ACM",
+      "description": "Careers that change lives start here. Medtronic is a global leader in healthcare technology with a Mission to alleviate pain, restore health, and extend life. Our 95,000 employees work across more than 150 countries to put patients first - developing innovative medical technologies that improve the lives of 72 million patients each year. Your unique talents will help shape the future of healthcare while building a career grounded in purpose, growth, and impact. A Day in the Life Medtronic is a …",
+      "created": "2026-07-15T12:52:06Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Medtronic"
+      },
+      "id": "5800649795",
+      "longitude": 144.99918
+    },
+    {
+      "category": {
+        "tag": "engineering-jobs",
+        "label": "Engineering Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5800477635?utm_medium=api&utm_source=4e5ae6d3",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgwMDQ3NzYzNSIsInMiOiJvbGJMdElLSjhSR191dVVHbEpnQ0FRIn0.OStLhP8u1i-uAVxIVVDGsKDY1UcHjWtafcODShnBxag",
+      "location": {
+        "display_name": "Victoria, Australia",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Victoria"
+        ]
+      },
+      "latitude": -37.094406,
+      "title": "Automation Engineer",
+      "created": "2026-07-15T10:07:15Z",
+      "contract_time": "full_time",
+      "company": {
+        "display_name": "Accenture",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "id": "5800477635",
+      "longitude": 144.352833,
+      "description": "Job Description About Accenture Accenture is a global professional services company with leading capabilities in digital, cloud and security. Find out more about us at www.accenture.com. Role purpose The Automation Engineer is responsible for designing, building, maintaining and improving automated quality checks that enable delivery squads to shift testing left and build quality into delivery from day one. The role exists to move away from a traditional tester model and towards an engineering-…"
+    },
+    {
+      "category": {
+        "label": "Engineering Jobs",
+        "tag": "engineering-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "salary_is_predicted": "0",
+      "title": "Automation Engineer",
+      "location": {
+        "display_name": "Australia",
+        "area": [
+          "Australia"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5800537418?utm_medium=api&utm_source=4e5ae6d3",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoib2xiTHRJS0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1ODAwNTM3NDE4In0.u_VkY3nWvBEQ2ohvc_sXfbo7TVreDEpZvY3hjwTMRJo",
+      "description": "About Accenture Accenture is a global professional services company with leading capabilities in digital, cloud and security. Find out more about us at www.accenture.com. Role purpose The Automation Engineer is responsible for designing, building, maintaining and improving automated quality checks that enable delivery squads to shift testing left and build quality into delivery from day one. The role exists to move away from a traditional tester model and towards an engineering-led quality mode…",
+      "created": "2026-07-15T11:03:07Z",
+      "id": "5800537418",
+      "company": {
+        "display_name": "Accenture",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "contract_time": "full_time"
+    },
+    {
+      "title": "Business Analyst - Licensing",
+      "redirect_url": "https://www.adzuna.com.au/details/5650847098?utm_medium=api&utm_source=4e5ae6d3",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY1MDg0NzA5OCIsInMiOiJvbGJMdElLSjhSR191dVVHbEpnQ0FRIn0.eIFjFDNSxQq4CnPxvXB0hXDOESzsHgUdvLUHj_EDmJE",
+      "location": {
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney",
+          "The Rocks"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "The Rocks, Sydney"
+      },
+      "latitude": -33.867139,
+      "description": "We're on a mission to be a Force For Good, through our People, Products and Purpose at Nuix. This extends to our People. We're fiercely passionate, love working at pace, thrive in ambiguity, live, and breathe outside of the box, and above all are good humans. We're determined to make a positive difference in the world, whether through our solutions which help the top companies, governments and agencies find the truth and combat illegal activities, or through our people who care about contributi…",
+      "longitude": 151.207114,
+      "created": "2026-03-02T14:46:51Z",
+      "id": "5650847098",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Nuix"
+      },
+      "contract_time": "full_time",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      },
+      "salary_is_predicted": "0",
+      "contract_type": "permanent"
+    }
+  ],
+  "mean": 160448.64
+}

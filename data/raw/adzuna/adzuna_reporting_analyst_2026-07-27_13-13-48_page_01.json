@@ -1,0 +1,1649 @@
+{
+  "results": [
+    {
+      "title": "Reporting Analyst",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiTXBJeGZvS0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1ODE1OTcyNjYyIn0.FRffGB8_EGOr4_ByPZl9AcGw2L1z5_jUpmvez6HrBow",
+      "latitude": -27.4679,
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Queensland",
+          "Brisbane Region",
+          "Brisbane",
+          "Brisbane CBD"
+        ],
+        "display_name": "Brisbane CBD, Brisbane"
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5815972662?utm_medium=api&utm_source=4e5ae6d3",
+      "longitude": 153.0281,
+      "id": "5815972662",
+      "contract_time": "full_time",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Ashurst"
+      },
+      "created": "2026-07-26T10:13:53Z",
+      "description": "Job Title Reporting Analyst Location Brisbane Description At Ashurst Perkins Coie, we're helping shape the future economy. With a global team of more than 3,500 legal professionals across 52 offices, we partner with leading organisations to solve complex challenges across a diverse range of industries, with a distinct strength in technology, energy & infrastructure, and financial services. Our people work on market-leading matters that drive innovation, growth, and transformation around the wor…",
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "contract_type": "permanent",
+      "salary_is_predicted": "0"
+    },
+    {
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "area": [
+          "Australia",
+          "Queensland",
+          "Brisbane Region",
+          "Brisbane",
+          "South Brisbane"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "South Brisbane, Brisbane"
+      },
+      "latitude": -27.474492,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc5MTEyMjMyMyIsInMiOiJNcEl4Zm9LSjhSR191dVVHbEpnQ0FRIn0.QI4bRpdbpkAO0-EXdkM8c6nUG_Z-QgYLwMHDmp_KTj0",
+      "redirect_url": "https://www.adzuna.com.au/details/5791122323?utm_medium=api&utm_source=4e5ae6d3",
+      "title": "Reporting Analyst",
+      "description": "We are transforming our Strategy & Digital Operations division by creating a new, dedicated Reporting & Insights pillar. This initiative combines the expertise of our current analysts with several brand-new roles designed to elevate our strategic impact. We are now hiring for these new positions to complete our team structure. If you want to be part of a proactive, value-driven team that blends established talent with new opportunities, this is your chance to help build our analytical foundatio…",
+      "id": "5791122323",
+      "contract_time": "full_time",
+      "company": {
+        "display_name": "Credit Corp",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "created": "2026-07-08T01:36:04Z",
+      "longitude": 153.017391
+    },
+    {
+      "salary_is_predicted": "0",
+      "contract_type": "permanent",
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "description": "Senior Reporting Analyst Location negotiable across TAFE NSW (subject to campus availability) Talent Pool (Statewide) for Temporary Full Time (until 30 June 2026) and Permanent Full Time opportunities $131,911 - $142,056 salary package - includes base salary ($116,219 - $125,157 per annum), plus employer?s contribution to superannuation and annual leave loading?? At TAFE NSW, we are dedicated to life-changing impact. That?s why we offer world-class training and education that delivers the skill…",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "NSW Government"
+      },
+      "contract_time": "full_time",
+      "id": "5733563922",
+      "created": "2026-05-19T10:29:43Z",
+      "longitude": 150.878702,
+      "latitude": -34.427181,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTczMzU2MzkyMiIsInMiOiJNcEl4Zm9LSjhSR191dVVHbEpnQ0FRIn0.K9iWVGy2aZPGjUSiSFyGnl3v4LVqBlAFl_yPlfbEJnQ",
+      "redirect_url": "https://www.adzuna.com.au/details/5733563922?utm_medium=api&utm_source=4e5ae6d3",
+      "location": {
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Illawarra",
+          "Wollongong Area",
+          "Mangerton"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Mangerton, Wollongong Area"
+      },
+      "title": "Senior Reporting Analyst"
+    },
+    {
+      "contract_type": "contract",
+      "salary_is_predicted": "0",
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "id": "5331788576",
+      "company": {
+        "display_name": "Tech Aalto",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "created": "2025-08-01T20:52:45Z",
+      "description": "Job Title: Data & Reporting Analyst Location: Sydney Duration: 6 Months Contract Job Description: We are looking for a skilled Data & Reporting Analyst to join our team on a 6-month contract in Sydney. This role will focus on driving insights and optimization through advanced analytics and effective stakeholder engagement. The ideal candidate will have experience across data visualization tools, cloud platforms, and financial analysis. Key Responsibilities: Analyze cloud usage and cost data to …",
+      "title": "Data & Reporting Analyst",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiTXBJeGZvS0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1MzMxNzg4NTc2In0.oOFBfpNIFWrnMHGT3UWKPjqBhLXyX9TwoJedDkryn8g",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "display_name": "Sydney, Sydney Region",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney"
+        ]
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5331788576?utm_medium=api&utm_source=4e5ae6d3"
+    },
+    {
+      "latitude": -12.462827,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiTXBJeGZvS0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1ODA2NDQ4NTE0In0.pr0TqeFTPzoHk7A4qVOSzfPOzS6AOJkryvfW7fU5bEU",
+      "redirect_url": "https://www.adzuna.com.au/details/5806448514?utm_medium=api&utm_source=4e5ae6d3",
+      "location": {
+        "display_name": "Larrakeyah, Darwin",
+        "area": [
+          "Australia",
+          "Northern Territory",
+          "Darwin Region",
+          "Darwin",
+          "Larrakeyah"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "title": "Data and Reporting Analyst",
+      "description": "Data and Reporting Analyst Ongoing (Permanent) - Full Time Closes 19/07/2026 Band 3 Administrative Corporate Services - Remuneration Package $141,070 - $170,631 (including salary $124,487 - $150,887) Vacancy Number 047648 Agency Power and Water Corporation Number of Vacancies 1 Work Unit Core Operations - Project Delivery Management Location Darwin Primary Objective Support strategy and optimisation through data analysis and portfolio-level modelling. This position ensures alignment with strate…",
+      "id": "5806448514",
+      "contract_time": "part_time",
+      "created": "2026-07-19T07:39:07Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Power and Water Corporation"
+      },
+      "longitude": 130.841848,
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "salary_is_predicted": "0",
+      "contract_type": "permanent"
+    },
+    {
+      "longitude": 151.757485,
+      "created": "2026-06-23T08:31:10Z",
+      "contract_time": "full_time",
+      "id": "5772899338",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Veolia"
+      },
+      "description": "The Opportunity Veolia has a fantastic opportunity for a Business & Reporting Analyst to join our team based in Tomago 2300. This is a hands on, practical role with an immediate focus on Tableau based reporting and dashboard implementation, playing a key part in transitioning the Alliance away from spreadsheet and Google Sheet based reporting toward robust, scalable dashboard solutions. As the Business & Reporting Analyst, you will work closely with Alliance stakeholders and technical teams to …",
+      "title": "Business & Reporting Analyst",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc3Mjg5OTMzOCIsInMiOiJNcEl4Zm9LSjhSR191dVVHbEpnQ0FRIn0.jwgPBFYpUzOdDbGJH43ro4ynW4-i08--mSoyApkHdgI",
+      "latitude": -32.818383,
+      "redirect_url": "https://www.adzuna.com.au/details/5772899338?utm_medium=api&utm_source=4e5ae6d3",
+      "location": {
+        "display_name": "Tomago, Port Stephens Area",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Newcastle Region",
+          "Port Stephens Area",
+          "Tomago"
+        ]
+      },
+      "salary_is_predicted": "0",
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      }
+    },
+    {
+      "salary_is_predicted": "0",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Accounting & Finance Jobs",
+        "tag": "accounting-finance-jobs"
+      },
+      "contract_time": "full_time",
+      "id": "4801310854",
+      "created": "2024-07-31T07:18:31Z",
+      "company": {
+        "display_name": "7-Eleven",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "description": "Utilise your financial accounting background to directly support our Senior Leaders Career opportunity for a CPA / CA Qualified Analyst Modern and bright Richmond Head office About the Role: You will be responsible for the delivery of effective & quality financial reporting and analysis to various internal and external stakeholders. You will also be responsible for the implementation of process improvement to respond to the growing needs of the business. This will require you to build strong wo…",
+      "title": "Group Reporting Analyst",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiTXBJeGZvS0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI0ODAxMzEwODU0In0.3huralNc_K681MyDgP2cw-X87DKpgeggxBPvsAqjHNs",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/4801310854?utm_medium=api&utm_source=4e5ae6d3",
+      "location": {
+        "display_name": "Australia",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia"
+        ]
+      }
+    },
+    {
+      "longitude": 151.107781,
+      "id": "5790000288",
+      "contract_time": "full_time",
+      "created": "2026-07-07T01:44:56Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "The Recruitment Company"
+      },
+      "description": "A fantastic opportunity for a hands-on, motivated Data & Reporting Analyst to join a friendly enterprise data & analytics team and gain real exposure to Microsoft Fabric in a live transformation environment . Macquarie Park | 3 days in office | $120K–$150K  super | 12-month fixed term This is a great fit for someone who enjoys working in Excel day-to-day, takes ownership of their work, and wants to build a long-term career in data & analytics within a modernising enterprise environment. You’ll …",
+      "title": "Data & Reporting Analyst",
+      "redirect_url": "https://www.adzuna.com.au/details/5790000288?utm_medium=api&utm_source=4e5ae6d3",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": -33.773141,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiTXBJeGZvS0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1NzkwMDAwMjg4In0.6xmCHG07l_HuipJ5ntd2NcSlMZOsymXdtMpI0UmBnas",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Northern Suburbs",
+          "Ryde Area",
+          "Marsfield"
+        ],
+        "display_name": "Marsfield, Ryde Area"
+      },
+      "contract_type": "contract",
+      "salary_is_predicted": "0",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      }
+    },
+    {
+      "title": "Engineering Reporting Analyst",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": -24.31344,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc2NzI5NTYzMiIsInMiOiJNcEl4Zm9LSjhSR191dVVHbEpnQ0FRIn0.ARQlySTL5Yue1USJ2f5VoU4zTiaHYwD_Z0KhvnMzSt8",
+      "location": {
+        "display_name": "Queensland, Australia",
+        "area": [
+          "Australia",
+          "Queensland"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5767295632?utm_medium=api&utm_source=4e5ae6d3",
+      "longitude": 149.92899,
+      "id": "5767295632",
+      "contract_time": "full_time",
+      "created": "2026-06-18T08:45:28Z",
+      "company": {
+        "display_name": "Virgin Australia",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "description": "Hello. We’re Virgin Australia. We’re the airline that’s always done things a little different. Our way. The Virgin way. We’re on a mission to make flying better than ‘nice’. And to do that, it takes a team of talented people who are passionate about customer experience, doing the right thing always, with a focus on safety – in the air, on the ground and in our workplaces. A team who values real diversity and inclusion, in a big brand with big ambitions. What you’ll be doing As an Engineering Re…",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "salary_is_predicted": "0"
+    },
+    {
+      "title": "ESG & Reporting Analyst",
+      "latitude": -33.79677,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc2NDA5NTEzNyIsInMiOiJNcEl4Zm9LSjhSR191dVVHbEpnQ0FRIn0.6PySRN37-wFODz3yEQb9KyOZak1obpiO_PvyrpoWPIg",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Northern Suburbs",
+          "Ryde Area",
+          "North Ryde"
+        ],
+        "display_name": "North Ryde, Ryde Area"
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5764095137?utm_medium=api&utm_source=4e5ae6d3",
+      "longitude": 151.124355,
+      "id": "5764095137",
+      "contract_time": "full_time",
+      "company": {
+        "display_name": "Moir Group",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "created": "2026-06-15T15:40:43Z",
+      "description": "Company We’re partnering with a leading, fast-growing purpose driven organisation operating in the specialist healthcare sector for animals. Known for delivering advanced, high-quality services through a network of modern facilities and multidisciplinary teams. With a strong national presence and continued growth, the organisation is recognised for combining specialist expertise with 24/7 critical services. Position In a newly created role as an ESG Analyst, you’ll sit at the intersection of fi…",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Accounting & Finance Jobs",
+        "tag": "accounting-finance-jobs"
+      },
+      "salary_is_predicted": "0"
+    },
+    {
+      "salary_is_predicted": "0",
+      "contract_type": "permanent",
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "description": "Support strategy and optimisation through data analysis and portfolio-level modelling. This position ensures alignment with strategic goals and creates performance and project progress reports, capturing Project Data Management data for enterprise reporting. Additionally, the role will identify strategic insights to drive efficiencies and continuously improve reporting processes and outputs.",
+      "id": "5789540397",
+      "contract_time": "full_time",
+      "created": "2026-07-06T12:51:02Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Northern Territory Government"
+      },
+      "longitude": 131.955335,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "display_name": "Darwin Region, Northern Territory",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Northern Territory",
+          "Darwin Region"
+        ]
+      },
+      "latitude": -15.622074,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc4OTU0MDM5NyIsInMiOiJNcEl4Zm9LSjhSR191dVVHbEpnQ0FRIn0.ZVpM5XZq0I1L09T2-NmUn3ejUmWfSbvlIFCe0zBm2TI",
+      "redirect_url": "https://www.adzuna.com.au/details/5789540397?utm_medium=api&utm_source=4e5ae6d3",
+      "title": "Data and Reporting Analyst"
+    },
+    {
+      "description": "Provide high quality, accurate and timely performance management and corporate reporting and analytics that deliver effective business insights for a portfolio of client agencies to guide and inform their policy development, operational planning and strategic and tactical decision making. This position may be available in any region throughout the NT subject to negotiation with the successful applicant.n",
+      "contract_time": "full_time",
+      "created": "2026-07-17T12:53:31Z",
+      "id": "5804255407",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Northern Territory Government"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgwNDI1NTQwNyIsInMiOiJNcEl4Zm9LSjhSR191dVVHbEpnQ0FRIn0.UUXt7-jUMuXuOCVMvxTVFpx9MaA7mKZ5GN6Cot4dDtg",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia"
+        ],
+        "display_name": "Australia"
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5804255407?utm_medium=api&utm_source=4e5ae6d3",
+      "title": "Senior Reporting Analyst",
+      "salary_is_predicted": "0",
+      "contract_type": "permanent",
+      "category": {
+        "tag": "trade-construction-jobs",
+        "label": "Trade & Construction Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      }
+    },
+    {
+      "contract_type": "permanent",
+      "salary_is_predicted": "0",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "consultancy-jobs",
+        "label": "Consultancy Jobs"
+      },
+      "contract_time": "part_time",
+      "id": "5807540073",
+      "created": "2026-07-20T08:58:34Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "MedicalJobsAustralia"
+      },
+      "longitude": 147.615787,
+      "description": "Job Info Location: Derwent Bridge, TAS Salary: Not Specified Job Type: Contract position | Casual position Job Description MedicalJobsAustralia.com Vacancy Number: 019467 Agency: Department of Corporate and Digital Development Number of Vacancies: Work Unit Data Services - Reporting and Analytics Located in: All NT Regions Primary Objective: Provide high quality, accurate and timely performance management and corporate reporting and analytics that deliver effective business insights for a portf…",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": -42.746471,
+      "redirect_url": "https://www.adzuna.com.au/details/5807540073?utm_medium=api&utm_source=4e5ae6d3",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgwNzU0MDA3MyIsInMiOiJNcEl4Zm9LSjhSR191dVVHbEpnQ0FRIn0.Kv5nz6LoSghhAVBgZAIVmCKeTnZXbgnAwedgMDG9t4M",
+      "location": {
+        "display_name": "Forcett, Sorell Area",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Tasmania",
+          "Hobart Region",
+          "Sorell Area",
+          "Forcett"
+        ]
+      },
+      "title": "Senior Reporting Analyst"
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5787354768?utm_medium=api&utm_source=4e5ae6d3",
+      "latitude": -35.309391,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiTXBJeGZvS0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1Nzg3MzU0NzY4In0.nmU9_8KsgFNRcpscEAYdGnQpc4IydlR9lJCYdfYbDw0",
+      "location": {
+        "display_name": "Barton, South Canberra",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Australian Capital Territory",
+          "Canberra Region",
+          "South Canberra",
+          "Barton"
+        ]
+      },
+      "title": "Data and Reporting Analyst",
+      "description": "The Organ and Tissue Authority (the OTA) is a dynamic, small Commonwealth agency that leads Australia's DonateLife program to increase organ and tissue donation so more Australian's have access to a lifesaving transplant. We work in close collaboration with the DonateLife network, states and territories, hospitals, health clinicians and the community to deliver the DonateLife program. The OTA is a statutory authority established by the Australian Organ and Tissue Donation and Transplantation Au…",
+      "contract_time": "full_time",
+      "id": "5787354768",
+      "created": "2026-07-04T09:21:47Z",
+      "company": {
+        "display_name": "Organ and Tissue Authority",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "longitude": 149.133481,
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      },
+      "salary_is_predicted": "0",
+      "contract_type": "permanent"
+    },
+    {
+      "salary_is_predicted": "0",
+      "contract_type": "permanent",
+      "category": {
+        "label": "Admin Jobs",
+        "tag": "admin-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "description": "Vacancy Number: 047648 Agency: Power and Water Corporation Number of Vacancies: 1 Work Unit: Core Operations - Project Delivery Management Location: Darwin Primary Objective: Support strategy and optimisation through data analysis and portfolio-level modelling. This position ensures alignment with strategic goals and creates performance and project progress reports, capturing Project Data Management data for enterprise reporting. Additionally, the role will identify strategic insights to drive …",
+      "id": "5790276847",
+      "contract_time": "full_time",
+      "created": "2026-07-07T07:31:39Z",
+      "company": {
+        "display_name": "Northern Territory Government",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "longitude": 130.841848,
+      "latitude": -12.462827,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "display_name": "Larrakeyah, Darwin",
+        "area": [
+          "Australia",
+          "Northern Territory",
+          "Darwin Region",
+          "Darwin",
+          "Larrakeyah"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc5MDI3Njg0NyIsInMiOiJNcEl4Zm9LSjhSR191dVVHbEpnQ0FRIn0.lECUKkf-6BrujVH7sAuV9oa-cZjkviCPRHJh5a6qP8M",
+      "redirect_url": "https://www.adzuna.com.au/details/5790276847?utm_medium=api&utm_source=4e5ae6d3",
+      "title": "Data and Reporting Analyst"
+    },
+    {
+      "title": "Data and Reporting Analyst",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": -12.462827,
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Northern Territory",
+          "Darwin Region",
+          "Darwin",
+          "Larrakeyah"
+        ],
+        "display_name": "Larrakeyah, Darwin"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiTXBJeGZvS0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1NzkxNTM4MDgyIn0.Iy4DrywsmoRG4amq3bLjgpvCAQMbuvj-u1Z2TIOmO2M",
+      "redirect_url": "https://www.adzuna.com.au/details/5791538082?utm_medium=api&utm_source=4e5ae6d3",
+      "description": "Vacancy Number: 047648 Vacancy Types: Ongoing (Permanent) - Full Time Primary objective: Support strategy and optimisation through data analysis and portfolio-level modelling. This position ensures alignment with strategic goals and creates performance and project progress reports, capturing Project Data Management data for enterprise reporting. Additionally, the role will identify strategic insights to drive efficiencies and continuously improve reporting processes and outputs. Special Instruc…",
+      "longitude": 130.841848,
+      "id": "5791538082",
+      "contract_time": "full_time",
+      "created": "2026-07-08T09:18:56Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Power and Water Corporation"
+      },
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      },
+      "salary_is_predicted": "0",
+      "contract_type": "permanent"
+    },
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiTXBJeGZvS0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1ODA5NTI3OTA5In0.hnxEFfsHey1gOSnjCXsLrhWA0zKsvhsdv9ubQaCpAYU",
+      "salary_max": 130000,
+      "salary_min": 130000,
+      "id": "5809527909",
+      "company": {
+        "display_name": "Intuitive Recruitment",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "created": "2026-07-22T02:08:40Z",
+      "description": "Senior Regulatory Reporting Analyst – Leading Financial Services Institution (Sydney CBD) Our client, a prominent and fast‑growing financial services institution based in the Sydney CBD, is seeking a Senior Regulatory Reporting Analyst to take ownership of regulatory reporting, financial control, and ongoing system uplift across their control division. This role plays a key part in strengthening reporting accuracy, enhancing controls, and driving continuous improvement across finance and risk. …",
+      "salary_is_predicted": "0",
+      "title": "Senior Regulatory Reporting Analyst",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": -33.885283,
+      "location": {
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Sydney, Sydney Region"
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5809527909?utm_medium=api&utm_source=4e5ae6d3",
+      "longitude": 151.203231,
+      "contract_time": "full_time",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "accounting-finance-jobs",
+        "label": "Accounting & Finance Jobs"
+      },
+      "contract_type": "permanent"
+    },
+    {
+      "description": "Credit & Performance Reporting Analyst Sydney | Hybrid Working The Opportunity A newly created opportunity is available for a Credit & Performance Reporting Analyst to support portfolio performance, credit risk monitoring, and strategic decision-making within a growing Asset Finance business. Working closely with senior leaders across Credit, Risk, and Business Performance, you'll be responsible for analysing portfolio trends, monitoring scorecard performance, identifying emerging risks, and de…",
+      "id": "5811602974",
+      "contract_time": "full_time",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "TOM Australia"
+      },
+      "created": "2026-07-23T10:16:15Z",
+      "longitude": 151.207114,
+      "redirect_url": "https://www.adzuna.com.au/details/5811602974?utm_medium=api&utm_source=4e5ae6d3",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": -33.867139,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiTXBJeGZvS0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1ODExNjAyOTc0In0.PaZF44mHBtOczdk4gkaLG95ZbgBad9gYkFI4k41zTw4",
+      "location": {
+        "display_name": "The Rocks, Sydney",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney",
+          "The Rocks"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "title": "Credit & Performance Reporting Analyst",
+      "salary_is_predicted": "0",
+      "category": {
+        "label": "Accounting & Finance Jobs",
+        "tag": "accounting-finance-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      }
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": -37.842879,
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Victoria",
+          "Melbourne Region",
+          "Hobsons Bay Area",
+          "Altona North"
+        ],
+        "display_name": "Altona North, Hobsons Bay Area"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiTXBJeGZvS0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1Nzg2OTQxNzc5In0.nnWShuvRggZ0RGzP9sSKEXwcToDT0xwsEq1Qzgujb28",
+      "redirect_url": "https://www.adzuna.com.au/details/5786941779?utm_medium=api&utm_source=4e5ae6d3",
+      "title": "Senior Insights and Reporting Analyst",
+      "description": "Oh what a feeling! At Toyota we celebrate individual differences, and we strive to create a workplace that not only gives equal opportunities to people of all backgrounds and abilities but supports them to reach their full potential. Afterall, our people are our greatest assets. We do this through employee community engagement, mentorship, development and recognition programs. Together, we are Toyota. Toyota Motor Corporation Australia is well-recognised for offering: Fully maintained motor veh…",
+      "contract_time": "full_time",
+      "created": "2026-07-04T00:47:46Z",
+      "id": "5786941779",
+      "company": {
+        "display_name": "Toyota",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "longitude": 144.850049,
+      "category": {
+        "tag": "hr-jobs",
+        "label": "HR & Recruitment Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "salary_is_predicted": "0",
+      "contract_type": "permanent"
+    },
+    {
+      "category": {
+        "tag": "hr-jobs",
+        "label": "HR & Recruitment Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "salary_is_predicted": "0",
+      "contract_type": "permanent",
+      "title": "Senior Insights and Reporting Analyst",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc4NzQyOTE0MyIsInMiOiJNcEl4Zm9LSjhSR191dVVHbEpnQ0FRIn0.nmeEvPc5FnzdpCTf64fTJcVhIx9EpEorXArJTVx8J54",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5787429143?utm_medium=api&utm_source=4e5ae6d3",
+      "location": {
+        "display_name": "Australia",
+        "area": [
+          "Australia"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "description": "Oh what a feeling! At Toyota we celebrate individual differences, and we strive to create a workplace that not only gives equal opportunities to people of all backgrounds and abilities but supports them to reach their full potential. Afterall, our people are our greatest assets. We do this through employee community engagement, mentorship, development and recognition programs. Together, we are Toyota. Toyota Motor Corporation Australia is well-recognised for offering: Fully maintained motor veh…",
+      "id": "5787429143",
+      "contract_time": "full_time",
+      "created": "2026-07-04T10:57:58Z",
+      "company": {
+        "display_name": "Toyota",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      }
+    },
+    {
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "contract_type": "contract",
+      "salary_is_predicted": "0",
+      "title": "APS5 Data and Reporting Analyst",
+      "latitude": -34.067441,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5754038329?utm_medium=api&utm_source=4e5ae6d3",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiTXBJeGZvS0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1NzU0MDM4MzI5In0.Ao6Ymtb_gyMbHBb8sENN2j-HP2z2IIzoGlxB06BEUyY",
+      "location": {
+        "display_name": "Campbelltown, Campbelltown Area",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Western Sydney",
+          "Campbelltown Area",
+          "Campbelltown"
+        ]
+      },
+      "longitude": 150.812522,
+      "contract_time": "full_time",
+      "id": "5754038329",
+      "created": "2026-06-06T15:01:19Z",
+      "company": {
+        "display_name": "DFP Recruitment Services",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "description": "Job description APS5 Data and Reporting Analyst Contract Duration – Till December 2026 Location – Newcastle NSW Campbelltown NSW Pay Rate - $55.24 Hourly  Super Work Right - Australian Citizen DFP Recruitment is partnering with a high-performing Federal Government team to appoint a Data Analyst. Data and Reporting Analyst will focus on identifying and communicating key trends and insights and collaborating with key business areas in the development and implementation of consumable reports and a…"
+    },
+    {
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "salary_is_predicted": "0",
+      "title": "Business Improvement & Reporting Analyst",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": -34.92577,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiTXBJeGZvS0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1ODE0MTA4OTgzIn0.a4cAfchuHP9ZAa6JI9NKSVnQc-ZRBaTuL6cmIKUbNOU",
+      "redirect_url": "https://www.adzuna.com.au/details/5814108983?utm_medium=api&utm_source=4e5ae6d3",
+      "location": {
+        "display_name": "Adelaide CBD, Adelaide",
+        "area": [
+          "Australia",
+          "South Australia",
+          "Adelaide Region",
+          "Adelaide",
+          "Adelaide CBD"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "longitude": 138.599732,
+      "id": "5814108983",
+      "contract_time": "full_time",
+      "created": "2026-07-25T02:13:12Z",
+      "company": {
+        "display_name": "SA Water",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "description": "About the Company At SA Water, our work sustains life. Every day, we deliver safe, reliable water and wastewater services to more than 1.8 million South Australians, supporting healthy communities across our state. Behind this essential service are people who care. From engineering and science to construction, digital, operations and customer experience, every role plays a part. We bring our authentic selves to work, driven by purpose, supporting one another to deliver work that truly matters. …"
+    },
+    {
+      "description": "ABOUT THE ROLE We're looking for a Financial Systems & Reporting Analyst to join our Finance team and play a pivotal role in delivering accurate, insightful and scalable financial reporting across the organisation. Acting as the key link between Finance and Technology, you'll transform complex financial data into meaningful business insights through the design and development of interactive Power BI dashboards, data models and reporting solutions. In this role, you'll lead the evolution of our …",
+      "id": "5786204199",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Venues NSW"
+      },
+      "created": "2026-07-03T10:59:24Z",
+      "longitude": 151.21936,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc4NjIwNDE5OSIsInMiOiJNcEl4Zm9LSjhSR191dVVHbEpnQ0FRIn0.uRiUXAwAr0IrTDLQISDKeAjNorG94OUB-2ysmc8q0D0",
+      "latitude": -33.89363,
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney",
+          "Moore Park"
+        ],
+        "display_name": "Moore Park, Sydney"
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5786204199?utm_medium=api&utm_source=4e5ae6d3",
+      "title": "Financial Systems and Reporting Analyst",
+      "salary_is_predicted": "0",
+      "category": {
+        "tag": "accounting-finance-jobs",
+        "label": "Accounting & Finance Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      }
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc4NDUyMTk3OCIsInMiOiJNcEl4Zm9LSjhSR191dVVHbEpnQ0FRIn0.2L14P3c500YS9KOBuSmDTd-LA7daEvpxS_s5q5yUdu0",
+      "latitude": -33.867139,
+      "redirect_url": "https://www.adzuna.com.au/details/5784521978?utm_medium=api&utm_source=4e5ae6d3",
+      "location": {
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney",
+          "The Rocks"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "The Rocks, Sydney"
+      },
+      "title": "Investor Relations & Reporting Analyst",
+      "description": "About the job About the Opportunity Our client is a growing alternative investment manager specialising in Australian real estate private equity and private credit strategies. With a disciplined investment approach and an established track record, the firm partners with institutional investors, family offices and sophisticated investors to deliver compelling investment opportunities across the real estate sector. As the business continues to grow, they are seeking a high-calibre Investor Relati…",
+      "contract_time": "full_time",
+      "created": "2026-07-02T08:41:57Z",
+      "id": "5784521978",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Morgan McKinley"
+      },
+      "longitude": 151.207114,
+      "category": {
+        "tag": "accounting-finance-jobs",
+        "label": "Accounting & Finance Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "salary_is_predicted": "0"
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "display_name": "Melbourne CBD, Melbourne",
+        "area": [
+          "Australia",
+          "Victoria",
+          "Melbourne Region",
+          "Melbourne",
+          "Melbourne CBD"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "latitude": -37.81521,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc5NDkxNTc0OCIsInMiOiJNcEl4Zm9LSjhSR191dVVHbEpnQ0FRIn0.SPw-sCmrvQHRCSk5KaJgTMDq07QiIV1xTFz6LpPd_ac",
+      "redirect_url": "https://www.adzuna.com.au/details/5794915748?utm_medium=api&utm_source=4e5ae6d3",
+      "title": "Senior Data & Reporting Analyst",
+      "description": "This is an initial 12 month fixed-term opportunity. About the role The Senior Data & Reporting Analyst, whose role reports to the Operational & Performance Manager, has the following objectives: Supporting the Operational & Performance Manager in identifying opportunities for process improvement and automation to increase the efficiency and effectiveness of reporting. Supporting or leading activities ranging from discovery, hypothesis development, data profiling and engineering, application of …",
+      "contract_time": "full_time",
+      "created": "2026-07-10T10:57:51Z",
+      "id": "5794915748",
+      "company": {
+        "display_name": "Zinfra",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "longitude": 144.963953,
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "consultancy-jobs",
+        "label": "Consultancy Jobs"
+      },
+      "salary_is_predicted": "0",
+      "contract_type": "contract"
+    },
+    {
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "salary_is_predicted": "0",
+      "title": "APS5 Data and Reporting Analyst",
+      "location": {
+        "area": [
+          "Australia",
+          "Victoria",
+          "Geelong Region",
+          "Geelong",
+          "Geelong West"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Geelong West, Geelong"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": -38.14729,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiTXBJeGZvS0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1NzU0MDM4MzEwIn0.UYAYIwa513WtyA-4fRR8lGxUvCzfBj8ZfJzYU8QUBYY",
+      "redirect_url": "https://www.adzuna.com.au/details/5754038310?utm_medium=api&utm_source=4e5ae6d3",
+      "longitude": 144.360735,
+      "contract_time": "full_time",
+      "created": "2026-06-06T15:01:19Z",
+      "id": "5754038310",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "DFP Recruitment Services"
+      },
+      "description": "Job description $55.24 per hour  Super | Contract to 31 December 2026 Australian Citizenship is required for this position. An exciting opportunity is available for an experienced Data & Reporting Analyst to join a high-performing Federal Government team. This role will suit someone who enjoys working with complex datasets, developing meaningful reporting solutions, and providing insights that support operational and strategic decision-making. Working within a collaborative environment, you wil…"
+    },
+    {
+      "latitude": -23.71294,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiTXBJeGZvS0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1Nzg0MzU1NzkxIn0.Dqy6NIBeNRqCFTDGcSKB0N7RUi0yy0v6z5a8z_DP9GU",
+      "location": {
+        "area": [
+          "Australia",
+          "Northern Territory",
+          "Darwin Region",
+          "Alice Springs Area",
+          "Alice Springs"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Alice Springs, Alice Springs Area"
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5784355791?utm_medium=api&utm_source=4e5ae6d3",
+      "title": "Operational Data and Reporting Analyst",
+      "description": "Job description Agency Department of Corporate and Digital Work unit Agency Business Systems – Human and Shared Development Services Job title Operational Data and Reporting Analyst Designation Administrative Officer 6 Job type Full time Duration Ongoing Salary $99,519 - $110,953 Location Alice Springs, Darwin, Katherine or Tennant Creek Position number 14954 RTF 351624 Closing 14/07/2026 Contact officer Aaron Griffin, Director Strategy, Architecture and Integration Services on 08 8999 8121 or …",
+      "created": "2026-07-02T07:21:30Z",
+      "contract_time": "part_time",
+      "id": "5784355791",
+      "company": {
+        "display_name": "Department of Corporate and Digital Development",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "longitude": 133.867691,
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "salary_is_predicted": "0",
+      "contract_type": "permanent"
+    },
+    {
+      "longitude": 149.108716,
+      "contract_time": "full_time",
+      "id": "5804593242",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Hwl Ebsworth"
+      },
+      "created": "2026-07-17T18:14:01Z",
+      "description": "Enjoy genuine autonomy and end-to-end systems access within our high performing Systems & Reporting national team Flexible work arrangement, collaborative culture, generous leave policies About us HWLE is not your typical law firm. Our rapid rise to become the largest legal partnership in Australia shows that in our case, the differences are real. We deliver first class legal advice to our government and commercial clients in every State and Territory across Australia. Firm wide, we have over 2…",
+      "title": "Finance Systems & Report Analyst",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": -35.282087,
+      "location": {
+        "display_name": "Acton, North Canberra",
+        "area": [
+          "Australia",
+          "Australian Capital Territory",
+          "Canberra Region",
+          "North Canberra",
+          "Acton"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgwNDU5MzI0MiIsInMiOiJNcEl4Zm9LSjhSR191dVVHbEpnQ0FRIn0.BQ29IRES3G3a1wpPkoWD4qEyBBY793n4Dibqbdl89nA",
+      "redirect_url": "https://www.adzuna.com.au/details/5804593242?utm_medium=api&utm_source=4e5ae6d3",
+      "salary_is_predicted": "0",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      }
+    },
+    {
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      },
+      "salary_is_predicted": "0",
+      "contract_type": "permanent",
+      "title": "Applied Data and Reporting Analyst",
+      "latitude": -12.462827,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc5MTUzOTc3OSIsInMiOiJNcEl4Zm9LSjhSR191dVVHbEpnQ0FRIn0.j5tD0Q3ch3jnGFR9psvq3ONi46rEpR30HILlecTJUDc",
+      "redirect_url": "https://www.adzuna.com.au/details/5791539779?utm_medium=api&utm_source=4e5ae6d3",
+      "location": {
+        "display_name": "Larrakeyah, Darwin",
+        "area": [
+          "Australia",
+          "Northern Territory",
+          "Darwin Region",
+          "Darwin",
+          "Larrakeyah"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "description": "Primary Objective: Support strategy and optimisation through data analysis and portfolio-level modelling. This position ensures alignment with strategic goals and creates performance and project progress reports, capturing Project Data Management data for enterprise reporting. Additionally, the role will identify strategic insights to drive efficiencies and continuously improve reporting processes and outputs. Special Instructions: Aboriginal applicants will be granted priority consideration fo…",
+      "longitude": 130.841848,
+      "created": "2026-07-08T09:19:25Z",
+      "contract_time": "part_time",
+      "id": "5791539779",
+      "company": {
+        "display_name": "Power and Water Corporation",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      }
+    },
+    {
+      "description": "Primary Objective: Deliver contemporary, quality-assured and timely analysis and reporting to a portfolio of client agencies that is used within those agencies to meet operational reporting requirements. This vacancy may be available in Darwin, Alice Springs, Katherine or Tennant Creek subject to negotiation with the successful applicant. Special Instructions: Contact: Aaron Griffin, Director Strategy, Architecture and Integration Services on 08 8999 81or nt.gov.au Further Information: Apply: A…",
+      "contract_time": "part_time",
+      "created": "2026-07-02T07:21:20Z",
+      "id": "5784354820",
+      "company": {
+        "display_name": "Department of Corporate and Digital Development NT",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "longitude": 130.841848,
+      "latitude": -12.462827,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5784354820?utm_medium=api&utm_source=4e5ae6d3",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiTXBJeGZvS0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1Nzg0MzU0ODIwIn0.mqtmDQJqe0e_rqXT9Nl1AG2cMVgc1w8_-cnPOTdegWw",
+      "location": {
+        "display_name": "Larrakeyah, Darwin",
+        "area": [
+          "Australia",
+          "Northern Territory",
+          "Darwin Region",
+          "Darwin",
+          "Larrakeyah"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "title": "Applied Operational Data and Reporting Analyst",
+      "salary_is_predicted": "0",
+      "contract_type": "permanent",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Trade & Construction Jobs",
+        "tag": "trade-construction-jobs"
+      }
+    },
+    {
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "salary_is_predicted": "0",
+      "contract_type": "permanent",
+      "latitude": -31.953357,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiTXBJeGZvS0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1ODE1OTIzNjEzIn0.T0cJ_Lqnen0ron9uNylcwC9GPfDJU1PRiOOxwBsivsY",
+      "location": {
+        "display_name": "Perth CBD, Perth",
+        "area": [
+          "Australia",
+          "Western Australia",
+          "Perth Region",
+          "Perth",
+          "Perth CBD"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5815923613?utm_medium=api&utm_source=4e5ae6d3",
+      "title": "Senior Data Analyst and Senior Reporting Analyst",
+      "description": "About the Aged Care Quality and Safety Commission The Aged Care Quality and Safety Commission is the national regulator of Australian Government-funded aged care services. We protect and enhance the safety, health, wellbeing, and quality of life of people receiving aged care. This includes managing complaints and feedback about the care older people receive. We help build confidence and trust in aged care, by promoting best practice and a culture of safety and quality in the sector. We register…",
+      "id": "5815923613",
+      "contract_time": "part_time",
+      "company": {
+        "display_name": "Aged Care Quality and Safety Commission",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "created": "2026-07-26T09:50:05Z",
+      "longitude": 115.859784
+    },
+    {
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      },
+      "contract_type": "permanent",
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": -35.309391,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiTXBJeGZvS0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1ODE1OTIzNjk4In0.imsNG8LS51B0tz-DGlS-5bkFmY1sFAylp6pA1mEGZs8",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Australian Capital Territory",
+          "Canberra Region",
+          "South Canberra",
+          "Barton"
+        ],
+        "display_name": "Barton, South Canberra"
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5815923698?utm_medium=api&utm_source=4e5ae6d3",
+      "title": "Senior Data Analyst and Senior Reporting Analyst",
+      "contract_time": "part_time",
+      "id": "5815923698",
+      "created": "2026-07-26T09:50:05Z",
+      "company": {
+        "display_name": "Aged Care Quality and Safety Commission",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "longitude": 149.133481,
+      "description": "About the Aged Care Quality and Safety Commission The Aged Care Quality and Safety Commission is the national regulator of Australian Government-funded aged care services. We protect and enhance the safety, health, wellbeing, and quality of life of people receiving aged care. This includes managing complaints and feedback about the care older people receive. We help build confidence and trust in aged care, by promoting best practice and a culture of safety and quality in the sector. We register…"
+    },
+    {
+      "description": "About the Aged Care Quality and Safety Commission The Aged Care Quality and Safety Commission is the national regulator of Australian Government-funded aged care services. We protect and enhance the safety, health, wellbeing, and quality of life of people receiving aged care. This includes managing complaints and feedback about the care older people receive. We help build confidence and trust in aged care, by promoting best practice and a culture of safety and quality in the sector. We register…",
+      "longitude": 147.317877,
+      "contract_time": "part_time",
+      "id": "5815923501",
+      "company": {
+        "display_name": "Aged Care Quality and Safety Commission",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "created": "2026-07-26T09:50:04Z",
+      "title": "Senior Data Analyst and Senior Reporting Analyst",
+      "latitude": -42.874248,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiTXBJeGZvS0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1ODE1OTIzNTAxIn0.ZJoqsh75txbPvnMUH7hyKkkFNmb5xyTFYLMMP45MdxU",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Tasmania",
+          "Hobart Region",
+          "Hobart",
+          "North Hobart"
+        ],
+        "display_name": "North Hobart, Hobart"
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5815923501?utm_medium=api&utm_source=4e5ae6d3",
+      "salary_is_predicted": "0",
+      "contract_type": "permanent",
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      }
+    },
+    {
+      "title": "Senior Data Analyst and Senior Reporting Analyst",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": -12.462827,
+      "location": {
+        "area": [
+          "Australia",
+          "Northern Territory",
+          "Darwin Region",
+          "Darwin",
+          "Larrakeyah"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Larrakeyah, Darwin"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiTXBJeGZvS0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1ODE1OTIzNTc5In0.aHtLLsf9xq3S2HaaeKg89GfM9v51rOWMnctDpGw-4yA",
+      "redirect_url": "https://www.adzuna.com.au/details/5815923579?utm_medium=api&utm_source=4e5ae6d3",
+      "longitude": 130.841848,
+      "id": "5815923579",
+      "contract_time": "part_time",
+      "created": "2026-07-26T09:50:04Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Aged Care Quality and Safety Commission"
+      },
+      "description": "About the Aged Care Quality and Safety Commission The Aged Care Quality and Safety Commission is the national regulator of Australian Government-funded aged care services. We protect and enhance the safety, health, wellbeing, and quality of life of people receiving aged care. This includes managing complaints and feedback about the care older people receive. We help build confidence and trust in aged care, by promoting best practice and a culture of safety and quality in the sector. We register…",
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "contract_type": "permanent",
+      "salary_is_predicted": "0"
+    },
+    {
+      "title": "Senior Data Analyst and Senior Reporting Analyst",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": -34.933718,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiTXBJeGZvS0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1ODE2NDA2NjExIn0.O4IApjaFK3mxV1qwfZN1zQfaS_5Wzr_BHqlclg4FcSk",
+      "redirect_url": "https://www.adzuna.com.au/details/5816406611?utm_medium=api&utm_source=4e5ae6d3",
+      "location": {
+        "display_name": "Adelaide CBD, Adelaide",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "South Australia",
+          "Adelaide Region",
+          "Adelaide",
+          "Adelaide CBD"
+        ]
+      },
+      "description": "APS6 $99,784 - $112,571 Adelaide - SA, Brisbane - QLD, Canberra - ACT, Hobart - TAS, Melbourne - VIC, Sydney - SYD, Western Australia - Perth, NT -Darwin About the Aged Care Quality and Safety Commission The Aged Care Quality and Safety Commission is the national regulator of Australian Government-funded aged care services. We protect and enhance the safety, health, wellbeing, and quality of life of people receiving aged care. This includes managing complaints and feedback about the care older …",
+      "longitude": 138.597963,
+      "contract_time": "part_time",
+      "id": "5816406611",
+      "created": "2026-07-26T19:50:35Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Aged Care Quality and Safety Commission"
+      },
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "salary_is_predicted": "0",
+      "contract_type": "permanent"
+    },
+    {
+      "category": {
+        "tag": "admin-jobs",
+        "label": "Admin Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "salary_is_predicted": "0",
+      "contract_type": "permanent",
+      "title": "Data and Reporting Analyst - Parental Leave Cover",
+      "latitude": -28.00041,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc4NzM1NDMzNyIsInMiOiJNcEl4Zm9LSjhSR191dVVHbEpnQ0FRIn0.0kNUx0cZ0tVVto-i6zuTtMq3ghakqHFiA4dPPdrk-kA",
+      "location": {
+        "display_name": "Bundall, Gold Coast",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Queensland",
+          "Gold Coast Region",
+          "Gold Coast",
+          "Bundall"
+        ]
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5787354337?utm_medium=api&utm_source=4e5ae6d3",
+      "description": "About us The G:link is operated and maintained by Keolis Gold Coast (KGC). Keolis Gold Coast is the proud subsidiary of Keolis Australia and New Zealand, a leading private provider of multi-modal public transport in Australia. Some of our Benefits Salary Packaging (inc. salary sacrificing additional superannuation and novated car leasing); Education and learning opportunities; Employee Assistance Program (for employees and immediate family); Reward & Recognition (inc. years of service, employee…",
+      "longitude": 153.414533,
+      "created": "2026-07-04T09:21:44Z",
+      "contract_time": "part_time",
+      "id": "5787354337",
+      "company": {
+        "display_name": "Keolis Gold Coast",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      }
+    },
+    {
+      "salary_is_predicted": "0",
+      "description": "Data & Reporting Analyst - SSRS / SQL / Power BI Contract Role | Initial 3 Months | Potential Extension | Immediate Start We are seeking a hands-on Data & Reporting Analyst to support a major Salesforce migration program. This role will focus on reviewing and understanding existing reporting assets, including SSRS reports, BI reports, and the underlying data sources used across the reporting environment. The successful candidate will act as a key point of contact for data and reporting queries,…",
+      "company": {
+        "display_name": "Saltus Group",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "id": "5786838727",
+      "created": "2026-07-03T23:10:11Z",
+      "salary_min": 120000,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiTXBJeGZvS0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1Nzg2ODM4NzI3In0.JEVFRkYnG6SweEdtNv22SmhSADgb06HkrjupK3NS4yU",
+      "salary_max": 120000,
+      "contract_type": "contract",
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "contract_time": "full_time",
+      "longitude": 144.957935,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Victoria",
+          "Melbourne Region",
+          "Melbourne"
+        ],
+        "display_name": "Melbourne, Melbourne Region"
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5786838727?utm_medium=api&utm_source=4e5ae6d3",
+      "latitude": -37.806509,
+      "title": "Data & Reporting Analyst - SSRS / SQL / Power BI"
+    },
+    {
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "salary_is_predicted": "0",
+      "title": "Reporting and Automation Analyst",
+      "latitude": -33.808884,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "display_name": "Artarmon, Willoughby Area",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "North Shore",
+          "Willoughby Area",
+          "Artarmon"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiTXBJeGZvS0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1Nzc1NTM0NzkzIn0.dEcncbmXnUlx360M7aaU_BcaBT8kvCIDrEsj4YJ5UJU",
+      "redirect_url": "https://www.adzuna.com.au/details/5775534793?utm_medium=api&utm_source=4e5ae6d3",
+      "description": "Artarmon, Sydney OR Hawthorn East, Melbourne office locations About Us We are returning to our roots. Since 2023 Nuvo & Ae Smith are privately owned business once more, and its an understatement to say we have gone through a bit of a transition period. We are still the same organisation that has operated for over 120 years as an Australian industry leader in HVAC, building services and electrical markets, but we have a renewed approach to the way we work and operate. As asset specialists, we un…",
+      "longitude": 151.184908,
+      "created": "2026-06-25T10:49:42Z",
+      "contract_time": "full_time",
+      "id": "5775534793",
+      "company": {
+        "display_name": "Amplius Group",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      }
+    },
+    {
+      "salary_is_predicted": "0",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "description": "Location: Brisbane or Rockhampton Remuneration/Benefit: Attractive salary package circa $140k  Superannuation About the role: As Senior Reporting and Insights Analyst you will transform complex operational and asset data into meaningful insights that support strategic and day-to-day decision making. Working closely with stakeholders across the business, you'll develop reporting solutions, analyse trends, identify opportunities for improvement, and provide evidence-based recommendations that enh…",
+      "longitude": 150.333548,
+      "created": "2026-07-17T10:08:25Z",
+      "contract_time": "full_time",
+      "id": "5804002876",
+      "company": {
+        "display_name": "Aurizon",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "title": "Senior Reporting and Insights Analyst",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": -23.674596,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgwNDAwMjg3NiIsInMiOiJNcEl4Zm9LSjhSR191dVVHbEpnQ0FRIn0.0NWhj41cOWbOXTY7LOX1U3E3-V67VozRBMJPMhqLUdw",
+      "location": {
+        "display_name": "Rockhampton Region, Queensland",
+        "area": [
+          "Australia",
+          "Queensland",
+          "Rockhampton Region"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5804002876?utm_medium=api&utm_source=4e5ae6d3"
+    },
+    {
+      "title": "Senior Reporting and Insights Analyst",
+      "latitude": -23.333581,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5806458506?utm_medium=api&utm_source=4e5ae6d3",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgwNjQ1ODUwNiIsInMiOiJNcEl4Zm9LSjhSR191dVVHbEpnQ0FRIn0.CM1oVaGqKYeqDPGzbE57QI-Gvyu0X6pkNyszFFny7k4",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Queensland",
+          "Rockhampton Region",
+          "Rockhampton",
+          "Frenchville"
+        ],
+        "display_name": "Frenchville, Rockhampton"
+      },
+      "longitude": 150.572697,
+      "contract_time": "part_time",
+      "id": "5806458506",
+      "created": "2026-07-19T07:41:09Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Aurizon"
+      },
+      "description": "Location: Brisbane or Rockhampton Remuneration/Benefit: Attractive salary package circa $140k  Superannuation About the role: As Senior Reporting and Insights Analyst you will transform complex operational and asset data into meaningful insights that support strategic and day-to-day decision making. Working closely with stakeholders across the business, you'll develop reporting solutions, analyse trends, identify opportunities for improvement, and provide evidence-based recommendations that enh…",
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "contract_type": "permanent",
+      "salary_is_predicted": "0"
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiTXBJeGZvS0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1ODEzMTQyOTkzIn0.fNAvhKRohXkS28EziaqOaf_KsDEnO3yGAWlM060cxF0",
+      "redirect_url": "https://www.adzuna.com.au/details/5813142993?utm_medium=api&utm_source=4e5ae6d3",
+      "location": {
+        "area": [
+          "Australia",
+          "Victoria",
+          "Melbourne Region",
+          "Melbourne"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Melbourne, Melbourne Region"
+      },
+      "title": "Data Analyst- Enterprise Reporting and Remediation",
+      "contract_time": "full_time",
+      "company": {
+        "display_name": "Pathway",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "id": "5813142993",
+      "created": "2026-07-24T11:25:25Z",
+      "description": "Introduction About us. A unique life requires a unique bank. Defence Bank is a member‑owned bank with a proud history of serving the Australian Defence community for over 50 years. With 26 branches across Australia and our award-winning app, Defence Bank is where our members need us – anywhere, anytime. The bank provides financial products and services to the Australian Defence Force and its unique community, reinvesting profits for the benefit of our members. We are a leader in our sector and …",
+      "category": {
+        "label": "Accounting & Finance Jobs",
+        "tag": "accounting-finance-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "salary_is_predicted": "0"
+    },
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiTXBJeGZvS0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1ODE0MzI2NzM4In0.oBfWBcy11EDgd58UEvS9cv8GDIocq_aHqHiavBw5q1g",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "display_name": "Melbourne, Melbourne Region",
+        "area": [
+          "Australia",
+          "Victoria",
+          "Melbourne Region",
+          "Melbourne"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5814326738?utm_medium=api&utm_source=4e5ae6d3",
+      "title": "Data Analyst- Enterprise Reporting and Remediation",
+      "created": "2026-07-25T07:33:30Z",
+      "contract_time": "full_time",
+      "id": "5814326738",
+      "company": {
+        "display_name": "Defence Bank",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "description": "About us. A unique life requires a unique bank. Defence Bank is a member‑owned bank with a proud history of serving the Australian Defence community for over 50 years. With 26 branches across Australia and our award-winning app, Defence Bank is where our members need us – anywhere, anytime. The bank provides financial products and services to the Australian Defence Force and its unique community, reinvesting profits for the benefit of our members. We are a leader in our sector and our people le…",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Accounting & Finance Jobs",
+        "tag": "accounting-finance-jobs"
+      },
+      "contract_type": "permanent",
+      "salary_is_predicted": "0"
+    },
+    {
+      "salary_is_predicted": "0",
+      "contract_type": "permanent",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "description": "Data and Reporting Analyst An exciting opportunity has become available to join an established and growing superannuation provider based in Melbourne's CBD for a Data and Reporting Analyst to join their vibrant and supportive team. Being an integral part of this close knit organisation, you will be responsible for a supporting internal stakeholders of all data required as well as maintaining data management and reporting, the summary of this position will require the successful candidate to hav…",
+      "id": "4801319120",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "CodeGen"
+      },
+      "created": "2024-07-31T07:19:35Z",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiTXBJeGZvS0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI0ODAxMzE5MTIwIn0.2-6mNXJXTByX2ZechcBu0HLtH0hKq_BIqJn0-eTfzDc",
+      "location": {
+        "display_name": "Melbourne, Melbourne Region",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Victoria",
+          "Melbourne Region",
+          "Melbourne"
+        ]
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/4801319120?utm_medium=api&utm_source=4e5ae6d3",
+      "title": "Data Analyst"
+    },
+    {
+      "description": "Senior Business Analyst - Data, Reporting & Systems Contract: Initial 1-month contract Rate: $800-$900 per day Location: Brisbane Southside Working style: Predominantly onsite Start: ASAP We are seeking an experienced Senior Business Analyst - Data for an initial short-term contract with a purpose-led organisation delivering government-funded community and health-related services. This engagement will focus on reviewing the current data, systems and reporting environment, with a particular focu…",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Robert Half"
+      },
+      "id": "5790856718",
+      "created": "2026-07-07T19:25:09Z",
+      "salary_min": 800,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiTXBJeGZvS0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1NzkwODU2NzE4In0.vbagZ1Iu3N3ZLM-4PMTKBQBc4yBgdkjM4JHktz55j-Y",
+      "salary_max": 900,
+      "salary_is_predicted": "0",
+      "longitude": 153.08758,
+      "location": {
+        "display_name": "Eight Mile Plains, Brisbane",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Queensland",
+          "Brisbane Region",
+          "Brisbane",
+          "Eight Mile Plains"
+        ]
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5790856718?utm_medium=api&utm_source=4e5ae6d3",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": -27.57523,
+      "title": "Senior Business Analyst - Data, Reporting & Systems",
+      "contract_type": "contract",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      }
+    },
+    {
+      "description": "Sydney Asset Management Permanent This is an excellent opportunity to join a Tier 1 global trading firm in their Sydney office. As an ETF Middle Office Analyst, you will be responsible for helping the day to day running of the back office for their Trading team. This will entail position reconciliations, ensuring trades are captured in an efficient and timely manner and positions are accurate and reconciled to external brokers, produce accurate daily Profit and Loss for the trading team, and en…",
+      "contract_time": "full_time",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Anton Murray Consulting"
+      },
+      "id": "5766894252",
+      "created": "2026-06-18T00:26:32Z",
+      "longitude": 151.207114,
+      "redirect_url": "https://www.adzuna.com.au/details/5766894252?utm_medium=api&utm_source=4e5ae6d3",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": -33.867139,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiTXBJeGZvS0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1NzY2ODk0MjUyIn0.BuGs84zizm5bZLVoRqpHTWpQmp6r59ege7Aq_ZbloiA",
+      "location": {
+        "display_name": "The Rocks, Sydney",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney",
+          "The Rocks"
+        ]
+      },
+      "title": "ETF - Middle Office Analyst / PnL Reporting",
+      "salary_is_predicted": "0",
+      "contract_type": "permanent",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Accounting & Finance Jobs",
+        "tag": "accounting-finance-jobs"
+      }
+    },
+    {
+      "category": {
+        "label": "Consultancy Jobs",
+        "tag": "consultancy-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "contract_type": "permanent",
+      "salary_is_predicted": "0",
+      "latitude": -33.867139,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5811603358?utm_medium=api&utm_source=4e5ae6d3",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgxMTYwMzM1OCIsInMiOiJNcEl4Zm9LSjhSR191dVVHbEpnQ0FRIn0.rkmOCwgwTjqWj9v_fllZi7D13fuzqWgwIMwZDCUgF9Q",
+      "location": {
+        "display_name": "The Rocks, Sydney",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney",
+          "The Rocks"
+        ]
+      },
+      "title": "Senior Analyst Remuneration & Compliance Reporting",
+      "id": "5811603358",
+      "contract_time": "full_time",
+      "company": {
+        "display_name": "Qantas Airways Limited",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "created": "2026-07-23T10:16:34Z",
+      "longitude": 151.207114,
+      "description": "Permanent, full-time opportunity based in Mascot The Senior Analyst Remuneration & Compliance Reporting plays a key role in delivering and enhancing reward, remuneration and incentive programs across the business, while ensuring compliance with external reporting requirements, including submissions to government bodies such as the Workplace Gender Equality Agency (WGEA). Working across the Qantas Group, this position is responsible for the analysis, coordination and reporting of remuneration an…"
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "display_name": "East Brisbane, Brisbane",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Queensland",
+          "Brisbane Region",
+          "Brisbane",
+          "East Brisbane"
+        ]
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiTXBJeGZvS0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1NzY0ODQzNzcyIn0.LzwD7e50VibYCn8tF_tA-HdGBVVDkP0XAFsJB2YjbuM",
+      "redirect_url": "https://www.adzuna.com.au/details/5764843772?utm_medium=api&utm_source=4e5ae6d3",
+      "title": "Senior Test Analyst (Datawarehouse and Reporting)",
+      "description": "Senior Test Analyst- Datawarehouse and Reporting Duration: 6 months/12 months FTC KJR is seeking an experienced Data Test Analyst to join a high-profile data and reporting program. This role will focus on validating data quality, data migrations, reporting outputs, and business intelligence solutions within a complex enterprise environment. The successful candidate will work closely with developers, business stakeholders, data engineers, and project teams to ensure data integrity, accuracy, and…",
+      "id": "5764843772",
+      "created": "2026-06-16T10:47:52Z",
+      "company": {
+        "display_name": "KJR",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      },
+      "salary_is_predicted": "0",
+      "contract_type": "contract"
+    },
+    {
+      "category": {
+        "tag": "accounting-finance-jobs",
+        "label": "Accounting & Finance Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "salary_is_predicted": "0",
+      "title": "FP&A Senior Analyst – Group Planning & Reporting",
+      "latitude": -33.79677,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Northern Suburbs",
+          "Ryde Area",
+          "North Ryde"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "North Ryde, Ryde Area"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiTXBJeGZvS0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1NzkzNDQyMTIyIn0.mqb1vY9gNo9IvQndcSifsh63EqKLVg0oBR6hgU5UyBU",
+      "redirect_url": "https://www.adzuna.com.au/details/5793442122?utm_medium=api&utm_source=4e5ae6d3",
+      "description": "At Aristocrat, we are driven by our mission to Bring Happiness to Life Through the Power of Play. As a leading entertainment company, we are committed to crafting innovative and engaging experiences for millions of players worldwide. Our inclusive and collaborative culture empowers our team to achieve outstanding results and set new standards in the gaming industry. The FP&A Senior Analyst – Group Planning & Reporting role is an outstanding chance to create a significant impact within our organ…",
+      "longitude": 151.124355,
+      "created": "2026-07-09T10:02:43Z",
+      "contract_time": "full_time",
+      "id": "5793442122",
+      "company": {
+        "display_name": "Aristocrat Technologies Australia P/L",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      }
+    },
+    {
+      "title": "FP&A Senior Analyst – Group Planning & Reporting",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc5MzUyMDE4NiIsInMiOiJNcEl4Zm9LSjhSR191dVVHbEpnQ0FRIn0.T2b1ApM8hLDZ4oWbRS8GUbjlgfm9iRkIl6a9etK49og",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5793520186?utm_medium=api&utm_source=4e5ae6d3",
+      "location": {
+        "display_name": "Australia",
+        "area": [
+          "Australia"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "id": "5793520186",
+      "contract_time": "full_time",
+      "created": "2026-07-09T11:07:51Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Aristocrat Technologies"
+      },
+      "description": "At Aristocrat, we are driven by our mission to Bring Happiness to Life Through the Power of Play. As a leading entertainment company, we are committed to crafting innovative and engaging experiences for millions of players worldwide. Our inclusive and collaborative culture empowers our team to achieve outstanding results and set new standards in the gaming industry. The FP&A Senior Analyst – Group Planning & Reporting role is an outstanding chance to create a significant impact within our organ…",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "accounting-finance-jobs",
+        "label": "Accounting & Finance Jobs"
+      },
+      "salary_is_predicted": "0"
+    },
+    {
+      "salary_is_predicted": "0",
+      "category": {
+        "label": "Accounting & Finance Jobs",
+        "tag": "accounting-finance-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "created": "2026-06-17T08:54:23Z",
+      "contract_time": "full_time",
+      "id": "5766040655",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Deloitte"
+      },
+      "longitude": 149.1293,
+      "description": "Job Requisition ID: 39960 We value in-person connection with our teams and clients, with flexibility to balance work and life Explore opportunities for global mobility and internal secondments Unlock everyday savings through our MyBenefits platform on retail, tech, travel and more This is an exciting opportunity for a career focussed individual to join our team based in Canberra. Our team is growing due to the purposeful and impactful outcomes we deliver to our clients - that’s why we need you!…",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": -35.2813,
+      "location": {
+        "display_name": "City, North Canberra",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Australian Capital Territory",
+          "Canberra Region",
+          "North Canberra",
+          "City"
+        ]
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiTXBJeGZvS0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1NzY2MDQwNjU1In0.vYLnZPzy3gLbIlsQHzYT781hFuH033GVbGl6eTmmc90",
+      "redirect_url": "https://www.adzuna.com.au/details/5766040655?utm_medium=api&utm_source=4e5ae6d3",
+      "title": "Experienced Analyst | Accounting and Reporting Assurance | Canberra"
+    }
+  ],
+  "count": 189,
+  "__CLASS__": "Adzuna::API::Response::JobSearchResults",
+  "mean": 134477.67
+}

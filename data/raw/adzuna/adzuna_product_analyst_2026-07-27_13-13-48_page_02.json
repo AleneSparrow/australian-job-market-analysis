@@ -1,0 +1,1603 @@
+{
+  "mean": 160448.64,
+  "__CLASS__": "Adzuna::API::Response::JobSearchResults",
+  "count": 191,
+  "results": [
+    {
+      "description": "Australian Citizens residing in Australia only respond. Job details ACIC requires a Service Design Analyst to design end-to-end digital services for criminal intelligence systems that meet user needs while aligning to organisational capabilities, policies, analytics platforms and strategy. Applies human-centred design (HCD) methods – user research, persona development, journey mapping, service blueprinting and usability evaluation – to create services that are accessible, operationally viable a…",
+      "created": "2026-06-03T15:36:47Z",
+      "id": "5750171855",
+      "company": {
+        "display_name": "Softtest pays pty ltd",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "title": "APS6 Service Designer",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc1MDE3MTg1NSIsInMiOiJiQTdjcm9LSjhSR191dVVHbEpnQ0FRIn0.LM6osgsf_uMlOhwiLMzbx07KV8IGSgHp8MYiaIrnP_Q",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5750171855?utm_medium=api&utm_source=4e5ae6d3",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Australian Capital Territory"
+        ],
+        "display_name": "Australian Capital Territory, Australia"
+      },
+      "salary_is_predicted": "0",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      }
+    },
+    {
+      "salary_is_predicted": "0",
+      "salary_min": 100,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgwOTUyODE0NiIsInMiOiJiQTdjcm9LSjhSR191dVVHbEpnQ0FRIn0.ALmYR2BCrRzKJk-Ie-KmuieumhNS4rCWWgLAsKyiJ2I",
+      "salary_max": 100,
+      "description": "Senior UX/UI Designer 12-Month Day Rate Contract We're partnering with a leading organisation undergoing a significant digital transformation and are looking for an experienced Senior UX/UI Designer to join a high-performing Agile product team. This is an opportunity to work across multiple digital products that have a genuine impact on thousands of users, helping shape intuitive, accessible and engaging experiences from concept through to delivery. The Role As the Senior UX/UI Designer, you'll…",
+      "id": "5809528146",
+      "created": "2026-07-22T02:09:00Z",
+      "company": {
+        "display_name": "Talent Web",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "contract_type": "contract",
+      "title": "Senior UI/UX Designer",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Sydney, Sydney Region"
+      },
+      "latitude": -33.885283,
+      "redirect_url": "https://www.adzuna.com.au/details/5809528146?utm_medium=api&utm_source=4e5ae6d3",
+      "longitude": 151.203231,
+      "contract_time": "full_time"
+    },
+    {
+      "latitude": -37.814719,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYkE3Y3JvS0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1NzkxMTIxNjE4In0.74l-88vNaee0SEg1J-EcPyB_tInNQ6UtfKxP5_pK5OQ",
+      "redirect_url": "https://www.adzuna.com.au/details/5791121618?utm_medium=api&utm_source=4e5ae6d3",
+      "location": {
+        "display_name": "West Melbourne, Melbourne",
+        "area": [
+          "Australia",
+          "Victoria",
+          "Melbourne Region",
+          "Melbourne",
+          "West Melbourne"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "title": "CIAM Analyst",
+      "contract_time": "full_time",
+      "id": "5791121618",
+      "company": {
+        "display_name": "Medibank",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "created": "2026-07-08T01:35:38Z",
+      "longitude": 144.948039,
+      "description": "You’re only human. It’s a strange thing to say, because us humans are capable of incredible things. And at Medibank, we know our greatest potential lies in the people who work with us. We strive to make real, fundamental change, driven by a simple purpose: to create the best health and wellbeing for all of Australia. Help deliver the future of customer identity at Medibank. We're looking for a CIAM Analyst to join our Customer Identity and Access Management team, acting as the bridge between bu…",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      },
+      "salary_is_predicted": "0"
+    },
+    {
+      "longitude": 153.384047,
+      "contract_time": "full_time",
+      "title": "Senior Business Analyst",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5799966336?utm_medium=api&utm_source=4e5ae6d3",
+      "location": {
+        "area": [
+          "Australia",
+          "Queensland",
+          "Gold Coast Region",
+          "Gold Coast"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Gold Coast, Gold Coast Region"
+      },
+      "latitude": -27.999218,
+      "contract_type": "permanent",
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "description": "Senior Business Analyst | Digital Products | Agile | AI-Enabled Delivery Gold Coast | Hybrid We're partnering with an established Australian technology business that's investing heavily in the next generation of its digital platforms. We're looking for an experienced Senior Business Analyst to play a key role in delivering a new customer-facing platform while continuing to enhance existing business systems. You'll work closely with engineering, product and business stakeholders, helping shape r…",
+      "id": "5799966336",
+      "company": {
+        "display_name": "Just Digital People",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "created": "2026-07-14T23:10:00Z",
+      "salary_min": 140000,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYkE3Y3JvS0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1Nzk5OTY2MzM2In0.GEuhn-kNnlyehRxUSx9FOPZ_bPXPQOSs1SPVSW0L_9g",
+      "salary_max": 140000,
+      "salary_is_predicted": "0"
+    },
+    {
+      "contract_type": "contract",
+      "salary_is_predicted": "0",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      },
+      "contract_time": "full_time",
+      "created": "2026-07-22T11:28:55Z",
+      "id": "5810208346",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "HBF Health Limited"
+      },
+      "description": "This opportunity is open to applicants based anywhere in Australia on a 12-month fixed-term contract . About the Role As a Salesforce Developer at HBF, you’ll play a key role in designing, building, and maintaining innovative solutions within the Salesforce platform to support our Member Platforms division. Working closely with Product Owners, Business Analysts, and Architects, you’ll translate business requirements into technical solutions that deliver exceptional user experiences and align wi…",
+      "title": "Salesforce Developer",
+      "redirect_url": "https://www.adzuna.com.au/details/5810208346?utm_medium=api&utm_source=4e5ae6d3",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgxMDIwODM0NiIsInMiOiJiQTdjcm9LSjhSR191dVVHbEpnQ0FRIn0.qq1xFpMEPq1FxaxUAXIcG5w8dY4ntaeDiQxtdXvuv14",
+      "location": {
+        "area": [
+          "Australia"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Australia"
+      }
+    },
+    {
+      "description": "About the job Test Engineer What’s your mission? As a Test Engineer your mission is to help design and deliver a modern banking ﻿platform and supporting suite of services that provide simple and secure ways for our customers to engage with the bank. Your mission is to help design and deliver customer experiences that empower our customers and partners to interact seamlessly with ANZ with high levels of trust. You’ll employ your testing and engineering skills to help reshape how we deliver high-…",
+      "company": {
+        "display_name": "Pyramid Global Technologies",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "contract_time": "full_time",
+      "id": "5650826244",
+      "created": "2026-03-02T14:42:40Z",
+      "longitude": 144.352833,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "display_name": "Victoria, Australia",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Victoria"
+        ]
+      },
+      "latitude": -37.094406,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY1MDgyNjI0NCIsInMiOiJiQTdjcm9LSjhSR191dVVHbEpnQ0FRIn0.tTgkDdZ6NpD2nP7A-CRPY_3nWTLJxcwjCOk4FdL3dYc",
+      "redirect_url": "https://www.adzuna.com.au/details/5650826244?utm_medium=api&utm_source=4e5ae6d3",
+      "title": "Test Engineer",
+      "salary_is_predicted": "0",
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      }
+    },
+    {
+      "description": "Lane8 Consulting is partnering with a leading Western Australian university to place an experienced Senior Software Test Engineer into a high-impact, 12-month max term contract. You'll lead QA across complex, mission-critical systems - web, mobile, and embedded - that keep a major WA institution running through enrolments, exams, and everything in between. This isn't a tick-the-box test execution role. You'll set the strategy, build the automation, mentor the team, and embed quality early - wor…",
+      "contract_time": "full_time",
+      "id": "5782372411",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Lane8"
+      },
+      "created": "2026-07-01T06:05:11Z",
+      "longitude": 115.859784,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": -31.953357,
+      "location": {
+        "display_name": "Perth CBD, Perth",
+        "area": [
+          "Australia",
+          "Western Australia",
+          "Perth Region",
+          "Perth",
+          "Perth CBD"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYkE3Y3JvS0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1NzgyMzcyNDExIn0.JzwaieLKK8Z361H2nx7uNKxD_Xf9NLrptd5-ej9uC7s",
+      "redirect_url": "https://www.adzuna.com.au/details/5782372411?utm_medium=api&utm_source=4e5ae6d3",
+      "title": "Senior Software Test Engineer",
+      "salary_is_predicted": "0",
+      "contract_type": "permanent",
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      }
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYkE3Y3JvS0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1ODExNjc0MzgzIn0.PYsR0RJJvl7JtYPUIoVoXv0ou07k6Zsgzop5vvLHwLg",
+      "redirect_url": "https://www.adzuna.com.au/details/5811674383?utm_medium=api&utm_source=4e5ae6d3",
+      "location": {
+        "display_name": "Australian Capital Territory, Australia",
+        "area": [
+          "Australia",
+          "Australian Capital Territory"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "title": "Software Engineer",
+      "description": "22nd July, 2026 Location - ACT Australian Citizens with TSPV Clearance Length of Contract: 12 with 2 x 12 months extension possibility The role closes on 3/08/2026 Deliverables / Key Responsibilities Design, develop, and maintain software applications, systems and components using approved programming languages, frameworks, and tools. Analyse business and technical requirements to develop effective, efficient software solutions. Participate in code reviews to improve code quality and share know…",
+      "created": "2026-07-23T11:20:57Z",
+      "id": "5811674383",
+      "company": {
+        "display_name": "ArisZincGroup",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "salary_is_predicted": "0",
+      "contract_type": "contract"
+    },
+    {
+      "salary_is_predicted": "0",
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "description": "TJX Australia At TJX Australia, every day brings new opportunities for growth, exploration, and achievement. You’ll be part of our vibrant team that embraces diversity, fosters collaboration, and prioritizes your development. Whether you’re working in our Processing Centers, Corporate Offices, or our TK Maxx Retail Stores, you’ll find abundant opportunities to learn, thrive, and make an impact. Come join our TJX family—a Fortune 100 company and the world’s leading off-price retailer. Job Descri…",
+      "created": "2026-04-20T10:19:41Z",
+      "contract_time": "full_time",
+      "id": "5704843205",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "TJX Australia Pty Limited"
+      },
+      "longitude": 151.18548,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": -33.93353,
+      "redirect_url": "https://www.adzuna.com.au/details/5704843205?utm_medium=api&utm_source=4e5ae6d3",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcwNDg0MzIwNSIsInMiOiJiQTdjcm9LSjhSR191dVVHbEpnQ0FRIn0.8UanVi6aCTNR7ldxg_W9ndIZkqEC4YrWDbaUeJbs-fI",
+      "location": {
+        "display_name": "Mascot, Rockdale Area",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Southern Sydney",
+          "Rockdale Area",
+          "Mascot"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "title": "Senior Engineer"
+    },
+    {
+      "title": "Senior/Staff Data Engineer",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": -33.885283,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcxOTkxODM1OSIsInMiOiJiQTdjcm9LSjhSR191dVVHbEpnQ0FRIn0.3LNInYPKyshakx0tJzTHMNYC7EFDj2K-hqpQpPpT9K8",
+      "location": {
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Sydney, Sydney Region"
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5719918359?utm_medium=api&utm_source=4e5ae6d3",
+      "description": "The Role We're hiring a Senior to Staff-level Data Engineer to build and evolve the data layer that powers our grid analytics products. This is a hands-on data engineering role. You'll design pipelines, write transformations, and ship data that downstream consumers — data scientists, product engineers, and analysts — depend on daily. What You'll Do Design, build, and maintain scalable data pipelines that transform and serve data for analytics and platform features Ensure data quality, reliabili…",
+      "longitude": 151.203231,
+      "id": "5719918359",
+      "contract_time": "full_time",
+      "company": {
+        "display_name": "Gridsight",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "created": "2026-05-06T10:28:17Z",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "salary_is_predicted": "0"
+    },
+    {
+      "title": "SCRUM MASTER",
+      "latitude": -27.4679,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Queensland",
+          "Brisbane Region",
+          "Brisbane",
+          "Brisbane CBD"
+        ],
+        "display_name": "Brisbane CBD, Brisbane"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc5MTEyMjAwOSIsInMiOiJiQTdjcm9LSjhSR191dVVHbEpnQ0FRIn0.vtfodWIq9Be7ITek9VBsO-pYcncHN4QdJuWFJK62aEs",
+      "redirect_url": "https://www.adzuna.com.au/details/5791122009?utm_medium=api&utm_source=4e5ae6d3",
+      "description": "Scrum Master – D365 Contract for 12 months with possible extension| Brisbane CBD | Hybrid Working We're partnering with a major Queensland Government client to recruit an experienced Scrum Master. In this role you will be responsible for or supporting Agile delivery across multiple pods, helping Dev Leads, Product Owners, architects, and stakeholders maintain cadence, clear priorities, and disciplined ways of working. What you'll be doing Support Agile delivery across three delivery pods. Facil…",
+      "longitude": 153.0281,
+      "contract_time": "full_time",
+      "company": {
+        "display_name": "Lime Recruitment",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "id": "5791122009",
+      "created": "2026-07-08T01:35:52Z",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      },
+      "salary_is_predicted": "0"
+    },
+    {
+      "contract_type": "contract",
+      "salary_is_predicted": "0",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      },
+      "longitude": 149.1293,
+      "contract_time": "full_time",
+      "id": "5813046734",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Compas Pty Ltd"
+      },
+      "created": "2026-07-24T10:09:17Z",
+      "description": "TSPV or TSPA Cleared | Software Engineer - Secure Defence Platforms Join a high-impact program delivering advanced software capability in a secure Defence environment. This opportunity is ideal for an experienced Software Engineer who can design, develop, and support scalable, secure, and integrated applications while working closely with cross-functional teams to deliver reliable outcomes aligned to business needs and technical standards. Location Onsite - ACT Contract Duration: Initial 12-mon…",
+      "title": "TSPV - Software Engineer",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5813046734?utm_medium=api&utm_source=4e5ae6d3",
+      "latitude": -35.2813,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYkE3Y3JvS0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1ODEzMDQ2NzM0In0.SETxGiaGTEGIb1gVILjXBKyHavoVwDkqIctdErQTYgI",
+      "location": {
+        "display_name": "City, North Canberra",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Australian Capital Territory",
+          "Canberra Region",
+          "North Canberra",
+          "City"
+        ]
+      }
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": -35.309391,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYkE3Y3JvS0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1Nzg0NzY2MTg0In0.9y8nupOMxYvmWZyieOCtDdhXLyhJPVWwy_9-nYlOPN4",
+      "location": {
+        "display_name": "Barton, South Canberra",
+        "area": [
+          "Australia",
+          "Australian Capital Territory",
+          "Canberra Region",
+          "South Canberra",
+          "Barton"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5784766184?utm_medium=api&utm_source=4e5ae6d3",
+      "title": "Senior Accountant",
+      "description": "SRC Aus is helping to shape the future Defence and Intelligence Information architectures that will support the Australian Defence Force and its allies – redefining possible for the warfighter. SRC Aus Pty. Ltd. combines SRC Inc's 55 years of experience in Electronic Warfare (EW) with an Australian team of EW experts to develop next-generation solutions for the Australian market. The company provides innovative products and seasoned analysts to solve Australia's toughest EW challenges – from mi…",
+      "created": "2026-07-02T12:18:09Z",
+      "contract_time": "part_time",
+      "id": "5784766184",
+      "company": {
+        "display_name": "SRC Inc",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "longitude": 149.133481,
+      "category": {
+        "label": "Accounting & Finance Jobs",
+        "tag": "accounting-finance-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "salary_is_predicted": "0",
+      "contract_type": "permanent"
+    },
+    {
+      "contract_time": "full_time",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Marsh McLennan"
+      },
+      "id": "5793514543",
+      "created": "2026-07-09T11:01:20Z",
+      "description": "Company: Mercer Description: We are seeking a talented individual to join our Technology team at Mercer. This role will be based in Melbourne or Sydney. This is a hybrid role that has a requirement of working at least three days a week in the office. You will lead the technical product strategy and operational outcomes for a suite of operations applications. Working closely with business product leaders, analysts, developers, architects and risk and security teams, you will help deliver secure,…",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "display_name": "Australia",
+        "area": [
+          "Australia"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc5MzUxNDU0MyIsInMiOiJiQTdjcm9LSjhSR191dVVHbEpnQ0FRIn0.eyWjYDuRoDGJBakHzPy8yusQIm0MgwzHZaCWyOwp41g",
+      "redirect_url": "https://www.adzuna.com.au/details/5793514543?utm_medium=api&utm_source=4e5ae6d3",
+      "title": "Technical Product Owner",
+      "salary_is_predicted": "0",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      }
+    },
+    {
+      "salary_is_predicted": "0",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "contract_time": "full_time",
+      "id": "5742304999",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "INGRITY"
+      },
+      "created": "2026-05-28T01:15:14Z",
+      "longitude": 151.206616,
+      "description": "Locations considered: Melbourne/Sydney/Brisbane Hybrid Working A major enterprise transformation program is underway within one of Australia's leading insurance organisations, focused on migrating from Salesforce Sales Cloud to Financial Services Cloud (FSC). This is a high-impact, offering genuine ownership and the opportunity to shape and lead delivery from the front. This program requires a senior Salesforce leader with a strong engineering and architecture background — someone who has done …",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "display_name": "The Rocks, Sydney",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney",
+          "The Rocks"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "latitude": -33.865715,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc0MjMwNDk5OSIsInMiOiJiQTdjcm9LSjhSR191dVVHbEpnQ0FRIn0.apxFZGRRNhMNDQOobcWAoBG4_X2gQrR1UA8BFV3xO9Y",
+      "redirect_url": "https://www.adzuna.com.au/details/5742304999?utm_medium=api&utm_source=4e5ae6d3",
+      "title": "Salesforce Consultant | FSC Migration"
+    },
+    {
+      "contract_type": "permanent",
+      "salary_is_predicted": "0",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Accounting & Finance Jobs",
+        "tag": "accounting-finance-jobs"
+      },
+      "longitude": 149.133481,
+      "contract_time": "part_time",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "SRC Inc"
+      },
+      "id": "5784362325",
+      "created": "2026-07-02T07:22:14Z",
+      "description": "SRC Aus is helping to shape the future Defence and Intelligence Information architectures that will support the Australian Defence Force and its allies – redefining possible for the warfighter. SRC Aus Pty. Ltd. combines SRC Inc's 55 years of experience in Electronic Warfare (EW) with an Australian team of EW experts to develop next-generation solutions for the Australian market. The company provides innovative products and seasoned analysts to solve Australia's toughest EW challenges – from mi…",
+      "title": "Assistant Accountant",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYkE3Y3JvS0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1Nzg0MzYyMzI1In0.oan4gpol-GOyBscdoXo5JOkrirhYF89nxP41GJm55sg",
+      "latitude": -35.309391,
+      "redirect_url": "https://www.adzuna.com.au/details/5784362325?utm_medium=api&utm_source=4e5ae6d3",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Australian Capital Territory",
+          "Canberra Region",
+          "South Canberra",
+          "Barton"
+        ],
+        "display_name": "Barton, South Canberra"
+      }
+    },
+    {
+      "salary_is_predicted": "0",
+      "contract_type": "permanent",
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "description": "Emanate Technology is supporting a Federal Government agency in their search for an experienced ServiceNow Architect / Senior Platform Administrator to join the team responsible for the ongoing management, support, and improvement of its ServiceNow environment. This role would suit someone who enjoys being hands-on with the platform while also having input into architecture, technical direction, and platform strategy. You'll work closely with internal teams, external vendors, and key stakeholde…",
+      "longitude": 149.133481,
+      "contract_time": "part_time",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Emanate Technology"
+      },
+      "id": "5816234846",
+      "created": "2026-07-26T15:26:04Z",
+      "title": "ServiceNow Architect /Senior Platform Administrator",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgxNjIzNDg0NiIsInMiOiJiQTdjcm9LSjhSR191dVVHbEpnQ0FRIn0.Iqtiid_l5YvVbdZklS4LFMJGYcBUq1M2iJL9OjIgBVA",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": -35.309391,
+      "redirect_url": "https://www.adzuna.com.au/details/5816234846?utm_medium=api&utm_source=4e5ae6d3",
+      "location": {
+        "area": [
+          "Australia",
+          "Australian Capital Territory",
+          "Canberra Region",
+          "South Canberra",
+          "Barton"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Barton, South Canberra"
+      }
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": -35.309391,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgxMDIwNzEyOCIsInMiOiJiQTdjcm9LSjhSR191dVVHbEpnQ0FRIn0.DygrEXIXOJ7-k8B-G_KIseGhH4EKhcJ3ohCwn7H_Enk",
+      "location": {
+        "display_name": "Barton, South Canberra",
+        "area": [
+          "Australia",
+          "Australian Capital Territory",
+          "Canberra Region",
+          "South Canberra",
+          "Barton"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5810207128?utm_medium=api&utm_source=4e5ae6d3",
+      "title": "TSPV - Software Engineer",
+      "contract_time": "part_time",
+      "id": "5810207128",
+      "created": "2026-07-22T11:27:07Z",
+      "company": {
+        "display_name": "Compas",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "longitude": 149.133481,
+      "description": "TSPV or TSPA Cleared | Software Engineer - Secure Defence Platforms Join a high-impact program delivering advanced software capability in a secure Defence environment. This opportunity is ideal for an experienced Software Engineer who can design, develop, and support scalable, secure, and integrated applications while working closely with cross-functional teams to deliver reliable outcomes aligned to business needs and technical standards. Location Onsite - ACT Contract Duration: Initial 12-mon…",
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "contract_type": "permanent",
+      "salary_is_predicted": "0"
+    },
+    {
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      },
+      "contract_type": "contract",
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYkE3Y3JvS0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1ODA4NzI1NzQ0In0.LQONDL-jcee7URzp3Sq9spBMVkIvFPFh3V7OIj0Cc00",
+      "salary_max": 286000,
+      "location": {
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Sydney, Sydney Region"
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5808725744?utm_medium=api&utm_source=4e5ae6d3",
+      "title": "Data Modeller",
+      "salary_min": 234000,
+      "created": "2026-07-21T11:51:18Z",
+      "contract_time": "full_time",
+      "id": "5808725744",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Mane Consulting"
+      },
+      "description": "Get recognition and reward working with this a pioneering industry leader, as they embark on a transformative journey! We are currently seeking a passionate Data Modeller for an exciting 12-month contract opportunity within their highly respected Technology team. This pivotal role demands a seasoned professional with robust expertise in crafting Conceptual, Logical, and Physical Data Models. Ideal candidates will showcase a proven track record in designing expansive data models tailored to dive…"
+    },
+    {
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "salary_is_predicted": "0",
+      "latitude": -27.4679,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgxMTYwMDUyMCIsInMiOiJiQTdjcm9LSjhSR191dVVHbEpnQ0FRIn0.ZGsX-94QnQiXIohwXIa6rhrlKsuylOKerDuLplZ0flU",
+      "redirect_url": "https://www.adzuna.com.au/details/5811600520?utm_medium=api&utm_source=4e5ae6d3",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Queensland",
+          "Brisbane Region",
+          "Brisbane",
+          "Brisbane CBD"
+        ],
+        "display_name": "Brisbane CBD, Brisbane"
+      },
+      "title": "Product Delivery Coordinator - Innovation Portfolio",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Aspirante"
+      },
+      "contract_time": "full_time",
+      "id": "5811600520",
+      "created": "2026-07-23T10:07:13Z",
+      "longitude": 153.0281,
+      "description": "Aspirante is partnering with an organisation that is investing heavily in innovation, digital capability and AI-enabled ways of working. This is an opportunity to join a product and innovation environment that operates like an internal incubator, supporting new ideas, software products and transformation initiatives that help improve the way the business operates. We are looking for someone who enjoys working close to product teams, delivery squads and business stakeholders, supporting the deli…"
+    },
+    {
+      "salary_is_predicted": "0",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "created": "2026-07-20T14:50:35Z",
+      "id": "5807778913",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Amazon Web Services "
+      },
+      "description": "AWS is changing how enterprise customers get work done through AI. Our suite of AI products and services puts specialized agentic capabilities in the hands of every knowledge worker — business users, BI analysts, product managers, developers, and supply chain analysts, so they can pull insights from their data and move faster on the work that matters. We’re looking for a sales leader to build and own the go-to-market for AWS AI products across Australia and New Zealand (ANZ). You’ll identify ne…",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYkE3Y3JvS0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1ODA3Nzc4OTEzIn0.BrU2opSWuVd56JqwhYEAH3FsJYqjg30EPks6WIPDPjg",
+      "redirect_url": "https://www.adzuna.com.au/details/5807778913?utm_medium=api&utm_source=4e5ae6d3",
+      "salary_max": 280,
+      "location": {
+        "display_name": "Australia",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia"
+        ]
+      },
+      "title": "Director, Head of AI Sales, Australia & New Zealand, AWS",
+      "salary_min": 180
+    },
+    {
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgwMTM2OTk4NSIsInMiOiJiQTdjcm9LSjhSR191dVVHbEpnQ0FRIn0.uQwW9YeVIWHpvI49IPiGtTQghx6bV7So1_UEFth-nco",
+      "latitude": -27.979275,
+      "redirect_url": "https://www.adzuna.com.au/details/5801369985?utm_medium=api&utm_source=4e5ae6d3",
+      "location": {
+        "area": [
+          "Australia",
+          "Queensland",
+          "Gold Coast Region"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Gold Coast Region, Queensland"
+      },
+      "title": "SENIOR BUSINESS ANALYST",
+      "description": "About Senior Business Analyst | Digital Products | Agile | AI-Enabled Delivery Gold Coast | Hybrid We're partnering with an established Australian technology business that's investing heavily in the next generation of its digital platforms. We're looking for an experienced Senior Business Analyst to play a key role in delivering a new customer-facing platform while continuing to enhance existing business systems. You'll work closely with engineering, product and business stakeholders, helping s…",
+      "contract_time": "full_time",
+      "id": "5801369985",
+      "created": "2026-07-16T02:14:37Z",
+      "company": {
+        "display_name": "Just Digital People",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "longitude": 153.340396
+    },
+    {
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTczNTY5MDE3NyIsInMiOiJiQTdjcm9LSjhSR191dVVHbEpnQ0FRIn0.sMW3HxNYVHwxxiBLO_ib2BSUzG_JscoAAnpnVERuMZA",
+      "redirect_url": "https://www.adzuna.com.au/details/5735690177?utm_medium=api&utm_source=4e5ae6d3",
+      "location": {
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Sydney, Sydney Region"
+      },
+      "title": "Senior Machine Learning / ML Engineer",
+      "id": "5735690177",
+      "contract_time": "full_time",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Xero"
+      },
+      "created": "2026-05-21T10:34:53Z",
+      "description": "The role / impact You will lead the design and implementation of AI research and production infrastructure at scale, ensuring our systems remain flexible, cost-effective, and robust. By managing technical debt and directing strategies for distributed systems, your technical decisions will directly influence products that serve millions of daily users. Beyond architecture, your impact lies in lifting the technical capability of the entire AI Products team. You will champion engineering excellenc…"
+    },
+    {
+      "salary_is_predicted": "0",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      },
+      "contract_time": "full_time",
+      "id": "5650826131",
+      "company": {
+        "display_name": "Pyramid Global Technologies",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "created": "2026-03-02T14:42:39Z",
+      "longitude": 144.352833,
+      "description": "About the job Mobile Tester Role Title: Test Engineer We’re changing the way we run ANZ by adopting new ways of working so we can build a better ANZ for our customers today and in the future. The success of our Business Transformation is dependent on having great people to deliver quality outcomes for our customers so we’re looking for people who are passionate about transformational change so we can redefine banking for the future. Join us as we reimagine the industry using the latest platform…",
+      "redirect_url": "https://www.adzuna.com.au/details/5650826131?utm_medium=api&utm_source=4e5ae6d3",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": -37.094406,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY1MDgyNjEzMSIsInMiOiJiQTdjcm9LSjhSR191dVVHbEpnQ0FRIn0.E03TavHnMeldyoDlR9bXtCXTpZau2dT8lmT8sz03oMo",
+      "location": {
+        "display_name": "Victoria, Australia",
+        "area": [
+          "Australia",
+          "Victoria"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "title": "Mobile Tester"
+    },
+    {
+      "description": "About the Role We are seeking an experienced Java Developer to join our growing technology team in Sydney. Working within a fast-paced financial services environment, you will design, develop, and support high-quality applications that underpin critical business functions. You will collaborate with cross-functional teams to deliver secure, scalable, and high-performing solutions while contributing to the ongoing evolution of our technology platforms. This is an excellent opportunity for a devel…",
+      "contract_time": "full_time",
+      "created": "2026-07-09T02:04:59Z",
+      "id": "5792827247",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Hydrogen Group"
+      },
+      "longitude": 151.2028,
+      "latitude": -33.88078,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYkE3Y3JvS0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1NzkyODI3MjQ3In0.3fgWE-bCFAIW15N0vqz36-bVf4_p1CLAknIoYB5m1xs",
+      "redirect_url": "https://www.adzuna.com.au/details/5792827247?utm_medium=api&utm_source=4e5ae6d3",
+      "location": {
+        "display_name": "Sydney CBD, Sydney",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney",
+          "Sydney CBD"
+        ]
+      },
+      "title": "Java Developer",
+      "salary_is_predicted": "0",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      }
+    },
+    {
+      "salary_is_predicted": "0",
+      "contract_type": "contract",
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "description": "ServiceNow Technical Architect Location: Canberra, ACT – Hybrid Contract: 12 months plus two 12-month extension options Start date: 31 August 2026 Hours: Up to 40 hours per week Security requirement: Must be able to obtain a Baseline security clearance We are seeking an experienced ServiceNow Technical Architect to support the ongoing administration, development and strategic direction of a major Australian Government ServiceNow platform. Working alongside internal teams, external vendors and k…",
+      "contract_time": "full_time",
+      "created": "2026-07-25T10:10:55Z",
+      "id": "5814692020",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Compas Pty Ltd"
+      },
+      "longitude": 149.1293,
+      "latitude": -35.2813,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYkE3Y3JvS0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1ODE0NjkyMDIwIn0.guijU2EloVaQ6bUglg4TKNYB50iSdoE4N9epN_HqRMA",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Australian Capital Territory",
+          "Canberra Region",
+          "North Canberra",
+          "City"
+        ],
+        "display_name": "City, North Canberra"
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5814692020?utm_medium=api&utm_source=4e5ae6d3",
+      "title": "ServiceNow Technical Architect"
+    },
+    {
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "salary_is_predicted": "0",
+      "contract_type": "permanent",
+      "title": "ServiceNow Technical Architect",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": -35.309391,
+      "redirect_url": "https://www.adzuna.com.au/details/5815921329?utm_medium=api&utm_source=4e5ae6d3",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYkE3Y3JvS0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1ODE1OTIxMzI5In0.TiWcB77PUuHMUluM2jD6dKCBkbYHemN6j-wTAjFoclc",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Australian Capital Territory",
+          "Canberra Region",
+          "South Canberra",
+          "Barton"
+        ],
+        "display_name": "Barton, South Canberra"
+      },
+      "description": "ServiceNow Technical Architect Location: Canberra, ACT – Hybrid Contract: 12 months plus two 12-month extension options Start date: 31 August 2026 Hours: Up to 40 hours per week Security requirement: Must be able to obtain a Baseline security clearance We are seeking an experienced ServiceNow Technical Architect to support the ongoing administration, development and strategic direction of a major Australian Government ServiceNow platform. Working alongside internal teams, external vendors and k…",
+      "longitude": 149.133481,
+      "contract_time": "part_time",
+      "id": "5815921329",
+      "company": {
+        "display_name": "Compas",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "created": "2026-07-26T09:49:52Z"
+    },
+    {
+      "salary_max": 150000,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYkE3Y3JvS0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1NzUyNjAzMDQ3In0.GNWitoFoDS7Ox_wTDsOP6oXoSS7ZqlQh_zjyDc8Ktps",
+      "salary_min": 120000,
+      "id": "5752603047",
+      "created": "2026-06-05T10:57:46Z",
+      "company": {
+        "display_name": "Datacom",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "description": "Our Why Datacom works with organisations and communities across Australia and New Zealand to make a difference in people’s lives and help organisations use the power of tech to innovate and grow. About the Role (your why) We’re looking for two Payroll Compliance Consultants to join our Payroll Product team based out of Sydney, Australia. In this role, you’ll be a trusted advisor working closely with our product, development, and customer success teams to ensure our Payroll product stays complia…",
+      "salary_is_predicted": "0",
+      "title": "Payroll Compliance Consultant",
+      "redirect_url": "https://www.adzuna.com.au/details/5752603047?utm_medium=api&utm_source=4e5ae6d3",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney",
+          "The Rocks"
+        ],
+        "display_name": "The Rocks, Sydney"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": -33.865715,
+      "longitude": 151.206616,
+      "contract_time": "full_time",
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      }
+    },
+    {
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5781745398?utm_medium=api&utm_source=4e5ae6d3",
+      "location": {
+        "display_name": "Middle Park, Port Phillip",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Victoria",
+          "Melbourne Region",
+          "Port Phillip",
+          "Middle Park"
+        ]
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": -37.844856,
+      "title": "Payroll Compliance Consultant",
+      "contract_time": "full_time",
+      "longitude": 144.977613,
+      "salary_is_predicted": "0",
+      "salary_min": 120000,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc4MTc0NTM5OCIsInMiOiJiQTdjcm9LSjhSR191dVVHbEpnQ0FRIn0.V4hLZy0eiluPXKIqMW0IXQeXZ2P40CDYzwCGANNQcS4",
+      "salary_max": 150000,
+      "description": "Our Why Datacom works with organisations and communities across Australia and New Zealand to make a difference in people’s lives and help organisations use the power of tech to innovate and grow. About the Role (your why) We’re looking for two Payroll Compliance Consultants to join our Payroll Product team based out of Sydney, Australia. In this role, you’ll be a trusted advisor working closely with our product, development, and customer success teams to ensure our Payroll product stays complia…",
+      "created": "2026-06-30T14:29:17Z",
+      "id": "5781745398",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Datacom"
+      }
+    },
+    {
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      },
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Sydney, Sydney Region"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc5MTYyNDMwMyIsInMiOiJiQTdjcm9LSjhSR191dVVHbEpnQ0FRIn0.Xekcj-xwNM8fIsaf6S2IehCevaBYp0JT2czFA8h-YTQ",
+      "redirect_url": "https://www.adzuna.com.au/details/5791624303?utm_medium=api&utm_source=4e5ae6d3",
+      "title": "Senior Engineer - ML Systems (AI Products)",
+      "description": "The role You will lead the design and implementation of large-scale, production-grade distributed systems that power AI features for millions of daily users. You'll own the architecture decisions that keep our systems flexible, cost-effective, and robust, direct strategy for distributed systems, and manage technical debt across the AI Products estate. Beyond architecture, your impact lies in lifting the technical capability of the entire AI Products team. You will champion engineering excellenc…",
+      "created": "2026-07-08T11:04:23Z",
+      "contract_time": "full_time",
+      "id": "5791624303",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Xero"
+      }
+    },
+    {
+      "salary_min": 180,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "display_name": "Australia",
+        "area": [
+          "Australia"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYkE3Y3JvS0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1Nzk2NTA3MzAwIn0.wTvyk8ZSKxDtdc5hHFvYd02DZCaN-t8wZF4w9mn_pJs",
+      "salary_max": 240,
+      "redirect_url": "https://www.adzuna.com.au/details/5796507300?utm_medium=api&utm_source=4e5ae6d3",
+      "title": "Engineer, Machine Learning Systems (AI Products)",
+      "description": "Role Overview You will lead the design and implementation of large-scale, production-grade distributed systems that power AI features for millions of daily users. You'll own the architecture decisions that keep our systems flexible, cost-effective, and robust, direct strategy for distributed systems, and manage technical debt across the AI Products estate. Beyond architecture, your impact lies in lifting the technical capability of the entire AI Products team. You will champion engineering exce…",
+      "company": {
+        "display_name": "Xero",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "id": "5796507300",
+      "created": "2026-07-11T14:31:35Z",
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "salary_is_predicted": "0"
+    },
+    {
+      "salary_min": 150000,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgwMjczMDk4NCIsInMiOiJiQTdjcm9LSjhSR191dVVHbEpnQ0FRIn0.vZTFCuRgTeVHuRZ0BfHcXygjaKwgmT7lJXsztqh2cQ4",
+      "salary_max": 165000,
+      "description": "Join Us at a Defining Moment At Intelligen, we're building something different. Over the past three years, we've evolved from a bold startup to a trusted partner for some of Australia's most complex data transformations. We've helped organisations move from legacy to modern platforms, embedded governance into decision-making, and brought AI into the hands of the business responsibly and at speed. As we continue to grow, we're expanding our Melbourne and South Australian team and looking for exp…",
+      "id": "5802730984",
+      "created": "2026-07-16T20:08:42Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Intelligen Group"
+      },
+      "salary_is_predicted": "0",
+      "title": "Senior Data Engineer (Melbourne/Adelaide)",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5802730984?utm_medium=api&utm_source=4e5ae6d3",
+      "latitude": -34.933718,
+      "location": {
+        "display_name": "Adelaide CBD, Adelaide",
+        "area": [
+          "Australia",
+          "South Australia",
+          "Adelaide Region",
+          "Adelaide",
+          "Adelaide CBD"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "longitude": 138.597963,
+      "contract_time": "full_time",
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      }
+    },
+    {
+      "description": "Join Us at a Defining Moment At Intelligen, we're building something different. Over the past three years, we've evolved from a bold startup to a trusted partner for some of Australia's most complex data transformations. We've helped organisations move from legacy to modern platforms, embedded governance into decision-making, and brought AI into the hands of the business responsibly and at speed. As we continue to grow, we're expanding our Melbourne and South Australian team and looking for exp…",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Intelligen Group"
+      },
+      "id": "5802730983",
+      "created": "2026-07-16T20:08:42Z",
+      "salary_min": 150000,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgwMjczMDk4MyIsInMiOiJiQTdjcm9LSjhSR191dVVHbEpnQ0FRIn0.nbhBW6ffMdVawvB7QkK0Xm0194cLE0ELcqY8JeZf_M4",
+      "salary_max": 165000,
+      "salary_is_predicted": "0",
+      "contract_time": "full_time",
+      "longitude": 144.977613,
+      "redirect_url": "https://www.adzuna.com.au/details/5802730983?utm_medium=api&utm_source=4e5ae6d3",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "area": [
+          "Australia",
+          "Victoria",
+          "Melbourne Region",
+          "Port Phillip",
+          "Middle Park"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Middle Park, Port Phillip"
+      },
+      "latitude": -37.844856,
+      "title": "Senior Data Engineer (Melbourne/Adelaide)",
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      }
+    },
+    {
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgwMjE1OTgyMSIsInMiOiJiQTdjcm9LSjhSR191dVVHbEpnQ0FRIn0.AlJxercCxhCQ5Q5Ruz3PfoCcXdO0mhsa5v5gbvAwwM8",
+      "latitude": -33.885283,
+      "redirect_url": "https://www.adzuna.com.au/details/5802159821?utm_medium=api&utm_source=4e5ae6d3",
+      "location": {
+        "display_name": "Sydney, Sydney Region",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "title": "Director, Head of AI Sales, Australia & New Zealand, AWS",
+      "description": "Description AWS is changing how enterprise customers get work done through AI. Our suite of AI products and services puts specialized agentic capabilities in the hands of every knowledge worker - business users, BI analysts, product managers, developers, and supply chain analysts, so they can pull insights from their data and move faster on the work that matters. We're looking for a sales leader to build and own the go-to-market for AWS AI products across Australia and New Zealand (ANZ). You'll…",
+      "id": "5802159821",
+      "company": {
+        "display_name": "Amazon",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "created": "2026-07-16T12:52:42Z",
+      "longitude": 151.203231
+    },
+    {
+      "title": "Associate Product Manager",
+      "redirect_url": "https://www.adzuna.com.au/details/5808707275?utm_medium=api&utm_source=4e5ae6d3",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgwODcwNzI3NSIsInMiOiJiQTdjcm9LSjhSR191dVVHbEpnQ0FRIn0.oSl40OZwKga0XXcUgwC8RgmWtGaTUZUitHmOGtwdUbY",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia"
+        ],
+        "display_name": "Australia"
+      },
+      "id": "5808707275",
+      "contract_time": "full_time",
+      "company": {
+        "display_name": "DXC Technology",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "created": "2026-07-21T11:17:50Z",
+      "description": "Job Description: DXC Technology (NYSE: DXC) is the world’s leading independent, end-to-end IT services company, helping clients harness the power of innovation to thrive on change. Created by the merger of CSC and the Enterprise Services business of Hewlett Packard Enterprise, DXC Technology serves nearly 6,000 private and public sector clients across 70 countries. The company’s technology independence, global talent and extensive partner alliance combine to deliver powerful next-generation IT …",
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "salary_is_predicted": "0"
+    },
+    {
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "salary_is_predicted": "0",
+      "title": "Director, Head of AI Sales, Australia & New Zealand, AWS",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgwMjA0MDM0MiIsInMiOiJiQTdjcm9LSjhSR191dVVHbEpnQ0FRIn0.W9ywC-pmYm-UwXfyNRcoZd8_w8dxzdcTMHjK4lwY0Xc",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "display_name": "Sydney, Sydney Region",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5802040342?utm_medium=api&utm_source=4e5ae6d3",
+      "description": "AWS is changing how enterprise customers get work done through AI. Our suite of AI products and services puts specialized agentic capabilities in the hands of every knowledge worker — business users, BI analysts, product managers, developers, and supply chain analysts, so they can pull insights from their data and move faster on the work that matters. We're looking for a sales leader to build and own the go-to-market for AWS AI products across Australia and New Zealand (ANZ). You'll identify ne…",
+      "contract_time": "full_time",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Amazon"
+      },
+      "id": "5802040342",
+      "created": "2026-07-16T11:11:53Z"
+    },
+    {
+      "salary_is_predicted": "0",
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "description": "Job Description: DXC Technology (NYSE: DXC) is the world’s leading independent, end-to-end IT services company, helping clients harness the power of innovation to thrive on change. Created by the merger of CSC and the Enterprise Services business of Hewlett Packard Enterprise, DXC Technology serves nearly 6,000 private and public sector clients across 70 countries. The company’s technology independence, global talent and extensive partner alliance combine to deliver powerful next-generation IT …",
+      "contract_time": "full_time",
+      "id": "5813046956",
+      "created": "2026-07-24T10:09:21Z",
+      "company": {
+        "display_name": "DXC Technology",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "longitude": 151.134041,
+      "latitude": -33.779795,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYkE3Y3JvS0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1ODEzMDQ2OTU2In0.cepE-1aIDfbvUYU2EhdXrOqVHpaW09ol567Op3Y-3uk",
+      "redirect_url": "https://www.adzuna.com.au/details/5813046956?utm_medium=api&utm_source=4e5ae6d3",
+      "location": {
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Northern Suburbs",
+          "Ryde Area",
+          "Macquarie Park"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Macquarie Park, Ryde Area"
+      },
+      "title": "Associate Product Manager"
+    },
+    {
+      "contract_type": "contract",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      },
+      "longitude": 152.928532,
+      "contract_time": "full_time",
+      "title": "Data Engineer",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Queensland",
+          "Brisbane Region",
+          "Brisbane"
+        ],
+        "display_name": "Brisbane, Brisbane Region"
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5813871747?utm_medium=api&utm_source=4e5ae6d3",
+      "latitude": -27.416056,
+      "salary_is_predicted": "0",
+      "description": "10 month role Brisbane CBD based Our Queensland Government client is seeking a hands-on Data Engineer to design, build and operate secure, reliable data pipelines and products within an emerging Enterprise Data Platform (EDP). The role partners closely with data governance (including Microsoft Purview) to deliver privacy-by-design ingestion, high-quality curated datasets, and performant semantic models for analytics and reporting. You will build ingestion and transformation across Bronze/Silver…",
+      "id": "5813871747",
+      "created": "2026-07-24T23:14:22Z",
+      "company": {
+        "display_name": "Eden Ritchie Recruitment",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_min": 252049,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgxMzg3MTc0NyIsInMiOiJiQTdjcm9LSjhSR191dVVHbEpnQ0FRIn0.ia_OR6qT_DYuThJJ4ZVTttu-65Osu0H08vQBif8UZvs",
+      "salary_max": 252049
+    },
+    {
+      "contract_type": "permanent",
+      "salary_is_predicted": "0",
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "id": "5785587611",
+      "contract_time": "full_time",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "ELMO Software Limited"
+      },
+      "created": "2026-07-03T01:03:48Z",
+      "description": "Who we are… Founded in 2002, ELMO Software is the trusted provider of HR technology solutions to 2,000 mid-sized organisations and more than one million end users across Australia and New Zealand.With a comprehensive suite of ISO-certified solutions that span the full employee lifecycle, ELMO Software is designed to scale as organisations grow. Flexible and configurable, ELMO’s one-stop HRIS fits to your specific needs and workflows.Through powerful technology, automation, data and analytics, E…",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYkE3Y3JvS0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1Nzg1NTg3NjExIn0.6sZZReYZZp1ViwwR6-u85yHEDbCJ6WHaDYzNavijTrs",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "display_name": "Australia",
+        "area": [
+          "Australia"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5785587611?utm_medium=api&utm_source=4e5ae6d3",
+      "title": "Product Owner"
+    },
+    {
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "salary_is_predicted": "0",
+      "title": "Product Owner",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5788640363?utm_medium=api&utm_source=4e5ae6d3",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYkE3Y3JvS0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1Nzg4NjQwMzYzIn0.TYxtH8JxYLSWq62wdMdKI44fgP_bIJnX5QMqsCNDIoo",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia"
+        ],
+        "display_name": "Australia"
+      },
+      "description": "Introduction Who we are… Founded in 2002, ELMO Software is the trusted provider of HR technology solutions to 2,000 mid-sized organisations and more than one million end users across Australia and New Zealand.With a comprehensive suite of ISO-certified solutions that span the full employee lifecycle, ELMO Software is designed to scale as organisations grow. Flexible and configurable, ELMO’s one-stop HRIS fits to your specific needs and workflows.Through powerful technology, automation, data and…",
+      "id": "5788640363",
+      "contract_time": "full_time",
+      "created": "2026-07-05T11:14:55Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Bloom"
+      }
+    },
+    {
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "salary_is_predicted": "0",
+      "redirect_url": "https://www.adzuna.com.au/details/5765633944?utm_medium=api&utm_source=4e5ae6d3",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": -33.867139,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYkE3Y3JvS0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1NzY1NjMzOTQ0In0._WCiQsYOhikzwVElQAadk-dGr6njHIIktWXFU7Ub290",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney",
+          "The Rocks"
+        ],
+        "display_name": "The Rocks, Sydney"
+      },
+      "title": "Software Engineer Mid-Senior (Full Stack)",
+      "created": "2026-06-17T00:10:09Z",
+      "contract_time": "full_time",
+      "id": "5765633944",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Automic Group"
+      },
+      "longitude": 151.207114,
+      "description": "About Us Automic Group is Australia’s market leader in technology-driven investor administration. Combining proprietary cloud-native technology with expert service, Automic simplifies investor administration and governance for companies and funds. It provides the market's leading registry, employee share plans, IR analytics, and fund administration services for over 1,400 ASX-listed and unlisted organisations. Founded to challenge an industry reliant on outdated systems, Automic is committed to…"
+    },
+    {
+      "contract_time": "full_time",
+      "id": "5794915592",
+      "created": "2026-07-10T10:57:40Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Xero"
+      },
+      "description": "The role You will lead the design and implementation of large-scale, production-grade distributed systems that power AI features for millions of daily users. You'll own the architecture decisions that keep our systems flexible, cost-effective, and robust, direct strategy for distributed systems, and manage technical debt across the AI Products estate. Beyond architecture, your impact lies in lifting the technical capability of the entire AI Products team. You will champion engineering excellenc…",
+      "title": "Engineer, Machine Learning Systems (AI Products)",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc5NDkxNTU5MiIsInMiOiJiQTdjcm9LSjhSR191dVVHbEpnQ0FRIn0.UdMifeLMzCHnry0_fTQLzVID1P9lcPIOX0S0McqufXA",
+      "redirect_url": "https://www.adzuna.com.au/details/5794915592?utm_medium=api&utm_source=4e5ae6d3",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney"
+        ],
+        "display_name": "Sydney, Sydney Region"
+      },
+      "salary_is_predicted": "0",
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      }
+    },
+    {
+      "contract_time": "full_time",
+      "created": "2026-07-26T10:13:51Z",
+      "id": "5815972596",
+      "company": {
+        "display_name": "Compare the Market",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "longitude": 153.0281,
+      "description": "Who We Are iSelect and Compare the Market are trusted, well-known brands dedicated to helping millions of Australians compare and buy personal finance and household products such as insurance, energy, and loans. Together, we provide a seamless, customer-focused experience that makes it easier for Australians to find the right products to suit their needs. What You’ll Be Doing As a Data Analytics Test Engineer, you’ll play a critical role in ensuring the quality, integrity, and reliability of da…",
+      "latitude": -27.4679,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "display_name": "Brisbane CBD, Brisbane",
+        "area": [
+          "Australia",
+          "Queensland",
+          "Brisbane Region",
+          "Brisbane",
+          "Brisbane CBD"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYkE3Y3JvS0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1ODE1OTcyNTk2In0.9eO3_GQ4MIQwVthcmMSANnenPYVaeCYZVYTWT4aF_vY",
+      "redirect_url": "https://www.adzuna.com.au/details/5815972596?utm_medium=api&utm_source=4e5ae6d3",
+      "title": "Data Analytics Test Engineer",
+      "salary_is_predicted": "0",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      }
+    },
+    {
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "contract_type": "contract",
+      "salary_is_predicted": "0",
+      "title": "Senior Project Manager",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgwNzU3NDE4NyIsInMiOiJiQTdjcm9LSjhSR191dVVHbEpnQ0FRIn0.AfePJd4tzgIz4f9Eh_TUjnE_kbZ4l6IWsTLLD9nQTi4",
+      "latitude": -33.867139,
+      "redirect_url": "https://www.adzuna.com.au/details/5807574187?utm_medium=api&utm_source=4e5ae6d3",
+      "location": {
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney",
+          "The Rocks"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "The Rocks, Sydney"
+      },
+      "longitude": 151.207114,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Employers Mutual Management Pty Ltd"
+      },
+      "contract_time": "full_time",
+      "id": "5807574187",
+      "created": "2026-07-20T10:13:22Z",
+      "description": "EML is a leading Workers Compensation and Personal Injury Claims Management business. Our goal is to help people get their lives back through ongoing support during their return-to-work journey . We continue to experience ongoing growth and now have over 4,000 dedicated employees . We foster a learning culture that allows for us to continually invest in our employees ensuring a long-term career here at EML. THE OPPORTUNITY As part of our diverse team based in Sydney , you will help make a posit…"
+    },
+    {
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "contract_type": "permanent",
+      "salary_is_predicted": "0",
+      "redirect_url": "https://www.adzuna.com.au/details/5779756463?utm_medium=api&utm_source=4e5ae6d3",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": -35.309391,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc3OTc1NjQ2MyIsInMiOiJiQTdjcm9LSjhSR191dVVHbEpnQ0FRIn0.EVJHedXqhqb-eQ7bOMgrXqhRtTQeUcLleLEcw_Zsa3U",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Australian Capital Territory",
+          "Canberra Region",
+          "South Canberra",
+          "Barton"
+        ],
+        "display_name": "Barton, South Canberra"
+      },
+      "title": "Angular Developer",
+      "contract_time": "part_time",
+      "id": "5779756463",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Talent Corp"
+      },
+      "created": "2026-06-28T13:02:45Z",
+      "longitude": 149.133481,
+      "description": "Contract Details 12-month contract with 2 x 12-month extension options Angular 20, TypeScript, OpenShift CI/CD Baseline Security Clearance Position Overview We are seeking an experienced Angular Developer to join a collaborative, agile delivery environment focused on building and enhancing digital services used by Australians every day. As a senior member of the development team, you will contribute to the design, development, testing and maintenance of modern web applications, ensuring solutio…"
+    },
+    {
+      "salary_is_predicted": "0",
+      "contract_type": "permanent",
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "description": "Location : Barangaroo, Sydney Role Highlights: Rare opportunity to join a growing international organisation at a pivotal stage of its technology transformation journey. Working directly with senior business and technology leaders, you will take ownership of delivery visibility, governance and execution across a portfolio of strategic software, data and technology initiatives. This role offers significant influence, exposure to global stakeholders and the opportunity to shape how technology del…",
+      "contract_time": "full_time",
+      "id": "5800558566",
+      "created": "2026-07-15T11:47:40Z",
+      "company": {
+        "display_name": "Reo Group",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgwMDU1ODU2NiIsInMiOiJiQTdjcm9LSjhSR191dVVHbEpnQ0FRIn0.Wii0U_VIEwesEyFTPuaMUU-QMoi-buXWCrSdTFmpEx8",
+      "redirect_url": "https://www.adzuna.com.au/details/5800558566?utm_medium=api&utm_source=4e5ae6d3",
+      "location": {
+        "display_name": "Sydney, Sydney Region",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney"
+        ]
+      },
+      "title": "Project Manager"
+    },
+    {
+      "salary_is_predicted": "0",
+      "category": {
+        "tag": "accounting-finance-jobs",
+        "label": "Accounting & Finance Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "description": "About Megaport We’re not your typical tech company – and we don’t want to be. Megaport is the global leader in Network as a Service (NaaS), and has transformed the way businesses connect to the cloud, data centers, and each other. We’re publicly listed on the Australian Stock Exchange and partnered with the biggest names in tech like Amazon, Microsoft, Google, Oracle, IBM, and more. Headquartered in Brisbane with a crew of over 600 people spread across Asia-Pacific, Europe, and the Americas, ou…",
+      "created": "2026-06-26T10:53:35Z",
+      "contract_time": "full_time",
+      "id": "5777039547",
+      "company": {
+        "display_name": "Megaport",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYkE3Y3JvS0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1Nzc3MDM5NTQ3In0.4tg68LvBxuEG5ZNko4hK0qQiYPsvkQNc7Dfd18WSp94",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Queensland",
+          "Brisbane Region",
+          "Brisbane",
+          "East Brisbane"
+        ],
+        "display_name": "East Brisbane, Brisbane"
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5777039547?utm_medium=api&utm_source=4e5ae6d3",
+      "title": "Senior Commercial Analyst"
+    },
+    {
+      "salary_is_predicted": "0",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "accounting-finance-jobs",
+        "label": "Accounting & Finance Jobs"
+      },
+      "description": "About Megaport We’re not your typical tech company – and we don’t want to be. Megaport is the global leader in Network as a Service (NaaS), and has transformed the way businesses connect to the cloud, data centers, and each other. We’re publicly listed on the Australian Stock Exchange and partnered with the biggest names in tech like Amazon, Microsoft, Google, Oracle, IBM, and more. Headquartered in Brisbane with a crew of over 600 people spread across Asia-Pacific, Europe, and the Americas, ou…",
+      "longitude": 153.0281,
+      "contract_time": "full_time",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Megaport"
+      },
+      "id": "5776884210",
+      "created": "2026-06-26T08:30:37Z",
+      "title": "Senior Commercial Analyst",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5776884210?utm_medium=api&utm_source=4e5ae6d3",
+      "latitude": -27.4679,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc3Njg4NDIxMCIsInMiOiJiQTdjcm9LSjhSR191dVVHbEpnQ0FRIn0.GzwcHRUTrcLbKXK8zrFgngrnsynJ2y8t_4uBIKfb9_c",
+      "location": {
+        "area": [
+          "Australia",
+          "Queensland",
+          "Brisbane Region",
+          "Brisbane",
+          "Brisbane CBD"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Brisbane CBD, Brisbane"
+      }
+    },
+    {
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      },
+      "salary_is_predicted": "0",
+      "title": "Delivery Manager",
+      "latitude": -33.867139,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTczNTk4NTgyOCIsInMiOiJiQTdjcm9LSjhSR191dVVHbEpnQ0FRIn0.ggpg31__DKssZQJL_koO5dr5U61JGszCESzMTrgQDbg",
+      "redirect_url": "https://www.adzuna.com.au/details/5735985828?utm_medium=api&utm_source=4e5ae6d3",
+      "location": {
+        "display_name": "The Rocks, Sydney",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney",
+          "The Rocks"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "longitude": 151.207114,
+      "contract_time": "full_time",
+      "created": "2026-05-21T14:39:52Z",
+      "id": "5735985828",
+      "company": {
+        "display_name": "White Bay",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "description": "A fast-growing Australian SaaS company is expanding its customer delivery function and is looking for a hands-on Delivery Manager to lead complex platform implementation projects for enterprise customers. The business provides a highly configurable software platform for the payments and finance sector. This is a strong opportunity for someone who enjoys owning delivery outcomes in a software environment where the work is detailed, client-facing and genuinely business-critical. This is not a peo…"
+    },
+    {
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiYkE3Y3JvS0o4UkdfdXVVR2xKZ0NBUSIsImkiOiI1NzgxNTYyNjgzIn0.7qjxBXIUxFubcksx9MeeJIwTUDjwTqc9188aqYMZRag",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney"
+        ],
+        "display_name": "Sydney, Sydney Region"
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5781562683?utm_medium=api&utm_source=4e5ae6d3",
+      "title": "Delivery Manager",
+      "id": "5781562683",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "White Bay"
+      },
+      "created": "2026-06-30T10:55:02Z",
+      "description": "A fast-growing Australian SaaS company is expanding its customer delivery function and is looking for a hands-on Delivery Manager to lead complex platform implementation projects for enterprise customers. The business provides a highly configurable software platform for the payments and finance sector. This is a strong opportunity for someone who enjoys owning delivery outcomes in a software environment where the work is detailed, client-facing and genuinely business-critical. This is not a peo…"
+    }
+  ]
+}

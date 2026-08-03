@@ -1,0 +1,14 @@
+{
+  "source": "Workforce Australia",
+  "search_term": "IT support",
+  "folder": "data/raw/workforce_australia/it_jobs/latest_run/queries/it_support",
+  "started_at_utc": "2026-07-28T10:55:30.421250+00:00",
+  "finished_at_utc": "2026-07-28T11:02:48.525515+00:00",
+  "page_size": 100,
+  "downloaded_pages": 200,
+  "reused_pages": 0,
+  "raw_records_across_pages": 20000,
+  "unique_vacancy_ids_for_query": 15022,
+  "stopped_reason": "maximum page limit reached",
+  "last_request_url": "https://www.workforceaustralia.gov.au/api/v1/global/vacancies/?searchText=IT+support&pageNumber=200&pageSize=100"
+}

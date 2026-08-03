@@ -1,0 +1,1654 @@
+{
+  "count": 189,
+  "mean": 134477.67,
+  "results": [
+    {
+      "description": "Commercial Product Manager (Custody & Corporate Trust) The Company Our client is a well established financial services organisation providing SaaS based platforms and solutions across custody and corporate trust services. Known for a collaborative, supportive and genuinely people first culture, they are evolving their product function into a more commercial, go to market capability and are investing in the right people to lead that shift. The Opportunity This is a fantastic opportunity for a co…",
+      "redirect_url": "https://www.adzuna.com.au/details/5814805982?utm_medium=api&utm_source=4e5ae6d3",
+      "latitude": -33.88078,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney",
+          "Sydney CBD"
+        ],
+        "display_name": "Sydney CBD, Sydney",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiaUNtd2hZS0o4UkdyZzVZUWVfZUFFQSIsImkiOiI1ODE0ODA1OTgyIn0.UY8ArFcXUB1RGQpjdknG0pPCSdG-BxvwfOt2CI_Zr9E",
+      "id": "5814805982",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Parity Consulting"
+      },
+      "contract_time": "full_time",
+      "created": "2026-07-25T11:51:10Z",
+      "longitude": 151.2028,
+      "title": "Commercial Product Manager (Custody & Corporate Trust)",
+      "salary_is_predicted": "0",
+      "contract_type": "permanent",
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      }
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "id": "5794235595",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc5NDIzNTU5NSIsInMiOiJpQ213aFlLSjhSR3JnNVlRZV9lQUVBIn0.h3sglz2XVXZMx6iuyvVmEABQjWYf1G_RDgiwhW3xA4M",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Melbourne, Melbourne Region",
+        "area": [
+          "Australia",
+          "Victoria",
+          "Melbourne Region",
+          "Melbourne"
+        ]
+      },
+      "salary_min": 100000,
+      "description": "About DBG Health & Operations At DBG Health, we are Defined by Good. Guided by a simple but powerful purpose: to create a world where feeling better is a right, not a privilege. Every day, millions of people rely on us for access to affordable, innovative health, wellness, and beauty solutions that make a genuine impact. Headquartered in Melbourne, we are a global-scale, privately owned organisation, powered by over 1,500 passionate professionals, united by a mission to help people feel better,…",
+      "redirect_url": "https://www.adzuna.com.au/details/5794235595?utm_medium=api&utm_source=4e5ae6d3",
+      "contract_time": "full_time",
+      "company": {
+        "display_name": "Arrotex Pharmaceuticals Pty",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_is_predicted": "0",
+      "latitude": -37.806509,
+      "salary_max": 100000,
+      "contract_type": "permanent",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "accounting-finance-jobs",
+        "label": "Accounting & Finance Jobs"
+      },
+      "title": "Financial Analyst",
+      "longitude": 144.957935,
+      "created": "2026-07-10T00:21:11Z"
+    },
+    {
+      "redirect_url": "https://www.adzuna.com.au/details/5812822038?utm_medium=api&utm_source=4e5ae6d3",
+      "description": "We have an exciting opportunity for a Project Information Manager to join our central Information Management team in Perth. In this role, you will drive the application of the Information Management Framework across bids and new projects in Australia and New Zealand, supporting standardisation, commercial traceability, efficiency, and project start-ups. Who we are Webuild in Australia is comprised of Webuild, Clough and e2o. Together, we are a pioneering project delivery company. We harness inn…",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiaUNtd2hZS0o4UkdyZzVZUWVfZUFFQSIsImkiOiI1ODEyODIyMDM4In0.Qq1GW31MGcvkIRxaO31VVsFtXO5d-yA20Oq_w29I_2A",
+      "location": {
+        "area": [
+          "Australia",
+          "Western Australia",
+          "Perth Region",
+          "Perth",
+          "Perth CBD"
+        ],
+        "display_name": "Perth CBD, Perth",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "id": "5812822038",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": -31.953357,
+      "created": "2026-07-24T07:52:34Z",
+      "longitude": 115.859784,
+      "title": "Project Information Manager",
+      "salary_is_predicted": "0",
+      "contract_time": "part_time",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "WeBuild"
+      },
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "contract_type": "permanent"
+    },
+    {
+      "latitude": -34.933718,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "id": "5779544148",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiaUNtd2hZS0o4UkdyZzVZUWVfZUFFQSIsImkiOiI1Nzc5NTQ0MTQ4In0.ZF_-jjSMgYsMwlsSBE8rIgVNPspS03WfBB-ExOhw8QU",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Adelaide CBD, Adelaide",
+        "area": [
+          "Australia",
+          "South Australia",
+          "Adelaide Region",
+          "Adelaide",
+          "Adelaide CBD"
+        ]
+      },
+      "description": "South Australia Police Job reference: 849685 Location: 5000 - ADELAIDE Job status: Long Term Contract Eligibility: SA Public Sector Employees only Term full-time vacancy up to 30/06/2030. SAPOL Crime Service provides support in the investigation of crime which by reason of seriousness, public expectation, expertise or resource requirements is beyond the capacity of Regions and Districts. Public Protection Branch (PPB) provides centralised management, coordination and support for SAPOL’s respons…",
+      "redirect_url": "https://www.adzuna.com.au/details/5779544148?utm_medium=api&utm_source=4e5ae6d3",
+      "contract_type": "permanent",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      },
+      "company": {
+        "display_name": "South Australia Police",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "contract_time": "full_time",
+      "salary_is_predicted": "0",
+      "title": "Senior Data Analyst",
+      "created": "2026-06-28T08:56:24Z",
+      "longitude": 138.597963
+    },
+    {
+      "description": "- Drive better decisions through data while growing your analytics and reporting skills - Full-time permanent opportunity - Located in Sydney (preferred), Brisbane or Melbourne Summary Be involved in identifying key insights, designing and building fit-for-purpose reports, and communicating actionable data-driven insights to the project community. The Organisation Airservices Australia is a government-owned organisation responsible for the safe and efficient management of 11% of the world’s air…",
+      "redirect_url": "https://www.adzuna.com.au/details/5801467864?utm_medium=api&utm_source=4e5ae6d3",
+      "latitude": -37.094406,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "id": "5801467864",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgwMTQ2Nzg2NCIsInMiOiJpQ213aFlLSjhSR3JnNVlRZV9lQUVBIn0.AaolWBiVdT_sQppXzl5QuuNjFpEEkzrGWUx2d9O49Yo",
+      "location": {
+        "display_name": "Victoria, Australia",
+        "area": [
+          "Australia",
+          "Victoria"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "contract_time": "full_time",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Airservices"
+      },
+      "title": "Performance Analyst",
+      "salary_is_predicted": "0",
+      "longitude": 144.352833,
+      "created": "2026-07-16T04:31:12Z",
+      "contract_type": "permanent",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      }
+    },
+    {
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "scientific-qa-jobs",
+        "label": "Scientific & QA Jobs"
+      },
+      "company": {
+        "display_name": "Evolve Scientific",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "contract_time": "full_time",
+      "longitude": 151.527921,
+      "created": "2026-04-21T21:00:02Z",
+      "salary_is_predicted": "0",
+      "title": "Quality Control Analyst",
+      "latitude": -32.716413,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiaUNtd2hZS0o4UkdyZzVZUWVfZUFFQSIsImkiOiI1NzA2MDY3NDI0In0.M_m98EJa6kjV9htyIpbHfKE6-NQ2jUah17SSU7CBCdc",
+      "location": {
+        "display_name": "Rutherford, Maitland Area",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Newcastle Region",
+          "Maitland Area",
+          "Rutherford"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "id": "5706067424",
+      "description": "About the Company & Role: Join a Leading Veterinary Pharmaceutical Company who specialize in the development and manufacturing of veterinary medicines. This is your chance to be part of a team committed to excellence and innovation. As a QC Analyst you’ll report to the QC Operations Lead, working in a Laboratory Based environment . You will play a critical role in maintaining product quality and regulatory compliance , while supporting efficient laboratory operations. Duties: Sample, inspect, a…",
+      "redirect_url": "https://www.adzuna.com.au/details/5706067424?utm_medium=api&utm_source=4e5ae6d3"
+    },
+    {
+      "latitude": -35.309391,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgwMzU2NDE5MCIsInMiOiJpQ213aFlLSjhSR3JnNVlRZV9lQUVBIn0.bxUQ9vZMgf3TUZ7EEotcj90qKNBnGzZS3f9JN8I_44o",
+      "location": {
+        "area": [
+          "Australia",
+          "Australian Capital Territory",
+          "Canberra Region",
+          "South Canberra",
+          "Barton"
+        ],
+        "display_name": "Barton, South Canberra",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "id": "5803564190",
+      "description": "Canberra, ACT | Fulltime About the Role We’re seeking an enthusiastic and detail-oriented Finance Analyst to support reporting, analysis and financial operations across a key client account. This hands-on role will see you working closely with operational and finance teams to deliver and support accurate reporting, support budgeting and forecasting, and ensure financial controls are met. You’ll play a key role in month-end processes, reconciliations, and continuous improvement initiatives, whil…",
+      "redirect_url": "https://www.adzuna.com.au/details/5803564190?utm_medium=api&utm_source=4e5ae6d3",
+      "contract_type": "permanent",
+      "category": {
+        "tag": "accounting-finance-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Accounting & Finance Jobs"
+      },
+      "company": {
+        "display_name": "Cushman and Wakefield",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "contract_time": "part_time",
+      "longitude": 149.133481,
+      "created": "2026-07-17T05:36:24Z",
+      "salary_is_predicted": "0",
+      "title": "Finance Analyst"
+    },
+    {
+      "latitude": -33.88078,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "id": "5795624239",
+      "location": {
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney",
+          "Sydney CBD"
+        ],
+        "display_name": "Sydney CBD, Sydney",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc5NTYyNDIzOSIsInMiOiJpQ213aFlLSjhSR3JnNVlRZV9lQUVBIn0.KzhztL2xGDz1x6UgZ8NKSTCblSra8HyERlVy5e2ANhY",
+      "description": "A place for you. It means more here. We bring true purpose, authentic people and a proven path. You bring you. The Opportunity At Shine, we champion better justice for our clients. And as Law Clerk working a minimum of three (or more is encouraged!) days per week, on a permanent, part-time basis in our Sydney CBD-based Class Actions Investigations team, that starts with you. Our Investigations Team is responsible for advancing the class actions of tomorrow. Through detailed investigations, lega…",
+      "redirect_url": "https://www.adzuna.com.au/details/5795624239?utm_medium=api&utm_source=4e5ae6d3",
+      "contract_type": "permanent",
+      "category": {
+        "tag": "legal-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Legal Jobs"
+      },
+      "company": {
+        "display_name": "Shine Lawyers",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "contract_time": "part_time",
+      "salary_is_predicted": "0",
+      "title": "Law Clerk - Class Actions Investigations",
+      "longitude": 151.2028,
+      "created": "2026-07-10T22:50:36Z"
+    },
+    {
+      "id": "5791550318",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiaUNtd2hZS0o4UkdyZzVZUWVfZUFFQSIsImkiOiI1NzkxNTUwMzE4In0.gNRrYUdCOMwjQwA7MyXPdZE_29E88dAbsg2FyHPvluk",
+      "location": {
+        "display_name": "Brisbane CBD, Brisbane",
+        "area": [
+          "Australia",
+          "Queensland",
+          "Brisbane Region",
+          "Brisbane",
+          "Brisbane CBD"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "latitude": -27.4679,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5791550318?utm_medium=api&utm_source=4e5ae6d3",
+      "description": "Talenza have been engaged by a global construction organisation to find an COINS ERP programmer on a permanent basis to join their ERP team. The successful candidate will be an experienced, hands-on experience with COINS development with Progress. This role requires 2 days per week in the Brisbane office and is only open to candidates currently based in Brisbane with full working rights. Benefits Permanent opportunity Competitive salary upto $150k  super Hybrid working environment (2 days per w…",
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "contract_type": "permanent",
+      "title": "COINS Programmer",
+      "salary_is_predicted": "0",
+      "created": "2026-07-08T09:39:31Z",
+      "longitude": 153.0281,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Talenza"
+      },
+      "contract_time": "full_time"
+    },
+    {
+      "description": "Opportunities to make discounted purchases on a great range of products. Based at Homebush West, free on-site parking or a 10-minute walk from Flemington station. Experience working within a diverse, unique, and successful global organisation. Harvey Norman’s Information Technology Department’s core focus is to deliver innovative IT solutions by delivering crucial projects to achieve the strategic goals of the business. About the role Reporting to the Business Analyst Manager and based on-site …",
+      "redirect_url": "https://www.adzuna.com.au/details/5787431539?utm_medium=api&utm_source=4e5ae6d3",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc4NzQzMTUzOSIsInMiOiJpQ213aFlLSjhSR3JnNVlRZV9lQUVBIn0.VvgwDLOli0ZF9ffCvaltsgOOd_4kAVhlRnEuLEAD-4I",
+      "location": {
+        "display_name": "Sydney, Sydney Region",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "id": "5787431539",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Harvey Norman"
+      },
+      "contract_time": "full_time",
+      "created": "2026-07-04T10:59:11Z",
+      "title": "Senior Business Analyst",
+      "salary_is_predicted": "0",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      }
+    },
+    {
+      "id": "5791119551",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiaUNtd2hZS0o4UkdyZzVZUWVfZUFFQSIsImkiOiI1NzkxMTE5NTUxIn0.6QN_BrdrPqspApzOnM7Rh_V6oM_Fxq7AwdyhWz19COo",
+      "location": {
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Inner West",
+          "Strathfield Area",
+          "Homebush West"
+        ],
+        "display_name": "Homebush West, Strathfield Area",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": -33.866788,
+      "redirect_url": "https://www.adzuna.com.au/details/5791119551?utm_medium=api&utm_source=4e5ae6d3",
+      "description": "Opportunities to make discounted purchases on a great range of products. Based at Homebush West, free on-site parking or a 10-minute walk from Flemington station. Experience working within a diverse, unique, and successful global organisation. Harvey Norman’s Information Technology Department’s core focus is to deliver innovative IT solutions by delivering crucial projects to achieve the strategic goals of the business. About the role Reporting to the Business Analyst Manager and based on-site …",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      },
+      "salary_is_predicted": "0",
+      "title": "Senior Business Analyst",
+      "created": "2026-07-08T01:34:14Z",
+      "longitude": 151.069369,
+      "contract_time": "full_time",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Harvey Norman"
+      }
+    },
+    {
+      "category": {
+        "tag": "accounting-finance-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Accounting & Finance Jobs"
+      },
+      "company": {
+        "display_name": "Barings",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "contract_time": "full_time",
+      "created": "2026-06-23T10:52:46Z",
+      "salary_is_predicted": "0",
+      "title": "Analyst, Portfolio Management",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia"
+        ],
+        "display_name": "Australia"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc3MzA0MjcwMCIsInMiOiJpQ213aFlLSjhSR3JnNVlRZV9lQUVBIn0.jttzIXZeN5LLQyYfqgYA5D1xOFBX8fEhlWjC5BxtP3I",
+      "id": "5773042700",
+      "description": "At Barings, we are as invested in our associates as we are in our clients. We recognize those who work diligently for us and reward them for personal and professional integrity, communication skills, distinct competencies and expertise in specific strategies, ability to collaborate as a team member and true dedication to the interests of our clients. We thank you for your interest in joining the Barings team, and invite you to explore our current employment opportunities. Barings Real Estate Au…",
+      "redirect_url": "https://www.adzuna.com.au/details/5773042700?utm_medium=api&utm_source=4e5ae6d3"
+    },
+    {
+      "id": "5768770291",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Maroochydore, Maroochydore Area",
+        "area": [
+          "Australia",
+          "Queensland",
+          "Sunshine Coast Region",
+          "Maroochydore Area",
+          "Maroochydore"
+        ]
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiaUNtd2hZS0o4UkdyZzVZUWVfZUFFQSIsImkiOiI1NzY4NzcwMjkxIn0.oORDgf5304ezsLscweih6U8gFYF3q4Sm7-GvNdR44xM",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5768770291?utm_medium=api&utm_source=4e5ae6d3",
+      "salary_min": 120000,
+      "description": "Technical Business Analyst (Mid-Senior) Sunshine Coast / On Site (Australia) Full Time We’re looking for a highly technical, delivery-focused Business Analyst to help bring structure to a fast-moving engineering organisation. This is not a “write meeting notes and make PowerPoints” BA role. We’re seeking a mid-to-senior level Technical Business Analyst who will report to the Engineering Manager and work closely with engineering, product, support, and operations teams to turn messy ideas, legacy…",
+      "salary_is_predicted": "0",
+      "contract_time": "full_time",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Xestro"
+      },
+      "salary_max": 150000,
+      "latitude": -26.659002,
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      },
+      "title": "Technical Business Analyst",
+      "longitude": 153.085599,
+      "created": "2026-06-19T10:56:19Z"
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "New South Wales"
+        ],
+        "display_name": "New South Wales, Australia"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY3MTMxMzM1OCIsInMiOiJpQ213aFlLSjhSR3JnNVlRZV9lQUVBIn0.Yc8X0heIkBOdrDPLbaS8aLNYPe7EPN4LmwQPx1rpLtM",
+      "id": "5671313358",
+      "description": "About the Company Australian Naval Infrastructure (ANI) plays a critical role in supporting Australia’s naval shipbuilding enterprise and managing nationally significant defence infrastructure. Based in Adelaide, ANI is responsible for delivering and managing infrastructure that supports the long term development of Australia’s naval capability. This is an opportunity to join a professional finance team within an organisation contributing to nationally significant projects. Role Overview Report…",
+      "redirect_url": "https://www.adzuna.com.au/details/5671313358?utm_medium=api&utm_source=4e5ae6d3",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "accounting-finance-jobs",
+        "label": "Accounting & Finance Jobs"
+      },
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "KF"
+      },
+      "created": "2026-03-19T09:18:35Z",
+      "salary_is_predicted": "0",
+      "title": "Financial Analyst"
+    },
+    {
+      "description": "VCID No: 738884 This is a Permanent Full Time appointment. Position Profile: The Data Analyst reports on complex health service information, including developing plans and reports to track program progress. Produce regular and one-off health performance indicator reports. Application Instructions: Applications are required to be submitted online by selecting “Apply for job” below. (via www.jobs.wa.gov.au.) Please ensure the email address provided is actively monitored as it will serve as the pr…",
+      "redirect_url": "https://www.adzuna.com.au/details/5809639730?utm_medium=api&utm_source=4e5ae6d3",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": -31.953357,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiaUNtd2hZS0o4UkdyZzVZUWVfZUFFQSIsImkiOiI1ODA5NjM5NzMwIn0.MF5t-u2gW13mkEr0ID5W38ZsD77ijQOlF_gJQONJBEA",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Western Australia",
+          "Perth Region",
+          "Perth",
+          "Perth CBD"
+        ],
+        "display_name": "Perth CBD, Perth"
+      },
+      "id": "5809639730",
+      "contract_time": "part_time",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Child and Adolescent Health Service WA"
+      },
+      "longitude": 115.859784,
+      "created": "2026-07-22T05:50:36Z",
+      "salary_is_predicted": "0",
+      "title": "Data Analyst",
+      "contract_type": "permanent",
+      "category": {
+        "label": "Healthcare & Nursing Jobs",
+        "tag": "healthcare-nursing-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      }
+    },
+    {
+      "location": {
+        "display_name": "Rockingham, Rockingham Area",
+        "area": [
+          "Australia",
+          "Western Australia",
+          "Perth Region",
+          "Rockingham Area",
+          "Rockingham"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc4OTI5ODkzMCIsInMiOiJpQ213aFlLSjhSR3JnNVlRZV9lQUVBIn0.zFUh2NLUUSqBb62YonnbEyo9xctNMJLshhWCaXuX4X8",
+      "id": "5789298930",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": -32.272825,
+      "redirect_url": "https://www.adzuna.com.au/details/5789298930?utm_medium=api&utm_source=4e5ae6d3",
+      "description": "Search Warehouse Store Person Babcock Henderson, WA, AU 17h ago Warehouse Store Person Join a leading organisation in the Defence Sector.Work at our Henderson facilityJoin an organisation that promotes internal growth and career development. Your Role About The Role Babcock is seeking a motivated Storeperson to join our dynamic Defence team supporting Australia’s Defence programs. Based at our facility in Hendeerson WA, you’ll play an essential role in the flow of materials and workshop operati…",
+      "category": {
+        "label": "Logistics & Warehouse Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "logistics-warehouse-jobs"
+      },
+      "contract_type": "permanent",
+      "created": "2026-07-06T06:29:24Z",
+      "longitude": 115.731939,
+      "title": "Warehouse Store Person",
+      "salary_is_predicted": "0",
+      "company": {
+        "display_name": "Young Nuclear Professionals' Forum ",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "contract_time": "full_time"
+    },
+    {
+      "contract_type": "permanent",
+      "category": {
+        "label": "Energy, Oil & Gas Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "energy-oil-gas-jobs"
+      },
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Squadron Energy Services"
+      },
+      "contract_time": "part_time",
+      "longitude": 149.133481,
+      "created": "2026-06-28T08:56:52Z",
+      "title": "Market Operations Controller",
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": -35.309391,
+      "location": {
+        "display_name": "Barton, South Canberra",
+        "area": [
+          "Australia",
+          "Australian Capital Territory",
+          "Canberra Region",
+          "South Canberra",
+          "Barton"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc3OTU0NjI2MiIsInMiOiJpQ213aFlLSjhSR3JnNVlRZV9lQUVBIn0.n_W2In22rBRjWfHcHJbXpQH44SY4Sw0Jp-T0fhLbsbk",
+      "id": "5779546262",
+      "description": "Bring real Squadron Energy. Real people powering real change. At Squadron Energy, our purpose is to improve the environment for current and future generations — and we’re doing it by backing big ambition with real delivery. We’re looking for additional, passionate people to join the Squadron family. If you’re motivated by purposeful work, want to contribute to a team transforming Australia’s energy landscape, and you bring the energy to help us deliver at pace — Please! Keep reading Position Su…",
+      "redirect_url": "https://www.adzuna.com.au/details/5779546262?utm_medium=api&utm_source=4e5ae6d3"
+    },
+    {
+      "company": {
+        "display_name": "WA Government",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "contract_time": "part_time",
+      "longitude": 115.859784,
+      "created": "2026-07-22T05:50:29Z",
+      "title": "Data Analyst",
+      "salary_is_predicted": "0",
+      "contract_type": "permanent",
+      "category": {
+        "label": "Healthcare & Nursing Jobs",
+        "tag": "healthcare-nursing-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "description": "VCID No: 738884 This is a Permanent Full Time appointment. Position Profile: The Data Analyst reports on complex health service information, including developing plans and reports to track program progress. Produce regular and one-off health performance indicator reports. Application Instructions: Applications are required to be submitted online by selecting “Apply for job” below. (via www.jobs.wa.gov.au.) Please ensure the email address provided is actively monitored as it will serve as the pr…",
+      "redirect_url": "https://www.adzuna.com.au/details/5809638987?utm_medium=api&utm_source=4e5ae6d3",
+      "latitude": -31.953357,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgwOTYzODk4NyIsInMiOiJpQ213aFlLSjhSR3JnNVlRZV9lQUVBIn0.twkxrQqWx7QricSDZnuH0F_J0XEOzii2rodbHS9oPfg",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Perth CBD, Perth",
+        "area": [
+          "Australia",
+          "Western Australia",
+          "Perth Region",
+          "Perth",
+          "Perth CBD"
+        ]
+      },
+      "id": "5809638987"
+    },
+    {
+      "description": "Why This Role Matters Working across all sectors of the economy, our team is reshaping corporate Australia for a 1.5°C world by helping our largest businesses to reach net zero goals, build climate resilience, and support the transition to clean energy - all informed by robust data analytics and insights. Our people are smart, passionate and motivated to make a difference – this isn’t just a job, it’s personal. What Your Impact Is This role lies within our ESG Data Management team. As energy co…",
+      "redirect_url": "https://www.adzuna.com.au/details/5799352147?utm_medium=api&utm_source=4e5ae6d3",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": -33.885283,
+      "location": {
+        "display_name": "Sydney, Sydney Region",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc5OTM1MjE0NyIsInMiOiJpQ213aFlLSjhSR3JnNVlRZV9lQUVBIn0.qRkmiX60gPl3vAv8Pz3iwQa4K4YIxfTkkmaWJ84orMw",
+      "id": "5799352147",
+      "company": {
+        "display_name": "ERM",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "contract_time": "full_time",
+      "created": "2026-07-14T11:10:10Z",
+      "longitude": 151.203231,
+      "title": "Data Analyst - ESG",
+      "salary_is_predicted": "0",
+      "category": {
+        "label": "Accounting & Finance Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "accounting-finance-jobs"
+      }
+    },
+    {
+      "description": "What We Offer The opportunity to influence key business decisions through data and analytics A dynamic and diverse transport and logistics environment A supportive leadership team with a strong focus on continuous improvement Career development and progression opportunities A competitive salary package based on experience The chance to be part of a proudly Western Australian business servicing metropolitan and regional communities Why Join Us? This role places you at the centre of a complex tra…",
+      "redirect_url": "https://www.adzuna.com.au/details/5774060040?utm_medium=api&utm_source=4e5ae6d3",
+      "latitude": -31.986574,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Western Australia",
+          "Perth Region",
+          "Kalamunda Area",
+          "Forrestfield"
+        ],
+        "display_name": "Forrestfield, Kalamunda Area"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiaUNtd2hZS0o4UkdyZzVZUWVfZUFFQSIsImkiOiI1Nzc0MDYwMDQwIn0.iWlvPJEggqdSnP6EW8gZN3SA6Lg5wZgpZ0mjZ0MEXqk",
+      "id": "5774060040",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Sands Fridge Lines"
+      },
+      "contract_time": "full_time",
+      "longitude": 116.010649,
+      "created": "2026-06-24T08:37:46Z",
+      "salary_is_predicted": "0",
+      "title": "Transport Data Analyst",
+      "category": {
+        "tag": "logistics-warehouse-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Logistics & Warehouse Jobs"
+      }
+    },
+    {
+      "description": "Financial Analyst role with Australian Naval Infrastructure supporting financial reporting, analysis and fixed asset accounting. Work alongside experienced finance leaders supporting national infrastructure Key role managing fixed assets within a large asset intensive organisation Adelaide CBD location and a 9 day fortnight available About the Company Australian Naval Infrastructure (ANI) plays a critical role in supporting Australia’s naval shipbuilding enterprise and managing nationally signi…",
+      "redirect_url": "https://www.adzuna.com.au/details/5804004043?utm_medium=api&utm_source=4e5ae6d3",
+      "latitude": -34.92577,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Adelaide CBD, Adelaide",
+        "area": [
+          "Australia",
+          "South Australia",
+          "Adelaide Region",
+          "Adelaide",
+          "Adelaide CBD"
+        ]
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgwNDAwNDA0MyIsInMiOiJpQ213aFlLSjhSR3JnNVlRZV9lQUVBIn0.L8URGrV9MExa71U-9k7v78-9W2880N13AAgRHhOGxwQ",
+      "id": "5804004043",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Harrison McMillan"
+      },
+      "contract_time": "full_time",
+      "longitude": 138.599732,
+      "created": "2026-07-17T10:08:54Z",
+      "title": "Financial Analyst",
+      "salary_is_predicted": "0",
+      "category": {
+        "label": "Accounting & Finance Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "accounting-finance-jobs"
+      }
+    },
+    {
+      "description": "Want to contribute to a sustainable future? Join Lynas Rare Earths, the world’s only significant supplier of separated rare earth materials outside of China, as we continue to meet global market needs for sustainably produced rare earth products. Lynas Rare Earths is an ethical and environmentally responsible producer of rare earth materials. Boasting a life of mine of 20 years, our materials are used in many future-facing applications, including electronics, wind turbines and hybrid and electr…",
+      "redirect_url": "https://www.adzuna.com.au/details/5803999325?utm_medium=api&utm_source=4e5ae6d3",
+      "latitude": -30.747667,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiaUNtd2hZS0o4UkdyZzVZUWVfZUFFQSIsImkiOiI1ODAzOTk5MzI1In0.JEKq-1PKUgrN6JIcKyu0w3WJEAEVSQmRUcljs5fefyU",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Western Australia",
+          "Kalgoorlie Region",
+          "Kalgoorlie Area",
+          "Piccadilly"
+        ],
+        "display_name": "Piccadilly, Kalgoorlie Area"
+      },
+      "id": "5803999325",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Lynas Rare Earths"
+      },
+      "contract_time": "full_time",
+      "created": "2026-07-17T10:07:26Z",
+      "longitude": 121.472302,
+      "title": "Financial Analyst",
+      "salary_is_predicted": "0",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "accounting-finance-jobs",
+        "label": "Accounting & Finance Jobs"
+      }
+    },
+    {
+      "category": {
+        "label": "Healthcare & Nursing Jobs",
+        "tag": "healthcare-nursing-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "contract_type": "permanent",
+      "salary_is_predicted": "0",
+      "title": "Analyst - Decision Support Unit",
+      "longitude": 149.133481,
+      "created": "2026-07-16T09:32:58Z",
+      "contract_time": "part_time",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Council Jobs"
+      },
+      "id": "5801943217",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Australian Capital Territory",
+          "Canberra Region",
+          "South Canberra",
+          "Barton"
+        ],
+        "display_name": "Barton, South Canberra"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgwMTk0MzIxNyIsInMiOiJpQ213aFlLSjhSR3JnNVlRZV9lQUVBIn0.U9tMDTsKCace986VnHdfG2D9D-s1uG0qRF9ivv5Y9xk",
+      "latitude": -35.309391,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5801943217?utm_medium=api&utm_source=4e5ae6d3",
+      "description": "Closes: 24 July 2026 Classification: Senior Officer Grade C Salary: $127,597 - $136,873 plus superannuation Position No: 71664-02R35 Directorate: Canberra Health Services Advertised (Gazettal date): 14 July 2026 Contact Officer: Megan Crombie on act.gov.au or (02) 5124 9 What can we offer you: Competitive pay rates and excellent working conditions within a tertiary hospital. Salary Packaging with many options that provide full fringe benefits tax concessions. Flexible working conditions. Access…"
+    },
+    {
+      "longitude": 149.133481,
+      "created": "2026-07-12T15:26:09Z",
+      "title": "Analyst - Decision Support Unit",
+      "salary_is_predicted": "0",
+      "contract_time": "part_time",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "ACT Health"
+      },
+      "category": {
+        "tag": "healthcare-nursing-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Healthcare & Nursing Jobs"
+      },
+      "contract_type": "permanent",
+      "redirect_url": "https://www.adzuna.com.au/details/5797646779?utm_medium=api&utm_source=4e5ae6d3",
+      "description": "Employment Type: Full Time, Permanent Classification: Senior Officer Grade C (PN 71664) Salary: $127,597 – $136,873 (Plus 12.5% Super) Location: Various Section: Decision Support Unit Closing Date: 24 July 2026 What can we offer you: • Competitive pay rates and excellent working conditions within a tertiary hospital. • Salary Packaging with many options that provide full fringe benefits tax concessions. • Flexible working conditions. • Access to Employee Assistance Program. • Access to discount…",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiaUNtd2hZS0o4UkdyZzVZUWVfZUFFQSIsImkiOiI1Nzk3NjQ2Nzc5In0.stYdCyEJmgj2QgFa174ynGzgRkTTnzbl_rZQ3IsPY7I",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Australian Capital Territory",
+          "Canberra Region",
+          "South Canberra",
+          "Barton"
+        ],
+        "display_name": "Barton, South Canberra"
+      },
+      "id": "5797646779",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": -35.309391
+    },
+    {
+      "salary_max": 172000,
+      "latitude": -31.953357,
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "accounting-finance-jobs",
+        "label": "Accounting & Finance Jobs"
+      },
+      "title": "Financial Analyst",
+      "longitude": 115.859784,
+      "created": "2026-07-15T11:03:26Z",
+      "id": "5800537548",
+      "location": {
+        "area": [
+          "Australia",
+          "Western Australia",
+          "Perth Region",
+          "Perth",
+          "Perth CBD"
+        ],
+        "display_name": "Perth CBD, Perth",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiaUNtd2hZS0o4UkdyZzVZUWVfZUFFQSIsImkiOiI1ODAwNTM3NTQ4In0.1hPE96XneyqYtniJRpx4rhcOm16tEdjU8f7CIIO1SFI",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5800537548?utm_medium=api&utm_source=4e5ae6d3",
+      "salary_min": 135000,
+      "description": "Want to contribute to a sustainable future? Join Lynas Rare Earths, the world’s only significant supplier of separated rare earth materials outside of China, as we continue to meet global market needs for sustainably produced rare earth products. Lynas Rare Earths is an ethical and environmentally responsible producer of rare earth materials. Boasting a life of mine of 20 years, our materials are used in many future-facing applications, including electronics, wind turbines and hybrid and electr…",
+      "salary_is_predicted": "0",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Lynas Rare Earths"
+      },
+      "contract_time": "full_time"
+    },
+    {
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "longitude": 151.207114,
+      "created": "2026-06-06T22:56:57Z",
+      "salary_is_predicted": "0",
+      "title": "AWS Data Engineering Lead",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Deloitte"
+      },
+      "contract_time": "full_time",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiaUNtd2hZS0o4UkdyZzVZUWVfZUFFQSIsImkiOiI1NzU0NTA1OTE0In0.Vg0e4vBpBtBLoAp2PiZ0ez8UlfIQve1pcLVM5Y7BU7s",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney",
+          "The Rocks"
+        ],
+        "display_name": "The Rocks, Sydney"
+      },
+      "id": "5754505914",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": -33.867139,
+      "redirect_url": "https://www.adzuna.com.au/details/5754505914?utm_medium=api&utm_source=4e5ae6d3",
+      "description": "Job Requisition ID: 41231 Access to free and confidential coaching for you and your family including wellbeing, financial and nutrition coaching. 18 weeks paid parental leave  12 months return to work support (work 4 days and get paid 5). International PlaceFlex to work from select countries for a period. What will your typical day look like? As a Specialist Manager – within our AI & Data team , you’ll combine deep technical expertise with strong consulting skills to design, deliver, and optimi…"
+    },
+    {
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Victoria",
+          "Melbourne Region",
+          "Stonnington Area",
+          "South Yarra"
+        ],
+        "display_name": "South Yarra, Stonnington Area"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiaUNtd2hZS0o4UkdyZzVZUWVfZUFFQSIsImkiOiI1NzkxMTE5MzIzIn0.qVghe-_aYIDG55UbxuXCLT4vB7bcY_RqbjDZZRckjr0",
+      "id": "5791119323",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": -37.837324,
+      "redirect_url": "https://www.adzuna.com.au/details/5791119323?utm_medium=api&utm_source=4e5ae6d3",
+      "description": "Job Requisition ID: 41231 Access to free and confidential coaching for you and your family including wellbeing, financial and nutrition coaching. 18 weeks paid parental leave  12 months return to work support (work 4 days and get paid 5). International PlaceFlex to work from select countries for a period. What will your typical day look like? As a Specialist Lead – within our AI & Data team , you’ll combine deep technical expertise with strong consulting skills to design, deliver, and optimise …",
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "created": "2026-07-08T01:34:04Z",
+      "longitude": 144.976335,
+      "title": "AWS Data Engineer",
+      "salary_is_predicted": "0",
+      "contract_time": "full_time",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Deloitte"
+      }
+    },
+    {
+      "created": "2026-07-24T18:14:26Z",
+      "longitude": 151.207114,
+      "title": "Lead Data Engineer / Architect | GCP, BigQuery & DBT",
+      "salary_is_predicted": "0",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Deloitte"
+      },
+      "contract_time": "full_time",
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5813530036?utm_medium=api&utm_source=4e5ae6d3",
+      "description": "Job Requisition ID: 41568 Access to free and confidential coaching for you and your family including wellbeing, financial and nutrition coaching. 18 weeks paid parental leave  12 months return to work support (work 4 days and get paid 5). International PlaceFlex to work from select countries for a period. What will your typical day look like? In this role, you’ll lead the design and delivery of GCP native data platforms and architecture solutions, working across BigQuery, dbt and Airflow to bui…",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgxMzUzMDAzNiIsInMiOiJpQ213aFlLSjhSR3JnNVlRZV9lQUVBIn0.IrHJSdhC3FIVFNIkiqzHGW4WQjRaL55be6j6d9HQ8tc",
+      "location": {
+        "display_name": "The Rocks, Sydney",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney",
+          "The Rocks"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "id": "5813530036",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": -33.867139
+    },
+    {
+      "description": "Search Purchasing Specialist Babcock Henderson, WA, AU 17h ago Purchasing Specialist Permanent full‑time role based in Henderson, Western Asustralia.Be part of a collaborative, high‑performing procurement team.Be part of a company delivering critical national capability About The Role We’re continuing to grow across the region and are looking for a Purchasing Specialist to join our team in Henderson, WA. Reporting to the Procurement Manager, this role is a great opportunity for someone who want…",
+      "redirect_url": "https://www.adzuna.com.au/details/5789298931?utm_medium=api&utm_source=4e5ae6d3",
+      "latitude": -32.272825,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "area": [
+          "Australia",
+          "Western Australia",
+          "Perth Region",
+          "Rockingham Area",
+          "Rockingham"
+        ],
+        "display_name": "Rockingham, Rockingham Area",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc4OTI5ODkzMSIsInMiOiJpQ213aFlLSjhSR3JnNVlRZV9lQUVBIn0.Z7g37chfCdRW0i6pnwx9j92LCqZSwbwFeJGc3TYw5-Y",
+      "id": "5789298931",
+      "contract_time": "full_time",
+      "company": {
+        "display_name": "Young Nuclear Professionals' Forum ",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "created": "2026-07-06T06:29:24Z",
+      "longitude": 115.731939,
+      "title": "Purchasing Specialist",
+      "salary_is_predicted": "0",
+      "contract_type": "permanent",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "retail-jobs",
+        "label": "Retail Jobs"
+      }
+    },
+    {
+      "description": "About the Role This is a leadership opportunity where you will do more than manage. You will inspire, influence, and transform. As the team leader, you will provide guidance to a team of skilled professionals to evolve process standards, deliver impactful improvement projects, and set clear operational targets across Claims & Assessing to ensure process management excellence is embedded across the business. Position Accountabilities You will be responsible for leading and guiding your team to: …",
+      "redirect_url": "https://www.adzuna.com.au/details/5752849280?utm_medium=api&utm_source=4e5ae6d3",
+      "latitude": -27.220288,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "id": "5752849280",
+      "location": {
+        "area": [
+          "Australia",
+          "Queensland",
+          "Brisbane Region",
+          "Pine Rivers Area",
+          "Mango Hill"
+        ],
+        "display_name": "Mango Hill, Pine Rivers Area",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc1Mjg0OTI4MCIsInMiOiJpQ213aFlLSjhSR3JnNVlRZV9lQUVBIn0.kEjOGrqjeVhh4Lak6QjKHJ_1HutuMdbMatBWlq7KCVs",
+      "contract_time": "full_time",
+      "company": {
+        "display_name": "Auto & General",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_is_predicted": "0",
+      "title": "Team Leader Claims Process",
+      "longitude": 153.022987,
+      "created": "2026-06-05T15:16:01Z",
+      "category": {
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs"
+      }
+    },
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiaUNtd2hZS0o4UkdyZzVZUWVfZUFFQSIsImkiOiI1Nzk2NTYwMzgxIn0.YxD946g_l150SYq3YGzUxKl_LcQrAs7fjYj8wZFxPBg",
+      "location": {
+        "area": [
+          "Australia",
+          "Western Australia",
+          "Perth Region",
+          "Perth",
+          "Perth CBD"
+        ],
+        "display_name": "Perth CBD, Perth",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "id": "5796560381",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": -31.953357,
+      "redirect_url": "https://www.adzuna.com.au/details/5796560381?utm_medium=api&utm_source=4e5ae6d3",
+      "description": "Monday to Friday – West Perth Location Company contribution towards private health insurance Strengthen payroll accuracy, controls and continuous improvement 12 Month Maximum Term Contract About the role We have an exciting opportunity for a Payroll Analyst to join our Finance team based at our new corporate headquarters in West Perth. Reporting to the Supervisor Payroll, this role will act as a key support within the payroll function, helping ensure accurate, timely and compliant payroll deliv…",
+      "category": {
+        "label": "Accounting & Finance Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "accounting-finance-jobs"
+      },
+      "contract_type": "permanent",
+      "created": "2026-07-11T14:55:02Z",
+      "longitude": 115.859784,
+      "salary_is_predicted": "0",
+      "title": "Payroll Analyst",
+      "contract_time": "part_time",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Atlas Iron"
+      }
+    },
+    {
+      "category": {
+        "tag": "consultancy-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Consultancy Jobs"
+      },
+      "contract_type": "permanent",
+      "salary_is_predicted": "0",
+      "title": "Senior Analyst, Evidence & Evaluation",
+      "created": "2026-05-19T00:27:36Z",
+      "company": {
+        "display_name": "NSW Government",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "contract_time": "full_time",
+      "id": "5733211667",
+      "salary_max": 150222,
+      "location": {
+        "area": [
+          "Australia"
+        ],
+        "display_name": "Australia",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiaUNtd2hZS0o4UkdyZzVZUWVfZUFFQSIsImkiOiI1NzMzMjExNjY3In0.oy_DfT-nnFTczTH01p2R69ktccFd3AIgImXh2VSKFPE",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5733211667?utm_medium=api&utm_source=4e5ae6d3",
+      "salary_min": 132236,
+      "description": "Employment Type: Temporary Full Time Position Classification: Health Mgr Lvl 3 Remuneration: $132,236 - $150,222 (plus superannuation and leave loading) Hours Per Week: 38 Requisition ID: REQ650261 About the opportunity Health Infrastructure is seeking a Senior Analyst, Evidence & Evaluation to play a central role in developing and implementing evaluation frameworks for NSW’s major health capital projects and programs. In this role, you will assess whether completed projects have achieved their…"
+    },
+    {
+      "category": {
+        "label": "Admin Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "admin-jobs"
+      },
+      "contract_type": "contract",
+      "created": "2026-07-22T11:22:29Z",
+      "salary_is_predicted": "0",
+      "title": "Digital Assessment Operations and Test Coordinator (Assessment Delivery)",
+      "contract_time": "full_time",
+      "company": {
+        "display_name": "AGA",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgxMDE5NjcxMCIsInMiOiJpQ213aFlLSjhSR3JnNVlRZV9lQUVBIn0.qVdURBqVfijJtQAsEhwBkKNpyqmmxS8Dhh-w1nj3yr0",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Melbourne, Melbourne Region",
+        "area": [
+          "Australia",
+          "Victoria",
+          "Melbourne Region",
+          "Melbourne"
+        ]
+      },
+      "id": "5810196710",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5810196710?utm_medium=api&utm_source=4e5ae6d3",
+      "description": "Our client is seeking an Operations and Test Coordinator to join their Assessment team. This is a great opportunity for someone interested in building a career in digital assessment delivery, technology operations, software testing, quality assurance or project support. You will work on nationally significant assessment programs, while developing valuable technical and operational skills. Our client is committed to increasing Aboriginal and Torres Strait Islander representation across our busin…"
+    },
+    {
+      "contract_type": "contract",
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Talenza"
+      },
+      "title": "Data Modeller",
+      "salary_is_predicted": "0",
+      "longitude": 151.207114,
+      "created": "2026-07-05T09:19:54Z",
+      "latitude": -33.867139,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "id": "5788559102",
+      "location": {
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney",
+          "The Rocks"
+        ],
+        "display_name": "The Rocks, Sydney",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiaUNtd2hZS0o4UkdyZzVZUWVfZUFFQSIsImkiOiI1Nzg4NTU5MTAyIn0.rxXQoy0Ulx0gCM6cqYTuNQH7l8RLaFPdABKa0pmBkD8",
+      "description": "Our Government client are hiring for a highly capable Data Modeller to join their organisation. This will be supporting a wider HR Data Program, with it this role ensuring HR Analytics and Finance-aligned workforce reporting can occur - delivering across enterprise workforce analytics, establishment management, staff cost reporting and finance-aligned workforce planning capability. The role will design and document enterprise-grade data models across Snowflake, including Operational Data Store,…",
+      "redirect_url": "https://www.adzuna.com.au/details/5788559102?utm_medium=api&utm_source=4e5ae6d3"
+    },
+    {
+      "redirect_url": "https://www.adzuna.com.au/details/5801035584?utm_medium=api&utm_source=4e5ae6d3",
+      "description": "Want to contribute to a sustainable future? Join Lynas Rare Earths, the world’s only significant supplier of separated rare earth materials outside of China, as we continue to meet global market needs for sustainably produced rare earth products. Lynas Rare Earths is an ethical and environmentally responsible producer of rare earth materials. Boasting a life of mine of 20 years, our materials are used in many future-facing applications, including electronics, wind turbines and hybrid and electr…",
+      "id": "5801035584",
+      "location": {
+        "display_name": "Somerville, Kalgoorlie Area",
+        "area": [
+          "Australia",
+          "Western Australia",
+          "Kalgoorlie Region",
+          "Kalgoorlie Area",
+          "Somerville"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiaUNtd2hZS0o4UkdyZzVZUWVfZUFFQSIsImkiOiI1ODAxMDM1NTg0In0.tg-SAIHck4ZxHbwpMouFVPnauvCeOqLE86VBogUqjb0",
+      "latitude": -30.758022,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "title": "Financial Analyst",
+      "longitude": 121.448718,
+      "created": "2026-07-15T19:43:26Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Lynas Corp"
+      },
+      "contract_time": "full_time",
+      "category": {
+        "label": "Accounting & Finance Jobs",
+        "tag": "accounting-finance-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      }
+    },
+    {
+      "latitude": -31.953357,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "id": "5801035582",
+      "location": {
+        "display_name": "Perth CBD, Perth",
+        "area": [
+          "Australia",
+          "Western Australia",
+          "Perth Region",
+          "Perth",
+          "Perth CBD"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiaUNtd2hZS0o4UkdyZzVZUWVfZUFFQSIsImkiOiI1ODAxMDM1NTgyIn0.KM9r67ZWtXYvCn3oBbQJTINMYQA7TfngDgckZAjDavg",
+      "description": "Want to contribute to a sustainable future? Join Lynas Rare Earths, the world’s only significant supplier of separated rare earth materials outside of China, as we continue to meet global market needs for sustainably produced rare earth products. Lynas Rare Earths is an ethical and environmentally responsible producer of rare earth materials. Boasting a life of mine of 20 years, our materials are used in many future-facing applications, including electronics, wind turbines and hybrid and electr…",
+      "redirect_url": "https://www.adzuna.com.au/details/5801035582?utm_medium=api&utm_source=4e5ae6d3",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "accounting-finance-jobs",
+        "label": "Accounting & Finance Jobs"
+      },
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Lynas Corp"
+      },
+      "contract_time": "full_time",
+      "salary_is_predicted": "0",
+      "title": "Financial Analyst",
+      "created": "2026-07-15T19:43:26Z",
+      "longitude": 115.859784
+    },
+    {
+      "longitude": 151.207114,
+      "created": "2026-06-01T14:53:57Z",
+      "title": "Senior Databricks Specialist Lead | AI & Data | Sydney",
+      "salary_is_predicted": "0",
+      "contract_time": "full_time",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Deloitte"
+      },
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5747043147?utm_medium=api&utm_source=4e5ae6d3",
+      "description": "Job Requisition ID: 39344 Be part of market-leading projects with global scale and complexity. Have your voice heard through people panels and leader forums. Prioritise in-person connection with your team and clients, with flexibility to balance work and life. Deloitte’s AI & Data team is transforming how businesses leverage cloud-native technologies to solve complex challenges in data, machine learning, and AI. As a Director, you will lead strategic initiatives, drive innovation, and deliver i…",
+      "location": {
+        "display_name": "The Rocks, Sydney",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney",
+          "The Rocks"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc0NzA0MzE0NyIsInMiOiJpQ213aFlLSjhSR3JnNVlRZV9lQUVBIn0.GJiGqhxQ5a_VY9sO374YgOG75Vjl9pHXljMREIBoDf8",
+      "id": "5747043147",
+      "latitude": -33.867139,
+      "__CLASS__": "Adzuna::API::Response::Job"
+    },
+    {
+      "company": {
+        "display_name": "Deloitte",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "contract_time": "full_time",
+      "longitude": 144.976335,
+      "created": "2026-06-18T16:22:10Z",
+      "title": "Senior AWS Data Architect | AI & Data | Melbourne/Sydney",
+      "salary_is_predicted": "0",
+      "category": {
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs"
+      },
+      "description": "Job Requisition ID: 41230 Access to free and confidential coaching for you and your family including wellbeing, financial and nutrition coaching. 18 weeks paid parental leave  12 months return to work support (work 4 days and get paid 5). International PlaceFlex to work from select countries for a period. What will your typical day look like? As a Senior Specialist Lead (Senior Manager) – Data Architect within our AI & Data team , you’ll combine deep technical expertise with strong consulting s…",
+      "redirect_url": "https://www.adzuna.com.au/details/5767736285?utm_medium=api&utm_source=4e5ae6d3",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": -37.837324,
+      "location": {
+        "area": [
+          "Australia",
+          "Victoria",
+          "Melbourne Region",
+          "Stonnington Area",
+          "South Yarra"
+        ],
+        "display_name": "South Yarra, Stonnington Area",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiaUNtd2hZS0o4UkdyZzVZUWVfZUFFQSIsImkiOiI1NzY3NzM2Mjg1In0.BovECYdbf4SnEjCAOJgNlszw1XNMSSTiBV3-GrvXr94",
+      "id": "5767736285"
+    },
+    {
+      "description": "Description Be part of a high performing team Location: Melbourne Initial 12 months contract Hybrid The Opportunity The Lead Business Analyst brings deep subject matter expertise in Wealth Management, Wrap Platforms, Investments, and Superannuation and is responsible for consulting with business and technology leaders to create strategy and associated delivery roadmaps. You will have a comprehensive understanding of Business Analysis practices, own and drive the analysis process for the North P…",
+      "redirect_url": "https://www.adzuna.com.au/details/5774192562?utm_medium=api&utm_source=4e5ae6d3",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": -37.806509,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc3NDE5MjU2MiIsInMiOiJpQ213aFlLSjhSR3JnNVlRZV9lQUVBIn0.Mog8A53QXv-069WwDC-iPCs4CRQhUzg5wlEKJdNma0k",
+      "location": {
+        "area": [
+          "Australia",
+          "Victoria",
+          "Melbourne Region",
+          "Melbourne"
+        ],
+        "display_name": "Melbourne, Melbourne Region",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "id": "5774192562",
+      "company": {
+        "display_name": "AMP",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "contract_time": "full_time",
+      "created": "2026-06-24T10:55:24Z",
+      "longitude": 144.957935,
+      "salary_is_predicted": "0",
+      "title": "Lead Business Analyst",
+      "contract_type": "contract",
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      }
+    },
+    {
+      "id": "5791119414",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "The Rocks, Sydney",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney",
+          "The Rocks"
+        ]
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc5MTExOTQxNCIsInMiOiJpQ213aFlLSjhSR3JnNVlRZV9lQUVBIn0.FLWNfctBfehhmVh2eSb37iIR7EqCqn9lVVW9RJr7Dh0",
+      "latitude": -33.867139,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5791119414?utm_medium=api&utm_source=4e5ae6d3",
+      "description": "Job Requisition ID: 41230 Access to free and confidential coaching for you and your family including wellbeing, financial and nutrition coaching. 18 weeks paid parental leave  12 months return to work support (work 4 days and get paid 5). International PlaceFlex to work from select countries for a period. What will your typical day look like? As a Senior Specialist Lead (Senior Manager) – Data Architect within our AI & Data team , you’ll combine deep technical expertise with strong consulting s…",
+      "category": {
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs"
+      },
+      "title": "Senior AWS Data Architect | AI & Data | Melbourne/Sydney",
+      "salary_is_predicted": "0",
+      "longitude": 151.207114,
+      "created": "2026-07-08T01:34:08Z",
+      "contract_time": "full_time",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Deloitte"
+      }
+    },
+    {
+      "longitude": 138.597963,
+      "created": "2026-06-28T08:56:46Z",
+      "title": "Senior Financial Analyst - FP&A",
+      "salary_is_predicted": "0",
+      "contract_time": "part_time",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "JobRadars - AU"
+      },
+      "category": {
+        "label": "Accounting & Finance Jobs",
+        "tag": "accounting-finance-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "contract_type": "permanent",
+      "redirect_url": "https://www.adzuna.com.au/details/5779545851?utm_medium=api&utm_source=4e5ae6d3",
+      "description": "Description & Requirements Don’t come for an easy career. Stay for a rewarding one. At Santos, we do work that matters and always have. When you join us, so will you. As an ASX 20 global energy company, we’re committed to providing reliable and affordable energy to help create a better world for everyone. To make it happen, we work as One Team and ask ourselves, “How can we?” (Even when others say, “We can’t.”) We’re proud of our history as pioneers, problem-solvers, and pragmatists. And as we …",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Adelaide CBD, Adelaide",
+        "area": [
+          "Australia",
+          "South Australia",
+          "Adelaide Region",
+          "Adelaide",
+          "Adelaide CBD"
+        ]
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiaUNtd2hZS0o4UkdyZzVZUWVfZUFFQSIsImkiOiI1Nzc5NTQ1ODUxIn0.Npy0yJ8I3b2AJZdbBewXPxdBS_jWU-Fh7iGQwQHIjPU",
+      "id": "5779545851",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": -34.933718
+    },
+    {
+      "latitude": -34.427181,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "id": "5786125132",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Illawarra",
+          "Wollongong Area",
+          "Mangerton"
+        ],
+        "display_name": "Mangerton, Wollongong Area"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc4NjEyNTEzMiIsInMiOiJpQ213aFlLSjhSR3JnNVlRZV9lQUVBIn0.yfhzZH8W0jzdqOHgHBpMqzByiyELuVqICToKlWflJg4",
+      "description": "About IRT Founded in 1969, IRT’s mission was to provide better options in housing and care for older people. Now 50 years later, our purpose remains the same. We improve the lives of more than 9100 people every day in NSW, the ACT and Qld. We’re one of Australia’s largest community-owned providers of independent living, aged care and home care. We’re proud to have more than 40 communities and home care service hubs in NSW, the ACT and Qld. IRT is an equal opportunity employer. We find excellenc…",
+      "redirect_url": "https://www.adzuna.com.au/details/5786125132?utm_medium=api&utm_source=4e5ae6d3",
+      "contract_type": "permanent",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      },
+      "company": {
+        "display_name": "JobRadars - AU",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "contract_time": "part_time",
+      "title": "Senior Data Analyst",
+      "salary_is_predicted": "0",
+      "longitude": 150.878702,
+      "created": "2026-07-03T09:13:28Z"
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": -33.865715,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiaUNtd2hZS0o4UkdyZzVZUWVfZUFFQSIsImkiOiI1NzkxNjE5Nzk5In0.KbAAvqAAMksDz3zZ_cQ2yoyS8LtAFkJOKYCJDUS0DlM",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney",
+          "The Rocks"
+        ],
+        "display_name": "The Rocks, Sydney"
+      },
+      "id": "5791619799",
+      "description": "About Us Jomablue is a premium enterprise event technology company, trusted by some of the world’s leading organisations to deliver complex, high-stakes events. With over 25 years in the events industry, that heritage shows in everything we build and every event we deliver. Named ‘Best Event Management Platform’ at the Event Technology Awards and certified as a ‘Great Place to Work’, the recognition reflects what we have always believed: that the people in our team matter as much as the experie…",
+      "redirect_url": "https://www.adzuna.com.au/details/5791619799?utm_medium=api&utm_source=4e5ae6d3",
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "company": {
+        "display_name": "Jomablue",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "contract_time": "full_time",
+      "longitude": 151.206616,
+      "created": "2026-07-08T11:00:58Z",
+      "salary_is_predicted": "0",
+      "title": "Senior Data Analyst"
+    },
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiaUNtd2hZS0o4UkdyZzVZUWVfZUFFQSIsImkiOiI1ODEzNTI5NTAyIn0.wi-4-2juWOumg3U95v8hFuOkX3sYvDepvEI6VQ93Kjs",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "The Rocks, Sydney",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney",
+          "The Rocks"
+        ]
+      },
+      "id": "5813529502",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": -33.867139,
+      "redirect_url": "https://www.adzuna.com.au/details/5813529502?utm_medium=api&utm_source=4e5ae6d3",
+      "description": "Full time continuing role as a Senior Test Analyst, Digital Solutions Extensive experience with Adobe products e.g. Adobe Experience Manager is ESSENTIAL Starting Salary $132,445 plus generous superannuation and leave loading Kensington, Sydney location, 2-3 days in the office, Hybrid working About UNSW: UNSW isn’t like other places you’ve worked. Yes, we’re a large organisation with a diverse and talented community; a community doing extraordinary things. Together, we are driven to be thoughtf…",
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "longitude": 151.207114,
+      "created": "2026-07-24T18:14:18Z",
+      "salary_is_predicted": "0",
+      "title": "Senior Test Analyst - Digital Solutions ( MUST HAVE AEM Experience )",
+      "company": {
+        "display_name": "University of New South Wales",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "contract_time": "full_time"
+    },
+    {
+      "contract_time": "full_time",
+      "company": {
+        "display_name": "IRT Group",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_is_predicted": "0",
+      "title": "Senior Data Analyst",
+      "created": "2026-07-05T01:12:37Z",
+      "longitude": 150.899818,
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "description": "About IRT Founded in 1969, IRT’s mission was to provide better options in housing and care for older people. Now 50 years later, our purpose remains the same. We improve the lives of more than 9100 people every day in NSW, the ACT and Qld. We’re one of Australia’s largest community-owned providers of independent living, aged care and home care. We’re proud to have more than 40 communities and home care service hubs in NSW, the ACT and Qld. IRT is an equal opportunity employer. We find excellenc…",
+      "redirect_url": "https://www.adzuna.com.au/details/5788144309?utm_medium=api&utm_source=4e5ae6d3",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": -34.425878,
+      "id": "5788144309",
+      "location": {
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Illawarra",
+          "Wollongong Area",
+          "Wollongong CBD"
+        ],
+        "display_name": "Wollongong CBD, Wollongong Area",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiaUNtd2hZS0o4UkdyZzVZUWVfZUFFQSIsImkiOiI1Nzg4MTQ0MzA5In0.16z6w39GR214IuzdsziWV4OCxOKh4BNo1HT3enPlHSY"
+    },
+    {
+      "redirect_url": "https://www.adzuna.com.au/details/5791120082?utm_medium=api&utm_source=4e5ae6d3",
+      "description": "Careers that change lives start here. Medtronic is a global leader in healthcare technology with a Mission to alleviate pain, restore health, and extend life. Our 95,000 employees work across more than 150 countries to put patients first — developing innovative medical technologies that improve the lives of 72 million patients each year. Your unique talents will help shape the future of healthcare while building a career grounded in purpose, growth, and impact. A Day in the Life At the heart of…",
+      "id": "5791120082",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiaUNtd2hZS0o4UkdyZzVZUWVfZUFFQSIsImkiOiI1NzkxMTIwMDgyIn0._HPbinpJQR2xkf3WhbJStgaM5ZFgBh9L8f22wHxt-1A",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney",
+          "The Rocks"
+        ],
+        "display_name": "The Rocks, Sydney"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": -33.867139,
+      "salary_is_predicted": "0",
+      "title": "Sales Analyst – Cranial and Spinal Technologies",
+      "longitude": 151.207114,
+      "created": "2026-07-08T01:34:31Z",
+      "contract_time": "full_time",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "AUS Medtronic Australia"
+      },
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "sales-jobs",
+        "label": "Sales Jobs"
+      }
+    },
+    {
+      "category": {
+        "label": "Sales Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "sales-jobs"
+      },
+      "contract_time": "full_time",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "AUS Medtronic Australia"
+      },
+      "title": "Sales Analyst – Cranial and Spinal Technologies",
+      "salary_is_predicted": "0",
+      "longitude": 144.976335,
+      "created": "2026-07-08T01:34:30Z",
+      "latitude": -37.837324,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "id": "5791120053",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc5MTEyMDA1MyIsInMiOiJpQ213aFlLSjhSR3JnNVlRZV9lQUVBIn0.B7AM46LpbXPtlvK2RW8fR3BvpILGAw3kf0ZYjgXKUMg",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "South Yarra, Stonnington Area",
+        "area": [
+          "Australia",
+          "Victoria",
+          "Melbourne Region",
+          "Stonnington Area",
+          "South Yarra"
+        ]
+      },
+      "description": "Careers that change lives start here. Medtronic is a global leader in healthcare technology with a Mission to alleviate pain, restore health, and extend life. Our 95,000 employees work across more than 150 countries to put patients first — developing innovative medical technologies that improve the lives of 72 million patients each year. Your unique talents will help shape the future of healthcare while building a career grounded in purpose, growth, and impact. A Day in the Life At the heart of…",
+      "redirect_url": "https://www.adzuna.com.au/details/5791120053?utm_medium=api&utm_source=4e5ae6d3"
+    },
+    {
+      "category": {
+        "label": "Sales Jobs",
+        "tag": "sales-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "company": {
+        "display_name": "Medtronic",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "contract_time": "full_time",
+      "created": "2026-07-04T10:59:22Z",
+      "salary_is_predicted": "0",
+      "title": "Sales Analyst – Cranial and Spinal Technologies",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney"
+        ],
+        "display_name": "Sydney, Sydney Region",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc4NzQzMTkyOCIsInMiOiJpQ213aFlLSjhSR3JnNVlRZV9lQUVBIn0.J-a-m0XrYyM4DORM2A9CO3NYiIIUS9BAnitvI7JHIpM",
+      "id": "5787431928",
+      "description": "Careers that change lives start here. Medtronic is a global leader in healthcare technology with a Mission to alleviate pain, restore health, and extend life. Our 95,000 employees work across more than 150 countries to put patients first — developing innovative medical technologies that improve the lives of 72 million patients each year. Your unique talents will help shape the future of healthcare while building a career grounded in purpose, growth, and impact. A Day in the Life At the heart of…",
+      "redirect_url": "https://www.adzuna.com.au/details/5787431928?utm_medium=api&utm_source=4e5ae6d3"
+    },
+    {
+      "category": {
+        "label": "Sales Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "sales-jobs"
+      },
+      "longitude": 153.0281,
+      "created": "2026-07-08T01:34:36Z",
+      "salary_is_predicted": "0",
+      "title": "Sales Analyst – Cranial and Spinal Technologies",
+      "contract_time": "full_time",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "AUS Medtronic Australia"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiaUNtd2hZS0o4UkdyZzVZUWVfZUFFQSIsImkiOiI1NzkxMTIwMjE4In0.pv2QFO_0xZ5043oy6MLGOwwILlhyBDXX4cCD53w0gcY",
+      "location": {
+        "area": [
+          "Australia",
+          "Queensland",
+          "Brisbane Region",
+          "Brisbane",
+          "Brisbane CBD"
+        ],
+        "display_name": "Brisbane CBD, Brisbane",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "id": "5791120218",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": -27.4679,
+      "redirect_url": "https://www.adzuna.com.au/details/5791120218?utm_medium=api&utm_source=4e5ae6d3",
+      "description": "Careers that change lives start here. Medtronic is a global leader in healthcare technology with a Mission to alleviate pain, restore health, and extend life. Our 95,000 employees work across more than 150 countries to put patients first — developing innovative medical technologies that improve the lives of 72 million patients each year. Your unique talents will help shape the future of healthcare while building a career grounded in purpose, growth, and impact. A Day in the Life At the heart of…"
+    },
+    {
+      "category": {
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs"
+      },
+      "title": "Senior Analyst - Credit, Market and Liquidity Risk",
+      "salary_is_predicted": "0",
+      "longitude": 151.207114,
+      "created": "2026-04-07T12:48:05Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Cuscal Limited"
+      },
+      "contract_time": "full_time",
+      "id": "5691713804",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY5MTcxMzgwNCIsInMiOiJpQ213aFlLSjhSR3JnNVlRZV9lQUVBIn0.A2nY4qQb-FTlvAMtFuZN354janfoSEN1tZwoziWtjQw",
+      "location": {
+        "display_name": "The Rocks, Sydney",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney",
+          "The Rocks"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "latitude": -33.867139,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5691713804?utm_medium=api&utm_source=4e5ae6d3",
+      "description": "Company Description Empower Australia’s Payments Future with Cuscal At Cuscal, your skills drive change and make a real impact. Whether you’re supporting our clients’ customers in our Fraud Operations Contact Centre or delivering innovative solutions in Product Delivery, your contribution helps shape the payments industry’s future. Join a team that values collaboration, innovation and excellence. With a focus on professional growth and flexibility, Cuscal is where you can thrive. Forward with C…"
+    }
+  ],
+  "__CLASS__": "Adzuna::API::Response::JobSearchResults"
+}

@@ -1,0 +1,642 @@
+{
+  "results": [
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "latitude": -33.869283,
+      "id": "5782572485",
+      "longitude": 151.220412,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc4MjU3MjQ4NSIsInMiOiJZTy15cEh5SjhSR0x1LTcxNndCMk5BIn0.yd9A4Y8CpyrT7S92tspHYJPsvtjdxeNKOsEOosS1KFM",
+      "description": "The Careers are Better at Hungry Jack's! The Insights Analyst supports the Data Insights Delivery Lead in uncovering insights that inform and influence strategic, operational and tactical decisions across the business. This includes conducting exploratory analysis, shaping analytical questions and translating business needs into structured insight requests. The role contributes to the development and maintenance of reporting semantic models in Power BI, working closely with the IT team to ensur…",
+      "title": "Insights Analyst",
+      "location": {
+        "display_name": "Woolloomooloo, Sydney",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney",
+          "Woolloomooloo"
+        ]
+      },
+      "contract_time": "full_time",
+      "created": "2026-07-01T08:31:06Z",
+      "redirect_url": "https://www.adzuna.com.au/details/5782572485?utm_medium=api&utm_source=4e5ae6d3",
+      "category": {
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs"
+      },
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Hungry Jack's Pty Ltd"
+      }
+    },
+    {
+      "id": "5781564372",
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "contract_time": "full_time",
+      "location": {
+        "display_name": "Australia",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia"
+        ]
+      },
+      "title": "Insights Analyst",
+      "description": "The Careers are Better at Hungry Jack's! The Insights Analyst supports the Data Insights Delivery Lead in uncovering insights that inform and influence strategic, operational and tactical decisions across the business. This includes conducting exploratory analysis, shaping analytical questions and translating business needs into structured insight requests. The role contributes to the development and maintenance of reporting semantic models in Power BI, working closely with the IT team to ensur…",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Hungry Jack's"
+      },
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "created": "2026-06-30T10:56:30Z",
+      "redirect_url": "https://www.adzuna.com.au/details/5781564372?utm_medium=api&utm_source=4e5ae6d3",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWU8teXBIeUo4UkdMdS03MTZ3QjJOQSIsImkiOiI1NzgxNTY0MzcyIn0.50_Vso2QyiGayEgt9-_nifjA0Pehpel0wKRD2D2PivA"
+    },
+    {
+      "company": {
+        "display_name": "G8 Education Ltd",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "contract_type": "permanent",
+      "created": "2026-07-18T07:04:40Z",
+      "redirect_url": "https://www.adzuna.com.au/details/5805199470?utm_medium=api&utm_source=4e5ae6d3",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Queensland",
+          "Gold Coast Region",
+          "Gold Coast",
+          "Bundall"
+        ],
+        "display_name": "Bundall, Gold Coast"
+      },
+      "contract_time": "full_time",
+      "description": "Nurturing the greatness in every child - and in you. Join one of Australia’s Largest Leading Early Education Providers! At G8 Education, we’re on a mission to shape the future! With 350 early education and care centres under 21 brands, our 7,000 dedicated team members nurture over 40,000 children every day. As an ASX listed growth company, we’re committed to empowering, rewarding, and supporting every team member – from our centre educators to our leadership and support team. The Opportunity We…",
+      "title": "Principal Insights Analyst",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWU8teXBIeUo4UkdMdS03MTZ3QjJOQSIsImkiOiI1ODA1MTk5NDcwIn0.KH0zPsLVNPSfdCf644SUmqZHyMd4JOKaROUH1XjXkyI",
+      "longitude": 153.414533,
+      "id": "5805199470",
+      "latitude": -28.00041,
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job"
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "id": "5804153006",
+      "latitude": -27.999218,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWU8teXBIeUo4UkdMdS03MTZ3QjJOQSIsImkiOiI1ODA0MTUzMDA2In0.ZLsY_CWN_dXXpk3kztrRBVPg1HND7ZNcS8lIL6IIJM8",
+      "longitude": 153.384047,
+      "created": "2026-07-17T11:59:49Z",
+      "redirect_url": "https://www.adzuna.com.au/details/5804153006?utm_medium=api&utm_source=4e5ae6d3",
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "company": {
+        "display_name": "G8 Education",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "contract_type": "permanent",
+      "description": "Nurturing the greatness in every child - and in you. Join one of Australia’s Largest Leading Early Education Providers! At G8 Education, we’re on a mission to shape the future! With 350 early education and care centres under 21 brands, our 7,000 dedicated team members nurture over 40,000 children every day. As an ASX listed growth company, we’re committed to empowering, rewarding, and supporting every team member – from our centre educators to our leadership and support team. The Opportunity We…",
+      "title": "Principal Insights Analyst",
+      "location": {
+        "display_name": "Gold Coast, Gold Coast Region",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Queensland",
+          "Gold Coast Region",
+          "Gold Coast"
+        ]
+      },
+      "contract_time": "full_time"
+    },
+    {
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "accounting-finance-jobs",
+        "label": "Accounting & Finance Jobs"
+      },
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Insurance Commission of WA"
+      },
+      "contract_type": "permanent",
+      "redirect_url": "https://www.adzuna.com.au/details/5795378280?utm_medium=api&utm_source=4e5ae6d3",
+      "created": "2026-07-10T19:06:51Z",
+      "contract_time": "part_time",
+      "location": {
+        "display_name": "Perth CBD, Perth",
+        "area": [
+          "Australia",
+          "Western Australia",
+          "Perth Region",
+          "Perth",
+          "Perth CBD"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "description": "The Role Applications are invited for the position of Senior Insights Analyst. The position plays a key role in delivering high value analytical insights that support operational, executive and statutory decision making across the organisation. Working within the Business Partnering and Insights team, the role contributes advanced analytical expertise, supports the co-design of insight outputs and ensures insights are robust, well interpreted and decision ready. The Person You bring strong capa…",
+      "title": "Senior Insights Analyst",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWU8teXBIeUo4UkdMdS03MTZ3QjJOQSIsImkiOiI1Nzk1Mzc4MjgwIn0.9mlX1k1wFx7BaG8ETAVyK9pKR31BEvnKY5ix76zEsPg",
+      "longitude": 115.859784,
+      "id": "5795378280",
+      "latitude": -31.953357,
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job"
+    },
+    {
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": -23.674596,
+      "id": "5804002876",
+      "longitude": 150.333548,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgwNDAwMjg3NiIsInMiOiJZTy15cEh5SjhSR0x1LTcxNndCMk5BIn0.he2yoIgRA_Z-zK9vMgdAlCo1IR-liGWmIoB6PWJFm14",
+      "contract_time": "full_time",
+      "location": {
+        "display_name": "Rockhampton Region, Queensland",
+        "area": [
+          "Australia",
+          "Queensland",
+          "Rockhampton Region"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "description": "Location: Brisbane or Rockhampton Remuneration/Benefit: Attractive salary package circa $140k  Superannuation About the role: As Senior Reporting and Insights Analyst you will transform complex operational and asset data into meaningful insights that support strategic and day-to-day decision making. Working closely with stakeholders across the business, you'll develop reporting solutions, analyse trends, identify opportunities for improvement, and provide evidence-based recommendations that enh…",
+      "title": "Senior Reporting and Insights Analyst",
+      "company": {
+        "display_name": "Aurizon",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5804002876?utm_medium=api&utm_source=4e5ae6d3",
+      "created": "2026-07-17T10:08:25Z"
+    },
+    {
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": -23.360983,
+      "id": "5804452855",
+      "longitude": 150.517447,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgwNDQ1Mjg1NSIsInMiOiJZTy15cEh5SjhSR0x1LTcxNndCMk5BIn0.I_qzS-oMT0cfTwTLdIQTsyehVZT7SDlTekC2IhVwdNE",
+      "location": {
+        "display_name": "Rockhampton, Rockhampton Region",
+        "area": [
+          "Australia",
+          "Queensland",
+          "Rockhampton Region",
+          "Rockhampton"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "title": "Senior Reporting and Insights Analyst",
+      "description": "Location: Brisbane or Rockhampton Remuneration/Benefit: Attractive salary package circa $140k  Superannuation About the role: As Senior Reporting and Insights Analyst you will transform complex operational and asset data into meaningful insights that support strategic and day-to-day decision making. Working closely with stakeholders across the business, you'll develop reporting solutions, analyse trends, identify opportunities for improvement, and provide evidence-based recommendations that enh…",
+      "category": {
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs"
+      },
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Aurizon"
+      },
+      "created": "2026-07-17T15:20:17Z",
+      "redirect_url": "https://www.adzuna.com.au/details/5804452855?utm_medium=api&utm_source=4e5ae6d3"
+    },
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgwNjQ1ODUwNiIsInMiOiJZTy15cEh5SjhSR0x1LTcxNndCMk5BIn0.rF1kX44TV9qsWCeV7jzXKAR4oMCMqjopn5BYbIP028U",
+      "longitude": 150.572697,
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "contract_type": "permanent",
+      "company": {
+        "display_name": "Aurizon",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "created": "2026-07-19T07:41:09Z",
+      "redirect_url": "https://www.adzuna.com.au/details/5806458506?utm_medium=api&utm_source=4e5ae6d3",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Queensland",
+          "Rockhampton Region",
+          "Rockhampton",
+          "Frenchville"
+        ],
+        "display_name": "Frenchville, Rockhampton"
+      },
+      "contract_time": "part_time",
+      "title": "Senior Reporting and Insights Analyst",
+      "description": "Location: Brisbane or Rockhampton Remuneration/Benefit: Attractive salary package circa $140k  Superannuation About the role: As Senior Reporting and Insights Analyst you will transform complex operational and asset data into meaningful insights that support strategic and day-to-day decision making. Working closely with stakeholders across the business, you'll develop reporting solutions, analyse trends, identify opportunities for improvement, and provide evidence-based recommendations that enh…",
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "id": "5806458506",
+      "latitude": -23.333581
+    },
+    {
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "id": "5790000943",
+      "latitude": -37.822504,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWU8teXBIeUo4UkdMdS03MTZ3QjJOQSIsImkiOiI1NzkwMDAwOTQzIn0.uJwgufkyecykkHpbeY2m265P8oUdP4_IQ4wwTEJDYCQ",
+      "longitude": 144.949988,
+      "company": {
+        "display_name": "Wesfarmers Health",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "retail-jobs",
+        "label": "Retail Jobs"
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5790000943?utm_medium=api&utm_source=4e5ae6d3",
+      "created": "2026-07-07T01:45:10Z",
+      "contract_time": "full_time",
+      "location": {
+        "area": [
+          "Australia",
+          "Victoria",
+          "Melbourne Region",
+          "Melbourne",
+          "World Trade Centre"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "World Trade Centre, Melbourne"
+      },
+      "title": "Supplier Strategy & Insights Analyst",
+      "description": "At Wesfarmers Health we strive to make health, beauty and wellness experiences simpler, more affordable and easier to access for all Australians. Our portfolio includes well-known names like Priceline, as well as our MediAesthetics brands - Clear Skincare Clinics and SILK Laser Clinics. In the digital space, we’re proud to have SISU Health and InstantScripts—and most recently, we’ve launched our newest retail beauty stores, atomica. About us: What began in 1910 as a small co-operative of just t…"
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "latitude": -33.885283,
+      "id": "5814762018",
+      "longitude": 151.203231,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgxNDc2MjAxOCIsInMiOiJZTy15cEh5SjhSR0x1LTcxNndCMk5BIn0.n7XODPPWQqWJ9PoMRPl--S_aRyGk5aH4WFNqtryKloQ",
+      "description": "About Prezzee Prezzee is a global leader in digital gifting and payments, having sold over 140 million gift cards through partnerships with more than 1,500 brands and serving over 6 million customers worldwide. Our mission is to change lives through the power of giving — leveraging borderless payment technology and innovative digital solutions to help people connect and create memorable moments that truly matter. About the role: As our Senior Growth & Insights Analyst, you'll play a key role in…",
+      "title": "Senior Growth & Insights Analyst",
+      "location": {
+        "display_name": "Sydney, Sydney Region",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney"
+        ]
+      },
+      "created": "2026-07-25T11:23:43Z",
+      "redirect_url": "https://www.adzuna.com.au/details/5814762018?utm_medium=api&utm_source=4e5ae6d3",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "pr-advertising-marketing-jobs",
+        "label": "PR, Advertising & Marketing Jobs"
+      },
+      "company": {
+        "display_name": "Prezzee",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      }
+    },
+    {
+      "id": "5781562923",
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "display_name": "New South Wales, Australia",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "New South Wales"
+        ]
+      },
+      "contract_time": "full_time",
+      "title": "Senior Business Insights Analyst",
+      "description": "Do you have expertise in business insights, commercial analytics and data storytelling powered by advanced technology, and a passion for turning complex data into strategic action? Would you like to apply your expertise to shape business decisions and improve commercial performance in a company that follows the science and turns ideas into life-changing medicines? Then AstraZeneca might be the one for you! ABOUT ASTRAZENECA AstraZeneca is a global, science-led biopharmaceutical company that foc…",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "consultancy-jobs",
+        "label": "Consultancy Jobs"
+      },
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "AstraZeneca"
+      },
+      "created": "2026-06-30T10:55:44Z",
+      "redirect_url": "https://www.adzuna.com.au/details/5781562923?utm_medium=api&utm_source=4e5ae6d3",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWU8teXBIeUo4UkdMdS03MTZ3QjJOQSIsImkiOiI1NzgxNTYyOTIzIn0.9ymT3RvMwbDS8v1EEhGADR2T-eKqNqgo3kUm3RoRgK0"
+    },
+    {
+      "redirect_url": "https://www.adzuna.com.au/details/5793096968?utm_medium=api&utm_source=4e5ae6d3",
+      "created": "2026-07-09T06:57:14Z",
+      "category": {
+        "label": "Retail Jobs",
+        "tag": "retail-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Cotton On Group"
+      },
+      "contract_type": "permanent",
+      "description": "Do you speak fashion? We're hiring, let’s chat! ABOUT USBorn in Australia, loved around the world. At Cotton On, we know good style goes well beyond what's in your wardrobe. We’re here to inspire, spark joy and bolster self-expression and creativity. We want our community to feel seen, heard and celebrated, and as a brand, we want to use our voice to make a positive difference in people's lives. We’re playfully rebellious and always optimistic. Join our world and let's do good things together. …",
+      "title": "People Data and Insights Analyst",
+      "location": {
+        "display_name": "Dennington, Warrnambool",
+        "area": [
+          "Australia",
+          "Victoria",
+          "Warrnambool Region",
+          "Warrnambool",
+          "Dennington"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "contract_time": "full_time",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWU8teXBIeUo4UkdMdS03MTZ3QjJOQSIsImkiOiI1NzkzMDk2OTY4In0.YMuLiADc3vVjqaRY_aTehGBDEwI5rPNwkmvnJb-b0Yo",
+      "longitude": 142.473937,
+      "id": "5793096968",
+      "latitude": -38.376621,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0"
+    },
+    {
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "id": "5811672965",
+      "latitude": -38.272291,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWU8teXBIeUo4UkdMdS03MTZ3QjJOQSIsImkiOiI1ODExNjcyOTY1In0.PvueL3jCbM8u7TJio9eqCyDAbdaqwlrZ-4YzQpELt9M",
+      "longitude": 144.175264,
+      "category": {
+        "tag": "pr-advertising-marketing-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "PR, Advertising & Marketing Jobs"
+      },
+      "company": {
+        "display_name": "Cotton On Group",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5811672965?utm_medium=api&utm_source=4e5ae6d3",
+      "created": "2026-07-23T11:19:47Z",
+      "location": {
+        "area": [
+          "Australia",
+          "Victoria",
+          "Geelong Region"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Geelong Region, Victoria"
+      },
+      "description": "Do you speak fashion? We're hiring, lets chat! ABOUT US Born in Australia, loved around the world. At Cotton On, we know good style goes well beyond what's in your wardrobe. Were here to inspire, spark joy and bolster self-expression and creativity. We want our community to feel seen, heard and celebrated, and as a brand, we want to use our voice to make a positive difference in people's lives. Were playfully rebellious and always optimistic. Join our world and let's do good things together. AB…",
+      "title": "Insights Analyst - Cotton On Global Support Centre"
+    },
+    {
+      "title": "Insights Analyst - Cotton On Global Support Centre",
+      "description": "Do you speak fashion? We're hiring, let’s chat! ABOUT US Born in Australia, loved around the world. At Cotton On, we know good style goes well beyond what's in your wardrobe. We’re here to inspire, spark joy and bolster self-expression and creativity. We want our community to feel seen, heard and celebrated, and as a brand, we want to use our voice to make a positive difference in people's lives. We’re playfully rebellious and always optimistic. Join our world and let's do good things together.…",
+      "contract_time": "full_time",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Victoria",
+          "Geelong Region",
+          "Geelong",
+          "Geelong West"
+        ],
+        "display_name": "Geelong West, Geelong"
+      },
+      "created": "2026-07-25T10:09:28Z",
+      "redirect_url": "https://www.adzuna.com.au/details/5814688374?utm_medium=api&utm_source=4e5ae6d3",
+      "category": {
+        "tag": "pr-advertising-marketing-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "PR, Advertising & Marketing Jobs"
+      },
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Cotton On Group"
+      },
+      "longitude": 144.360735,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWU8teXBIeUo4UkdMdS03MTZ3QjJOQSIsImkiOiI1ODE0Njg4Mzc0In0.PEGLBZUcellTCqEK4e24bD-E7ObH26wKDh0EjJPPGxs",
+      "latitude": -38.14729,
+      "id": "5814688374",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0"
+    },
+    {
+      "longitude": 144.999181,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWU8teXBIeUo4UkdMdS03MTZ3QjJOQSIsImkiOiI1NzkzNDQwNjAxIn0.2w265PbohECQZYmo-Tn8npBNyFfhDTEOma7-I9pXK_I",
+      "title": "Research & Insights Analyst - 12 Month Contract",
+      "description": "Firstly, what we offer you! Vibrant Open Office in Richmond. Work in a dynamic, collaborative space that sparks creativity Work Your Way. Enjoy the perfect balance of remote flexibility and in-office collaboration—get the best of both worlds Fuel Your Day. Enjoy free 7-Eleven coffee and snacks in the office—because great ideas start with great coffee Stay Social & Connected. Join our Social Club and Open Committee for regular events, celebrations, and fun activities Grow Without Limits. Access …",
+      "contract_time": "full_time",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Victoria",
+          "Melbourne Region",
+          "Yarra Area",
+          "Richmond North"
+        ],
+        "display_name": "Richmond North, Yarra Area"
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5793440601?utm_medium=api&utm_source=4e5ae6d3",
+      "created": "2026-07-09T10:01:22Z",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "pr-advertising-marketing-jobs",
+        "label": "PR, Advertising & Marketing Jobs"
+      },
+      "contract_type": "contract",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "7-Eleven"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "latitude": -37.818587,
+      "id": "5793440601"
+    },
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWU8teXBIeUo4UkdMdS03MTZ3QjJOQSIsImkiOiI1NzkzNTE4OTU1In0.btFWFZ6pQr7Gca9iJvRHRe1s0xWsoy2wLaOIwXGpr4s",
+      "created": "2026-07-09T11:06:17Z",
+      "redirect_url": "https://www.adzuna.com.au/details/5793518955?utm_medium=api&utm_source=4e5ae6d3",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "pr-advertising-marketing-jobs",
+        "label": "PR, Advertising & Marketing Jobs"
+      },
+      "company": {
+        "display_name": "7-Eleven",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "contract_type": "contract",
+      "title": "Research & Insights Analyst - 12 Month Contract",
+      "description": "Firstly, what we offer you! Vibrant Open Office in Richmond. Work in a dynamic, collaborative space that sparks creativity Work Your Way. Enjoy the perfect balance of remote flexibility and in-office collaboration—get the best of both worlds Fuel Your Day. Enjoy free 7-Eleven coffee and snacks in the office—because great ideas start with great coffee Stay Social & Connected. Join our Social Club and Open Committee for regular events, celebrations, and fun activities Grow Without Limits. Access …",
+      "location": {
+        "display_name": "Australia",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia"
+        ]
+      },
+      "contract_time": "full_time",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "id": "5793518955"
+    },
+    {
+      "redirect_url": "https://www.adzuna.com.au/details/5800478196?utm_medium=api&utm_source=4e5ae6d3",
+      "created": "2026-07-15T10:07:30Z",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      },
+      "company": {
+        "display_name": "Coles",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "contract_type": "permanent",
+      "description": "We’ve been proudly serving Australian communities since 1914 and have grown to become a top 30-listed company on the ASX with a portfolio of iconic homegrown brands. At the heart of our continued success is over 115,000 team members working across the country, all contributing to bringing our customers smiles. You’ll not only get to see your work make a difference, you’ll be part of a team working together to help Australians eat and live better every day. About the team Our Commercial team is …",
+      "title": "Insights & Analytics Analyst",
+      "contract_time": "full_time",
+      "location": {
+        "display_name": "Clifton Hill, Yarra Area",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Victoria",
+          "Melbourne Region",
+          "Yarra Area",
+          "Clifton Hill"
+        ]
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgwMDQ3ODE5NiIsInMiOiJZTy15cEh5SjhSR0x1LTcxNndCMk5BIn0.HZYhseCO6WFELcdkJY5Wu_5v_m8QxcqBIAZhFPoKnuc",
+      "longitude": 145.001811,
+      "id": "5800478196",
+      "latitude": -37.782254,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0"
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "id": "5778407553",
+      "latitude": -38.272291,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWU8teXBIeUo4UkdMdS03MTZ3QjJOQSIsImkiOiI1Nzc4NDA3NTUzIn0.bjlHWsEz_Qhag07_Vqwuma7GD5gw4TGIoWes371EoiU",
+      "longitude": 144.175264,
+      "created": "2026-06-27T10:49:18Z",
+      "redirect_url": "https://www.adzuna.com.au/details/5778407553?utm_medium=api&utm_source=4e5ae6d3",
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Cotton On Group"
+      },
+      "description": "Do you speak fashion? We're hiring, lets chat! ABOUT US Born in Australia, loved around the world. At Cotton On, we know good style goes well beyond what's in your wardrobe. Were here to inspire, spark joy and bolster self-expression and creativity. We want our community to feel seen, heard and celebrated, and as a brand, we want to use our voice to make a positive difference in people's lives. Were playfully rebellious and always optimistic. Join our world and let's do good things together. AB…",
+      "title": "People Data & Insights Analyst - Support Services Global Support Centre",
+      "location": {
+        "display_name": "Geelong Region, Victoria",
+        "area": [
+          "Australia",
+          "Victoria",
+          "Geelong Region"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      }
+    },
+    {
+      "id": "5778407774",
+      "latitude": -38.272291,
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "retail-jobs",
+        "label": "Retail Jobs"
+      },
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Cotton On Group"
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5778407774?utm_medium=api&utm_source=4e5ae6d3",
+      "created": "2026-06-27T10:49:25Z",
+      "contract_time": "full_time",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Victoria",
+          "Geelong Region"
+        ],
+        "display_name": "Geelong Region, Victoria"
+      },
+      "title": "People Data & Insights Analyst - Support Services Global Support Centre",
+      "description": "Description Do you speak fashion? We're hiring, let’s chat! ABOUT US Born in Australia, loved around the world. At Cotton On, we know good style goes well beyond what's in your wardrobe. We’re here to inspire, spark joy and bolster self-expression and creativity. We want our community to feel seen, heard and celebrated, and as a brand, we want to use our voice to make a positive difference in people's lives. We’re playfully rebellious and always optimistic. Join our world and let's do good thin…",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWU8teXBIeUo4UkdMdS03MTZ3QjJOQSIsImkiOiI1Nzc4NDA3Nzc0In0.CoU_rWBhsFzZkg2nGZ96fJvlJ68_Bvqcokrjd5uaqzQ",
+      "longitude": 144.175264
+    },
+    {
+      "id": "5782220840",
+      "latitude": -38.14729,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "redirect_url": "https://www.adzuna.com.au/details/5782220840?utm_medium=api&utm_source=4e5ae6d3",
+      "created": "2026-07-01T00:27:35Z",
+      "category": {
+        "label": "Retail Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "retail-jobs"
+      },
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Cotton On Group"
+      },
+      "description": "Do you speak fashion? We're hiring, let’s chat! ABOUT US Born in Australia, loved around the world. At Cotton On, we know good style goes well beyond what's in your wardrobe. We’re here to inspire, spark joy and bolster self-expression and creativity. We want our community to feel seen, heard and celebrated, and as a brand, we want to use our voice to make a positive difference in people's lives. We’re playfully rebellious and always optimistic. Join our world and let's do good things together.…",
+      "title": "People Data & Insights Analyst - Support Services Global Support Centre",
+      "location": {
+        "display_name": "Geelong West, Geelong",
+        "area": [
+          "Australia",
+          "Victoria",
+          "Geelong Region",
+          "Geelong",
+          "Geelong West"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "contract_time": "full_time",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWU8teXBIeUo4UkdMdS03MTZ3QjJOQSIsImkiOiI1NzgyMjIwODQwIn0.u3LOtomSvOm7xLX1LTW3AHs1pdPKwxlrXKkil6-qpFo",
+      "longitude": 144.360735
+    }
+  ],
+  "__CLASS__": "Adzuna::API::Response::JobSearchResults",
+  "count": 74
+}

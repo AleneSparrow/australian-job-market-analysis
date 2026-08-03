@@ -1,0 +1,14 @@
+{
+  "source": "Workforce Australia",
+  "search_term": "React developer",
+  "folder": "data/raw/workforce_australia/it_jobs/latest_run/queries/react_developer",
+  "started_at_utc": "2026-07-28T11:22:59.573310+00:00",
+  "finished_at_utc": "2026-07-28T11:23:31.410627+00:00",
+  "page_size": 100,
+  "downloaded_pages": 15,
+  "reused_pages": 0,
+  "raw_records_across_pages": 1493,
+  "unique_vacancy_ids_for_query": 1334,
+  "stopped_reason": "API returned fewer records than pageSize",
+  "last_request_url": "https://www.workforceaustralia.gov.au/api/v1/global/vacancies/?searchText=React+developer&pageNumber=15&pageSize=100"
+}

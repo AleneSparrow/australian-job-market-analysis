@@ -1,0 +1,1297 @@
+{
+  "source": "Workforce Australia",
+  "api_url": "https://www.workforceaustralia.gov.au/api/v1/global/vacancies/",
+  "request_url": "https://www.workforceaustralia.gov.au/api/v1/global/vacancies/?searchText=cyber+security&pageNumber=39&pageSize=100",
+  "search_term": "cyber security",
+  "page_number": 39,
+  "page_size": 100,
+  "downloaded_at_utc": "2026-07-28T10:12:14.632568+00:00",
+  "records_detected": 20,
+  "response": {
+    "totalCount": 3820,
+    "results": [
+      {
+        "score": 4.0938144,
+        "result": {
+          "contractType": null,
+          "creationDate": "2026-07-01T19:01:24.077",
+          "description": "  MedicalJobsAustralia.com     Kitchen Hand- Ceduna District Health Services\n\n\n\n Apply now\n Job no: 943531\n\n Work type: Full time, Part time\n\n Location: Eyre and Western\n\n Categories: Catering and Hospitality\n\n\n\n\n\n \n\nEyre and Far North Local Health Network, Ceduna District Health Services \n\nOngoing Full Time or Part Time (hours are negotiable)\n\nSalary: WHD2 $1,204.70 - $1,226.60 per week (pro rata) + Regional Allowance + Superannuation + Leave Loading + Salary Sacrifice Benefits\n\nAbout the Role\n\nJoin the friendly team at Ceduna Hospital as a Kitchen Hand and play a vital role in supporting patient care behind the scenes. This ongoing opportunity is available on a full-time or part-time basis, offering job security, flexibility, and the chance to be part of a close-knit health service that truly values its people.\n\nIn this hands-on role, you will contribute to the preparation, service and delivery of meals to patients, residents and staff, helping ensure a safe, clean and welcoming environment. You may also support other areas of the health unit such as laundry and housekeeping, providing variety in your day and strengthening teamwork across services.\n\nThis is a great opportunity for someone seeking stable employment, flexible hours, and meaningful work that makes a difference in the Ceduna community.\n\nAbout You\n\nDo you enjoy working as part of a team and take pride in contributing to a supportive, respectful workplace?\n\nAre you reliable, flexible and willing to work across kitchen, laundry and housekeeping areas as needed?\n\nDo you have good communication skills and enjoy providing friendly, respectful service to people from all backgrounds?\n\nAre you keen to learn new skills, follow clear instructions and maintain high standards of hygiene and safety?\n\nIf you have answered yes to the above, we would love to hear from you!\n\nHow Will You Contribute?\n\nAssist with the preparation, plating, service and delivery of meals in a timely and efficient manner.\n\nSupport safe and effective kitchen operations by maintaining cleanliness, handling stock and using equipment correctly.\n\nWork collaboratively with colleagues to support the smooth day-to-day operation of the health unit.\n\nParticipate in training and follow food safety, infection control and workplace health and safety standards.\n\nAbout Us\n\nWith its ancient outback landscapes, boutique vineyards, oyster farms and Australia's best-kept-secret surf coast, Eyre and Far North will inspire and energise you.\n\nThe Eyre and Far North Local Health Network (EFNLHN) is responsible for the planning and delivery of hospital and health services over 337,626 square kilometres, taking in the Eyre Peninsula, western part of South Australia and north to Coober Pedy. We are one of the largest LHNs by area in Australia and communities include Ceduna, Cleve, Coober Pedy, Cowell, Cummins, Elliston, Kimba, Oodnadatta, Port Lincoln, Streaky Bay, Tumby Bay and Wudinna.\n\nServices include acute care, medical, accident and emergency, surgery, birthing and midwifery, specialist consultancy, renal dialysis, chemotherapy, transfusions, rehabilitation, residential and community aged care, respite care, transitional care packages, Aboriginal health, mental health, allied health, community health, community nursing, palliative care, community home support packages and home modifications.\n\nClick here to learn more about living and working in Eyre and Far North Local Health Network.\n\nWhy Join Us\n\nMake a real difference and feel like an important part of the community. Being part of Eyre & Far North means you will be supported both personally and professionally, can take advantage of education and training opportunities, will have access to flexible working hours and be part of an inter-professional approach to holistic health care.\n\nSalary package a range of benefits (including living expenses such as mortgage, rent, utility bills and groceries) up to $9,010 each FBT year + $2,650 for Meal Entertainment expenses each FBT year Click here more information\n\nWellbeing and counselling support - support for you and your family via our free Employee Assistance Program\n\nRelocation support - relocation reimbursement of up to $15,000 may be available to people relocating for this opportunity. More information available from SA Health Careers - Relocation support.\n\nPaid leave including leave loading\n\nEmployee recognition - supportive and collaborative work environment where your contributions are valued and recognised.\n\nOur Commitment to Diversity and Inclusion\n\nSA Health is committed to providing an inclusive workplace that embraces diversity and inclusion for all employees. We strongly encourage applications from people of Aboriginal and Torres Strait Islander descent, culturally diverse backgrounds, members of the LGBTIQA+SB community and people who live with disability and-or neurodivergence.\n\nWe are committed to making workplace adjustments to provide a positive and supportive work environment. You are encouraged to let us know if have any support or access requirements during the recruitment process and beyond to ensure you can perform at your best.\n\nApplicant Information\n\nAppointment will be subject to a satisfactory Criminal History Check and appropriate immunisation requirements.\n\nCheck(s)\n\nNational Police Certificate (NPC) for employment involving unsupervised contact with vulnerable groups required for this position (E.g. aged care employment or work involving vulnerable clients)\n\nImmunisation Risk for this position is - Category B (indirect contact with blood or body substances)\n\nSA Health Services are required to implement the Addressing vaccine preventable disease: Occupational assessment, screening and vaccination policy in the workplace.\n\nFor more information about the role please refer to the role description provided below. Job ref: 943531\n\nEnquiries\n\nApplication Closing Date: 14 July 2026, 11:55PM\n\nEligibility: Open to Everyone\n\nRefer to the SA Health Career Website - How to apply for further information.\n\n 943531 - WHD2 - Kitchen Hand - Ceduna - Role Description.pdf\n\n JCS+Catering+Kitchen+Attendant+Pantry+Hand+final.pdf\n\n \n\n\n\n\n\n\n\n Advertised: 30 Jun 2026 Cen. Australia Standard Time\n\n Applications close: 14 Jul 2026 11:55 PM Cen. Australia Standard Time \n\n\n\n\n Apply now Refer a friend    Click here to Apply now → ",
+          "displayFromDate": "2026-07-01T00:00:00",
+          "employerId": "CfDJ8Nn8cBBigUhPiuiVER7neZoB18wiNHaM67pnUJgu7Su3EMUo7Fthm-2U6N0zaZzTw2yQxCsQvkuVgk_dK7yX3FYPs-vYMqJN8I0Im0gAd01XPtFMj8z8PT8janUFuq06cg",
+          "employerName": "Medical Jobs Australia",
+          "expiryDate": "2026-07-31T10:00:00",
+          "howToApplyCode": "PSD",
+          "industry": {
+            "code": "112",
+            "label": "Admin & Office"
+          },
+          "isApplyOnlineJob": false,
+          "isExternalJob": false,
+          "isFavourite": false,
+          "isIndigenousJob": false,
+          "isNewJob": false,
+          "jobType": {
+            "code": "H",
+            "label": "Normal position"
+          },
+          "latitude": "-34.52177446000",
+          "location": {
+            "code": "59BRSS",
+            "label": "SA - Regional - Barossa "
+          },
+          "logoUrl": "/api/v1/global/vacancies/logos/cms?code=PX28",
+          "longitude": "138.96027792999",
+          "modifiedDate": "2026-07-02T20:00:10.11",
+          "occupation": {
+            "code": "542112",
+            "label": "Admissions Clerk"
+          },
+          "organisation": {
+            "code": "VVNW",
+            "label": "MedicalJobsAustralia"
+          },
+          "positionsAvailable": 10,
+          "postCode": "5352",
+          "salary": {
+            "code": "SLNS",
+            "label": "Not Specified"
+          },
+          "site": {
+            "code": "PX28",
+            "label": "MedicalJobsAustralia"
+          },
+          "state": "SA",
+          "suburb": "Tanunda",
+          "tenure": {
+            "code": "N",
+            "label": "Contract position"
+          },
+          "title": "Kitchen Hand- Ceduna District Health Services Apply now Job no: 943531 Work type: Full time, Part time Location: Eyre and Western Categories: Cater...",
+          "vacancyId": 2350809975,
+          "workType": {
+            "code": "C",
+            "label": "Casual position"
+          }
+        }
+      },
+      {
+        "score": 4.0938144,
+        "result": {
+          "contractType": null,
+          "creationDate": "2026-07-15T19:09:50.473",
+          "description": "  MedicalJobsAustralia.com     Monash Health exists to reimagine care, so that people can live their best lives. \n\n\n\n\n\n\nWe provide safe and equitable care, for every stage of life, delivered with world-leading expertise and over 175 years of experience. \n\n\n\n\n\n\nAs a leading academic health service, we're committed to providing tomorrow's care today by integrating research, teaching and training into everyday practice. \n\n\n\n\n\n\nOur team of 24,000 people are full hearted, open minded and all in. Together, we provide more than 250 integrated services for every stage of life at over 50 locations and in the community across south-east Melbourne, Victoria, serving 1.2 million residents in the South Metro Local Health Service Network. \n\n\nAre you currently part of the team at Monash Health? Use your network login to access the Monash Health Careers portal and discover all the job opportunities open to you, to support growing your career within the organisation.\n\n\n\n\nTo see first-hand what our colleagues think about working here, take a look at the following short videos monashhealth.org-careers.\n\nShape how digital change is experienced across one of Australia's largest health services.\n\n\n\nAbout the Service\n\n\nThe Design and Architecture Services Department provides strategic architectural leadership across Monash Health, ensuring digital investments, systems and solutions align with organisational priorities and deliver long-term value. Working closely with clinical, operational and technology stakeholders, the team guides technology strategy, solution design, portfolio management and architectural governance to create a connected, sustainable and future-ready digital ecosystem that supports exceptional patient care and service delivery.\n\n\n\nAbout The Role\n\n\nIf appointed to this business-critical role, you'll provide strategic leadership across enterprise architecture, technology governance, solution design and application portfolio management. \n\n\nLeading a team of architects and technical specialists, and reporting to the Director, Digital Applications and Architecture, you'll be responsible for defining the future-state architecture for one of Australia's largest and most complex health services, ensuring digital investments align with clinical, operational and organisational priorities. Working closely with executive leaders, clinicians, technology teams and external partners, you'll establish architecture standards, guide major technology decisions and shape a connected, sustainable and future-ready digital ecosystem.\n\n\nSuccess in the role will be measured across four key areas: \n\n\n\nDevelopment and delivery of Monash Health's future-state architecture and technology roadmaps\n\n\nEstablishment of architecture governance, standards and design assurance practices\n\n\nApplication portfolio management, rationalisation and lifecycle planning \n\n\nExcellence in stakeholder engagement and development of trusted partnerships across clinical, operational and digital teams\n\n\n\nThis is a Full Time, ongoing role, based in our hybrid workplace. The importance of connection and relationship development across the business cannot be underestimated and you'll happily work on a Monash Health site at least half of your working week to support your team and drive this important work. Travel across Monash Health sites will be required.\n\n\n\nAbout You\n\n\nYou're a strategic technology leader who sees the bigger picture and brings others on the journey. You recognise that great architecture is about more than technology, it's about aligning digital investments with organisational priorities, enabling innovation, managing risk and creating sustainable foundations for the future.\n\n\nEqually comfortable influencing executives, collaborating with clinicians and working alongside technical teams to solve complex challenges, you have a strong background in enterprise architecture, digital transformation and technology strategy. In addition, you bring proven ability to translate organisational objectives into pragmatic roadmaps, standards and governance frameworks that deliver measurable value.\n\n\nAn inspiring leader, you build trust readily, creating alignment across diverse stakeholder groups and developing high performing teams. Combining strategic thinking with practical delivery, you're passionate about designing technology ecosystems that improve outcomes for clinicians, consumers and the broader health service.\n\n\nWhat you'll bring:\n\n\n\nSignificant leadership experience in enterprise architecture, technology strategy, solution architecture or digital transformation within a large, complex organisation\n\n\nStrong understanding of modern architecture practices, including cloud platforms, integration patterns, APIs, data ecosystems security, risk and compliance\n\n\nDemonstrated experience developing architecture roadmaps, governance frameworks, standards and design assurance practices that support strategic technology investment\n\n\nProven success leading high-performance specialist teams and navigating organisational change within complex or highly regulated environments\n\n\nExceptional communication, stakeholder engagement and influencing skills, with the ability to work effectively across executive, clinical, operational and technical environments\n\n\n\nTertiary qualifications in Information Technology, Computer Science, Digital Health or a related discipline will be highly regarded.\n\n\n\nWhy Join Design and Architecture Services at Monash Health\n\n\nTake advantage of a rare opportunity to shape and influence enterprise-wide technology strategy, drive digital transformation and play a key role in enabling the delivery of safer, connected and more sustainable healthcare. Working at the intersection of clinical care, technology and innovation, you'll help create smarter digital solutions that improve patient outcomes and support the clinicians who deliver them every day\n\n\n\n\nAt Monash Health, you will:\n\n\n\n\nWork within a values-driven, purpose-led organisation \n\n\nBe part of a connected network of clinical, academic and system leaders \n\n\nHelp drive innovation, inclusion and better health outcomes\n\n\n\n\n\nWe offer:\n\n\n\n\nThe opportunity to make a real impact on patient experience\n\n\nA supportive, collaborative team environment\n\n\nOngoing learning and development opportunities\n\n\nThe chance to be part of Victoria's largest public health service\n\n\n\n\nFor a confidential discussion and to explore this opportunity further, please reach out to Victoria Hornidge, Director, Digital Applications, on 0425 728 838\n\n\n\nPosition Description can be found here\n\n\n\n\n\nOur Culture and Values \n\n\n\n\n\n\nAt Monash Health, our people are at the heart of everything we do. Our culture is inclusive, supportive and future-focused, underpinned by clear values and a commitment to continuous improvement. \n\n\n\n\n\n\nOur teams play a critical role in bringing our new strategy to life, challenging traditional approaches, embracing innovation,\n\nClick here for more details: https://www.medicaljobsaustralia.com/jobs/586159/    Click here to Apply now → ",
+          "displayFromDate": "2026-07-15T00:00:00",
+          "employerId": "CfDJ8Nn8cBBigUhPiuiVER7neZr212oy7uLivwFdB7FQppMsmo_M80DqafqL0nBm5AK8xN5Jhdqwh__o3ksJpi7WAhemmPKSDoO4U7ciOQNUY6mDFoT6joF5QTG1ySHtLt_4Jw",
+          "employerName": "Medical Jobs Australia",
+          "expiryDate": "2026-08-14T10:00:00",
+          "howToApplyCode": "PSD",
+          "industry": {
+            "code": "112",
+            "label": "Admin & Office"
+          },
+          "isApplyOnlineJob": false,
+          "isExternalJob": false,
+          "isFavourite": false,
+          "isIndigenousJob": false,
+          "isNewJob": false,
+          "jobType": {
+            "code": "H",
+            "label": "Normal position"
+          },
+          "latitude": "-37.82503942000",
+          "location": {
+            "code": "71CBDS",
+            "label": "VIC - Melbourne - CBD & Surrounds"
+          },
+          "logoUrl": "/api/v1/global/vacancies/logos/cms?code=PX28",
+          "longitude": "144.97151194",
+          "modifiedDate": "2026-07-16T20:00:12.12",
+          "occupation": {
+            "code": "542112",
+            "label": "Admissions Clerk"
+          },
+          "organisation": {
+            "code": "VVNW",
+            "label": "MedicalJobsAustralia"
+          },
+          "positionsAvailable": 10,
+          "postCode": "3000",
+          "salary": {
+            "code": "SLNS",
+            "label": "Not Specified"
+          },
+          "site": {
+            "code": "PX28",
+            "label": "MedicalJobsAustralia"
+          },
+          "state": "VIC",
+          "suburb": "Melbourne",
+          "tenure": {
+            "code": "N",
+            "label": "Contract position"
+          },
+          "title": "Head of Design and Architecture Services",
+          "vacancyId": 2351238080,
+          "workType": {
+            "code": "C",
+            "label": "Casual position"
+          }
+        }
+      },
+      {
+        "score": 3.788483,
+        "result": {
+          "contractType": null,
+          "creationDate": "2026-07-10T18:03:19.803",
+          "description": "  Job Benefits  \n \n \n  Enjoy a highly sought after 9 day fortnight layout  .  \n \n \n  Work a standard schedule from 7:00 AM to 4:15 PM Monday to Thursday and 7:00 AM to 1:00 PM on working Fridays.  \n \n \n  Competitive salary packaging dependent on experience with overtime opportunities  .  \n \n \n  Permanent role attached to a continuous, critical national marine program with excellent long term career investment  .  \n \n \n  Work inside a sector leading facility featuring specialised clean rooms and advanced testing equipment  .  \n \n \n  Full workshop tooling and PPE provided from day one  .  \n \n \n \n  What Your Day Will Look Like  \n Working under the guidance of the workshop supervisor within a collaborative team, your daily responsibilities will include: \n \n \n  Executing the end to end strip, survey, cleaning, refurbishment, assembly, and testing of hydraulic and mechanical equipment  .  \n \n \n  Diagnosing and resolving technical problems on high integrity hydraulic equipment in accordance with strict departmental procedures  .  \n \n \n  Maintaining clean room management protocols and conducting regular maintenance on workshop equipment  .  \n \n \n  Reading and interpreting detailed drawings, undertaking goods inwards inspections and accurately completing vital supporting documentation  .  \n \n \n  Actively contributing to a safe working culture aiming for zero lost time injuries or erroneous environmental discharges, while identifying continuous workshop process improvements  .  \n \n \n \n  Requirements for the Job  \n  We are open to trade qualified professionals from a variety of backgrounds including industrial hydraulics, heavy industry, cylinders, or similar manufacturing sectors  . To be successful, you will need:  \n \n \n  A formal Trade Certificate in a relevant engineering or mechanical trade discipline  .  \n \n \n  Extensive hands on experience in the refurbishment, stripping, and assembly of hydraulic and mechanical systems  .  \n \n \n  The ability to read, interpret and work accurately from detailed drawings  .  \n \n \n  A current Australian driver's licence  . (Additional tickets like Forklift (LF) or Light Rigid (LR) are highly regarded)  .  \n \n \n  Due to the strict security nature of the facility and the assets you will handle, y  ou must hold, or be able to obtain a baseline clearance.  \n \n \n  Ability to pass a comprehensive pre employment medical assessment  .  \n \n \n   Your next Steps  \n If you're interested, apply via the \"Apply Now\" button or email your up to date CV to hayden.page@randstad.com.au - alternatively, you can call Hayden on 0497 596 915 for more information on this role and to find out about other opportunities in South Australia. \n\n At Randstad, we are passionate about providing equal employment opportunities and embracing diversity to the benefit of all. We actively encourage applications from any background. \n   \n    Please  click here  to apply. ",
+          "displayFromDate": "2026-07-10T00:00:00",
+          "employerId": "CfDJ8Nn8cBBigUhPiuiVER7neZqznSweqIlsFN0tIKkxAuZR5FC8kYeW-EF_0on6IL0vE0VinJP0IR9lW7hXu70CLUgle3QBGV2mCEoWL8UUCAxwGT-ALWtilk9FsWB9x50pQQ",
+          "employerName": "Hayden Page",
+          "expiryDate": "2026-08-10T10:00:00",
+          "howToApplyCode": "PSD",
+          "industry": {
+            "code": "137",
+            "label": "Trades"
+          },
+          "isApplyOnlineJob": false,
+          "isExternalJob": false,
+          "isFavourite": false,
+          "isIndigenousJob": false,
+          "isNewJob": false,
+          "jobType": {
+            "code": "H",
+            "label": "Normal position"
+          },
+          "latitude": "-34.86607123000",
+          "location": {
+            "code": "51CADL",
+            "label": "SA - Adelaide - Central Adelaide"
+          },
+          "logoUrl": "/api/v1/global/vacancies/logos/employer?employerId=cDtmsB84c1IY5IqqwaesUg&logoSize=100",
+          "longitude": "138.54153812000",
+          "modifiedDate": "2026-07-13T19:00:19.84",
+          "occupation": {
+            "code": "323211",
+            "label": "Fitter (General)"
+          },
+          "organisation": {
+            "code": "SSEL",
+            "label": "Randstad"
+          },
+          "positionsAvailable": 1,
+          "postCode": "5012",
+          "salary": {
+            "code": "SLHR",
+            "label": "Hourly Rate"
+          },
+          "site": {
+            "code": "EIDZ",
+            "label": "Select Aust Sydney"
+          },
+          "state": "SA",
+          "suburb": "WOODVILLE NORTH",
+          "tenure": {
+            "code": "P",
+            "label": "Permanent position"
+          },
+          "title": "Mechanical Fitter / Hydraulic Technician",
+          "vacancyId": 2351054528,
+          "workType": {
+            "code": "F",
+            "label": "Full time position"
+          }
+        }
+      },
+      {
+        "score": 3.76494,
+        "result": {
+          "contractType": null,
+          "creationDate": "2026-07-18T19:02:24.61",
+          "description": "  MedicalJobsAustralia.com     Social Worker- Aboriginal Health\n\n\n\n\n\nJob no: 942089\n\nWork type: Full time, Part time\n\nLocated in: Various\n\nCategories: Community and Social Services, Child, Aged and Disability Care, Aboriginal Health\n\n\n\n\n \n\nNorthern Adelaide Local Health Network - Watto Purrunna, Aboriginal Health - ELIZABETH VALE SA 5112\n\nSalary: $94,997 - $110,052 p.a. (pro rata) plus Superannuation and Salary Sacrifice benefits - AHP2 \n\nTemporary Full-Time and Part-Time up to 31 July 2027\n\nAbout the Role:\n\nThe Northern Adelaide Local Health Network (NALHN) is seeking a committed Social Worker to join Watto Purrunna's Social and Emotional Wellbeing team and deliver culturally responsive support to Aboriginal and Torres Strait Islander communities across northern Adelaide. This is a full-time or part-time, fixed-term contract through to 31 July 2027.\n\nYour Role in the Community\n\nEmbedded within NALHN's Watto Purrunna Aboriginal Health Service, you will work alongside multidisciplinary teams to address the social determinants of health for Aboriginal patients and their families. Your key responsibilities will include:\n\nProviding culturally safe casework, assessment, and care coordination for Aboriginal and Torres Strait Islander patients across various NALHN sites\n\nDeveloping and maintaining partnerships with Aboriginal community-controlled health organisations and community services in the northern Adelaide region\n\nAdvocating for patients navigating complex health and social systems, including housing, family support, and income security\n\nContributing to team-based care planning and effective transfer of care coordination with a focus on continuity of care\n\nWhat You Bring\n\nTertiary qualification in Social Work and eligibility for membership with the Australian Association of Social Workers (AASW)\n\nDemonstrated experience delivering social work services to Aboriginal and Torres Strait Islander individuals, families, or communities\n\nStrong understanding of trauma-informed, strengths-based practice within a health setting\n\nProven ability to build trust with Aboriginal clients and community stakeholders in a culturally respectful manner\n\nExperience working within or alongside multidisciplinary primary health care teams\n\nCurrent SA driver's licence, as the role operates across various northern Adelaide locations\n\nTo be eligible for this position, you must have an Appropriate Degree or equivalent qualification which gives eligibility for full membership of the Australian Association of Social Workers\n\nAbout You:\n\nThe Social and Emotional Wellbeing team is currently undergoing an expansion aimed at increasing capacity to support clients with complex needs. This is an excellent opportunity to contribute to a passionate, highly driven, dedicated and progressive team.\n\nAbout Us:\n\nThe Northern Adelaide Local Health Network (NALHN) is a leading provider of public healthcare services in South Australia, and one of the largest employers in northern Adelaide. \n\nNALHN serves over 400,000 people in northern Adelaide with a comprehensive range of high-quality healthcare services, including emergency, surgical, obstetric, neonatal, paediatric, oncology, geriatric, palliative care and rehabilitation, and mental health care, as well as primary health care services with a focus on community health promotion and chronic disease management.\n\nWith a commitment for ongoing upgrades to our facilities and the introduction of new services, our priority is delivering exceptional health and wellbeing services that enhance the quality of life for our community.\n\nOur 300-plus Allied Health professionals play an integral role in multidisciplinary teams delivering outstanding care to patients across our acute, subacute and hospital avoidance services.\n\nAt NALHN Everyone Has a Story, Everyone Matters, Everyone Contributes and Everyone Grows.\n\nAt NALHN, we have a strong commitment to providing a clinically interesting professional experience, with structured and supportive education and professional development, and career progression pathways.\n\nSome feedback from current employees about working as Allied Health Professionals in NALHN includes:\n\n\"My favourite part about working in NALHN is the close working relationships we have across Allied Health to optimise patient care.\"\n\n\"I feel like I'm part of a growing and developing service.\"\n\n\"I love the great team dynamic and the culture of learning and support.\"\n\nOur Local Health Network Sites and Services:\n\nNALHN provides a range of hospital (inpatient), outpatient, community and home-based services across multiple sites in Adelaide's north and north-eastern suburbs, including Aboriginal health, mental health, and GP services.\n\nLyell McEwin Hospital - the major hospital in northern Adelaide for emergency care, complex and multi-day surgery, medicine, obstetric, paediatrics and outpatient services.\n\nModbury Hospital - a general hospital with emergency care, elective surgery, medicine, outpatient and sub-acute services, rehabilitation, geriatric and palliative care.\n\nMental Health Services - adult and older persons mental health services and statewide forensic mental health services, across hospital and community settings.\n\nWatto Purrunna Aboriginal Primary Health Care Services - provides culturally responsive primary healthcare services for Aboriginal and Torres Strait Islander people in-hospital and across four community sites.\n\nPrimary Health Care Services - including GP Plus sites at Elizabeth, Modbury and Gilles Plains.\n\nBenefits of working at NALHN:\n\nFrom salary packaging to flexible working arrangements, a large range of opportunities for movement and career progression, you'll find there are lots of benefits of working with Northern Adelaide Local Health Network.\n\nIncremental wage increases in-line with the Allied Health Professionals, Assistants and Psychologists Enterprise Agreement 2025\n\nAccess to experienced clinicians across a broad range of expertise, who are supportive of collegial sharing of skills and knowledge in different therapies and client presentations.\n\nSalary packaging is an option for saving money by paying for some of your everyday expenses from your salary before it is taxed.\n\nRelocation assistance may be available for successful applicants from interstate or overseas.\n\nNALHN supports and fosters a culture in which employees feel they belong and feel safe at work. The culture aims to encourage all people to use their talents and to be valued and rewarded for their contributions.\n\nIn addition to this, other benefits of working as a Social Worker in NALHN include:\n\nprofessional development opportunities. We have a well-established Allied Health Education unit which offers high-quality, targeted in-house training, and under the current enterprise agreement staff are also eligible for a Professional Development Allowance and entitled to claim reimbursement of eligible professional development expenses to allow you to continue to build upon your professional\n\nClick here for more details: https://www.medicaljobsaustralia.com/jobs/611764/    Click here to Apply now → ",
+          "displayFromDate": "2026-07-18T00:00:00",
+          "employerId": "CfDJ8Nn8cBBigUhPiuiVER7neZpWX7d4apKB3rj9rgHaN5YRuUuwM364PGPh5kmWLPBTHCFvJxzZOdDjTSoa3tkaaFbL9SssUeFfZzTf7tClkYiw9gYaPsC4mAUTQv78poHVhA",
+          "employerName": "Medical Jobs Australia",
+          "expiryDate": "2026-08-17T10:00:00",
+          "howToApplyCode": "PSD",
+          "industry": {
+            "code": "112",
+            "label": "Admin & Office"
+          },
+          "isApplyOnlineJob": false,
+          "isExternalJob": false,
+          "isFavourite": false,
+          "isIndigenousJob": false,
+          "isNewJob": false,
+          "jobType": {
+            "code": "H",
+            "label": "Normal position"
+          },
+          "latitude": "-34.52177446000",
+          "location": {
+            "code": "59BRSS",
+            "label": "SA - Regional - Barossa "
+          },
+          "logoUrl": "/api/v1/global/vacancies/logos/cms?code=PX28",
+          "longitude": "138.96027792999",
+          "modifiedDate": "2026-07-21T10:30:12.877",
+          "occupation": {
+            "code": "542112",
+            "label": "Admissions Clerk"
+          },
+          "organisation": {
+            "code": "VVNW",
+            "label": "MedicalJobsAustralia"
+          },
+          "positionsAvailable": 10,
+          "postCode": "5352",
+          "salary": {
+            "code": "SLNS",
+            "label": "Not Specified"
+          },
+          "site": {
+            "code": "PX28",
+            "label": "MedicalJobsAustralia"
+          },
+          "state": "SA",
+          "suburb": "Tanunda",
+          "tenure": {
+            "code": "N",
+            "label": "Contract position"
+          },
+          "title": "Social Worker- Aboriginal Health",
+          "vacancyId": 2351350529,
+          "workType": {
+            "code": "C",
+            "label": "Casual position"
+          }
+        }
+      },
+      {
+        "score": 3.76494,
+        "result": {
+          "contractType": null,
+          "creationDate": "2026-07-21T19:02:50.293",
+          "description": "  MedicalJobsAustralia.com     Service Assistant Orderly\n\n\n\n Apply now\n Job no: 945367\n\n Work type: Full time\n\n Location: Eyre and Western\n\n Categories: Community and Social Services, Child, Aged and Disability Care, Support Services\n\n\n\n\n\n \n\nEyre and Far North Local Health Network, Port Lincoln Health Services \n\nSalary: WHD3 $1,250.29 to $1,281.40 per week + 12% Superannuation + Salary Sacrifice Benefits + Leave loading \n\nPermanent Full time position, working over a 7 day roster\n\nBegin Your Journey as an Orderly at Eyre and Far North Local Health Network!\n\nPort Lincoln Hospital is the region's principal healthcare facility, serving the Eyre Peninsula community with a broad range of acute and primary health services. If you take pride in practical, hands-on work and want it to genuinely matter to the people around you, this full-time ongoing role as a Service Assistant Orderly is worth your attention.\n\nWhat You'll Be Doing\n\nWorking across Port Lincoln Hospital as part of the Eyre and Far North Local Health Network, you'll keep essential services moving so that clinical teams can focus on patient care. Your day-to-day responsibilities will include:\n\nTransporting patients safely and respectfully within the hospital\n\nCollecting, delivering, and returning equipment to the correct areas\n\nTransporting pathology and other specimens in line with handling protocols\n\nManaging the delivery of clean linen and timely removal of soiled linen and waste\n\nWhat You'll Bring\n\nA reliable, punctual approach and the physical capacity to perform manual handling tasks throughout a full shift\n\nClear, respectful communication with patients, visitors, and healthcare staff\n\nAn understanding of, or willingness to learn, infection control and safe waste-handling procedures as required within SA Health facilities\n\nThe ability to prioritise competing tasks calmly in a busy hospital environment\n\nWhy Port Lincoln Hospital\n\nAs part of SA Health and the Eyre and Far North Local Health Network, you'll have access to salary packaging benefits that can meaningfully increase your take-home pay - a genuine advantage of working in the public health sector. Port Lincoln offers an enviable lifestyle on the Eyre Peninsula, with outstanding fishing, seafood, and open coastline right on the doorstep. The hospital team is close-knit, and the work you do each day has a direct, visible impact on patients and families who rely on local care. Ongoing employment means genuine job security, with the support and structure of one of South Australia's largest health employers behind you.\n\nReady to Apply?\n\nSubmit your application through the SA Health careers portal. Include a current resume and a brief cover letter outlining your suitability for the role. For questions about the position, reach out to the hiring manager - their details are listed in the role profile.\n\nAbout Us \n\nWith its ancient outback landscapes, boutique vineyards, oyster farms and Australia's best-kept-secret surf coast, Eyre and Far North will inspire and energise you.\n\nThe Eyre and Far North Local Health Network (EFNLHN) is responsible for the planning and delivery of hospital and health services over 337,626 square kilometres, taking in the Eyre Peninsula, western part of South Australia and north to Coober Pedy. We are one of the largest LHNs by area in Australia and communities include Ceduna, Cleve, Coober Pedy, Cowell, Cummins, Elliston, Kimba, Oodnadatta, Port Lincoln, Streaky Bay, Tumby Bay and Wudinna.\n\nServices include acute care, medical, accident and emergency, surgery, birthing and midwifery, specialist consultancy, renal dialysis, chemotherapy, transfusions, rehabilitation, residential and community aged care, respite care, transitional care packages, Aboriginal health, mental health, allied health, community health, community nursing, palliative care, community home support packages and home modifications.\n\nClick here to learn more about living and working in Eyre and Far North Local Health Network.\n\nWhy Join Us\n\nMake a real difference and feel like an important part of the community. Being part of Eyre & Far North means you will be supported both personally and professionally, can take advantage of education and training opportunities, will have access to flexible working hours and be part of an inter-professional approach to holistic health care.\n\nSalary package a range of benefits (including living expenses such as mortgage, rent, utility bills and groceries) up to $9,010 each FBT year + $2,650 for Meal Entertainment expenses each FBT year Click here more information\n\nWellbeing and counselling support: support for you and your family via our free Employee Assistance Program\n\nRelocation support: relocation reimbursement of up to $15,000 may be available to people relocating for this opportunity. More information available from SA Health Careers - Relocation support.\n\nEmployee recognition: supportive and collaborative work environment where your contributions are valued and recognised.\n\nOur Commitment to Diversity and Inclusion\n\nSA Health is committed to providing an inclusive workplace that embraces diversity and inclusion for all employees. We strongly encourage applications from people of Aboriginal and Torres Strait Islander descent, culturally diverse backgrounds, members of the LGBTIQA+SB community and people who live with disability and-or neurodivergence.\n\nWe are committed to making workplace adjustments to provide a positive and supportive work environment. You are encouraged to let us know if have any support or access requirements during the recruitment process and beyond to ensure you can perform at your best.\n\nApplicant Information\n\nThe South Australian public sector promotes diversity and flexible ways of working including part-time. Applicants are encouraged to discuss the flexible working arrangements for this role.\n\nAppointment will be subject to a satisfactory Criminal History Check and appropriate immunisation requirements.\n\nCheck(s)\n\nDHS Working With Children Check (WWCC) \n\nNational Police Certificate (NPC) for employment involving unsupervised contact with vulnerable groups required for this position (E.g. aged care employment or work involving vulnerable clients) \n\nImmunisation Risk for this position is - Category A (direct contact with blood or body substances)\n\nSA Health Services are required to implement the Addressing vaccine preventable disease: Occupational assessment, screening and vaccination policy in the workplace.\n\nFor more information about the role please refer to the role description provided below. Job ref: 945367\n\nEnquiries\n\nTaia Mullan\nPosition: General Services Manager\nPhone: 76691215\nE-mail: taia.mullan@sa.gov.au\n\nApplication Closing Date: 31 July 2026, 11:55PM\n\nRefer to the SA Health Career Website - How to apply for further information.\n\nEligibility: Open to Everyone\n\n 945367 - WHD3 - Orderly - Port Lincoln - Role Description.pdf\n\n \n\n\n\n\n\n\n\n Advertised: 18 Jul 2026 Cen. Australia Standard Time\n\n Applications c\n\nClick here for more details: https://www.medicaljobsaustralia.com/jobs/620895/    Click here to Apply now → ",
+          "displayFromDate": "2026-07-21T00:00:00",
+          "employerId": "CfDJ8Nn8cBBigUhPiuiVER7neZpws9iKF7POxEbCkwCHA112DlOUwwufSvQZ2acJcIBsCIVGY7mfMIRNaXoVYHIPcMr15PVOB8TFdsA3r1BwF2kBhlnb-1t9Bq6T5CLKB6ZWZA",
+          "employerName": "Medical Jobs Australia",
+          "expiryDate": "2026-08-20T10:00:00",
+          "howToApplyCode": "PSD",
+          "industry": {
+            "code": "112",
+            "label": "Admin & Office"
+          },
+          "isApplyOnlineJob": false,
+          "isExternalJob": false,
+          "isFavourite": false,
+          "isIndigenousJob": false,
+          "isNewJob": false,
+          "jobType": {
+            "code": "H",
+            "label": "Normal position"
+          },
+          "latitude": "-34.52177446000",
+          "location": {
+            "code": "59BRSS",
+            "label": "SA - Regional - Barossa "
+          },
+          "logoUrl": "/api/v1/global/vacancies/logos/cms?code=PX28",
+          "longitude": "138.96027792999",
+          "modifiedDate": "2026-07-22T20:00:06.86",
+          "occupation": {
+            "code": "542112",
+            "label": "Admissions Clerk"
+          },
+          "organisation": {
+            "code": "VVNW",
+            "label": "MedicalJobsAustralia"
+          },
+          "positionsAvailable": 10,
+          "postCode": "5352",
+          "salary": {
+            "code": "SLNS",
+            "label": "Not Specified"
+          },
+          "site": {
+            "code": "PX28",
+            "label": "MedicalJobsAustralia"
+          },
+          "state": "SA",
+          "suburb": "Tanunda",
+          "tenure": {
+            "code": "N",
+            "label": "Contract position"
+          },
+          "title": "Service Assistant Orderly Apply now Job no: 945367 Work type: Full time Location: Eyre and Western Categories: Community and Social Services, Child...",
+          "vacancyId": 2351485864,
+          "workType": {
+            "code": "C",
+            "label": "Casual position"
+          }
+        }
+      },
+      {
+        "score": 3.76494,
+        "result": {
+          "contractType": null,
+          "creationDate": "2026-07-27T15:32:47.623",
+          "description": " Are you an experienced Industrial Electrician looking to escape erratic shift work or unpredictable domestic call-outs and secure a high-paying, local plant run? We are currently seeking a qualified  Maintenance Electrician  to join the Facilities Management team at a major  Government Health Precinct  in  Chermside . \n Embedded directly within the high-volume  Linen Services Department , this position offers an immediate start with a clear  temp-to-perm pathway . Prove your automation and industrial maintenance skills on-site and transition into a permanent, secure public sector career. \n  The Package & Perks  \n \n \n  Competitive Hourly Rate:   $56.95 per hour + Super  (paid weekly). \n \n \n  On-Site Parking:  Fully included on-site parking for the successful candidate. \n \n \n  Flexible Roster:  Choose your own start and finish times, provided your standard daily hours are worked within a flexible  6:00 AM to 6:00 PM  window. \n \n \n  Work-Life Balance:  Complete control over your day with zero unpredictable call-out rosters. \n \n \n  Career Security:  Strong temp-to-perm pathway to secure a permanent footprint within public sector infrastructure. \n \n \n  Extra Earnings:  Occasional opportunities for overtime and scheduled plant shutdown work to heavily boost your take-home pay. \n \n \n  The Work  \n Working within a heavy industrial processing environment on a hospital campus, you will focus on the electrical upkeep, control diagnostics, and breakdown response for high-capacity automated laundry plant equipment. \n \n \n  Plant Maintenance & Diagnostics:  Perform preventative maintenance, electrical fault-finding, and control circuit diagnostics on continuous batch washers, commercial dryers, automated monorail conveyor systems, hydraulic presses, and motor control centres (MCCs). \n \n \n  Automation & Controls:  Inspect, repair, and service sensors, relays, variable speed drives (VSDs), programmable controllers, and safety circuit systems. \n \n \n  Safety & Hazard Management:  Execute daily task risk assessments (JSA/TAK) while operating safely around thermal utilities, high-voltage plant rooms, and automated production machinery. \n \n \n  What You Need  \n We are tracking for a safety-conscious, trade-qualified Electrician with solid exposure to industrial production plant, automation, or manufacturing environments. \n \n \n  Trade Qualification & Licensing:  Cert III in Electrotechnology and a valid  QLD Electrical Work Licence  (Electrical Mechanic minimum). \n \n \n  Safety Tickets:  Current LVR/CPR and Construction Industry White Card. \n \n \n  Pre-Employment Compliance:  Willingness to undergo a National Police Check and meet standard hospital Vaccination Personnel Compliance (VPD) requirements. \n \n \n  Advantageous Tickets:  Working at Heights (WAH) or Confined Space (CS) qualifications are highly regarded. \n \n \n  Rights:  Full Australian Working Rights. \n \n \n  Apply Now  \n If you are a qualified Maintenance Electrician looking for a stable local run with flexible working hours and a clear permanent career pathway, click  APPLY  to submit your resume. \n For a confidential discussion regarding this Chermside opportunity, please contact  Samuel Vella  at  samuel.vella@randstad.com.au .  Please  click here  to apply. ",
+          "displayFromDate": "2026-07-27T00:00:00",
+          "employerId": "CfDJ8Nn8cBBigUhPiuiVER7neZpBU1F7024KSMlnX8a3qAJuhNJolg-HyVnqW_qBfrRbR1OisRU8vzABBdxwT09ixjUk8LCz91fK86kQPmDgS4Jg2Udq6pGbJe8mI3gokr6B4g",
+          "employerName": "Samuel Vella",
+          "expiryDate": "2026-08-26T10:00:00",
+          "howToApplyCode": "PSD",
+          "industry": {
+            "code": "137",
+            "label": "Trades"
+          },
+          "isApplyOnlineJob": false,
+          "isExternalJob": false,
+          "isFavourite": false,
+          "isIndigenousJob": false,
+          "isNewJob": false,
+          "jobType": {
+            "code": "H",
+            "label": "Normal position"
+          },
+          "latitude": "-27.38511302999",
+          "location": {
+            "code": "41BRIS",
+            "label": "QLD - Brisbane & Gold Coast - Brisbane & Surrounds"
+          },
+          "logoUrl": "/api/v1/global/vacancies/logos/employer?employerId=cDtmsB84c1IY5IqqwaesUg&logoSize=100",
+          "longitude": "153.03229906000",
+          "modifiedDate": "2026-07-28T17:54:12.15",
+          "occupation": {
+            "code": "3411",
+            "label": "Electricians"
+          },
+          "organisation": {
+            "code": "SSEL",
+            "label": "Randstad"
+          },
+          "positionsAvailable": 1,
+          "postCode": "4032",
+          "salary": {
+            "code": "SLHR",
+            "label": "Hourly Rate"
+          },
+          "site": {
+            "code": "EIDZ",
+            "label": "Select Aust Sydney"
+          },
+          "state": "QLD",
+          "suburb": "CHERMSIDE",
+          "tenure": {
+            "code": "T",
+            "label": "Temporary position"
+          },
+          "title": "Electrician",
+          "vacancyId": 2351758337,
+          "workType": {
+            "code": "F",
+            "label": "Full time position"
+          }
+        }
+      },
+      {
+        "score": 3.742701,
+        "result": {
+          "contractType": null,
+          "creationDate": "2026-07-23T19:02:14.447",
+          "description": "  MedicalJobsAustralia.com     Monash Health exists to reimagine care, so that people can live their best lives.\n\n\n\nWe provide safe and equitable care, for every stage of life, delivered with world-leading expertise and over 175 years of experience. \n\n\n\nAs a leading academic health service, we're committed to providing tomorrow's care today by integrating research, teaching and training into everyday practice. \n\n\n\nOur team of 24,000 people are full hearted, open minded and all in. Together, we provide more than 250 integrated services for every stage of life at over 50 locations and in the community across south-east Melbourne, Victoria, serving 1.2 million residents in the South Metro Local Health Service Network. \n\n\n\nTo see first-hand what our colleagues think about working here, take a look at the following short videos monashhealth.org-careers.\n\nHelp shape the future of healthcare at Monash Health and embark on a rewarding career where your dedication makes a difference in people's lives.\nAbout Monash Health Pathology Service \n\nYou will be joining Monash Health at an exciting time as we work in partnership with Alfred Health to be the premier shared public pathology service in Victoria. As a member of the pathology team you will be helping shape the direction of the partnership. Monash Health Pathology is an integral part of Monash Health. It is the largest public provider of Pathology services in the state and currently operates 6 laboratories. The largest of these is located at the Monash Medical Centre, Clayton, with additional laboratories located at the Dandenong, Moorabbin, Casey, Victorian Heart Hospital and Wonthaggi Hospitals. There are currently 18 collection locations based within the hospital sites and community settings. Services are provided to the Public and Private sectors, and other laboratory services. \n\n\n\nAbout the Role \n\n\n\nThe incumbent needs a very good understanding of pathology specimen reception with several years' experience. In addition they require an excellent understanding of processes and procedures and had practical experience of learning methodologies and how to conduct training courses either in a one-on-one, on the job, or classroom situation. He-she needs to have an understanding of presentation skills and technologies to deliver effective courses and course materials. You will be part of a roster that rotates with other team members Monday to Friday. Health and Safety is essential requirements of the position in order to protect yourself and others. All personnel are required to wear approved safety glasses in conjunction with other personal protective equipment (provided by Monash Health). \n\n\nLet us reward you with the security of Victoria's largest health service, along with the career opportunities that come with that. Take advantage of our salary packaging, subsidised car parking, free uniforms and subsidised gymnasium and you have a positive start to your new career. \n\n\nAbout You \n\n\n\nTo be successful in this healthcare role, you will bring the following demonstrated skills, experience, and attributes: \n\n\n\nDemonstrated initiative and time management abilities\n\n\nDemonstrated effective skills in staff training\n\n\nDemonstrated ability to assume responsibility and accountability\n\n\nMust have advanced computer literacy in the Microsoft office Suite of products.\n\n\nHealth-Medical experience.\n\n\nLeadership experience.\n\n\nDemonstrated experience in all areas of Pathology Specimen Reception\n\n\nStrong written and verbal communication skills to deal with diverse stakeholders\n\n\nEasily identified as a role model with leadership potential\n\n\nDemonstrated commitment to flexibility and innovation\n\n\nWell-developed problem solving skills\n\n\nGood understanding of Hospital-Pathology computer applications\n\n\nA personal work ethic of reliability, performance, integrity, and honesty is essential\n\n\nAbility to work independently and plan their own work schedule, within limits\n\n\nAdvanced computer health-pathology application skills\n\n\nTeam player\n\n\nProfessional attitude-dress code.\n\n\nWillingness to improve skills and help others.\n\n\nWillingness to work at other Pathology sites.\n\n\n\n\nMandatory requirements of the role - qualifications, licences, memberships : \n\n\n\nCompletion (or willing to complete) Cert 4 in Training and Assessment or relevant years of experience in a training role in the health sector.\n\n\nDemonstrated experience in all areas of Pathology Specimen Reception\n\n\nDemonstrated initiative and time management abilities\n\n\nDemonstrated previous development of training programme\n\n\nDemonstrated effective skills in staff training\n\n\nDemonstrated ability to assume responsibility and accountabilities\n\n\nGood understanding of Hospital-Pathology computer applications\n\n\nMust have a current Victorian Driver's Licence\n\n\n\nIn Return \n\n\nYou'll be joining the largest public health service in Victoria, employing more than 25,500 people and be a part of: \n\n\n\na passionate pathology team dedicated to making a difference to the health of Victorians \n\n\na friendly, flexible work environment \n\n\nunique opportunities for education, career growth and support \n\n\nmentorship from a highly experienced and respected team \n\n\n\n\nMonash Health is a great place to work \n\n\nOur employees enjoy a range of benefits including: \n\n\n\nsalary packaging options that increase your take-home pay \n\n\na comprehensive Health and Wellbeing program \n\n\nfree flu vaccinations \n\n\nprivate health insurance at discounted rates \n\n\nhealth imaging services \n\n\n+ more \n\n\n\n\nFor a confidential discussion and to explore this opportunity further, please reach out to Derya Arduc - Team Leader Central Reception on (03) 9594 4867. \n\n\n\nPosition Description can be found here\n\n\n\nOur Culture and Values\n\n\nAt Monash Health, our people are at the heart of everything we do. Our culture is inclusive, supportive and future-focused, underpinned by clear values and a commitment to continuous improvement. \n\n\nOur teams play a critical role in bringing our new strategy to life, challenging traditional approaches, embracing innovation, and ensuring every appointment reflects our commitment to equity, transparency and excellence. \n\n\nYou'll be encouraged to share ideas, contribute to improvement initiatives, and grow alongside experienced professionals who are passionate about what they do. \n\n\nWe are Full Hearted, Open Minded and All In, enabling excellent service delivery and a positive candidate and employee experience every time. \n\n\nWe recognise the value of equal employment opportunity. We are committed to patient safety, promoting fairness, equity and diversity in the workplace and to Child Safe Standards. \n\n\nHow to Apply\n\n\nApplications are accepted via the Monash Health online EHub system. For information including how to apply and probity check requirements, please click here for the 'Application Guide'\n\n\n\nApplications will be screened upon receipt and selection activity may commence prior t\n\nClick here for more details: https://www.medicaljobsaustralia.com/jobs/636785/    Click here to Apply now → ",
+          "displayFromDate": "2026-07-23T00:00:00",
+          "employerId": "CfDJ8Nn8cBBigUhPiuiVER7neZoED4p5BSOJNmtOgdUTMQl6wtzV_xds7xoiJTjNbHt57Sn8DQ1ibDDDg4L5TFMYjz4mSuSfXxbmEYChWJGA-q3Y9dlfVJyyC1g7kceSNTqWaQ",
+          "employerName": "Medical Jobs Australia",
+          "expiryDate": "2026-08-22T10:00:00",
+          "howToApplyCode": "PSD",
+          "industry": {
+            "code": "112",
+            "label": "Admin & Office"
+          },
+          "isApplyOnlineJob": false,
+          "isExternalJob": false,
+          "isFavourite": false,
+          "isIndigenousJob": false,
+          "isNewJob": false,
+          "jobType": {
+            "code": "H",
+            "label": "Normal position"
+          },
+          "latitude": "-37.82503942000",
+          "location": {
+            "code": "71CBDS",
+            "label": "VIC - Melbourne - CBD & Surrounds"
+          },
+          "logoUrl": "/api/v1/global/vacancies/logos/cms?code=PX28",
+          "longitude": "144.97151194",
+          "modifiedDate": "2026-07-24T20:00:16.453",
+          "occupation": {
+            "code": "542112",
+            "label": "Admissions Clerk"
+          },
+          "organisation": {
+            "code": "VVNW",
+            "label": "MedicalJobsAustralia"
+          },
+          "positionsAvailable": 10,
+          "postCode": "3000",
+          "salary": {
+            "code": "SLNS",
+            "label": "Not Specified"
+          },
+          "site": {
+            "code": "PX28",
+            "label": "MedicalJobsAustralia"
+          },
+          "state": "VIC",
+          "suburb": "Melbourne",
+          "tenure": {
+            "code": "N",
+            "label": "Contract position"
+          },
+          "title": "Trainer Specimen Reception",
+          "vacancyId": 2351595724,
+          "workType": {
+            "code": "C",
+            "label": "Casual position"
+          }
+        }
+      },
+      {
+        "score": 3.709495,
+        "result": {
+          "contractType": null,
+          "creationDate": "2026-07-17T19:00:53.013",
+          "description": "  MedicalJobsAustralia.com     Build Meaningful Connections. Grow Your Career. Love Where You Work.\n\nRemuneration: $81, 748.17 - $114,771.98 p.a. + Superannuation + Salary Packaging \nEmployment Type: Permanent Full Time however Open to Part time - Job Share arrangements \nPosition Classification: Registered Nurse\nHours Per Week: Up to 38hrs-week \nRequisition ID: REQ675449\nLocated in: Belmont Hospital \nClosing Date: Monday 27th July 2026 \n\n \n\nAre you looking for a rewarding nursing career where you can make a genuine difference every day? \n\nJoin our friendly and supportive team as a Permanent Registered Nurse, based in our Medical Ward, with opportunities to broaden your experience by working across our Sub-Acute Rehabilitation Unit.\n\nThis is your chance to enjoy the security of a permanent position while working in a welcoming environment where teamwork, professional development, and compassionate patient care are at the heart of everything we do.\n\nCome and See Where You Will Work \n\nChoosing the right workplace is just as important as choosing the right role. That's why we invite prospective applicants to come and see what makes our team so special.\n\nArrange a tour of the ward, meet the Nurse Unit Manager, chat with our nursing team, and explore the environment before you apply. It's a fantastic opportunity to become familiar with the unit, ask questions, and see firsthand if this is the right fit for you.If you're ready to take the next step in your nursing career, we'd love to hear from you. \n\nNot quite ready to make the move? That's okay too. This recruitment will also establish an eligibility list for future permanent and temporary Registered Nurse opportunities, allowing you to be considered when the timing is right.\n\nReach out to our friendly NUM Carolyn to find out more, Carolyn.Walker1@health.nsw.gov.au\n\nA Rewarding Role \n\nBased within our 13-bed Medical Ward, you'll care for a diverse range of patients while building your clinical knowledge and confidence. You'll also have the opportunity to work across our 16-bed Sub-Acute Rehabilitation Unit, providing variety in your role and exposure to rehabilitation nursing.\n\nWorking across these close-knit teams, you'll enjoy:\n\nA welcoming and supportive culture where everyone works together.\n\nExcellent patient feedback and a strong focus on person-centred care.\n\nThe opportunity to build meaningful relationships with patients and their families.\n\nVariety in your role while being supported by experienced nursing and multidisciplinary teams.\n\nOur Sub-Acute Rehabilitation Unit provides care primarily for older adults working towards returning home and regaining their independence. It's an incredibly rewarding environment where you'll have the time to build rapport with your patients, celebrate their progress, and be part of their recovery journey in a calm setting.\n\nWhy Choose HNE? \n\nMonthly day off for full-time employees \n\nUp to 6 weeks annual leave (for eligible employees) \n\nPaid Parental Leave options \n\nIncrease your take home pay with Salary Packaging \n\nDiscounted gym options with Fitness Passport \n\nAccess to Employee Assistance Program to support your wellbeing \n\nNeed more information? \n 1) Click here for the Position Description\n 2) Find out more about applying for this position\n\nFor role related queries or questions contact Carolyn Walker on Carolyn.Walker1@health.nsw.gov.au\n\nAdditional Information \n\nJob share - part time arrangements will be considered\n\nTo be eligible for permanent employment in this position you must be an Australian Citizen, or a permanent resident of Australia, or a New Zealand citizen with a current New Zealand Passport. Employment of a temporary visa holder may only occur if no suitable local candidate is identified for the position; in this instance, you may only be offered employment in line with the conditions and expiry date of your visa. \n\nWe are unable to accommodate visa sponsorship for applicants requiring a visa for this position. \n\nAn eligibility list will be created for future permanent full or part time and temporary full or part time vacancies. \n\nHunter New England Health is dedicated to fostering a child-safe environment that respects and upholds the rights of children and young people, aligned with NSW Health's commitment to implementing the Child Safe Standards. We aim to ensure that children and young people feel safe, supported, and included in their care. All current and prospective staff are expected to prioritise the safety, welfare, and well-being of children and young people, actively working to protect them from harm and abuse. \n\nAt Hunter New England Local Health District, we are an inclusive employer dedicated to fostering a diverse, inclusive, and welcoming workplace. Our commitment to a workforce that reflects the community we care for is essential for delivering the highest quality healthcare to our community. We encourage people with diverse lived experiences to apply. If you require any accommodations or adjustments to the recruitment process please let us know when you apply or at any stage of the process. We will work with you to meet your needs and create the best possible experience. Please contact HNELHD-Diversity@health.nsw.gov.au\n\nInformation for Applicants: \n\nApplicants will be assessed against the essential requirements and selection criteria contained within the position description (link below). For assistance addressing selection criteria visit: https:--bit.ly-3vL5fq2\n\nStepping Up Website is a resource designed to help indigenous job applicants apply for positions in NSW Health. For more information, please visit: https:--bit.ly-HNEHealthSteppingUp\n\nThis is a Category A position. Recommended applicants will be reviewed for compliance with NSW Health policy directive PD2024_015: Occupational Assessment, Screening and Vaccination against Specified Infectious Diseases for Category A positions prior to offer. All new employees must agree to comply with the requirements outlined in the policy. \n \n\nSalary Packaging: is beneficial to most Hunter New England Health employees and may increase your take-home pay! Salary package a range of personal expenses including novated motor vehicle leases, relocation expenses, and HECS-HELP debt. Find out more by contacting SalaryPackagingPLUS! via nswhealth@salarypackagingplus.com.au or 1300 40 25 23.\n\nHunter New England Health employees may be eligible for a range of benefits such as allocated days off (ADO) for full time employees, long service leave, paid maternity leave, and salary packaging options including meal expenses. \n\nConnect with us on Facebook and LinkedIn    Click here to Apply now → ",
+          "displayFromDate": "2026-07-17T00:00:00",
+          "employerId": "CfDJ8Nn8cBBigUhPiuiVER7neZqD5jrdIubR1aaAvGjFaLkSQYfC0dK5bJCzijIWgXuHeVIfis_Zm6oBgpPdQBgR_AJX1vq4hOO441__lczUY2doi3yPO6bPjq5X_dSXOEZfMg",
+          "employerName": "Medical Jobs Australia",
+          "expiryDate": "2026-08-16T10:00:00",
+          "howToApplyCode": "PSD",
+          "industry": {
+            "code": "112",
+            "label": "Admin & Office"
+          },
+          "isApplyOnlineJob": false,
+          "isExternalJob": false,
+          "isFavourite": false,
+          "isIndigenousJob": false,
+          "isNewJob": false,
+          "jobType": {
+            "code": "H",
+            "label": "Normal position"
+          },
+          "latitude": "-28.84169791000",
+          "location": {
+            "code": "29FRNC",
+            "label": "NSW - Regional - Far North Coast "
+          },
+          "logoUrl": "/api/v1/global/vacancies/logos/cms?code=PX28",
+          "longitude": "153.5600298",
+          "modifiedDate": "2026-07-20T20:00:23.833",
+          "occupation": {
+            "code": "542112",
+            "label": "Admissions Clerk"
+          },
+          "organisation": {
+            "code": "VVNW",
+            "label": "MedicalJobsAustralia"
+          },
+          "positionsAvailable": 10,
+          "postCode": "2478",
+          "salary": {
+            "code": "SLNS",
+            "label": "Not Specified"
+          },
+          "site": {
+            "code": "PX28",
+            "label": "MedicalJobsAustralia"
+          },
+          "state": "NSW",
+          "suburb": "Ballina",
+          "tenure": {
+            "code": "N",
+            "label": "Contract position"
+          },
+          "title": "Registered Nurse",
+          "vacancyId": 2351343028,
+          "workType": {
+            "code": "C",
+            "label": "Casual position"
+          }
+        }
+      },
+      {
+        "score": 3.683841,
+        "result": {
+          "contractType": null,
+          "creationDate": "2026-07-07T19:01:00.38",
+          "description": "  MedicalJobsAustralia.com     Cast Technician (515739L3)\n\n\n\n\n\n Department of Health\n\n Hospitals & Primary Care - Hospitals Sth\n\n Hospitals Sth - Allied Health Services\n\n\n\n\n\n Applications must be submitted by Monday 27 July, 2026 11:55 PM \n\n\n\n\nPosition details\n\n\n\n\n \n\n \n\n \nApplications close:\n\n \nMonday 27 July, 2026 11:55 PM AEST\n\n \n\n \n\n \nAward-Classification:\n\n \nHealth and Human Services (Tasmanian State Service) Award, General Stream, Band 4\n\n \n\n \n\nSalary:\n\n$85,196 to $97,915 pro rata, per annum\n\n\n \n \n\n \nEmployment type:\n\n \nPermanent, part-time\n\n \n\n \n\n \nRegion:\n\n \nSouth\n\n \n\n \n\nLocated in:\n\nPhysiotherapy RHH\n\n\n \n\n \nJob description:\n\n \nWe are looking for an enthusiastic Cast Technician to work as part of our busy Plaster Service Team providing optimum care for Tasmanian Health Service - South patients\n\n \n\n \n\n\n\n\n\n\n \nThe Team\n\nThe Plaster service team includes a Band 5 Senior Orthopaedic Cast Technician, Band 4 Cast Technicians and Allied Health Assistant and it works closely with medical, nursing and physiotherapy colleagues.\n\nThe Plaster service sits within physiotherapy service of the THS-S enabling collaboration between health service settings to facilitate optimised patient outcomes across the patient healthcare journey.\n\nThe Role\n\nWe are looking for an enthusiastic Cast Technician to work as part of our busy Plaster Service Team providing optimum care for Tasmanian Health Service-South patients. The main components of the role is providing casting services to orthopaedic and plastics referred patients as well as Royal Hobart Hospital inpatients, GP referred outpatients and those requiring total contact casts.\n\nProvision of the cast service is under direct and indirect supervision from medical practitioners, Senior Cast Technician and Musculoskeletal Team Leader Physiotherapist and in collaboration with physiotherapists, allied health assistants and other cast technicians. \n\nThe scope of this role includes:\n\nPreparation, application, removal and modification and moulding of casts, performing complex technical work including the positioning of fractured limbs and undertake simple wound care\n\nPatient education regarding proper care\n\nAccurately documentation and collect activity data\n\nEnsure standard precautions and maintain the cleanliness and security of the Cast Room\n\nLiaise effectively with other members of the health care team.\n\nYou will need\n\nDemonstrated experience and knowledge in the care, application and removal of castings including deformity correction modifications, fractures, ulcer protection and skin grafts.\n\nPhysical capacity to effectively assist with the handling and re-positioning of patients and the application of casts.\n\nAbility to exercise initiative, independent judgement and flexibility and carry out safe working practices whilst working within a multidisciplinary team.\n\nNote: - Please refer to the Statement of Duties for all the selection criteria of this position to address in your application.\n\nWhy Tasmania\n\nThe Department of Health Tasmania oversees various hospitals across the state, including the Royal Hobart Hospital, Launceston General Hospital, Northwest Regional Hospital, and Mersey Community Hospital, as well as district hospitals and ambulance services. Additionally, it provides community health, mental health, and primary healthcare services to the Tasmanian community through more than 300 sites.\n\nTasmania, Australia's only island state, offers unparalleled natural beauty and a luxurious lifestyle. Pursuing your health career in Tasmania's public health system means building strong connections with colleagues and patients. It also means embracing a lifestyle where you can enjoy extraordinary experiences outside of work while making a significant impact on the community during work.\n\nDetails of appointment\n\nPermanent part time, day worker position, working 22 hours per fortnight, commencing as soon as possible.\n\n*Notwithstanding hours to be negotiated with the successful applicant.\n\nApplicants should note that, for a period of twelve months from the date of publication, this selection process may be used to fill subsequent or similar full time, part time, and casual vacancies.\n\nSalary\n\n$85,196 to $97,915 per annum (Pro rata). Our Employer 12% superannuation contribution is on top of this amount.\n\nSalary range is in accordance with Public Sector Unions Wages Agreement 2025.\n\nSalary Packaging\n\nYou'll have access to salary package a range of benefits including living expenses up to $9,010 + $2,650 in meal entertainment each FBT year + other benefits if eligible.\n\nBenefits available to eligible candidates \n\nFitness Passport - You, and your family can access 40+ fitness facilities across Tasmania for just $14.50 per week per person, or $28.05 for a family.\n\nMore information about our Employee Benefits can be found here\n\nEligibility\n\nApplicants should note the following criteria are desirable:\n\nCertificate IV in Cast Technology, or equivalent.\n\nMinimum two years' cast technician experience.\n\nNote: - Please refer to the Application Guide for more information of pre-employment check.\n\nDownload the Statement of Duties and any Associated Documents\n\nWe encourage you to review the Statement of Duties, Applicant Guide, prior to applying for an overview of the duties, program, selection process and application guidance.\n\nStatement of Duties: \n\nCast Technician (B4).docx\n\nApplication Guide: \n\nApplicant Guide.docx\n\nHow to apply\n\nApply Online. Please click the \"Apply\" button on this screen to ensure that important questions about you are answered.\n\nYou will be prompted to complete a 1-2 page application detailing your experience, skills and knowledge as they relate to the attached Statement of Duties. A separate statement addressing the selection criteria in the Statement of Duties is not required.\n\n*applications from Recruitment agencies will not be accepted for this role\n\nFor more information\n\nApplicants who require further information are encouraged to contact the Contact person for detailed information about the vacancy.\n\nElisabeth Pilgrim\nDeputy Manager - Physiotherapy Services\n0447 308 218\nelisabeth.pilgrim@ths.tas.gov.au \n\nWhat it is like working at the Department of Health?\n\nCompassion, Accountability, Respect, Excellence are the key values to work in Department of Health. Listen to some of the lived experiences from within the department through some of our wonderful staff and hear about their journey in relocating to Tasmania!\n\nMove to Tasmania | Tasmanian\n\nOne Health Podcast - Spotify \n\nOne Health Podcast - Apple \n\nTasmanian Health Careers | Tasmanian \n\nDepartment of Health has achieved the \"Carer Accredited Employer Status\" providing support to employees with caring responsibilities. (Find out more under the Carer Recognition Act 2023).\n\nRespecting diversity is the foundation of everything that Department of Health do. This allows us to instil trust and collaborate through honest and fair communication and helps cultivate an e\n\nClick here for more details: https://www.medicaljobsaustralia.com/jobs/536332/    Click here to Apply now → ",
+          "displayFromDate": "2026-07-07T00:00:00",
+          "employerId": "CfDJ8Nn8cBBigUhPiuiVER7neZpkXV4S0bqFANkzgU5jZpfPXOUG3T0IESoYXygCGWYnFcOox1vH2x8QQk9AnFTpKeXPVPVK8ZPWG9-VXLm_4wLAyJOrF9AQcEj-7o19o8tl9g",
+          "employerName": "Medical Jobs Australia",
+          "expiryDate": "2026-08-06T10:00:00",
+          "howToApplyCode": "PSD",
+          "industry": {
+            "code": "112",
+            "label": "Admin & Office"
+          },
+          "isApplyOnlineJob": false,
+          "isExternalJob": false,
+          "isFavourite": false,
+          "isIndigenousJob": false,
+          "isNewJob": false,
+          "jobType": {
+            "code": "H",
+            "label": "Normal position"
+          },
+          "latitude": "-42.13393305000",
+          "location": {
+            "code": "61HRBT",
+            "label": "TAS - Hobart & Southern Tasmania"
+          },
+          "logoUrl": "/api/v1/global/vacancies/logos/cms?code=PX28",
+          "longitude": "146.24733724000",
+          "modifiedDate": "2026-07-08T20:00:12.82",
+          "occupation": {
+            "code": "542112",
+            "label": "Admissions Clerk"
+          },
+          "organisation": {
+            "code": "VVNW",
+            "label": "MedicalJobsAustralia"
+          },
+          "positionsAvailable": 10,
+          "postCode": "7140",
+          "salary": {
+            "code": "SLNS",
+            "label": "Not Specified"
+          },
+          "site": {
+            "code": "PX28",
+            "label": "MedicalJobsAustralia"
+          },
+          "state": "TAS",
+          "suburb": "Derwent Bridge",
+          "tenure": {
+            "code": "N",
+            "label": "Contract position"
+          },
+          "title": "Cast Technician (515739L3)",
+          "vacancyId": 2350969138,
+          "workType": {
+            "code": "C",
+            "label": "Casual position"
+          }
+        }
+      },
+      {
+        "score": 3.683841,
+        "result": {
+          "contractType": null,
+          "creationDate": "2026-07-10T10:56:58.537",
+          "description": "Margaret River, Full Time, Hospitality\nVacancy Listing Dates 10/07/2026 to 7/08/2026\nPlease Quote Reference Number 17592\n- Skilled Chef, Receptionist and Restaurant Manager wanted\n- Remuneration - $60,000 - $85,000\n- Opportunities with the Grande Escape Resort in Margaret River\n\nThe Grande Escape Resort in Margaret River have the following vacancies on offer:\n- Chef\n- Receptionist\n- Restaurant Manager\n\nWe are eagerly seeking an experienced Chef to join our team. You must have at least 2 to 3 years' experience in a similar role.\n\nYour duties and responsibilities will include, but not limited to:\n\nGeneral:\n- Ensure compliance with regulations and maintain HACCP and cleaning standards.\n- Ensure that reasonable care is taken for the Health and Safety of yourself, other employees, guests and any other persons on the Resort premises.\n- Ensure communication and actions are always professional\n- Obtain a Food Safety Certificate and when required a Food Supervisor's Certificate.\n\nKitchen:\n- Setting and enforcing quality and safety controls.\n- Ensure the kitchen and equipment is clean on a daily basis.\n- Maintain your own delegated place in the kitchen and assist other chefs when required.\n- Planning and taking part in promotional events.\n- Diffusing tense situations between patrons or staff members\n- Create regular menus to suit the clientele.\n- Manage and participate in the catering requirements of the bus. and function groups.\n- Deliver superior service and maximize customer satisfaction.\n- Control operational costs and identify measures to cut waste when working.\n- Study each recipe and ensure you have all necessary ingredients.\n- Cook food in a timely manner for the restaurant.\n- Inform wait staff about daily specials.\n- Ensure appealing plate presentation.\n- Monitor food stock and place orders when required.\n- Check freshness of food and discard out-of-date items.\n- Suggest new recipes ingredients in consultation other chefs.\n\nThe successful applicant will receive a remuneration of $74,000 - $85,000.\n\nWe are also seeking a Hotel Receptionist to join our team.\n\nWe require an individual who is a strong brand ambassador and who presents a positive and warm first impression for our guests and visitors. In addition to exceptional customer service capabilities, you will possess highly effective administrative skills for groups, functions, data entry and other office functions inclusive of invoicing and managing bookings.\n\nThis role requires a candidate who thrives in a high energy and fast-paced environment, who has a professional manner, and takes pride in maintaining an office environment to the highest standard.\n\nThe ideal candidate will have:\n- Experience in RMS (Property Management System) or similar system is essential for this role with a passion for working in hospitality.\n- Experience managing a large volume of calls, multiple phone lines and emails with professional etiquette.\n- The ability to build positive relationships with a high level of interpersonal skills.\n- An ability to organise the front reception staff and tasks and show initiative.\n- An understanding of the importance of the guest experience and a passion for delivering exceptional service.\n- The ability to efficiently manage guest complaints and achieve professional and positive outcomes while ensuring high standards of customer service.\n- Ensure smooth and efficient check-in/check-out procedures.\n- Provide guests with information about hotel facilities, services and local attractions.\n- Maintain accurate daily cash reports and reconcile accounts.\n- Strong communication skills with the ability to liaise effectively with all levels, in both oral and written forms.\n- Expert level multi-tasking capabilities, without compromising on quality, in a fast-paced environment but also possess the ability to work autonomously.\n- Exceptional problem-solving skills and high level of attention to detail.\n- Proficiency in handling and maintaining office equipment.\n- Liaise with housekeeping, maintenance, and security to ensure guest satisfaction and safety.\n- Ability to train and motivate employees.\n- An aptitude to learn and utilise software to increase effectiveness and efficiency within the workplace\n- Experience with office and supply management.\n- Demonstrated sales experience will be viewed favourably.\n\nTo be considered for this role you need:\n- At least 1 years' experience in hotel front receptionist roles including, reservations, group bookings, room allocation, accounts and payment handling.\n- Availability to work a rotating roster, including shifts on weekends and Public Holidays\n- Experience with RMS or similar hotel system\n- Customer Service Experience\n- Valid working rights in Australia\n- Have Australian National Police Clearance, no more than three months old\n\nThis is a full time position. A remuneration package of $60,000 - $85,000 will be offered to the successful candidate.\n\nRestaurant Manager\n\nWe need a hardworking, enthusiastic, and ambitious individual who leads from the front to take charge of our busy and fast-paced restaurant and bar service. You will oversee restaurant operations, build a customer-focused team, and implement leading customer service standards. This key role aims to make us a benchmark-setting venue. Your passion for developing teams and embracing challenges is vital in ensuring an exceptional customer experience.\n\nResponsibilities And Duties:\n- Coordinate daily restaurant operations to deliver exceptional service\n- Manage day-to-day financials, ensuring accuracy and efficiency\n- Exceed customers' expectations by providing an outstanding dining experience and active participation while on duty\n- Ensure all food served is of excellent standard\n- Regular coaching, training and mentoring of staff to improve them and service standards fostering motivation and growth\n- Develop relationships with new and regular restaurant patrons\n- Coordinate daily/weekly updates with the reservations, functions and bus tour team\n- Manage bookings and balance seat capacity\n- Prepare the rostering for the restaurant and discuss with the Duty Manager\n- Cost control with a focus on labour\n- Managing customer feedback and reputation\n- Monitor and manage stock levels for optimal inventory control\n- Monitor and manage the cashier and upgrade H&L\n- Coordinate employee schedules to ensure efficient staffing\n- Ensure compliance with regulations and maintain HACCP and cleaning standards\n- Participate regularly in management meetings and report to Duty Manager and Manager\n\nThe successful applicant must have more than 3 years' experience in a similar role in a busy environment, and hold a RSA and Approved Manager's Certificate WA.\n\nYou'll also have:\n- An Open Drivers Licence\n- Strong food & beverage knowledge\n- Previous experience with RMS platform, an advantage to be able to check after hours reservations\n- Strong leadership and people skills\n- An ability to think outside the square\n- Effective time management and organisational skills\n- Excellent communication with a great command of the English language (written and verbal)\n- Knowledge of current liquor legislation\n- Hands on approach with a natural ability to lead a team to be the best they can\n\nThe successful applicants will receive a remuneration between $71,000 - $85,000.\n\nIf you are ready to take your hospitality knowledge to the next level in a challenging, busy yet rewarding position, this may be the perfect opportunity for you.\n\nApply now! https://www.netyourjob.com.au/jobs/17592.php\n\nSponsorship may be available to the right person.",
+          "displayFromDate": "2026-07-10T00:00:00",
+          "employerId": "CfDJ8Nn8cBBigUhPiuiVER7neZpvraylC5ziqcHMcjkkjS0s8cekbOD2s4QwkteLVOmuO1Hza7X-OWAomTqpKtoksNqwWOQETzqZXLHqiNxLORYjl2Bx9M2g0rj8wNfVSFoARg",
+          "employerName": "NETYOURJOB AUSTRALIA PTY LTD",
+          "expiryDate": "2026-08-11T10:00:00",
+          "howToApplyCode": "PSD",
+          "industry": {
+            "code": "124",
+            "label": "Hospitality"
+          },
+          "isApplyOnlineJob": false,
+          "isExternalJob": false,
+          "isFavourite": false,
+          "isIndigenousJob": false,
+          "isNewJob": false,
+          "jobType": {
+            "code": "H",
+            "label": "Normal position"
+          },
+          "latitude": "-33.96883662999",
+          "location": {
+            "code": "89SWST",
+            "label": "WA - Regional - South West"
+          },
+          "logoUrl": "/api/v1/global/vacancies/logos/employer?employerId=sW7LPI5_GnxEInt3abGilw&logoSize=100",
+          "longitude": "115.05541246",
+          "modifiedDate": "2026-07-13T11:11:35.67",
+          "occupation": {
+            "code": "1411",
+            "label": "Cafe and Restaurant Managers"
+          },
+          "organisation": {
+            "code": "INET",
+            "label": "Internet Business"
+          },
+          "positionsAvailable": 3,
+          "postCode": "6285",
+          "salary": {
+            "code": "SLNS",
+            "label": "Not Specified"
+          },
+          "site": {
+            "code": "NETV",
+            "label": "Internet Vacancies"
+          },
+          "state": "WA",
+          "suburb": "MARGARET RIVER",
+          "tenure": {
+            "code": "P",
+            "label": "Permanent position"
+          },
+          "title": "Chef, Receptionist and Restaurant Manager",
+          "vacancyId": 2351053442,
+          "workType": {
+            "code": "F",
+            "label": "Full time position"
+          }
+        }
+      },
+      {
+        "score": 3.675665,
+        "result": {
+          "contractType": null,
+          "creationDate": "2026-06-30T19:03:04.17",
+          "description": "  MedicalJobsAustralia.com     Facility and Grounds Officer - Port Lincoln Hospital\n\n\n\n Apply now\n Job no: 943161\n\n Work type: Full time\n\n Location: Eyre and Western\n\n Categories: Maintenance and Facilities, Trades, maintenance and services\n\n\n\n\n\n \n\nEyre and Far North Local Health Network, Port Lincoln \n\nSalary: WHD3 $1,250.29 - $1,281.40 per week + 12% Superannuation + Leave Loading and Salary Sacrifice Benefits \n\n Permanent Full-time Position\n\nOverview\n\nPort Lincoln Hospital is a cornerstone of healthcare delivery across the Eyre Peninsula, and the people who keep it running behind the scenes are just as important as those at the bedside. If you take pride in a well-maintained environment and want your work to directly support patient care and staff safety, this role is for you.\n\nWhat You'll Be Doing\n\nReporting into the facilities team at Port Lincoln Hospital within the Eyre and Far North Local Health Network, you'll maintain the physical environment that patients, visitors, and staff rely on every day. Your responsibilities will include:\n\nCarrying out general internal and external facility maintenance, including minor carpentry, painting, and plumbing repairs\n\nPerforming mechanical maintenance and reporting or escalating issues as required\n\nManaging grounds upkeep and rubbish collection to maintain a safe, presentable site\n\nLogging and managing tasks using computerised maintenance systems and standard office tools\n\nWhat You'll Bring\n\nDemonstrated experience in building and grounds maintenance across a range of trades tasks\n\nAbility to work with computer packages including Microsoft Word and Excel\n\nSound judgement and the ability to prioritise and act independently in day-to-day tasks\n\nA practical, solutions-focused approach with a strong eye for safety and detail\n\nReliability and a team-first attitude suited to a busy hospital environment\n\nAn understanding of, or willingness to learn, infection control and safety standards specific to SA Health facilities\n\nWhy Port Lincoln Hospital\n\nSA Health offers more than a job - it offers genuine job security, access to salary packaging benefits that can meaningfully increase your take-home pay, and the satisfaction of contributing to a healthcare network that serves one of South Australia's most distinctive regional communities. At Port Lincoln Hospital, you'll be part of a small, close-knit team where your contribution is visible and valued. The Eyre Peninsula lifestyle - coastal, unhurried, and community-oriented - is a genuine drawcard for those who call this region home or are ready to make it so.\n\nReady to Apply\n\nSubmit your application through the SA Health careers portal. Include a current CV and a cover letter addressing the key requirements above. For a confidential conversation about the role, contact the hiring manager whose details are listed in the job posting.\n\nAbout Us\n\nWith its ancient outback landscapes, boutique vineyards, oyster farms and Australia's best-kept-secret surf coast, Eyre and Far North will inspire and energise you.\n\nThe Eyre and Far North Local Health Network (EFNLHN) is responsible for the planning and delivery of hospital and health services over 337,626 square kilometres, taking in the Eyre Peninsula, western part of South Australia and north to Coober Pedy. We are one of the largest LHNs by area in Australia and communities include Ceduna, Cleve, Coober Pedy, Cowell, Cummins, Elliston, Kimba, Oodnadatta, Port Lincoln, Streaky Bay, Tumby Bay and Wudinna.\n\nServices include acute care, medical, accident and emergency, surgery, birthing and midwifery, specialist consultancy, renal dialysis, chemotherapy, transfusions, rehabilitation, residential and community aged care, respite care, transitional care packages, Aboriginal health, mental health, allied health, community health, community nursing, palliative care, community home support packages and home modifications.\n\nClick here to learn more about living and working in Eyre and Far North Local Health Network.\n\nWhy Join Us\n\nMake a real difference and feel like an important part of the community. Being part of Eyre & Far North means you will be supported both personally and professionally, can take advantage of education and training opportunities, will have access to flexible working hours and be part of an inter-professional approach to holistic health care.\n\nSalary package a range of benefits (including living expenses such as mortgage, rent, utility bills and groceries) up to $9,010 each FBT year + $2,650 for Meal Entertainment expenses each FBT year Click here more information\n\nWellbeing and counselling support - support for you and your family via our free Employee Assistance Program\n\nRelocation support - relocation reimbursement of up to $15,000 may be available to people relocating for this opportunity. More information available from SA Health Careers - Relocation support.\n\nPaid leave including leave loading\n\nEmployee recognition - supportive and collaborative work environment where your contributions are valued and recognised.\n\nOur Commitment to Diversity and Inclusion\n\nSA Health is committed to providing an inclusive workplace that embraces diversity and inclusion for all employees. We strongly encourage applications from people of Aboriginal and Torres Strait Islander descent, culturally diverse backgrounds, members of the LGBTIQA+SB community and people who live with disability and-or neurodivergence.\n\nWe are committed to making workplace adjustments to provide a positive and supportive work environment. You are encouraged to let us know if have any support or access requirements during the recruitment process and beyond to ensure you can perform at your best.\n\nApplicant Information\n\nThe South Australian public sector promotes diversity and flexible ways of working part-time. Applicants are encouraged to discuss the flexible working arrangements for this role.\n\nAppointment will be subject to a satisfactory Criminal History Check and appropriate immunisation requirements.\n\nCheck(s)\n\nNational Police Certificate (NPC) for employment involving unsupervised contact with vulnerable groups required for this position (E.g. aged care employment or work involving vulnerable clients)\n\nImmunisation Risk for this position is - Category A (direct contact with blood or body substances)\n\nSA Health Services are required to implement the Addressing vaccine preventable disease: Occupational assessment, screening and vaccination policy in the workplace.\n\nFor more information about the role please refer to the role description provided below. Job ref: 943161\n\nEnquiries\n\nSamantha Hill\nPosition: Corporate Services Manager\nPhone: 7669 1209\nE-mail: samantha.hill@sa.gov.au\n\nApplication Closing Date: 10 July 2026, 11:55PM\n\nEligibility: Open to Everyone\n\nRefer to the SA Health Career Website - How to apply for further information.\n\n 943161 - WHD3 - Facility Grounds - Port Lincoln - Role Description.pdf\n\n \n\n\n\n\n\n\n\n Advertised: 27 Jun 2026 Cen. Australia Standard Time\n\n Applic\n\nClick here for more details: https://www.medicaljobsaustralia.com/jobs/496616/    Click here to Apply now → ",
+          "displayFromDate": "2026-06-30T00:00:00",
+          "employerId": "CfDJ8Nn8cBBigUhPiuiVER7neZp6lLkUb_BBYv0eeU3r5MfgDOZYVVvZ2gV4RaZjXlyYana8pBNHsJhN9WSWdguBGLeDH5Sd4uQaDKD7FvoG5MsOXmn0w0vFXhldBEvJAMLbcQ",
+          "employerName": "Medical Jobs Australia",
+          "expiryDate": "2026-07-30T10:00:00",
+          "howToApplyCode": "PSD",
+          "industry": {
+            "code": "112",
+            "label": "Admin & Office"
+          },
+          "isApplyOnlineJob": false,
+          "isExternalJob": false,
+          "isFavourite": false,
+          "isIndigenousJob": false,
+          "isNewJob": false,
+          "jobType": {
+            "code": "H",
+            "label": "Normal position"
+          },
+          "latitude": "-34.52177446000",
+          "location": {
+            "code": "59BRSS",
+            "label": "SA - Regional - Barossa "
+          },
+          "logoUrl": "/api/v1/global/vacancies/logos/cms?code=PX28",
+          "longitude": "138.96027792999",
+          "modifiedDate": "2026-07-01T20:00:14.137",
+          "occupation": {
+            "code": "542112",
+            "label": "Admissions Clerk"
+          },
+          "organisation": {
+            "code": "VVNW",
+            "label": "MedicalJobsAustralia"
+          },
+          "positionsAvailable": 10,
+          "postCode": "5352",
+          "salary": {
+            "code": "SLNS",
+            "label": "Not Specified"
+          },
+          "site": {
+            "code": "PX28",
+            "label": "MedicalJobsAustralia"
+          },
+          "state": "SA",
+          "suburb": "Tanunda",
+          "tenure": {
+            "code": "N",
+            "label": "Contract position"
+          },
+          "title": "Facility and Grounds Officer - Port Lincoln Hospital Apply now Job no: 943161 Work type: Full time Location: Eyre and Western Categories: Maintenan...",
+          "vacancyId": 2350760736,
+          "workType": {
+            "code": "C",
+            "label": "Casual position"
+          }
+        }
+      },
+      {
+        "score": 3.6561735,
+        "result": {
+          "contractType": null,
+          "creationDate": "2026-07-01T19:01:55.993",
+          "description": "  MedicalJobsAustralia.com     Job Description:\n\n12 month Full-time fixed term role with potential scope to further extend at the end of the contract\n\nWork within the dynamic Diabetes Technology and Research group \n\nBased at the Fitzroy campus\n\nExcellent benefits including salary packaging\n\nAbout the Role\n\nYou will work within the department of Endocrinology & Diabetes Research to co-ordinate services for patients with type 1 and type 2 diabetes. A major part of the role is the management of type 1 and type 2 diabetes clinical trials, both investigator initiated and commercial sponsored studies within the department. \n\nYou will also provide support for patients living with type 1 and type 2 diabetes, including education and advice about management of the condition in conjunction with Credential Diabetes Educators and Endocrinologists \n\nYour duties will include:\n\nWork, and engage as part of a multi-disciplinary team to assist in study protocol implementation, for GMO studies at the study site, SVHM, Diabetes Technology Research Group \n\nEducate study participants per the requirements of the protocol\n\nCollect and analyse samples and relevant data from study participants through the course of all protocol\n\nHandle biohazardous or genetically modified materials in a controlled environment. Provide high level support to other medical staff regarding protocol implementation and be willing to learn and understand the technical operation of diabetes technically related equipment including insulin pumps and CGM and uploading platforms- software and support the Credentialed Diabetes Educators who are responsible for their management\n\nEnsure that document preparation and storage meet the standards and compliance obligations for clinical research and reporting agencies\n\nIn consultation with the Principal Investigator, other senior study staff and Research Portfolio Manager, monitor and review study progress to ensure that study milestones are met according to the agreed timeframes set in the funding agreement\n\nEducate patients on administration and side effect management of treatment\n\nFacilitate patient treatment visits\n\nMonitoring of treatment patients throughout the treatment and follow-up phase\n\nLiaising with Sponsoring Pharmaceutical Companies and Contract Research Organisation.\n\nCo-ordinate patient visit schedules and patient progress\n\nEnsure GCP and study related courses are up to data\n\nAttend all relevant meetings, this includes study meetings, monitoring meetings and professional development days\n\nIdentify and consult with patients regarding participation and involvement of clinical trial\n\nPerform Venepuncture, ECG and Venous cannulation\n\nPreparation and distribution of blood and urine products nationally and internationally\n\nMaintain drug company patient files and investigator site files.\n\nMaintain filing of essential documents relating to patient files and clinical research files.\n\nEnsure research data is collected and recorded in the appropriate database\n\nEnsure interactions with patients are recorded appropriately and up to data\n\nEnsure appropriate storage and security of patient record\n\nCollection and electronic recording of research data\n\nClassifications for this position will be RN47 - RN48 ($134,498.00 $137,696.00 per annum).\n\nYour Contribution \n\nUndergraduate degree in general nursing, which meets the registration requirements of the Nursing and Midwifery Board of Australia\n\nCurrent practicing certificate\n\nCurrent registration with the Nursing and Midwifery Board of Australia\n\nCurrent Good Clinical Practice certification \n\nAdvanced clinical nursing skills\n\ncurrent national criminal history check or willing to obtain\n\nPreferred requirements:\n\nClinical trial experience\n\nExperience with GMO projects and familiar with SOPs pertinent to this area of expertise\n\nExperience working with genetically modified organisms, gene therapy, or advanced biological therapies\n\nUnderstanding of biosafety principles and regulatory frameworks governing GMO use\n\nMust be able to work flexible hours and days\n\nMust be competent in Venepuncture\n\nMust be competent in Venous cannulation\n\nWell-developed interpersonal and communication skills, particularly to respond professionally and appropriately as a representative of St. Vincent's\n\nAbility to work effectively within a multi-disciplinary team\n\nAbility to work independently and prioritise tasks and manage timelines and excellent attention to detail \n\nAdvanced and competent computer skills across multiple platforms\n\n Compliance with institutional biosafety and infection control training\n\nWhat we Offer\n- Confidential, solutions-focused employee counselling\n- A healthy work-life balance encouraged. Full time employment comes with a monthly Accrued Day Off (additional day off per month!)\n- Ability to join Fitness Passport - Your pass to an extensive choice of fitness facilities\n- Salary Packaging - Increase your take home pay!\n- In the heart of Fitzroy, CBD at our doorstep, close to some of Melbourne's best cafes, public transport and lots of carparks\n- Discounts and Promotions always available through our Foundation\n- Regular opportunities for professional development to assist you to reach your career goals\n- Culture of continuous improvement\n\nAbout Diabetes Technology and Research Group\n\nLocated at SVHM in the Department of Medicine, Faculty of Medicine, Dentistry and Health Sciences, the appointee will be responsible for the effective protocol implementation of GMO (Genetically Modified Organism) specific diabetes clinical research at St Vincent's Hospital and collaborating centers. This research will primarily focus on novel therapies and their interface with people living with diabetes.\n\nWorking at St Vincent's \nSt Vincent's Hospital Melbourne (SVHM) is a leading teaching, research and tertiary health service. SVHM provides a diverse range of adult clinical services and is driven by values of Compassion, Justice, Integrity and Excellence.\n\nApplication\nPlease attach your resume and cover letter to your application.\n\nShortlisting for this position will commence immediately. We encourage you to apply promptly as the advertisement may close early should a suitable applicant be sourced.\nWe encourage applications from people of all backgrounds and abilities. Inclusion is essential to our mission and diversity reflects the community we serve. \nPlease visit our website, for further information regarding our Aboriginal and Torres Strait Islander Employment at SVHM.\nSVHA has a duty of care under work health and safety legislation to eliminate and-or control the risk of transmission of vaccine preventable diseases in healthcare settings. You may therefore be required to undergo mandatory immunisations-vaccinations (including flu vaccinations).\nThis position is subject to a Victorian government direction regarding vaccination against COVID-19. Successful applicants must meet these vaccination requirements. Please contact us if you would like to know more.\n\nClosing Date:\n29 July 2026 \n\nClick here for more details: https://www.medicaljobsaustralia.com/jobs/504849/    Click here to Apply now → ",
+          "displayFromDate": "2026-07-01T00:00:00",
+          "employerId": "CfDJ8Nn8cBBigUhPiuiVER7neZpvHhhij39xxAheCl2YtZ6g4OiVIDVx9VF1uXJdQvXMMyKcvdQ2CDZp9Vt-91fB1UHuu6B741qwtjSUaC8tC9eFGo2g2GCtiMqfbQM1jZTVzw",
+          "employerName": "Medical Jobs Australia",
+          "expiryDate": "2026-07-31T10:00:00",
+          "howToApplyCode": "PSD",
+          "industry": {
+            "code": "112",
+            "label": "Admin & Office"
+          },
+          "isApplyOnlineJob": false,
+          "isExternalJob": false,
+          "isFavourite": false,
+          "isIndigenousJob": false,
+          "isNewJob": false,
+          "jobType": {
+            "code": "H",
+            "label": "Normal position"
+          },
+          "latitude": "-37.82503942000",
+          "location": {
+            "code": "71CBDS",
+            "label": "VIC - Melbourne - CBD & Surrounds"
+          },
+          "logoUrl": "/api/v1/global/vacancies/logos/cms?code=PX28",
+          "longitude": "144.97151194",
+          "modifiedDate": "2026-07-02T20:00:10.11",
+          "occupation": {
+            "code": "542112",
+            "label": "Admissions Clerk"
+          },
+          "organisation": {
+            "code": "VVNW",
+            "label": "MedicalJobsAustralia"
+          },
+          "positionsAvailable": 10,
+          "postCode": "3000",
+          "salary": {
+            "code": "SLNS",
+            "label": "Not Specified"
+          },
+          "site": {
+            "code": "PX28",
+            "label": "MedicalJobsAustralia"
+          },
+          "state": "VIC",
+          "suburb": "Melbourne",
+          "tenure": {
+            "code": "N",
+            "label": "Contract position"
+          },
+          "title": "Clinical Research Nurse",
+          "vacancyId": 2350810027,
+          "workType": {
+            "code": "C",
+            "label": "Casual position"
+          }
+        }
+      },
+      {
+        "score": 3.6561735,
+        "result": {
+          "contractType": null,
+          "creationDate": "2026-07-07T19:01:01.62",
+          "description": "  MedicalJobsAustralia.com     Registered Nurse (509353L62)\n\n\n\n\n\n Department of Health\n\n Hospitals & Primary Care - Hospitals Sth\n\n Hospitals Sth - Integrated Oprtns Centre\n\n\n\n\n\n Applications must be submitted by Friday 17 July, 2026 11:55 PM \n\n\n\n\nPosition details\n\n\n\n\n \n\n \n\n \nApplications close:\n\n \nFriday 17 July, 2026 11:55 PM AEST\n\n \n\n \n\n \nAward-Classification:\n\n \nNurses and Midwives (Tasmanian State Service) Award, Registered Nurse, Grade 3-4\n\n \n\n \n \n \n\n \nEmployment type:\n\n \nPermanent, full-time\n\n \n\n \n\n \nRegion:\n\n \nSouth\n\n \n\n \n\nLocated in:\n\nC Block, Lvl Grd, RHH\n\n\n \n\n \nJob description:\n\n \nIf you thrive in fast-paced environments and want to be part of a team that keeps the hospital moving, then this is the role for you.\n\n \n\n \n\n\n\n\n\n\n \n\nThe Team\n\nThe Permanent Pool is a highly valued service that provides an adaptable and responsive nursing workforce to support inpatient services at the Royal Hobart Hospital and Repatriation Centre. This is not your typical ward nursing role. Permanent Pool nurses are at the forefront of hospital flow, workforce flexibility and patient safety - responding to staffing needs, surge demand and clinical priorities. The Permanent Pool also provides the Clinical Resource Nurse (CRN) role, which supports hospital transfers and MET-CODE Blue support to the entire hospital. \n\nIf you thrive in fast-paced environments and want to be part of a team that keeps the hospital moving, then this is the role for you.\n\nThe Role\n\nAs a member of the Permanent Pool, you will:\n\nWork within a flexible and dynamic environment across a broad range of inpatient areas\n\nBenefit from the security of contracted hours, while enjoying variety in your clinical practice\n\nReceive individualised orientation and ongoing professional development, supported by experienced clinical coaches\n\nConsolidate and expand your general medical and surgical nursing skills across diverse patient groups\n\nAccess structured professional development opportunities to enhance your clinical capability and scope of practice\n\nBe supported in pursuing career progression, including pathways to the Clinical Resource Nurse (CRN) role\n\nThis is an excellent opportunity for nurses seeking to build a strong, versatile skill set, develop confidence across multiple specialties, and contribute to a workforce that underpins safe and effective patient care.\n\nIf you are driven by challenge, motivated by variety, and ready to grow into a versatile and highly skilled clinician, apply to join the Permanent Pool. \n\nAbout You\n\nTo join the Permanent Pool you will need:\n\nA minimum of 2 years acute care experience \n\nSound interpersonal and communication skills, including written skills and the ability to function effectively in a multidisciplinary team environment.\n\nCurrent knowledge of, and the ability to apply nursing principles, procedures and practices in the delivery of patient-client care in a designated practice area and in line with legal requirements and the Australian Nursing and Midwifery Board (NMBA) Registered Nurse standards for practice.\n\nKnowledge of continuous quality improvement (safety and quality) and the application of evidence-based practice in the practice setting.\n\nNote: - Please refer to the Statement of Duties for all the selection criteria of this position to address in your application.\n\nWhy Tasmania\n\nThe Department of Health Tasmania oversees various hospitals across the state, including the Royal Hobart Hospital, Launceston General Hospital, Northwest Regional Hospital, and Mersey Community Hospital, as well as district hospitals and ambulance services. Additionally, it provides community health, mental health, and primary healthcare services to the Tasmanian community through more than 300 sites.\n\nTasmania, Australia's only island state, offers unparalleled natural beauty and a luxurious lifestyle. Pursuing your health career in Tasmania's public health system means building strong connections with colleagues and patients. It also means embracing a lifestyle where you can enjoy extraordinary experiences outside of work while making a significant impact on the community during work.\n\nDetails of appointment\n\nMultiple permanent, full time and part time, shift worker (fully rotational) positions, working up to 76 hours per fortnight, commencing as soon as possible.\n\n*notwithstanding hours to be negotiated with the successful applicant.\n\nApplicants should note that, for a period of twelve months from the date of publication, this selection process may be used to fill subsequent or similar full time, part time, and casual vacancies.\n\nSalary\n\n$80,524 to $109,175 pro rata per annum + our Employer 12% superannuation contribution is on top of this amount.\n\nSalary range is in accordance with Nurses and Midwives (Tasmania State Service) Agreement 2023.\n\nAccess to the Grade 4 salary range $102,439- $109,175 is subject to successful application for progression to Grade 4\n\nIn addition, the following allowances calculated on the salaried incremental point may be available:\n\nPost Graduate Allowance of up to 10% based on qualification type\n\nSalary Packaging\n\nYou'll have access to salary package a range of benefits including living expenses up to $9,010 + $2,650 in meal entertainment each FBT year + other benefits if eligible.\n\nBenefits available to eligible candidates \n\nTravel and relocation assistance support available up to $15,000 for eligible appointees from overseas, and up to $10,000 for appointees from interstate.\n\nProfessional development and accelerated pathways.\n\nA range of leave entitlements, including study leave and Professional Development Support.\n\nFitness Passport - You, and your family can access 40+ fitness facilities across Tasmania for just $14.50 per week per person, or $28.05 for a family.\n\nDepartment of Health has achieved the \"Carer Accredited Employer Status\" providing support to employees with caring responsibilities. (Find out more under the Carer Recognition Act 2023). \n\nMore information about our Employee Benefits can be found here\n\nEligibility\n\nSuccessful applicants will be required to meet the essential criteria\n\nRegistered with the Nursing and Midwifery Board of Australia as a Registered Nurse\n\nCurrent Working with Children Registration\n\nNote: - Please refer to the Application Guide for more information of pre-employment check.\n\nDownload the Statement of Duties and any Associated Documents\n\nWe encourage you to review the Statement of Duties, Applicant Guide, prior to applying for an overview of the duties, program, selection process and application guidance.\n\nStatement of Duties: \n\nRegistered Nurse WWCR.pdf\n\nApplication Guide: \n\nApplicant Guide.docx\n\nHow to apply:\n\nApply Online. Please click the \"Apply\" button on this screen to ensure that important questions about you are answered.\n\nYou will be prompted to complete a 1-2 page application detailing your experience, skills and knowledge as they relate to the attached Statement of Duties. A separate statement ad\n\nClick here for more details: https://www.medicaljobsaustralia.com/jobs/536334/    Click here to Apply now → ",
+          "displayFromDate": "2026-07-07T00:00:00",
+          "employerId": "CfDJ8Nn8cBBigUhPiuiVER7neZpxbU7Ity_NWzZwEMQijYFBnKfQnf_efjKfBK1WCZrbtlKYa1UHInoeiS_X5bz6Ps5DTVFmEGWCiRE3adrR09nka0hMXhL675d9kmVvTsmdVQ",
+          "employerName": "Medical Jobs Australia",
+          "expiryDate": "2026-08-06T10:00:00",
+          "howToApplyCode": "PSD",
+          "industry": {
+            "code": "112",
+            "label": "Admin & Office"
+          },
+          "isApplyOnlineJob": false,
+          "isExternalJob": false,
+          "isFavourite": false,
+          "isIndigenousJob": false,
+          "isNewJob": false,
+          "jobType": {
+            "code": "H",
+            "label": "Normal position"
+          },
+          "latitude": "-42.13393305000",
+          "location": {
+            "code": "61HRBT",
+            "label": "TAS - Hobart & Southern Tasmania"
+          },
+          "logoUrl": "/api/v1/global/vacancies/logos/cms?code=PX28",
+          "longitude": "146.24733724000",
+          "modifiedDate": "2026-07-08T20:00:12.82",
+          "occupation": {
+            "code": "542112",
+            "label": "Admissions Clerk"
+          },
+          "organisation": {
+            "code": "VVNW",
+            "label": "MedicalJobsAustralia"
+          },
+          "positionsAvailable": 10,
+          "postCode": "7140",
+          "salary": {
+            "code": "SLNS",
+            "label": "Not Specified"
+          },
+          "site": {
+            "code": "PX28",
+            "label": "MedicalJobsAustralia"
+          },
+          "state": "TAS",
+          "suburb": "Derwent Bridge",
+          "tenure": {
+            "code": "N",
+            "label": "Contract position"
+          },
+          "title": "Registered Nurse (509353L62)",
+          "vacancyId": 2350969140,
+          "workType": {
+            "code": "C",
+            "label": "Casual position"
+          }
+        }
+      },
+      {
+        "score": 3.6561735,
+        "result": {
+          "contractType": null,
+          "creationDate": "2026-07-11T19:01:29.003",
+          "description": "  MedicalJobsAustralia.com     Elliston Services Assistant - Casual\n\n\n\n Apply now\n Job no: 944921\n\n Work type: Casual\n\n Location: Eyre and Western\n\n Categories: Catering and Hospitality, Community and Social Services, Child, Aged and Disability Care, Support Services\n\n\n\n\n\n \n\nEyre and Far North Local Health Network, Elliston\n\nSalary: WHD2 $30.85 - $31.17 per hour + 25% casual loading, + 12% superannuation and Salary Sacrifice Benefits\n\nCasual positions available until 28 August 2027, working over a 7 day roster\n\nJoin SA Health as a Services Assistant at Elliston Multi-Purpose Service\n\nElliston is a place where community matters - and so does the work you do. SA Health is looking for a Services Assistant to join the team at Elliston Multi-Purpose Service, part of the Eyre and Far North Local Health Network. If you want casual work that genuinely supports patient care in a close-knit rural community, this role is worth your time.\n\nWhat You'll Be Doing\n\nThis casual position covers a range of hands-on support services that keep the facility running smoothly and patients comfortable. Shifts are rostered on a 7-day rotating basis, with additional opportunities to cover leave as needed. Full training is provided - no prior healthcare experience is required.\n\nCleaning and general housekeeping of hospital areas to infection control standards\n\nLaundry duties including washing, drying, and linen management\n\nKitchen hand responsibilities including food preparation and delivery to patients\n\nCooking duties as required, following dietary and safety guidelines\n\nWhat You'll Bring\n\nAvailability to work a 7-day rotating roster, including weekends and public holidays\n\nFlexibility to take on shifts at short notice to cover leave\n\nA reliable, team-focused approach to physical, hands-on work\n\nCommitment to hygiene, safety, and following workplace procedures\n\nA genuine interest in supporting patient wellbeing in a rural health setting\n\nWillingness to complete SA Health-required pre-employment checks and training\n\nLife at Elliston MPS\n\nAs part of the Eyre and Far North Local Health Network, you'll be contributing to healthcare delivery for communities across one of South Australia's most distinctive regions. SA Health offers its workforce access to salary packaging benefits that can meaningfully increase your take-home pay - a real advantage for casual employees. The Elliston MPS team is small, supportive, and deeply connected to the community it serves. You won't be a number here; your presence on shift makes a direct difference to patients and colleagues alike. This position is available through to 28 August 2027, providing longer-term casual employment security.\n\nReady to Apply?\n\nClick apply and submit your resume along with a brief cover letter. Please refer to the attached job pack for the full position description and essential qualifications. For a conversation about the role before applying, reach out to the EFNLHN Elliston Hospital Ancillary Services team directly.\n\nAbout Us\n\nWith its ancient outback landscapes, boutique vineyards, oyster farms and Australia's best-kept-secret surf coast, Eyre and Far North will inspire and energise you.\n\nThe Eyre and Far North Local Health Network (EFNLHN) is responsible for the planning and delivery of hospital and health services over 337,626 square kilometres, taking in the Eyre Peninsula, western part of South Australia and north to Coober Pedy. We are one of the largest LHNs by area in Australia and communities include Ceduna, Cleve, Coober Pedy, Cowell, Cummins, Elliston, Kimba, Oodnadatta, Port Lincoln, Streaky Bay, Tumby Bay and Wudinna.\n\nServices include acute care, medical, accident and emergency, surgery, birthing and midwifery, specialist consultancy, renal dialysis, chemotherapy, transfusions, rehabilitation, residential and community aged care, respite care, transitional care packages, Aboriginal health, mental health, allied health, community health, community nursing, palliative care, community home support packages and home modifications.\n\nClick here to learn more about living and working in Eyre and Far North Local Health Network.\n\nExplore Elliston Hospital\n\nWhy Join Us\n\nMake a real difference and feel like an important part of the community. Being part of Eyre & Far North means you will be supported both personally and professionally, can take advantage of education and training opportunities, will have access to flexible working hours and be part of an inter-professional approach to holistic health care.\n\nSalary package a range of benefits (including living expenses such as mortgage, rent, utility bills and groceries) up to $9,010 each FBT year + $2,650 for Meal Entertainment expenses each FBT year Click here more information\n\nWellbeing and counselling support: support for you and your family via our free Employee Assistance Program\n\nRelocation support: relocation reimbursement of up to $15,000 may be available to people relocating for this opportunity. More information available from SA Health Careers - Relocation support.\n\nEmployee recognition: supportive and collaborative work environment where your contributions are valued and recognised.\n\nOur Commitment to Diversity and Inclusion\n\nSA Health is committed to providing an inclusive workplace that embraces diversity and inclusion for all employees. We strongly encourage applications from people of Aboriginal and Torres Strait Islander descent, culturally diverse backgrounds, members of the LGBTIQA+SB community and people who live with disability and-or neurodivergence.\n\nWe are committed to making workplace adjustments to provide a positive and supportive work environment. You are encouraged to let us know if have any support or access requirements during the recruitment process and beyond to ensure you can perform at your best.\n\nApplicant Information\n\nThe South Australian public sector promotes diversity and flexible ways of working part-time. Applicants are encouraged to discuss the flexible working arrangements for this role.\n\nAppointment will be subject to a satisfactory Criminal History Check and appropriate immunisation requirements.\n\nCheck(s)\n\nNational Police Certificate (NPC) for employment involving unsupervised contact with vulnerable groups required for this position (E.g. aged care employment or work involving vulnerable clients)\n\nImmunisation Risk for this position is - Category B (indirect contact with blood or body substances)\n\nSA Health Services are required to implement the Addressing vaccine preventable disease: Occupational assessment, screening and vaccination policy in the workplace.\n\nFor more information about the role please refer to the role description provided below. Job Ref: 944921\n\nEnquiries\n\nWendy Sweeney\nPosition: Catering Team Leader Elliston and Streaky Bay\nPhone: 86261009\nE-mail: Wendy.Sweeney@sa.gov.au\n\nApplication Closing Date: 28 August 2027 - 11:55PM\n\nRefer to the SA Health Career Website - How to apply for further information.\n\nEligibility: Open to Everyone\n\n 94492\n\nClick here for more details: https://www.medicaljobsaustralia.com/jobs/567869/    Click here to Apply now → ",
+          "displayFromDate": "2026-07-11T00:00:00",
+          "employerId": "CfDJ8Nn8cBBigUhPiuiVER7neZqQwoLk7zEdsBGMBhbdnGv-PTdyHy_P63BACeT4hTxfT91Pr5Ww7xnEqb-8D9_VGO9KyJRlOkpxvOJkY6TO4pgCcd8BYi2BkdfjgSp57MuIng",
+          "employerName": "Medical Jobs Australia",
+          "expiryDate": "2026-08-10T10:00:00",
+          "howToApplyCode": "PSD",
+          "industry": {
+            "code": "112",
+            "label": "Admin & Office"
+          },
+          "isApplyOnlineJob": false,
+          "isExternalJob": false,
+          "isFavourite": false,
+          "isIndigenousJob": false,
+          "isNewJob": false,
+          "jobType": {
+            "code": "H",
+            "label": "Normal position"
+          },
+          "latitude": "-34.52177446000",
+          "location": {
+            "code": "59BRSS",
+            "label": "SA - Regional - Barossa "
+          },
+          "logoUrl": "/api/v1/global/vacancies/logos/cms?code=PX28",
+          "longitude": "138.96027792999",
+          "modifiedDate": "2026-07-14T10:35:47.3",
+          "occupation": {
+            "code": "542112",
+            "label": "Admissions Clerk"
+          },
+          "organisation": {
+            "code": "VVNW",
+            "label": "MedicalJobsAustralia"
+          },
+          "positionsAvailable": 10,
+          "postCode": "5352",
+          "salary": {
+            "code": "SLNS",
+            "label": "Not Specified"
+          },
+          "site": {
+            "code": "PX28",
+            "label": "MedicalJobsAustralia"
+          },
+          "state": "SA",
+          "suburb": "Tanunda",
+          "tenure": {
+            "code": "N",
+            "label": "Contract position"
+          },
+          "title": "Elliston Services Assistant - Casual Apply now Job no: 944921 Work type: Casual Location: Eyre and Western Categories: Catering and Hospitality, Co...",
+          "vacancyId": 2351058877,
+          "workType": {
+            "code": "C",
+            "label": "Casual position"
+          }
+        }
+      },
+      {
+        "score": 3.415283,
+        "result": {
+          "contractType": null,
+          "creationDate": "2026-07-21T11:56:11.243",
+          "description": " Advance Vision Technology   About the Role   As our business continues to expand, we are seeking an experienced ICT Business Analyst to join our Melbourne office and work closely with enterprise clients across a range of ICT projects involving business systems, software implementation, digital transformation and systems integration.  This is a senior consulting role responsible for analysing business operations, identifying technology opportunities, gathering and documenting business requirements, and working closely with stakeholders and software development teams to deliver high-quality ICT solutions.  The successful candidate will play a critical role throughout the entire project lifecycle, from requirements analysis and solution design through implementation, testing, deployment and post-implementation support.   Benefits   What We Offer    Competitive remuneration package.   Long-term career opportunities with an established Australian ICT company.   Exposure to enterprise-level digital transformation projects.   Professional development and ongoing technical training.   Collaborative and supportive working environment.   Opportunity to work with clients across multiple industries.   International project exposure where required.     Task & responsibilities   Key Responsibilities   You will be responsible for:   Leading workshops with business stakeholders to gather, analyse and document business requirements.   Analysing existing business processes, workflows and enterprise systems to identify improvement opportunities.   Preparing Business Requirement Documents (BRDs), Functional Specification Documents (FSDs), user stories, process maps and workflow documentation.   Performing gap analysis between business requirements and existing system capabilities, recommending practical ICT solutions.   Working closely with software architects, developers, testers and project managers to ensure business requirements are accurately translated into technical solutions.   Preparing process models, workflow diagrams, data flow diagrams and business rules using appropriate modelling tools.   Managing requirements traceability and assessing the impact of change requests throughout project delivery.   Supporting Agile, Scrum and Waterfall software development methodologies.   Coordinating System Integration Testing (SIT), User Acceptance Testing (UAT), defect management and solution validation.   Supporting enterprise software implementation, systems integration and digital transformation projects.   Facilitating communication between business users and technical teams throughout the SDLC.   Producing user documentation, training materials and conducting client training sessions.   Monitoring project progress, identifying project risks and assisting project managers in delivering successful outcomes.   Providing ongoing post-implementation business analysis and continuous improvement recommendations.   Supporting the company's Australian and international project teams when required.     Qualification & experience   Qualifications   Applicants should possess:   A relevant ICT qualification such as an Advanced Diploma, Diploma, Bachelor's degree or higher in Information Technology, Computer Science, Information Systems or a related discipline. Applicants with substantial industry experience in ICT Business Analysis may also be considered.  Relevant ICT industry certifications will be viewed favorably.    Skills & Experience   The successful applicant should demonstrate:   Minimum 5 years' professional experience as an ICT Business Analyst or Senior Business Analyst.   Strong experience working across the complete Software Development Life Cycle (SDLC).   Extensive experience in business requirements elicitation, stakeholder management and business process analysis.   Proven experience preparing BRDs, FSDs, SRS documentation and user stories.   Experience with Agile, Scrum and Waterfall methodologies.   Experience conducting workshops, solution analysis and requirements validation.   Strong understanding of enterprise software implementation and systems integration projects.   Experience coordinating SIT, UAT and production deployment activities.    Experience in one or more of the following will be highly regarded:   Banking or financial services systems   Payment platforms   Enterprise application integration   Digital transformation initiatives   Cloud-based business systems   ERP or CRM implementation projects    About Company     Company Profile   Advance Vision Technology (AVTech) is an Australian ICT solutions provider with more than 30 years of experience delivering innovative enterprise technology solutions across Australia and Asia. Our expertise spans enterprise software, cloud infrastructure, systems integration, cybersecurity, managed ICT services, business applications and digital transformation.      Work Type:  Full time   Salary:  $110000-125000   Job Publish:  21-07-2026   Job Expire:  20-08-2026  Apply on:  ICT BUSINESS ANALYST Job here!    This job is brought to you by workinitiatives.com.au. ",
+          "displayFromDate": "2026-07-21T00:00:00",
+          "employerId": "",
+          "employerName": "SocialbleTech",
+          "expiryDate": "2026-08-20T10:00:00",
+          "howToApplyCode": "PSD",
+          "industry": {
+            "code": "112",
+            "label": "Admin & Office"
+          },
+          "isApplyOnlineJob": false,
+          "isExternalJob": false,
+          "isFavourite": false,
+          "isIndigenousJob": true,
+          "isNewJob": false,
+          "jobType": {
+            "code": "H",
+            "label": "Normal position"
+          },
+          "latitude": "-37.83291801",
+          "location": {
+            "code": "71CBDS",
+            "label": "VIC - Melbourne - CBD & Surrounds"
+          },
+          "logoUrl": "",
+          "longitude": "144.92186945",
+          "modifiedDate": "2026-07-22T15:00:45.04",
+          "occupation": {
+            "code": "542112",
+            "label": "Admissions Clerk"
+          },
+          "organisation": {
+            "code": "TTNW",
+            "label": "Sociable Tech"
+          },
+          "positionsAvailable": 1,
+          "postCode": "3207",
+          "salary": {
+            "code": "SLL5",
+            "label": ">$100,000"
+          },
+          "site": {
+            "code": "DM68",
+            "label": "Sociable Tech"
+          },
+          "state": "VIC",
+          "suburb": "Port Melbourne",
+          "tenure": {
+            "code": "P",
+            "label": "Permanent position"
+          },
+          "title": "ICT BUSINESS ANALYST",
+          "vacancyId": 2351484235,
+          "workType": {
+            "code": "F",
+            "label": "Full time position"
+          }
+        }
+      },
+      {
+        "score": 2.9903433,
+        "result": {
+          "contractType": null,
+          "creationDate": "2026-07-01T10:11:00.137",
+          "description": "Summary: \nJoin an organisation that is shaping the future direction of cryptography and secure computation in Australia, in an academic role that combines high-quality research, excellent teaching, and meaningful contribution to the School’s strategic priorities.\n\nJob Details\n•\tSalary, \no\tLecturer (Level B) – AUD $127,947 to $150,830 per annum + 17% superannuation\no\tSenior Lecturer (Level C) – AUD $155,403 to $178,290 per annum + 17% superannuation\n•\tFull-time\n•\t2-Year Convertible Tenure Track or continuing appointment\n•\tLocation: Kensington – Sydney, Australia\n\nThe Opportunity\nJoin the School of Computer Science and Engineering in the Faculty of Engineering at UNSW as a Lecturer / Senior Lecturer in a Teaching and Research role. In this role, you will contribute to the advancement of research and education in cryptography and secure computation, while helping to shape the next generation of computing professionals.\n\nYou will conduct research in areas such as post-quantum cryptography, quantum algorithms and cryptography, foundational theory and mathematics, and the design and analysis of cryptographic primitives and protocols, contributing to high-impact research outcomes and the School’s growing research profile. \n\nWith established strengths in cryptography, cybersecurity, theoretical computer science, and secure systems, UNSW offers an exceptional environment for academics who are looking to build their research profile, contribute to collaborative research initiatives, and deliver high-quality teaching. You will contribute to the development of secure, privacy-preserving, and trustworthy digital systems.\n\nThis is an opportunity to join a global leader in Computer Science, with cutting-edge facilities, world-class faculty, and an innovative research environment. With strong industry partnerships and a commitment to sustainability, UNSW provides excellent opportunities for career development, collaboration, and impact.\n\nAbout You\nYou are an emerging or established academic with a strong foundation in cryptography and secure computation, with the ability to contribute to high-quality research and teaching. You bring expertise in areas such as post-quantum cryptography, quantum cryptography, foundational theory, and the design and analysis of cryptographic protocols, and demonstrate the potential to build a strong research profile.\n\nAt Lecturer level (Level B), you will be developing your research profile and contributing to collaborative research activities, including competitive grant applications and scholarly publications, while also delivering high-quality teaching and supporting student learning across undergraduate and postgraduate courses.\n\nAt Senior Lecturer level (Level C), you will demonstrate an established research track record with evidence of research leadership, success in securing competitive funding, supervising HDR students, and making significant independent contributions to your field. You will also contribute to educational leadership through high-quality teaching, curriculum development, and mentoring students and colleagues.\n\nYou are an engaging educator with experience in delivering high-quality teaching and contributing to curriculum development. You are collaborative, adaptable, and motivated to contribute to a high-performing academic environment and to build strong relationships across academia and industry.\n\nAbout UNSW\nUNSW is a world leading institution recognised for its scale, prestige, and impact. With strong industry engagement and partnerships across sectors, UNSW provides a unique environment where academic expertise translates into real world outcomes. The university is home to cutting edge research that drives innovation and societal progress, while its excellence in teaching ensures students are prepared to lead in their fields. For academics, UNSW offers an outstanding platform to flourish — combining world class facilities, collaborative networks, and a culture of innovation that supports both career growth and meaningful contributions to the wider community.\n\nThe School of Computer Science and Engineering is one of the largest and most prestigious schools of computing in Australia. It offers undergraduate programmes in Software Engineering, Computer Engineering, Computer Science, and Bioinformatics, as well as a number of combined degrees with other disciplines. Our research and teaching staff are world leading and world building as they advance knowledge and learning. For more information on our school, please visit: https://www.unsw.edu.au/engineering/our-schools/computer-science-and-engineering \n\nSkills & Experience:\nLecturer (Level B)\n•\tA PhD in a related discipline, and/or relevant work experience.\n•\tProven commitment to proactively keeping up to date with discipline knowledge and developments.\n•\tDemonstrated experience in teaching and learning design, development and delivery at undergraduate and/or postgraduate level.\n•\tExperience using and/or designing with educational technologies and online delivery methods.\n•\tEvidence of teaching effectiveness and passion for educational excellence (e.g. relevant discipline-based curriculum design and development at a variety of levels and scales).\n•\tDemonstrated knowledge of industry or experience of work-integrated learning (desirable). \n•\tEvidence of ability to support and inspire students from diverse backgrounds and support student equity, diversity and inclusion initiatives.\n\nSenior Lecturer (Level C)\n•\tA PhD in a related discipline, and/or relevant work experience.\n•\tProven commitment to proactively keeping up to date with discipline knowledge and developments.\n•\tDemonstrated experience in teaching and learning design using a range of pedagogical approaches, development and delivery of courses and programs, at undergraduate and/or postgraduate level. \n•\tExperience of implementing educational technologies and online delivery methods.\n•\tEvidence of teaching effectiveness and passion for educational excellence and fostering this in others.\n•\tDemonstrated success in initiating curriculum development and improvement. \n•\tDemonstrated experience with industry or work-integrated learning. \n•\tEvidence of ability to support and inspire students from diverse backgrounds and support student equity diversity and inclusion initiatives.\n•\tDemonstrated track record in research with outcomes of high quality and high impact with clear evidence of the desire and ability to continually achieve research excellence as well as the capacity for research leadership.\n•\tExperience in successfully recruiting and supervising high calibre students.\n•\tDemonstrated ability to work in a team, collaborate across disciplines and build effective relationships.\n•\tEvidence of highly developed interpersonal and organisational skills.\n•\tDemonstrated ability to interact with the profession and industry and attract funding for learning and teaching initiatives.\n•\tAn understanding of and commitment to UNSW’s aims, objectives and values in action, together with relevant policies and guidelines.\n•\tKnowledge of health and safety responsibilities and commitment to attending relevant health and safety training.\n\nAdditional details about the specific responsibilities for this position can be found in the position description. This is available via JOBS@UNSW. \n\nTo Apply: \nIf you are an emerging academic looking to build your research and teaching profile, or an established academic seeking to further your career, this opportunity offers the chance to contribute to high-quality research, deliver engaging teaching, and help shape the future direction of the School. We encourage you to click the “Apply Now” button and submit your CV, cover letter, and responses addressing the Skills and Experience criteria.\n\nIf this opportunity interests you, but your experience does not align perfectly with every selection criterion, we still encourage you to apply.\n\nIf you have had any interruption in your career, you a",
+          "displayFromDate": "2026-07-01T00:00:00",
+          "employerId": "CfDJ8Nn8cBBigUhPiuiVER7neZovWgS_IP4Wb48u3ltAvR0tUqgrJ0Pt9mDW9qHTG0k_c9C-Ehusc52E47yc3WGvHiSIXUtj_JVE4DPFsatjq3PgECYhpKYeI4TwJKxZ6iPE0g",
+          "employerName": "University of NSW",
+          "expiryDate": "2026-08-02T10:00:00",
+          "howToApplyCode": "PSD",
+          "industry": {
+            "code": "120",
+            "label": "Education"
+          },
+          "isApplyOnlineJob": false,
+          "isExternalJob": false,
+          "isFavourite": false,
+          "isIndigenousJob": false,
+          "isNewJob": false,
+          "jobType": {
+            "code": "H",
+            "label": "Normal position"
+          },
+          "latitude": "-33.91559197000",
+          "location": {
+            "code": "21EASY",
+            "label": "NSW - Sydney - Eastern Sydney"
+          },
+          "logoUrl": "/api/v1/global/vacancies/logos/employer?employerId=kMCi-ZylXFXWH9oWtUhzcw&logoSize=100",
+          "longitude": "151.23108815000",
+          "modifiedDate": "2026-07-02T11:03:48.777",
+          "occupation": {
+            "code": "242111",
+            "label": "University Lecturer"
+          },
+          "organisation": {
+            "code": "INET",
+            "label": "Internet Business"
+          },
+          "positionsAvailable": 1,
+          "postCode": "2033",
+          "salary": {
+            "code": "SLNS",
+            "label": "Not Specified"
+          },
+          "site": {
+            "code": "NETV",
+            "label": "Internet Vacancies"
+          },
+          "state": "NSW",
+          "suburb": "KENSINGTON",
+          "tenure": {
+            "code": "P",
+            "label": "Permanent position"
+          },
+          "title": "Lecturer/Senior Lecturer in Cryptography 540324",
+          "vacancyId": 2350808582,
+          "workType": {
+            "code": "F",
+            "label": "Full time position"
+          }
+        }
+      },
+      {
+        "score": 2.915656,
+        "result": {
+          "contractType": null,
+          "creationDate": "2026-07-01T13:52:34.49",
+          "description": "Summary: \nJoin an organisation that is shaping the future direction of software engineering in Australia, in an academic role that combines high-quality research, excellent teaching, and meaningful contribution to the School’s strategic priorities.\n\nJob Details\n•\tSalary, \no\tLecturer (Level B) – AUD $127,947 to $150,830 per annum + 17% superannuation\no\tSenior Lecturer (Level C) – AUD $155,403 to $178,290 per annum + 17% superannuation\n•\tFull-time\n•\t2-Year Convertible Tenure Track or continuing appointment\n•\tLocation: Kensington – Sydney, Australia\n\nThe Opportunity\nJoin the School of Computer Science and Engineering in the Faculty of Engineering at UNSW as a Lecturer / Senior Lecturer in a Teaching and Research role. In this role, you will contribute to the advancement of research and education in modern computing systems, while helping to shape the next generation of computing professionals.\n\nYou will conduct research in areas including AI for Software Engineering, Software Engineering for AI, AI Application Engineering, Software Development Lifecycle and Software Architectures. Through your research, you will contribute to high-impact scholarly outcomes, collaborative research initiatives and the School's growing international reputation in Software Engineering.\n\nWith established strengths across Software Engineering, Artificial Intelligence, Cybersecurity and Computer Systems, UNSW offers an exceptional environment for academics seeking to build their research profile, contribute to interdisciplinary collaboration and deliver outstanding teaching. This is an opportunity to join one of Australia's leading Computer Science and Engineering schools, supported by world-class facilities, strong industry partnerships and a culture of innovation and impact.\n\nThis is an opportunity to join a global leader in Computer Science, with cutting-edge facilities, world-class faculty, and an innovative research environment. With strong industry partnerships and a commitment to sustainability, UNSW provides excellent opportunities for career development, collaboration, and impact.\n\nAbout You\nYou are an emerging or established academic with expertise in Software Engineering and a passion for both research and teaching. You will have the ability to contribute to high-quality research outcomes while delivering engaging and innovative learning experiences for undergraduate and postgraduate students.\n\nAt Lecturer level (Level B), you will be developing your research profile and contributing to collaborative research activities, including competitive grant applications and scholarly publications, while also delivering high-quality teaching and supporting student learning across undergraduate and postgraduate courses.\n\nAt Senior Lecturer level (Level C), you will demonstrate an established research track record with evidence of research leadership, success in securing competitive funding, supervising HDR students, and making significant independent contributions to your field. You will also contribute to educational leadership through high-quality teaching, curriculum development, and mentoring students and colleagues.\n\nYou are an engaging educator with experience in delivering high-quality teaching and contributing to curriculum development. You are collaborative, adaptable, and motivated to contribute to a high-performing academic environment and to build strong relationships across academia and industry.\n\nAbout UNSW\nUNSW is a world leading institution recognised for its scale, prestige, and impact. With strong industry engagement and partnerships across sectors, UNSW provides a unique environment where academic expertise translates into real world outcomes. The university is home to cutting edge research that drives innovation and societal progress, while its excellence in teaching ensures students are prepared to lead in their fields. For academics, UNSW offers an outstanding platform to flourish — combining world class facilities, collaborative networks, and a culture of innovation that supports both career growth and meaningful contributions to the wider community.\n\nThe School of Computer Science and Engineering is one of the largest and most prestigious schools of computing in Australia. It offers undergraduate programmes in Software Engineering, Computer Engineering, Computer Science, and Bioinformatics, as well as a number of combined degrees with other disciplines. Our research and teaching staff are world leading and world building as they advance knowledge and learning. For more information on our school, please visit: https://www.unsw.edu.au/engineering/our-schools/computer-science-and-engineering \n\nSkills & Experience:\nLecturer (Level B)\n•\tA PhD in a related discipline, and/or relevant work experience.\n•\tProven commitment to proactively keeping up to date with discipline knowledge and developments.\n•\tDemonstrated experience in teaching and learning design, development and delivery at undergraduate and/or postgraduate level.\n•\tExperience using and/or designing with educational technologies and online delivery methods.\n•\tEvidence of teaching effectiveness and passion for educational excellence (e.g. relevant discipline-based curriculum design and development at a variety of levels and scales).\n•\tDemonstrated knowledge of industry or experience of work-integrated learning (desirable). \n•\tEvidence of ability to support and inspire students from diverse backgrounds and support student equity, diversity and inclusion initiatives.\n\nSenior Lecturer (Level C)\n•\tA PhD in a related discipline, and/or relevant work experience.\n•\tProven commitment to proactively keeping up to date with discipline knowledge and developments.\n•\tDemonstrated experience in teaching and learning design using a range of pedagogical approaches, development and delivery of courses and programs, at undergraduate and/or postgraduate level. \n•\tExperience of implementing educational technologies and online delivery methods.\n•\tEvidence of teaching effectiveness and passion for educational excellence and fostering this in others.\n•\tDemonstrated success in initiating curriculum development and improvement. \n•\tDemonstrated experience with industry or work-integrated learning. \n•\tEvidence of ability to support and inspire students from diverse backgrounds and support student equity diversity and inclusion initiatives.\n•\tDemonstrated track record in research with outcomes of high quality and high impact with clear evidence of the desire and ability to continually achieve research excellence as well as the capacity for research leadership.\n•\tExperience in successfully recruiting and supervising high calibre students.\n•\tDemonstrated ability to work in a team, collaborate across disciplines and build effective relationships.\n•\tEvidence of highly developed interpersonal and organisational skills.\n•\tDemonstrated ability to interact with the profession and industry and attract funding for learning and teaching initiatives.\n•\tAn understanding of and commitment to UNSW’s aims, objectives and values in action, together with relevant policies and guidelines.\n•\tKnowledge of health and safety responsibilities and commitment to attending relevant health and safety training.\n\nAdditional details about the specific responsibilities for this position can be found in the position description. This is available via JOBS@UNSW. \n\nTo Apply: \nIf you are an emerging academic looking to build your research and teaching profile, or an established academic seeking to further your career, this opportunity offers the chance to contribute to high-quality research, deliver engaging teaching, and help shape the future direction of the School. We encourage you to click the “Apply Now” button and submit your CV, cover letter, and responses addressing the Skills and Experience criteria.\n\nIf this opportunity interests you, but your experience does not align perfectly with every selection criterion, we still encourage you to apply.",
+          "displayFromDate": "2026-07-01T00:00:00",
+          "employerId": "CfDJ8Nn8cBBigUhPiuiVER7neZqXmuSjILVxyrivhe33m0a41YFFPU0a5kfAVfV0YfMtK-KGTDavg4_52dZb8QdSstla-wtyu4JmOKFERkeMe0ul3xKBtCVNVPUXhvyH19PLuQ",
+          "employerName": "University of NSW",
+          "expiryDate": "2026-08-02T10:00:00",
+          "howToApplyCode": "PSD",
+          "industry": {
+            "code": "120",
+            "label": "Education"
+          },
+          "isApplyOnlineJob": false,
+          "isExternalJob": false,
+          "isFavourite": false,
+          "isIndigenousJob": false,
+          "isNewJob": false,
+          "jobType": {
+            "code": "H",
+            "label": "Normal position"
+          },
+          "latitude": "-33.91559197000",
+          "location": {
+            "code": "21EASY",
+            "label": "NSW - Sydney - Eastern Sydney"
+          },
+          "logoUrl": "/api/v1/global/vacancies/logos/employer?employerId=kMCi-ZylXFXWH9oWtUhzcw&logoSize=100",
+          "longitude": "151.23108815000",
+          "modifiedDate": "2026-07-02T14:00:45.99",
+          "occupation": {
+            "code": "242111",
+            "label": "University Lecturer"
+          },
+          "organisation": {
+            "code": "INET",
+            "label": "Internet Business"
+          },
+          "positionsAvailable": 1,
+          "postCode": "2033",
+          "salary": {
+            "code": "SLNS",
+            "label": "Not Specified"
+          },
+          "site": {
+            "code": "NETV",
+            "label": "Internet Vacancies"
+          },
+          "state": "NSW",
+          "suburb": "KENSINGTON",
+          "tenure": {
+            "code": "P",
+            "label": "Permanent position"
+          },
+          "title": "Lecturer/Senior Lecturer in Software Engineering 540750",
+          "vacancyId": 2350809173,
+          "workType": {
+            "code": "F",
+            "label": "Full time position"
+          }
+        }
+      },
+      {
+        "score": 2.8362586,
+        "result": {
+          "contractType": null,
+          "creationDate": "2026-07-01T10:04:23.533",
+          "description": "Summary: \nJoin a world-leading School of Computer Science and Engineering and help shape the next generation of software engineers through innovative, high-quality teaching across contemporary Software Engineering disciplines.\n\nJob Details\n•\tSalary, \no\tLecturer (Level B) – AUD $127,947 to $150,830 per annum + 17% superannuation\no\tSenior Lecturer (Level C) – AUD $155,403 to $178,290 per annum + 17% superannuation\n•\tFull-time\n•\t2-Year Convertible Tenure Track or continuing appointment\n•\tLocation: Kensington – Sydney, Australia\n\nThe Opportunity\nJoin the School of Computer Science and Engineering in the Faculty of Engineering at UNSW as a Lecturer / Senior Lecturer in an Education Focused role. In this role, you will contribute to excellence in teaching and learning across Software Engineering, while helping to shape the next generation of software engineering professionals and computing graduates.\n\nYou will contribute to teaching across Software Engineering disciplines at undergraduate and postgraduate levels, delivering engaging learning experiences that prepare students for industry and research careers. You will play a key role in curriculum development, innovative teaching practice, and enhancing the student learning experience across the School.\n\nWith established strengths in software engineering, artificial intelligence, cybersecurity, and systems, UNSW offers an exceptional environment for educators who are passionate about teaching excellence, curriculum innovation, and student success. You will contribute to a collaborative academic community committed to advancing education and preparing students for real-world impact.\n\nThis is an opportunity to join a global leader in Computer Science, with cutting-edge facilities, world-class faculty, and an innovative educational environment. With strong industry partnerships and a commitment to educational excellence, UNSW provides excellent opportunities for career development, collaboration, and impact.\n\nAbout You\nYou are an engaging and passionate educator with expertise in Software Engineering and a commitment to delivering high-quality teaching and learning experiences. You bring the ability to contribute to an inclusive and high-performing academic environment while supporting students across a range of Software Engineering disciplines.\n\nAt Lecturer level (Level B), you will contribute to teaching, curriculum development, and student support across undergraduate and postgraduate courses, while continuing to develop your teaching practice and educational innovation capabilities.\n\nAt Senior Lecturer level (Level C), you will demonstrate educational leadership through curriculum innovation, mentoring colleagues, leading teaching initiatives, and contributing to the advancement of teaching excellence across the School and broader UNSW Education Focused community.\nYou are collaborative, adaptable, and motivated to create meaningful learning experiences while building strong relationships across academia and industry.\n\nAbout UNSW\nUNSW is a world leading institution recognised for its scale, prestige, and impact. With strong industry engagement and partnerships across sectors, UNSW provides a unique environment where academic expertise translates into real world outcomes. The university is home to cutting edge research that drives innovation and societal progress, while its excellence in teaching ensures students are prepared to lead in their fields. For academics, UNSW offers an outstanding platform to flourish — combining world class facilities, collaborative networks, and a culture of innovation that supports both career growth and meaningful contributions to the wider community.\n\nThe School of Computer Science and Engineering is one of the largest and most prestigious schools of computing in Australia. It offers undergraduate programmes in Software Engineering, Computer Engineering, Computer Science, and Bioinformatics, as well as a number of combined degrees with other disciplines. Our research and teaching staff are world leading and world building as they advance knowledge and learning. For more information on our school, please visit: https://www.unsw.edu.au/engineering/our-schools/computer-science-and-engineering \n\nSkills & Experience:\nLecturer (Level B)\n•\tA PhD in a related discipline, and/or relevant work experience.\n•\tActively stays up to date with discipline knowledge and professional development.\n•\tDemonstrated experience in teaching and learning design, development and delivery at undergraduate and/or postgraduate level. \n•\tExperience using and/or designing with educational technologies and online delivery methods.\n•\tEvidence of teaching effectiveness and passion for educational excellence (e.g. relevant discipline-based curriculum design and development at a variety of levels and scales).\n•\tDemonstrated knowledge of industry or experience in work-integrated learning (desirable).\n•\tEvidence of highly developed interpersonal and organisational skills.\n•\tEvidence of ability to support and inspire students from diverse backgrounds and support student equity, diversity and inclusion initiatives.\n•\tAn understanding of and commitment to UNSW’s aims, objectives and values in action, together with relevant policies and guidelines.\n•\tKnowledge of health and safety responsibilities and commitment to attending relevant health and safety training.\n\nSenior Lecturer (Level C)\n•\tA PhD in a related discipline, and/or relevant work experience.\n•\tActively stays up to date with discipline knowledge and development.\n•\tDemonstrated experience in teaching and learning design using a range of pedagogical approaches, development and delivery of courses and programs, at undergraduate and/or postgraduate level. \n•\tExperience in implementing educational technologies and online delivery methods.\n•\tEvidence of teaching effectiveness and passion for educational excellence and fostering this in others.\n•\tDemonstrated experience with industry or work-integrated learning. \n•\tEvidence of professional development of teaching practice in self and others with the ability to advance and lead an inclusive culture of excellence in learning and teaching.\n•\tDemonstrated success in initiating curriculum development and improvement.\n•\tEvidence of highly developed interpersonal and organisational skills.\n•\tEvidence of ability to support and inspire students from diverse backgrounds and support student equity diversity and inclusion initiatives.\n•\tDemonstrated ability to interact with the profession and industry and attract funding for learning and teaching initiatives.\n•\tAn understanding of and commitment to UNSW’s aims, objectives and values in action, together with relevant policies and guidelines.\n•\tKnowledge of health and safety responsibilities and commitment to attending relevant health and safety training.\n\nAdditional details about the specific responsibilities for this position can be found in the position description. This is available via JOBS@UNSW. \n\nTo Apply: \nIf you are an educator passionate about delivering high-quality teaching and enhancing the student learning experience, whether as an emerging or experienced academic, this opportunity offers the chance to contribute to innovative teaching practices, curriculum development, and educational excellence within the School. We encourage you to click the “Apply Now” button and submit your CV, cover letter, and responses addressing the Skills and Experience criteria.\n\nIf you're excited about this role and think you have what it takes, but your experience doesn't align 100%, we still want to hear from you and would encourage you to apply.\n\nIf you have had any interruption in your career, you are encouraged to include a ROPE statement as part of your application. For information on ROPE please check: \nhttps://www.arc.gov.au/about-arc/program-policies/research-opportunity-and-performance-evidence-rope-statement \n\nPlease note applications will not be accepted if sent to the",
+          "displayFromDate": "2026-07-01T00:00:00",
+          "employerId": "CfDJ8Nn8cBBigUhPiuiVER7neZrT6g3760ch9Ot5rIY7YXnkqHqxgq6Cbcwlyb22UDd_wXgUqT1oheTknHFqaq8F0CAIS0cwiOOHwBEuMhtes8ZPykfGkko7Uo7LSYH42Kwe7A",
+          "employerName": "University of NSW",
+          "expiryDate": "2026-08-02T10:00:00",
+          "howToApplyCode": "PSD",
+          "industry": {
+            "code": "120",
+            "label": "Education"
+          },
+          "isApplyOnlineJob": false,
+          "isExternalJob": false,
+          "isFavourite": false,
+          "isIndigenousJob": false,
+          "isNewJob": false,
+          "jobType": {
+            "code": "H",
+            "label": "Normal position"
+          },
+          "latitude": "-33.91559197000",
+          "location": {
+            "code": "21EASY",
+            "label": "NSW - Sydney - Eastern Sydney"
+          },
+          "logoUrl": "/api/v1/global/vacancies/logos/employer?employerId=kMCi-ZylXFXWH9oWtUhzcw&logoSize=100",
+          "longitude": "151.23108815000",
+          "modifiedDate": "2026-07-02T11:03:48.777",
+          "occupation": {
+            "code": "242111",
+            "label": "University Lecturer"
+          },
+          "organisation": {
+            "code": "INET",
+            "label": "Internet Business"
+          },
+          "positionsAvailable": 1,
+          "postCode": "2033",
+          "salary": {
+            "code": "SLNS",
+            "label": "Not Specified"
+          },
+          "site": {
+            "code": "NETV",
+            "label": "Internet Vacancies"
+          },
+          "state": "NSW",
+          "suburb": "KENSINGTON",
+          "tenure": {
+            "code": "P",
+            "label": "Permanent position"
+          },
+          "title": "Lecturer/Senior Lecturer (Education Focussed) in Software Engineering 540328",
+          "vacancyId": 2350808563,
+          "workType": {
+            "code": "F",
+            "label": "Full time position"
+          }
+        }
+      },
+      {
+        "score": 2.2086382,
+        "result": {
+          "contractType": null,
+          "creationDate": "2026-07-06T08:29:34.323",
+          "description": " LEADCON TECH PTY LTD   Role Summary   Leadcon Tech Pty Ltd is seeking a seasoned SAP Supply Chain Professional with over 10 years of experience in end-to-end SAP ECC and S/4HANA implementations, global rollouts, and Center of Excellence (CoE) roles. The ideal candidate has deep expertise in SAP MM, WM, and Procurement, with strong cross-module integration across SD, PP, PM, FICO, PS, and MDG. Experience in Oil & Gas, Energy, or large-scale industrial sectors is highly valued.   Benefits   Task & responsibilities   Key Responsibilities    Lead end-to-end SAP S/4HANA implementation and migration projects for procurement, inventory, and warehouse management.  Work with users to formulate and document business requirements, and translate them into functional system specifications.  Identify, investigate, and analyze business processes, procedures, and work practices to recommend optimal system solutions.  Identify inefficiencies and recommend improvements in system functionality, behavior, and business practices.  Develop project plans, cost estimates, and resource allocation using project management methodologies.  Take responsibility for deploying functional solutions, including creating system test plans to ensure quality and integrity.  Create user and training documentation, and conduct formal training classes for end users and key stakeholders.  Develop functional specifications for use by system developers and technical teams.  Use data and process modeling techniques to create clear system specifications for design and development.  Act as a central reference and information source, providing guidance in system project decision-making.  Manage integration with third-party tools such as Jagger (eProcurement), IBP, MDG, SharePoint, and barcoding systems.  Embed compliance frameworks (e.g., Manual of Authority) into procurement workflows.  Lead change requests, system enhancements, and continuous improvement roadmaps.    Key Skills    Strong analytical and problem-solving abilities  Excellent written and verbal communication skills  Ability to work independently and manage multiple priorities  Proficiency in data and process modeling techniques  Experience with project management methodologies (SCRUM, Kaizen)  Attention to detail and a proactive, solution-oriented approach  Deep SAP S/4HANA Procurement and MM configuration skills  Cross-module integration expertise  User training, documentation, and workshop facilitation    Qualification & experience   Qualifications & Experience    Qualifications:   Bachelor's degree in Computer Software Engineering or related field. SAP S/4HANA Procurement and SAP MM and Ariba certifications are strongly preferred.   Experience:    10+ years in SAP MM, WM, and Supply Chain roles  Minimum 5+ years in S/4HANA implementations and upgrades  Proven experience in Oil & Gas, Energy, or large industrial sectors  Experience leading global template rollouts and cross-functional teams    Language Requirement:   Fluent in English (written and spoken)  About Company    Leadcon Tech Pty Ltd is an Australian proprietary company limited by shares, registered with the Australian Securities and Investments Commission (ACN 664 795 902) in New South Wales since January 2023. Headquartered at Spring Farm, NSW, the company operates under the leadership of its director, Rakesh Kumar. As a growing enterprise in the technology space, Leadcon Tech Pty Ltd is committed to building strong operational foundations and expanding its capabilities to meet evolving industry demands.      Work Type:  Full time   Salary:  $90000-120000   Job Publish:  06-07-2026   Job Expire:  05-08-2026   Apply Link:  https://workinitiatives.com.au/job/details?id=5981351   This job is brought to you by workinitiatives.com.au. ",
+          "displayFromDate": "2026-07-06T00:00:00",
+          "employerId": "",
+          "employerName": "SocialbleTech",
+          "expiryDate": "2026-08-05T10:00:00",
+          "howToApplyCode": "PSD",
+          "industry": {
+            "code": "112",
+            "label": "Admin & Office"
+          },
+          "isApplyOnlineJob": false,
+          "isExternalJob": false,
+          "isFavourite": false,
+          "isIndigenousJob": true,
+          "isNewJob": false,
+          "jobType": {
+            "code": "H",
+            "label": "Normal position"
+          },
+          "latitude": "-34.92867646999",
+          "location": {
+            "code": "51CADL",
+            "label": "SA - Adelaide - Central Adelaide"
+          },
+          "logoUrl": "",
+          "longitude": "138.60102724000",
+          "modifiedDate": "2026-07-07T10:45:05.977",
+          "occupation": {
+            "code": "542112",
+            "label": "Admissions Clerk"
+          },
+          "organisation": {
+            "code": "TTNW",
+            "label": "Sociable Tech"
+          },
+          "positionsAvailable": 1,
+          "postCode": "5000",
+          "salary": {
+            "code": "SLL5",
+            "label": ">$100,000"
+          },
+          "site": {
+            "code": "DM68",
+            "label": "Sociable Tech"
+          },
+          "state": "SA",
+          "suburb": "Adelaide",
+          "tenure": {
+            "code": "P",
+            "label": "Permanent position"
+          },
+          "title": "ICT Business Analyst",
+          "vacancyId": 2350910998,
+          "workType": {
+            "code": "F",
+            "label": "Full time position"
+          }
+        }
+      },
+      {
+        "score": 2.2040415,
+        "result": {
+          "contractType": null,
+          "creationDate": "2026-07-28T11:46:42.2",
+          "description": " Genuine Solutions  Company Details  Entity Name: Kingston & Knight Audit Pty Ltd.  Location: 4901/8 Adelaide Street, Brisbane City, QLD 4000, Australia  Position: Internal Auditor  Salary: $75,000 to $85,000 PA  Description:   Kingston & Knight Audit Pty. Ltd. is seeking a skilled and detail-oriented Internal Auditor to join its professional team. The firm is committed to delivering high-quality audit and assurance services while maintaining the highest standards of integrity, compliance, and professionalism. The successful candidate will be responsible for conducting internal audits, evaluating financial and operational controls, identifying risks, and ensuring compliance with relevant legislation, accounting standards, and company policies. The Internal Auditor will prepare audit reports, recommend process improvements, and work closely with management to strengthen governance, risk management, and internal control systems. Previous experience in a similar role, strong analytical skills, and excellent attention to detail are essential.   Benefits   Competitive salary  Opportunities for career growth and development  Supportive and collaborative work environment  Flexible work arrangements  Performance-based incentives and recognition programs    Task & responsibilities   Arranging, giving notice of and attending meetings of directors and shareholders  Advising organisations' governing boards on matters concerning compliance with stock exchange listing rules, relevant legislation and corporation practice  Supervising organisations' share capital by preparing documents and share issues, and handling share transfers  Controlling treasury and treasury systems and establishing and reviewing risk management objectives and treasury policies  Identifying, managing and reporting on financial risks  Assisting with equity management, debt management, securities and taxation planning issues  Collecting, analysing and interpreting information on the financial standing, cost structures and trading effectiveness of organisations  Devising, re-organising and establishing budgetary cost control and other accounting systems such as computer-based systems  Conducting audits and investigations and preparing financial statements and reports for management, shareholders, and governing and statutory bodies  Evaluating the cost effectiveness and risks of operational processes, activities, policies and systems  Reporting to management on the existence and effectiveness of the system of internal controls  Establishing audit objectives, and designing and implementing audit methodologies, processes and audit report criteria    Qualification & experience   Bachelor’s degree or higher qualification in related field.  At least 1 year of experience in a related position.  Strong analytical, problem-solving, and technical reporting skills.  Excellent communication skills and the ability to work effectively within a multidisciplinary team.   About Company    KINGSTON & KNIGHT AUDIT PTY. LTD. (ABN 59 614 405 211) is a professional audit and assurance firm. The company provides independent audit, assurance, risk management, and advisory services to businesses across a range of industries. With a strong commitment to integrity, professionalism, and technical excellence, Kingston & Knight Audit assists clients in strengthening governance, maintaining regulatory compliance, and improving financial accountability. Supported by an experienced team of audit and risk professionals, the company delivers practical, client-focused solutions while maintaining the highest standards of quality, ethics, and professional service.      Work Type:  Full time   Salary:  $75000-85000   Job Publish:  28-07-2026   Job Expire:  27-08-2026  Apply on:  Internal Auditor Job here!    This job is brought to you by workinitiatives.com.au. ",
+          "displayFromDate": "2026-07-28T00:00:00",
+          "employerId": "",
+          "employerName": "SocialbleTech",
+          "expiryDate": "2026-08-27T10:00:00",
+          "howToApplyCode": "PSD",
+          "industry": {
+            "code": "112",
+            "label": "Admin & Office"
+          },
+          "isApplyOnlineJob": false,
+          "isExternalJob": false,
+          "isFavourite": false,
+          "isIndigenousJob": true,
+          "isNewJob": true,
+          "jobType": {
+            "code": "H",
+            "label": "Normal position"
+          },
+          "latitude": "-27.468055",
+          "location": {
+            "code": "41BRIS",
+            "label": "QLD - Brisbane & Gold Coast - Brisbane & Surrounds"
+          },
+          "logoUrl": "",
+          "longitude": "153.02732603000",
+          "modifiedDate": "2026-07-28T11:46:42.2",
+          "occupation": {
+            "code": "542112",
+            "label": "Admissions Clerk"
+          },
+          "organisation": {
+            "code": "TTNW",
+            "label": "Sociable Tech"
+          },
+          "positionsAvailable": 1,
+          "postCode": "4001",
+          "salary": {
+            "code": "SLL4",
+            "label": "$80,001 - $100,000"
+          },
+          "site": {
+            "code": "DM68",
+            "label": "Sociable Tech"
+          },
+          "state": "QLD",
+          "suburb": "Brisbane",
+          "tenure": {
+            "code": "P",
+            "label": "Permanent position"
+          },
+          "title": "Internal Auditor",
+          "vacancyId": 2351787657,
+          "workType": {
+            "code": "F",
+            "label": "Full time position"
+          }
+        }
+      }
+    ],
+    "pageSize": 100,
+    "pageNumber": 39
+  }
+}

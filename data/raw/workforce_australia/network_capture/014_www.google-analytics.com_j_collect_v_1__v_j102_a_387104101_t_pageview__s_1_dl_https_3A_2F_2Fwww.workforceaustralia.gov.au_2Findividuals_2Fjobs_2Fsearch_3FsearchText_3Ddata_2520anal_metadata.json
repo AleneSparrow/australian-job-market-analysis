@@ -1,0 +1,8 @@
+{
+  "status": 200,
+  "resource_type": "xhr",
+  "content_type": "text/plain",
+  "url": "https://www.google-analytics.com/j/collect?v=1&_v=j102&a=387104101&t=pageview&_s=1&dl=https%3A%2F%2Fwww.workforceaustralia.gov.au%2Findividuals%2Fjobs%2Fsearch%3FsearchText%3Ddata%2520analyst%26pageNumber%3D1%26pageSize%3D20%26sort%3DNone&ul=en-au&dt=Find%20a%20job&sr=1280x720&vp=1280x720&_u=aGBAAEAjAAAAACAAI~&jid=477374534&gjid=1661308860&cid=37898645.1785223772&tid=UA-40618565-1&_gid=466624800.1785223772&_r=1&_slc=1&cd2=JSA&cd3=Anonymous&cd4=&cd5=&cd7=&cd8=False&z=368377308",
+  "request_method": "POST",
+  "request_post_data": null
+}

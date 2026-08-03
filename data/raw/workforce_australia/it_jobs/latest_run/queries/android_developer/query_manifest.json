@@ -1,0 +1,14 @@
+{
+  "source": "Workforce Australia",
+  "search_term": "android developer",
+  "folder": "data/raw/workforce_australia/it_jobs/latest_run/queries/android_developer",
+  "started_at_utc": "2026-07-28T07:54:48.274121+00:00",
+  "finished_at_utc": "2026-07-28T07:55:18.081538+00:00",
+  "page_size": 100,
+  "downloaded_pages": 15,
+  "reused_pages": 0,
+  "raw_records_across_pages": 1424,
+  "unique_vacancy_ids_for_query": 1279,
+  "stopped_reason": "API returned fewer records than pageSize",
+  "last_request_url": "https://www.workforceaustralia.gov.au/api/v1/global/vacancies/?searchText=android+developer&pageNumber=15&pageSize=100"
+}

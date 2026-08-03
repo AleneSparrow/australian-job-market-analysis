@@ -1,0 +1,8 @@
+{
+  "status": 200,
+  "resource_type": "xhr",
+  "content_type": "application/json; charset=utf-8",
+  "url": "https://www.workforceaustralia.gov.au/api/v1/global/recaptcha/site-key?action=report_job_submit",
+  "request_method": "GET",
+  "request_post_data": null
+}

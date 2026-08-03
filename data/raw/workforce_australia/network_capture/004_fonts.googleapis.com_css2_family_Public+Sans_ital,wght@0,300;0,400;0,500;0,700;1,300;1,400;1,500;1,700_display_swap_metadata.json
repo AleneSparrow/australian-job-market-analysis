@@ -1,0 +1,8 @@
+{
+  "status": 200,
+  "resource_type": "stylesheet",
+  "content_type": "text/css; charset=utf-8",
+  "url": "https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap",
+  "request_method": "GET",
+  "request_post_data": null
+}

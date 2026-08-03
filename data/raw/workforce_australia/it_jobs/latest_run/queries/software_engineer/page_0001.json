@@ -1,0 +1,1297 @@
+{
+  "source": "Workforce Australia",
+  "api_url": "https://www.workforceaustralia.gov.au/api/v1/global/vacancies/",
+  "request_url": "https://www.workforceaustralia.gov.au/api/v1/global/vacancies/?searchText=software+engineer&pageNumber=1&pageSize=20",
+  "search_term": "software engineer",
+  "page_number": 1,
+  "page_size": 20,
+  "downloaded_at_utc": "2026-07-28T07:42:26.621480+00:00",
+  "records_detected": 20,
+  "response": {
+    "totalCount": 16982,
+    "results": [
+      {
+        "score": 158.27716,
+        "result": {
+          "contractType": null,
+          "creationDate": "2026-07-07T11:43:56.867",
+          "description": "Our client is a leading technology company dedicated to pushing the boundaries of innovation. Based in Adelaide, South Australia, their diverse team of experts collaborates to create cutting-edge software solutions that shape industries and improve lives. As a Software Engineer, you will play a pivotal role in developing and enhancing their next-generation products. They are seeking a highly skilled and motivated Software Engineer with a strong background in Data Science to join their team. \n\nAs a Software Engineer, you will play a pivotal role in developing and enhancing our next-generation products. The ideal candidate will have at least two (2) years of experience in developing and implementing software solutions that leverage data-driven insights to solve complex problems. As a Software Engineer with Data Science experience, you will work closely with their data science and engineering teams to design, develop, and deploy scalable and efficient software applications.\n\nThe annual salary for this position is $80,000 to $85,000 plus superannuation.\n\nResponsibilities include:\n\n•\tDesign, develop, and maintain software applications that integrate data science models and algorithms.\n\n•\tCollaborate with Data Scientists, Engineers, and stakeholders to understand project requirements and translate them into technical specifications.\n\n•\tImplement machine learning models, data pipelines, and analytics tools to support various business functions.\n\n•\tOptimise software performance and scalability, ensuring robust and reliable systems.\n\n•\tConduct code reviews, write unit tests, and maintain comprehensive documentation.\n\n•\tStay up-to-date with the latest industry trends, technologies, and best practices in software engineering and data science.\n\n•\tTroubleshoot and debug software issues to ensure smooth operation and minimal downtime.\n\nQualifications:\n\n•\tMust have a Diploma, Bachelor’s or Master’s degree in Computer Science, Data Science, Engineering, or a related field.\n\n•\tShould have at least two (2) years of experience.\n\n•\tProven experience as a Software Engineer with a strong focus on data science and machine learning applications.\n\n•\tProficiency in programming languages such as Python, Java, C++, or similar.\n\n•\tExperience with data science libraries and frameworks (e.g., TensorFlow, PyTorch, scikit-learn, pandas).\n\n•\tSolid understanding of database technologies (SQL, NoSQL) and data modelling.\n\n•\tFamiliarity with cloud platforms (AWS, Azure, GCP) and containerization tools (Docker, Kubernetes).\n\n•\tStrong problem-solving skills and the ability to work independently as well as in a team.\n\n•\tExcellent communication and interpersonal skills.\n\nWhat We Offer:\n\n•\tCompetitive salary and benefits package.\n\n•\tOpportunities for professional growth and development.\n\n•\tA collaborative and inclusive work environment.\n\n•\tFlexible work hours and remote work options.\n\n•\tAccess to the latest tools and technologies.",
+          "displayFromDate": "2026-07-07T00:00:00",
+          "employerId": "CfDJ8Nn8cBBigUhPiuiVER7neZoSzabrRDxEBfX4FIvrPZ3HJch7eKq0AjV6jQtDChmkOkqzIuzWAlqw8_DvUYOXgGpcwvaJgYezSCTuZ_6iVN9HJG5mC9x2SqBFDecUmh5PWw",
+          "employerName": "Our Other Company",
+          "expiryDate": "2026-08-08T10:00:00",
+          "howToApplyCode": "APTR",
+          "industry": {
+            "code": "126",
+            "label": "Information Tech"
+          },
+          "isApplyOnlineJob": true,
+          "isExternalJob": false,
+          "isFavourite": false,
+          "isIndigenousJob": false,
+          "isNewJob": false,
+          "jobType": {
+            "code": "H",
+            "label": "Normal position"
+          },
+          "latitude": "-34.92867646999",
+          "location": {
+            "code": "51CADL",
+            "label": "SA - Adelaide - Central Adelaide"
+          },
+          "logoUrl": "/api/v1/global/vacancies/logos/employer?employerId=LnRnXF5RxahdfOdvaSwBrQ&logoSize=100",
+          "longitude": "138.60102724000",
+          "modifiedDate": "2026-07-08T13:00:45.42",
+          "occupation": {
+            "code": "261313",
+            "label": "Software Engineer"
+          },
+          "organisation": {
+            "code": "INET",
+            "label": "Internet Business"
+          },
+          "positionsAvailable": 1,
+          "postCode": "5000",
+          "salary": {
+            "code": "SLAA",
+            "label": "Above Award"
+          },
+          "site": {
+            "code": "NETV",
+            "label": "Internet Vacancies"
+          },
+          "state": "SA",
+          "suburb": "ADELAIDE",
+          "tenure": {
+            "code": "P",
+            "label": "Permanent position"
+          },
+          "title": "Software Engineer",
+          "vacancyId": 2350967902,
+          "workType": {
+            "code": "F",
+            "label": "Full time position"
+          }
+        }
+      },
+      {
+        "score": 149.78386,
+        "result": {
+          "contractType": null,
+          "creationDate": "2026-06-29T17:34:53.96",
+          "description": "Position Title: \nSoftware Engineer \n\nEmployer: \nA S CONSULTANTS PTY LTD (trading as AI LABS SOLUTIONS)\n\nLocation: \nLakemba, NSW\n\nEmployment Type: \nFull-time, Permanent\n\nSalary: \n$80,000–$90,000 per annum plus Superannuation\n\nAbout Us\n\nA S CONSULTANTS PTY LTD (trading as AI LABS SOLUTIONS)  is an innovative technology company specialising in custom software development and Artificial Intelligence (AI) solutions for businesses across various industries. We design and develop intelligent software applications that improve business efficiency through automation, machine learning, data analytics, and AI-powered technologies.\n\nAbout the Role\nWe are seeking a motivated and skilled Software Engineer (AI Solutions) to join our growing development team. The successful applicant will be responsible for designing, developing, testing, implementing and maintaining software applications, including AI-powered business solutions. You will work on projects involving web applications, APIs, cloud technologies, AI integration, and automation solutions tailored to client requirements.\n\nKey Responsibilities\nDesign, develop and maintain software applications.\nAnalyse business and user requirements and develop technical solutions.\nDesign and develop AI-powered applications and intelligent automation solutions.\nIntegrate Artificial Intelligence and Machine Learning models into software applications.\nDevelop scalable backend services and RESTful APIs.\nDevelop responsive web applications using modern technologies.\nTest, debug and optimise software applications.\nParticipate in software architecture, code reviews and technical documentation.\nCollaborate with cross-functional teams to deliver innovative software solutions.\nSupport deployment, maintenance and continuous improvement of software products.\n\nEssential Requirements\nApplicants must possess:\nBachelor's degree or higher in Software Engineering, Computer Science, Information Technology or a closely related discipline.\nMinimum one (1) year of relevant full-time professional experience as a Software Engineer or similar role.\nExperience developing software using technologies such as:\nC#\n.NET / .NET Core\nSQL Server\nHTML, CSS and JavaScript\nRESTful APIs\nGit version control\nExperience working with Artificial Intelligence (AI) applications, including AI integration, Large Language Models (LLMs), Machine Learning, Generative AI, or AI APIs.\nUnderstanding of AI frameworks, prompt engineering, AI model integration, or cloud-based AI services.\nStrong analytical and problem-solving skills.\nExcellent communication and teamwork skills.\n\nDesirable Skills\nExperience with one or more of the following will be highly regarded:\nReact or Angular\nMicrosoft Azure or AWS\nAzure AI Services, Azure OpenAI, OpenAI API, or similar AI platforms\nPython\nDocker and Kubernetes\nCI/CD pipelines\nAgile software development methodologies\n\nWhat We Offer\nFull-time permanent position.\nSalary of $80,000–$90,000 plus Superannuation.\nOpportunity to work on innovative AI and software development projects.\nProfessional development and career growth.\nCollaborative and supportive work environment.",
+          "displayFromDate": "2026-06-29T00:00:00",
+          "employerId": "CfDJ8Nn8cBBigUhPiuiVER7neZpzX6WQj5o6KjdkyjoTmYykLPeHousUlK8Fz3Xcqc2JSA-ECXkwK_ni4k7FxdwvNxFPflHw2wQU8dAtG3fF3XwZICPHUaOmuByikPn7fAVYSg",
+          "employerName": "A S CONSULTANTS PTY LTD",
+          "expiryDate": "2026-07-31T10:00:00",
+          "howToApplyCode": "APTR",
+          "industry": {
+            "code": "126",
+            "label": "Information Tech"
+          },
+          "isApplyOnlineJob": true,
+          "isExternalJob": false,
+          "isFavourite": false,
+          "isIndigenousJob": false,
+          "isNewJob": false,
+          "jobType": {
+            "code": "H",
+            "label": "Normal position"
+          },
+          "latitude": "-33.91849917999",
+          "location": {
+            "code": "21WSNE",
+            "label": "NSW - Sydney - Western Sydney & Nepean"
+          },
+          "logoUrl": "/api/v1/global/vacancies/logos/employer?employerId=oOTgk4opmoHzLyibCtDxqg&logoSize=100",
+          "longitude": "151.07583575999",
+          "modifiedDate": "2026-06-30T18:00:07.577",
+          "occupation": {
+            "code": "261313",
+            "label": "Software Engineer"
+          },
+          "organisation": {
+            "code": "INET",
+            "label": "Internet Business"
+          },
+          "positionsAvailable": 1,
+          "postCode": "2195",
+          "salary": {
+            "code": "SLAA",
+            "label": "Above Award"
+          },
+          "site": {
+            "code": "NETV",
+            "label": "Internet Vacancies"
+          },
+          "state": "NSW",
+          "suburb": "LAKEMBA",
+          "tenure": {
+            "code": "P",
+            "label": "Permanent position"
+          },
+          "title": "Software Engineer",
+          "vacancyId": 2350744699,
+          "workType": {
+            "code": "F",
+            "label": "Full time position"
+          }
+        }
+      },
+      {
+        "score": 146.8374,
+        "result": {
+          "contractType": null,
+          "creationDate": "2026-07-08T14:29:13.33",
+          "description": "Job description\n\nAustralia Network Services Pty Ltd (ANS) is seeking a suitably qualified and experienced Software Engineer for our client operating in the software development, IT services, and digital solutions industry in Sydney, Australia.\n\nOn a full-time basis, you will be responsible for designing, developing, testing, maintaining, and improving software applications and systems. You will work closely with internal teams, business stakeholders, and technical staff to deliver reliable, scalable, and user-focused software solutions.\n\n\nJob Title: Software Engineer, Full-Time Position\nANZSCO Code: 261313 Software Engineer\nEmployment Type: Full-time\nWorking Hours: 38 hours per week\nWork Location: In person\nIndustry: Software Development / IT Services / Digital Solutions\n\n\nKey Responsibilities\nThe successful candidate will contribute to the full software development lifecycle, including requirements analysis, system design, frontend and backend development, database integration, testing, deployment, documentation, and ongoing system maintenance.\n\nMain Duties and Tasks\n- Analyse business and technical requirements and translate them into software solutions.\n- Design, develop, test, and maintain software applications, platforms, and system features.\n- Develop frontend interfaces using technologies such as JavaScript, React, Vue.js, HTML5, and CSS3.\n- Build and maintain backend services, APIs, and application logic using suitable programming languages and frameworks.\n- Design, manage, and optimise databases using SQL, MySQL, PostgreSQL, or similar database systems.\n- Develop RESTful APIs and support integration between internal systems and third-party platforms.\n- Write clean, efficient, reusable, and maintainable code in accordance with development standards.\n- Conduct debugging, troubleshooting, code reviews, and performance optimisation.\n- Participate in system design, software architecture planning, and technical documentation.\n- Support cloud-based deployment, version control, CI/CD, and DevOps activities using tools such as AWS, Azure, Git, Jenkins, or similar.\n- Work with product managers, designers, business users, and technical teams to deliver software that meets business objectives.\n- Prepare user guides, technical documentation, release notes, and system support materials.\n- Maintain data security, system reliability, and compliance with workplace policies and procedures.\n- Support ongoing system upgrades, enhancements, and legacy system improvements.\n\nEssential Requirements\n- Minimum 2 years of relevant work experience as a Software Engineer, Software Developer, Full-Stack Developer, or in a similar software development role.\n- Experience in frontend development using JavaScript, React, Vue.js, HTML5, CSS3, or similar technologies.\n- Experience with backend development, APIs, databases, and system integration.\n- Knowledge of programming languages such as JavaScript, Python, Java, or similar.\n- Experience with SQL, MySQL, PostgreSQL, or other relational database systems.\n- Understanding of software development lifecycle, system design, testing, debugging, and deployment processes.\n- Experience using Git, cloud platforms, CI/CD tools, or DevOps practices is highly regarded.\n- Strong problem-solving, analytical, and technical troubleshooting skills.\n- Ability to communicate with both technical and non-technical stakeholders.\n- Strong attention to detail and commitment to delivering high-quality software solutions.\n- Ability to work independently and as part of a team in a fast-paced technical environment.\n\n\nIf you would like to discuss the role further, please click APPLY and send through an up-to-date CV. We can schedule a time to discuss the position and assess your suitability for the role.",
+          "displayFromDate": "2026-07-08T00:00:00",
+          "employerId": "CfDJ8Nn8cBBigUhPiuiVER7neZoBs9cMLWZv7L6pYL1ItRqJiPg9LKR2fanfOr9Z6Z4hsIOgwwt1cf30d-9iAfQQg0X2JVs5CbJh2Hc1AUT_qQWuxlTtFuk-eYvaWmn80MhXuQ",
+          "employerName": "AUSTRALIA NETWORK SERVICES PTY LTD",
+          "expiryDate": "2026-08-09T10:00:00",
+          "howToApplyCode": "APTR",
+          "industry": {
+            "code": "126",
+            "label": "Information Tech"
+          },
+          "isApplyOnlineJob": true,
+          "isExternalJob": false,
+          "isFavourite": false,
+          "isIndigenousJob": false,
+          "isNewJob": false,
+          "jobType": {
+            "code": "H",
+            "label": "Normal position"
+          },
+          "latitude": "-33.87849080000",
+          "location": {
+            "code": "21CIWS",
+            "label": "NSW - Sydney - City & Inner West"
+          },
+          "logoUrl": "/api/v1/global/vacancies/logos/employer?employerId=dT2qLiFwy639WAiIzgMs8g&logoSize=100",
+          "longitude": "151.08176732000",
+          "modifiedDate": "2026-07-09T15:01:24.09",
+          "occupation": {
+            "code": "261313",
+            "label": "Software Engineer"
+          },
+          "organisation": {
+            "code": "INET",
+            "label": "Internet Business"
+          },
+          "positionsAvailable": 1,
+          "postCode": "2135",
+          "salary": {
+            "code": "SLNS",
+            "label": "Not Specified"
+          },
+          "site": {
+            "code": "NETV",
+            "label": "Internet Vacancies"
+          },
+          "state": "NSW",
+          "suburb": "STRATHFIELD",
+          "tenure": {
+            "code": "P",
+            "label": "Permanent position"
+          },
+          "title": "Software Engineer",
+          "vacancyId": 2350990540,
+          "workType": {
+            "code": "F",
+            "label": "Full time position"
+          }
+        }
+      },
+      {
+        "score": 146.21356,
+        "result": {
+          "contractType": null,
+          "creationDate": "2026-07-18T13:05:33.373",
+          "description": "AI Talent is seeking a skilled Software Engineer to join our team. In this role, you will be responsible for designing, developing, testing, maintaining, and documenting program code based on user requirements and aligned with system and technical specifications.\n\nSKILLS & EXPERIENCE\n\nMaster’s degree in software engineering\n\nMinimum 6 years of full-time experience working as a Software Engineer\n\n- Analyse system requirements and write technical documentation for company policies and user guides.\n\n- Identify inefficiencies in current processes and highlight software limitations in order to provide recommendations on software purchase and upgrade.\n\n- Implement the testing plan and quality standards for enterprise applications, debug existing source code, and polish feature sets.\n\n- Coordinate with the Technical Director on current programming tasks and collaborate with other programmers to design and implement features.\n\n- Create and document software tools that artists or other developers require and quickly produce well-organised, optimised, and documented source code.\n\n- Researching, consulting, analysing and evaluating system program needs.\n\n- Identifying technology limitations and deficiencies in existing systems and associated processes, procedures and methods.\n\n- Testing, debugging, diagnosing and correcting errors and faults in an application programming language within established testing protocols, guidelines and quality standards to ensure programs and applications perform to specification.\n\n- Writing and maintaining program code to meet system requirements, system designs and technical specifications in accordance with quality accredited standards.\n\n- Writing, updating and maintaining technical programs, end-user documentation and operational procedures.\n\n- Providing advice, guidance and expertise in developing proposals and strategies for software design activities such as financial evaluation and costings for recommending software purchases and upgrades.\n\nRequirements:\n\n- Attention to detail is essential and all tasks must be carried out to the highest standard.\n\n- Certified as TOSCA - Automation specialist L2\n\n- Excellent debugging and problem-solving skills\n\n- Excel in performing End to End Web/UI Testing\n\n- Experience with ServiceNow technologies\n\n- Proven problem-solving experience\n\n- Certified as ServiceNow Administrator\n\n- Previous experience with Salesforce CRM\n\n- Experience with using Selenium Web drive for automation\n\nPermanent Residents (PR), Australian / Citizens are eligible to apply\n\nJob Type: Full-time\n\nSalary: $70,000 to $120,000 per year + Super",
+          "displayFromDate": "2026-07-18T00:00:00",
+          "employerId": "CfDJ8Nn8cBBigUhPiuiVER7neZo7eVNtd4sq_MRSnW4p9AScpMgxHfcxTzffgpCwlI-D7deZoiab4BeGKIV6s9nOj5M1f_ALb-SwRYFCHrfnIvOlEANKDBza2r9IBdeG8MO1oQ",
+          "employerName": "AI Talent Pty Ltd",
+          "expiryDate": "2026-08-19T10:00:00",
+          "howToApplyCode": "APTR",
+          "industry": {
+            "code": "126",
+            "label": "Information Tech"
+          },
+          "isApplyOnlineJob": true,
+          "isExternalJob": false,
+          "isFavourite": false,
+          "isIndigenousJob": false,
+          "isNewJob": false,
+          "jobType": {
+            "code": "H",
+            "label": "Normal position"
+          },
+          "latitude": "-33.86511277000",
+          "location": {
+            "code": "21CIWS",
+            "label": "NSW - Sydney - City & Inner West"
+          },
+          "logoUrl": "/api/v1/global/vacancies/logos/employer?employerId=0WLXkLU8G49UxgfiDnReQQ&logoSize=100",
+          "longitude": "151.20220642999",
+          "modifiedDate": "2026-07-21T10:30:12.877",
+          "occupation": {
+            "code": "261313",
+            "label": "Software Engineer"
+          },
+          "organisation": {
+            "code": "INET",
+            "label": "Internet Business"
+          },
+          "positionsAvailable": 1,
+          "postCode": "2000",
+          "salary": {
+            "code": "SLAW",
+            "label": "Award"
+          },
+          "site": {
+            "code": "NETV",
+            "label": "Internet Vacancies"
+          },
+          "state": "NSW",
+          "suburb": "BARANGAROO",
+          "tenure": {
+            "code": "P",
+            "label": "Permanent position"
+          },
+          "title": "Software Engineer",
+          "vacancyId": 2351350407,
+          "workType": {
+            "code": "F",
+            "label": "Full time position"
+          }
+        }
+      },
+      {
+        "score": 143.24554,
+        "result": {
+          "contractType": null,
+          "creationDate": "2026-07-02T13:44:36.763",
+          "description": "ABN AMRO Clearing (AAC) is a leading global player in clearing and clearing related services and strives to optimize profitability, return on invested capital and shareholders value. We have offices around the world, operating in Sydney since 1998; other main offices are located in Hong Kong, Tokyo, Singapore, Amsterdam, London, Chicago and Brazil. AAC is ambitious and customer oriented, striving to provide the best integrated service package for the professional business. AAC is a reliable partner, with efficient operations, compliant to all regulations and with a sound risk framework. \n\nThe Software Engineer role contributes to AAC’s mission to optimize performance, risk management, and operational excellence by designing, developing, and maintaining enterprise software systems. The position ensures that applications are scalable, reliable, and compliant with financial regulations across APAC. \n\nThe Software Engineer will report to the RAMS APAC Product Owner and be responsible for end-to-end design, development, migration, and optimization of critical clearing applications. This includes: \n• Designing system architecture for applications across Linux, Windows, PostgreSQL, MS SQL, and DB2 environments. \n• Leading upgrades and migrations of legacy applications to modern frameworks (Java, Angular, Python, Perl). \n• Ensuring integration, scalability, performance, and maintainability across APAC platforms. \n\nKey Responsibilities:\n1. Software System Design & Architecture \no Design and implement robust, scalable software architectures for LCM applications. \no Evaluate and select frameworks, tools, and technologies to optimize system performance. \no Define database structures and interactions to support enterprise systems. \n2. Development & Engineering \no Develop, test, and maintain software solutions in Java, Python, Perl, and Angular, aligned with architectural design. \no Apply engineering best practices (Spring MVC, Spring Boot, Maven, Bootstrap CSS) to ensure maintainable and high-quality code. \n3. Application Lifecycle Management \no Own the full software lifecycle, including design, coding, testing, deployment, and support. \no Lead migration projects, upgrading legacy systems to modern platforms while maintaining system integrity. \n4. Technical Leadership & Advisory \no Provide guidance to Product Owners and the RAMS team on system design, technical decisions, and software strategy. \no Evaluate software solutions for cost, risk, scalability, and integration into existing APAC systems. \n5. Collaboration & Documentation \no Work closely with IT teams, Chapter Leads, and APAC CIO to maintain alignment between business needs and software architecture. \no Produce and maintain technical documentation, including architecture diagrams, operational procedures, and user manuals. \n6. Risk & Compliance Awareness \no Ensure all system designs meet regulatory, security, and operational risk requirements. \no Implement solutions to improve reliability, compliance, and performance of critical clearing systems. \n\nRequired Knowledge and Experience Education: \n• IT-related university degree or equivalent. \n• At least 2+ years in software engineering or system architecture roles. \n• Experience in finance/clearing systems preferred. \n\nTechnical Skills: \n• Software engineering and system architecture experience. \n• Programming: Java (mandatory), Python/Perl, Angular. \n• Frameworks: Spring MVC, Spring Boot, Maven, Bootstrap CSS. \n• Databases: PostgreSQL, MS SQL, DB2, including design and optimization. \n• Operating Systems: Linux, Windows, Unix. \n• Lifecycle management, software engineering methodologies, test management, and IT governance.",
+          "displayFromDate": "2026-07-02T00:00:00",
+          "employerId": "CfDJ8Nn8cBBigUhPiuiVER7neZqfZoLSX93ATcVHH7Z-evbvdXguAF6rHntRuZ0TDiVUjr_LToVBYAuRgeYxcnOLCzTJ4K0g3PdwW7CtolJ4c6tVZY94KxIrTClYKQY21t-5kQ",
+          "employerName": "Consultel Solutions",
+          "expiryDate": "2026-08-03T10:00:00",
+          "howToApplyCode": "APTR",
+          "industry": {
+            "code": "126",
+            "label": "Information Tech"
+          },
+          "isApplyOnlineJob": true,
+          "isExternalJob": false,
+          "isFavourite": false,
+          "isIndigenousJob": false,
+          "isNewJob": false,
+          "jobType": {
+            "code": "H",
+            "label": "Normal position"
+          },
+          "latitude": "-33.86883859000",
+          "location": {
+            "code": "21CIWS",
+            "label": "NSW - Sydney - City & Inner West"
+          },
+          "logoUrl": "/api/v1/global/vacancies/logos/employer?employerId=NOnUDzeE1taxeiOvO-FRxg&logoSize=100",
+          "longitude": "151.20933768",
+          "modifiedDate": "2026-07-03T15:00:38.743",
+          "occupation": {
+            "code": "261313",
+            "label": "Software Engineer"
+          },
+          "organisation": {
+            "code": "INET",
+            "label": "Internet Business"
+          },
+          "positionsAvailable": 1,
+          "postCode": "2000",
+          "salary": {
+            "code": "SLL5",
+            "label": ">$100,000"
+          },
+          "site": {
+            "code": "NETV",
+            "label": "Internet Vacancies"
+          },
+          "state": "NSW",
+          "suburb": "SYDNEY",
+          "tenure": {
+            "code": "P",
+            "label": "Permanent position"
+          },
+          "title": "Support Developer (Software Engineer)",
+          "vacancyId": 2350836911,
+          "workType": {
+            "code": "F",
+            "label": "Full time position"
+          }
+        }
+      },
+      {
+        "score": 141.95653,
+        "result": {
+          "contractType": null,
+          "creationDate": "2026-07-08T09:00:27.237",
+          "description": "Software Engineer\nEmployer: WeCare Wellness Group\nLocation: Sydney, NSW\nEmployment Type: Full-time, Permanent\nSalary: AUD $90,000 – $120,000 per annum plus Superannuation\nAbout the Role\nWeCare Wellness Group is seeking an experienced Software Engineer to join our team and support the development of our proprietary WeAIT Smart Care Platform.\nWeAIT is being developed to support the new Support at Home (SAH) program and related aged care operations, including back-office workflow management, compliance, finance, reporting, client applications, associated provider operations, health monitoring integration and other smart care functions.\nKey Responsibilities\n•\tDesign, develop, test and maintain the WeAIT Smart Care Platform. \n•\tBuild and enhance modules for SAH operations, compliance, finance, reporting and client management. \n•\tDevelop client-facing application functions and internal workflow tools. \n•\tDesign scalable database structures, APIs and system integrations. \n•\tSupport integration with health monitoring devices and third-party service providers. \n•\tDevelop functions for associated provider operations and compliance management. \n•\tAnalyse business requirements and translate them into technical specifications. \n•\tTroubleshoot, debug and optimise system performance. \n•\tMaintain technical documentation and software development records. \n•\tEnsure software quality, privacy, security and reliability standards are met. \nEssential Skills and Experience\n•\tBachelor’s degree or higher in Software Engineering, Computer Science or a related field. \n•\tAt least 3 years of relevant experience as a Software Engineer or similar role. \n•\tExperience in full-stack web application development. \n•\tStrong experience with programming languages such as JavaScript, TypeScript, Python, Java, C# or similar. \n•\tExperience with SQL databases, API development and system integration. \n•\tUnderstanding of cloud platforms such as AWS, Azure or similar. \n•\tStrong analytical, problem-solving and communication skills. \n•\tAbility to work independently and manage multiple development priorities. \nDesirable\n•\tExperience in healthcare, aged care, disability or care management systems. \n•\tExperience with AI, automation, health monitoring or digital platform development. \n•\tUnderstanding of Support at Home, aged care compliance or claiming systems. \n•\tMandarin or Cantonese speaking ability is preferred. \nBenefits\n•\tCompetitive salary package. \n•\tOpportunity to develop a major smart care technology platform. \n•\tSupportive and multicultural working environment. \n•\tLong-term career development opportunities.\n\nApplication\n\nExpressions of interest and applications will be accepted for at least 1 month from placement of this advertisement",
+          "displayFromDate": "2026-07-08T00:00:00",
+          "employerId": "CfDJ8Nn8cBBigUhPiuiVER7neZoadpUq3uoSFaIokHfnJRu5jDzTgUsx2mSPmK63TFJajf0NARyPkwL75X72JNEUu_jNbI8Hvpft9lHq_mdp9HjYqoO6kqGKkLKTCZaaf9fkkg",
+          "employerName": "LinkCare Services Pty Ltd",
+          "expiryDate": "2026-08-09T10:00:00",
+          "howToApplyCode": "APTR",
+          "industry": {
+            "code": "126",
+            "label": "Information Tech"
+          },
+          "isApplyOnlineJob": true,
+          "isExternalJob": false,
+          "isFavourite": false,
+          "isIndigenousJob": false,
+          "isNewJob": false,
+          "jobType": {
+            "code": "H",
+            "label": "Normal position"
+          },
+          "latitude": "-33.96547582000",
+          "location": {
+            "code": "21SGSS",
+            "label": "NSW - Sydney - St George & Sutherland Shire"
+          },
+          "logoUrl": "/api/v1/global/vacancies/logos/employer?employerId=5FVOGZs1Sqxi4jRL4Ddc3Q&logoSize=100",
+          "longitude": "151.10301225000",
+          "modifiedDate": "2026-07-10T10:30:42.007",
+          "occupation": {
+            "code": "261313",
+            "label": "Software Engineer"
+          },
+          "organisation": {
+            "code": "INET",
+            "label": "Internet Business"
+          },
+          "positionsAvailable": 1,
+          "postCode": "2220",
+          "salary": {
+            "code": "SLAW",
+            "label": "Award"
+          },
+          "site": {
+            "code": "NETV",
+            "label": "Internet Vacancies"
+          },
+          "state": "NSW",
+          "suburb": "HURSTVILLE",
+          "tenure": {
+            "code": "P",
+            "label": "Permanent position"
+          },
+          "title": "Software Engineer",
+          "vacancyId": 2350981072,
+          "workType": {
+            "code": "F",
+            "label": "Full time position"
+          }
+        }
+      },
+      {
+        "score": 140.86891,
+        "result": {
+          "contractType": null,
+          "creationDate": "2026-07-23T11:58:01.593",
+          "description": "We are an organisation focused on the needs of clients and their family members. We provide disability services and support under the National Disability Insurance Scheme (NDIS), as well as disability, injury, mental health condition and clients in aged care services.  We empower our clients by affording them control over their lives, encouragement to make their own decisions and enable them to live their lives their way.  We have a high standard of services to improve our clients’ quality of life and continually strive to consistently provide the best support and care for our clients around the clock and in any situation. Our well-qualified and friendly staff look forward to assisting our clients to achieve their life goals, improving both their and their family’s mental health. \nWe are now seeking a Software Engineer to join our team. You will need proficiency in languages such as Java, Python, C++, or Go, strong problem-solving and algorithmic thinking, knowledge of data structures, databases, and security best practices, debugging, testing, and version control expertise, strong communication and teamwork skills.  To apply you need to have a Bachelor in Systems Engineering and a minimum of five years’ experience as a Software Engineer.  We are offering $80K – $90K\nKey Responsibilities:\n•\tAnalyse user needs and translate them into technical requirements\n•\tDesign software architectures, components, and interfaces\n•\tWrite clean, maintainable, and testable code\n•\tDevelop unit, integration, and automated tests\n•\tDebug and resolve software defects in development and production\n•\tReview code and provide constructive feedback to peers\n•\tMaintain and update existing software systems\n•\tCollaborate with product managers, QA, and infrastructure teams\nPlease provide Resume and Qualifications if you are interested. Only shortlisted applicants will be contacted.\nLodged 23rd July 26 - Closes 20th August 26",
+          "displayFromDate": "2026-07-23T00:00:00",
+          "employerId": "CfDJ8Nn8cBBigUhPiuiVER7neZqDvEgla1M9EfHrjmfwDUqaGONnxsK4aRsN7iVbCbnNDe9KW99nNnNFoXORUctqvKYaYEgSF7_NAmFdkrb1JQT9SJQ_vGk8QgEd1EHHEHGy7A",
+          "employerName": "Sherry Consultant Services Pty Ltd",
+          "expiryDate": "2026-08-24T10:00:00",
+          "howToApplyCode": "APTR",
+          "industry": {
+            "code": "126",
+            "label": "Information Tech"
+          },
+          "isApplyOnlineJob": true,
+          "isExternalJob": false,
+          "isFavourite": false,
+          "isIndigenousJob": false,
+          "isNewJob": false,
+          "jobType": {
+            "code": "H",
+            "label": "Normal position"
+          },
+          "latitude": "-37.80194257000",
+          "location": {
+            "code": "71CBDS",
+            "label": "VIC - Melbourne - CBD & Surrounds"
+          },
+          "logoUrl": "/api/v1/global/vacancies/logos/employer?employerId=zEAPi27ZYvOwATRmvkjQJw&logoSize=100",
+          "longitude": "144.98817027000",
+          "modifiedDate": "2026-07-24T12:00:09.113",
+          "occupation": {
+            "code": "261313",
+            "label": "Software Engineer"
+          },
+          "organisation": {
+            "code": "INET",
+            "label": "Internet Business"
+          },
+          "positionsAvailable": 1,
+          "postCode": "3066",
+          "salary": {
+            "code": "SLL4",
+            "label": "$80,001 - $100,000"
+          },
+          "site": {
+            "code": "NETV",
+            "label": "Internet Vacancies"
+          },
+          "state": "VIC",
+          "suburb": "COLLINGWOOD",
+          "tenure": {
+            "code": "P",
+            "label": "Permanent position"
+          },
+          "title": "Software Engineer",
+          "vacancyId": 2351594517,
+          "workType": {
+            "code": "F",
+            "label": "Full time position"
+          }
+        }
+      },
+      {
+        "score": 139.41743,
+        "result": {
+          "contractType": null,
+          "creationDate": "2026-07-09T22:14:25.717",
+          "description": "About Us\nResource Corner Pty Ltd has been built on the principles of integrity, partnership, and innovation, traits that have allowed Resource Corner to establish itself as a leader in its field since 2006. We are a global technology enterprise focused on delivering excellence in complex digital environments with a strong presence in IT consulting and services.\n\nJob location:\nHead Office is in Norwest Business Park, Norwest NSW 2153. You may be required to work at client sites (multiple locations possible), while remaining a direct employee of Resource Corner.\n\nType of position: Permanent, ongoing\n\nMinimum Qualification: Any bachelor’s degree in computing or related field\n\nExperience Range: 5 to 15 years\n\nJob Description – Software Engineer\nAs a Software Engineer, you will be responsible for designing, developing, and maintaining software applications and solutions. The role involves working with stakeholders to understand requirements, developing scalable and efficient systems, and ensuring applications meet performance and quality standards.\n\nDetailed Job Description\n\nPrimary/Mandatory Skills:\n•\tMinimum 5 years of professional experience in software engineering\n•\tStrong programming skills in Java / .NET / Python\n•\tExperience with cloud platforms (AWS/Azure/GCP)\n•\tGood knowledge of APIs, microservices, and web applications\n•\tSolid experience with relational databases (Oracle/SQL/MySQL)\n•\tStrong understanding of SDLC and Agile methodologies\n\nSkillset Required:\n•\tHands-on experience with Spring Boot, Microservices, REST APIs\n•\tDatabase design and optimization\n•\tExposure to containerization and CI/CD tools (Docker, Jenkins, Git)\n•\tExcellent problem-solving and communication skills\n\nGood to Have:\n•\tExperience with DevOps practices and Terraform\n•\tKnowledge of security best practices and system integration\n\nRoles and Responsibilities:\n•\tDevelop, build, review, and test front-end and back-end software solutions\n•\tCollaborate with business and technical teams to deliver high-quality outcomes\n•\tPerform troubleshooting, debugging, and optimization of applications\n•\tPrepare technical documentation and contribute to system design\n\nSalary: $100k to $150k plus super\n\nNext Steps\nIf this role matches your skills and career aspirations, we’d love to hear from you. Please apply directly with Resource Corner.",
+          "displayFromDate": "2026-07-09T00:00:00",
+          "employerId": "CfDJ8Nn8cBBigUhPiuiVER7neZo-Qza5xXBOsiHcbgK3i6eqxdGteeUgFQbNSiTIZy4HtNrQisy8QNLBDE3s5Z5Lx4QLxBykSp4OzQ56GVU8-kgjFA1U7EuOwwHTWYHXHpISQA",
+          "employerName": "RESOURCE CORNER PTY LTD",
+          "expiryDate": "2026-08-10T10:00:00",
+          "howToApplyCode": "APTR",
+          "industry": {
+            "code": "126",
+            "label": "Information Tech"
+          },
+          "isApplyOnlineJob": true,
+          "isExternalJob": false,
+          "isFavourite": false,
+          "isIndigenousJob": false,
+          "isNewJob": false,
+          "jobType": {
+            "code": "H",
+            "label": "Normal position"
+          },
+          "latitude": "-33.75651194999",
+          "location": {
+            "code": "21WSNE",
+            "label": "NSW - Sydney - Western Sydney & Nepean"
+          },
+          "logoUrl": "/api/v1/global/vacancies/logos/employer?employerId=1HWePf5nkPPcXgOq_fYJTw&logoSize=100",
+          "longitude": "150.98174029",
+          "modifiedDate": "2026-07-10T23:00:11.217",
+          "occupation": {
+            "code": "261313",
+            "label": "Software Engineer"
+          },
+          "organisation": {
+            "code": "INET",
+            "label": "Internet Business"
+          },
+          "positionsAvailable": 1,
+          "postCode": "2153",
+          "salary": {
+            "code": "SLNS",
+            "label": "Not Specified"
+          },
+          "site": {
+            "code": "NETV",
+            "label": "Internet Vacancies"
+          },
+          "state": "NSW",
+          "suburb": "BAULKHAM HILLS",
+          "tenure": {
+            "code": "P",
+            "label": "Permanent position"
+          },
+          "title": "Software Engineer",
+          "vacancyId": 2351038899,
+          "workType": {
+            "code": "F",
+            "label": "Full time position"
+          }
+        }
+      },
+      {
+        "score": 137.66293,
+        "result": {
+          "contractType": null,
+          "creationDate": "2026-07-04T06:21:08.833",
+          "description": "Directwire Pty Ltd\nSoftware Engineer\nAbout the company:\nAt Directwire our team knows all Full Stack Java based technologies  and best practices better than anyone else. You’ll have access to seasoned professionals in ANZAC region who can advise you across Java based platforms and provide a level of support and knowledge that gives you and your team greater efficiency, confidence, and peace of mind along the implementation, upgrade, or migration journey.\n About the role:\nWe are currently seeking an experienced Very Senior Software Engineer - Full Stack Java Technologies (15+ years' experience) to join our friendly and supportive team in Parramatta on a permanent full-time basis.\nLocation: Parramatta, NSW\nSalary range: $150,000 - $180,000\nRole: Full-time\nPositions: Multiple\nKey responsibilities include: \n•\tAnalyse client business processes, user requirements and existing insurance systems to determine suitable software solutions.\n•\tDesign, develop and configure software applications and system components across various application modules.\n•\tWrite, modify and maintain program code in accordance with approved technical specifications, coding standards and project requirements.\n•\tCreate and maintain integrations between various applications, internal systems, databases, multiple enterprise platforms and third-party services.\n•\tInterpret functional requirements, user stories, process models and technical designs to support accurate software development.\n•\tProvide estimation for cost and resources required for the development of the software solutions.\n•\tTest, debug and correct software errors across development, system testing, user acceptance and production environments.\n•\tDevelop and execute unit, integration, regression and automated tests to ensure software quality, reliability and performance.\n•\tParticipate in code reviews, technical quality assurance activities and system health checks to ensure compliance with development standards.\n•\tInvestigate production incidents and provide second- and third-level technical support for business-critical insurance applications.\n•\tPrepare and maintain technical documentation covering application designs, configurations, integrations, program logic, testing outcomes and deployment procedures.\n•\tMentor team members/other engineers/developers and promote best engineering practices\n\nQualifications, Experience and Technical Skills:\n•\tRelevant Degree in Technology or related fields\n•\tA minimum of 10-15 years of work experience in a similar job role\n•\tExtensive experience in Java Development, Kubernetes, Angular or React\n•\tGuidewire experience is highly desirable \n•\tStrong proficiency in Java, C# and ECMAScript.\n•\tExperience with full-stack application development.\n•\tKnowledge of APIs and system integrations.\n•\tSubstantial understanding of Spring Boot, Kubernetes, and Agentic AI (Anthropic/Claude preferred)\n•\tStrong communication, negotiations and leadership skills\n•\tExceptional organisational and time-management skills\n•\tExperience with cloud-based development environments.\n•\tStrong debugging and problem-solving skills.\n\n\n Australian citizens and permanent residents are preferred.\nIf this sounds like the role for you, please apply via the facilities provided on this website. Due to a high volume of applications, please note that only short-listed candidates will be contacted.\n\nPlease answer the following questions with your application:\n1)\tHow do you fit this role?\n2)\tDo you have at least 10 years of experience in a similar role?\n3)\tDo you have the required languages and platforms?",
+          "displayFromDate": "2026-07-04T00:00:00",
+          "employerId": "CfDJ8Nn8cBBigUhPiuiVER7neZrY4OLtr5HbWWX898d45h4XBa-T1X5xAxPW1aGgd27o_8tzJaOw9WMocDUXlHkbgJb7JPkuMLAa38yMxqcU0Z6LkefgosVi7Hzhs9hp4qoL2w",
+          "employerName": "Directwire Pty Ltd",
+          "expiryDate": "2026-08-05T10:00:00",
+          "howToApplyCode": "APTR",
+          "industry": {
+            "code": "126",
+            "label": "Information Tech"
+          },
+          "isApplyOnlineJob": true,
+          "isExternalJob": false,
+          "isFavourite": false,
+          "isIndigenousJob": false,
+          "isNewJob": false,
+          "jobType": {
+            "code": "H",
+            "label": "Normal position"
+          },
+          "latitude": "-33.81609310999",
+          "location": {
+            "code": "21WSNE",
+            "label": "NSW - Sydney - Western Sydney & Nepean"
+          },
+          "logoUrl": "/api/v1/global/vacancies/logos/employer?employerId=g1XjLucw0yS6SX3LM_Y5yA&logoSize=100",
+          "longitude": "151.00504717000",
+          "modifiedDate": "2026-07-27T12:17:41.707",
+          "occupation": {
+            "code": "2611",
+            "label": "ICT Business and Systems Analysts"
+          },
+          "organisation": {
+            "code": "INET",
+            "label": "Internet Business"
+          },
+          "positionsAvailable": 4,
+          "postCode": "2150",
+          "salary": {
+            "code": "SLNS",
+            "label": "Not Specified"
+          },
+          "site": {
+            "code": "NETV",
+            "label": "Internet Vacancies"
+          },
+          "state": "NSW",
+          "suburb": "PARRAMATTA",
+          "tenure": {
+            "code": "P",
+            "label": "Permanent position"
+          },
+          "title": "Software Engineer",
+          "vacancyId": 2350881724,
+          "workType": {
+            "code": "F",
+            "label": "Full time position"
+          }
+        }
+      },
+      {
+        "score": 136.2629,
+        "result": {
+          "contractType": null,
+          "creationDate": "2026-07-10T20:24:50.277",
+          "description": "Next Gen Talent\nCompany: ASSISTIVE TECH SUPPLIERS PTY LTD\nPosition: Software Engineer\nLocation: 1/16 First Avenue, Broadbeach QLD, 4218 Australia\nSalary: $120K to 130K + Super.\n\nMinimum Requirements:\nBachelor’s degree or higher qualification with at least 3 years of experience as a Software Engineer.\n\nKey Duties & Responsibilities:\nAnalyse business processes, workflows, and operational challenges to identify opportunities where Artificial Intelligence (AI) and Machine Learning (ML) can deliver measurable business value and improve efficiency.\nManage cloud hosting infrastructure, application servers, development environments, and deployment platforms to ensure secure, reliable, and high-performing AI applications.\nDesign, develop, and deploy production-grade AI solutions using modern AI architectures, including Retrieval-Augmented Generation (RAG), autonomous AI agents, vector databases, semantic search, and agent-to-agent communication frameworks.\nDevelop, deploy, and maintain Machine Learning models following MLOps best practices, including model lifecycle management, automated CI/CD pipelines, model versioning, performance monitoring, drift detection, retraining, and governance.\nBuild and integrate AI-powered applications using Microsoft Copilot Studio, Azure AI Foundry, Azure OpenAI Service, and other enterprise AI platforms alongside custom software development.\nConduct proof-of-concept (PoC) projects and prototype AI solutions within sandbox environments to evaluate emerging technologies, compare implementation approaches, and validate business outcomes.\nContribute to software solution architecture by designing scalable, secure, cloud-native AI systems that integrate with existing enterprise applications and data platforms.\nPresent technical findings, solution options, feasibility assessments, and strategic recommendations to senior management, project stakeholders, and both technical and non-technical audiences.\nEnsure AI solutions comply with Responsible AI principles by implementing appropriate guardrails, explainability, transparency, human-in-the-loop decision processes, security controls, privacy requirements, and applicable regulatory standards.\nDesign, develop, test, and maintain scalable web, cloud, and enterprise applications integrating AI/ML capabilities using modern software engineering practices.\nDevelop RESTful APIs, microservices, and secure integrations connecting AI services with enterprise applications, databases, and third-party platforms.\nOptimise AI model performance, application scalability, cloud infrastructure utilisation, and operational reliability through continuous monitoring and performance tuning.\nMaintain comprehensive technical documentation, architectural diagrams, deployment procedures, and operational guides to support ongoing maintenance and knowledge sharing.\n\nSkills & Attributes:\nGood knowledge on software configuration management systems\nLogical thinking and problem-solving skills along with an ability to collaborate.\nProficiency in troubleshooting software issues and debugging a large codebase.\nExperience writing functional and technical documentation.\nAct as a source of knowledge on best practice in the implementation of operational software systems.\n\nHow to Apply:\nTo apply for this role, please send your resume to info@nextgentalent.com.au. Only shortlisted applicants will be contacted. All applications will be treated with strict confidentiality.",
+          "displayFromDate": "2026-07-10T00:00:00",
+          "employerId": "CfDJ8Nn8cBBigUhPiuiVER7neZrBC2v82wbCp7icytGOVmvWN9CNJpY4ZCwTpDBxJQoqGsfSef8TIe6CBfc_MwMGjul-Wsk9ei-33_5U6RfdGRHmYgT1Ty5r6-bCnhh0s8mP1g",
+          "employerName": "ZEAL RIT PTY LTD T/A NEXT GEN Talent",
+          "expiryDate": "2026-08-11T10:00:00",
+          "howToApplyCode": "APTR",
+          "industry": {
+            "code": "126",
+            "label": "Information Tech"
+          },
+          "isApplyOnlineJob": true,
+          "isExternalJob": false,
+          "isFavourite": false,
+          "isIndigenousJob": false,
+          "isNewJob": false,
+          "jobType": {
+            "code": "H",
+            "label": "Normal position"
+          },
+          "latitude": "-28.01890036",
+          "location": {
+            "code": "41GOCO",
+            "label": "QLD - Brisbane & Gold Coast - Gold Coast "
+          },
+          "logoUrl": "/api/v1/global/vacancies/logos/employer?employerId=YTUPNP5nv9IpyYJ9Yer3nA&logoSize=100",
+          "longitude": "153.43118733",
+          "modifiedDate": "2026-07-27T12:42:30.79",
+          "occupation": {
+            "code": "261313",
+            "label": "Software Engineer"
+          },
+          "organisation": {
+            "code": "INET",
+            "label": "Internet Business"
+          },
+          "positionsAvailable": 1,
+          "postCode": "4218",
+          "salary": {
+            "code": "SLNS",
+            "label": "Not Specified"
+          },
+          "site": {
+            "code": "NETV",
+            "label": "Internet Vacancies"
+          },
+          "state": "QLD",
+          "suburb": "BROADBEACH",
+          "tenure": {
+            "code": "P",
+            "label": "Permanent position"
+          },
+          "title": "Software Engineer",
+          "vacancyId": 2351054749,
+          "workType": {
+            "code": "F",
+            "label": "Full time position"
+          }
+        }
+      },
+      {
+        "score": 135.35909,
+        "result": {
+          "contractType": null,
+          "creationDate": "2026-07-14T13:17:21.033",
+          "description": "Stellaris Consulting Australia Pty Ltd\nGeelong West, Victoria 3218\n\nFULL TIME – 2 ROLES OFFERED\n\nICT Business Analysts and Software Engineer\nSALARY Range $75,000 -$110,000 + Super (Annually) \n\nICT Business Analysts \nLooking for a software Business Analyst to join software development team.  Someone who is comfortable asking “why?” The ideal candidate is a divergent thinker who understands industry best practices, is team player possessing strong analytical as well as technical skills, and are able to communicate the logic behind technical decisions to non-tech stakeholders.  \n\nRoles and Responsibilities: \n•\tElicits, analyses, specifies, and validates the business needs of stakeholders\n•\tCollaborates with project s to determine project scope and vision.\n•\tIdentify, investigate, and analyse business processes, procedures and work practices \n•\tIdentifying and evaluating inefficiencies and recommending optimal business practices, and system functionality and behaviour \n•\tAssists in conducting research on products to meet agreed upon requirements and to support purchasing efforts.\n•\tAnalyses and verifies requirements for completeness, consistency, comprehensibility, feasibility, and conformity to standards.\n•\tDevelops templates to accurately and concisely write requirements specifications\n•\tCreates process models, specifications, diagrams, and charts to provide direction to developers and/or the project team.\n•\tDevelops and conduct peer reviews of the business requirements to ensure that requirement specifications are correctly interpreted.\n•\tAssists with the interpretation of customer requirements into feasible options, and communicating these back to the business stakeholders.\n•\tManages and tracks the status of requirements throughout the project lifecycle; enforce and redefine as necessary.\n\nSkills and Qualifications\n•\tA Bachelor’s Degree in Software Engineering or Information Technology\n•\t2+ years’ software development or programming experience \n•\tAble to exercise independent judgment and take action on it\n•\tExcellent analytical, mathematical, and creative problem-solving skills\n•\tExcellent listening, interpersonal, written, and oral communication skills\n•\tLogical and efficient, with keen attention to detail\n\nExpected Salary\n•\t$75,000 – $100,000 +Super (Annually) \n\n\nSOFTWARE ENGINEER\nLooking for a passionate Software Engineer to design, develop and install software solutions. Software Engineer responsibilities include gathering user requirements, defining system functionality and writing code in various languages, like Java, or .NET programming languages (e.g. C++ or JScript.NET.)  \n\nRoles and Responsibilities: \n•\tDevelop flowcharts, layouts and documentation to identify requirements and solutions\n•\tDocument and demonstrate the solutions by developing documentation, code comments and clear code\n•\tExecute full software development life cycle (SDLC)\n•\tDesign algorithms and data structures\n•\tWrite well-designed, testable code with the comments\n•\tProduce specifications and determine operational feasibility\n•\tIntegrate software components into a fully functional software system\n•\tDevelop software verification plans and quality assurance procedures\n•\tDocument and maintain software functionality\n•\tTroubleshoot, debug and upgrade existing systems\n•\tDeploy programs and evaluate user feedback\n•\tStrong analytical and reasoning skills with an ability to visualise processes and outcomes\n•\tTroubleshoot software issues and debug large codebase\n•\tLiaising with colleagues to implement technical designs\n•\tInvestigating and using new technologies where relevant\n•\tComply with project plans and industry standards\n•\tEnhancing applications by\tidentifying opportunities\tfor improvement,\t making recommendations and designing and implementing systems\n•\tMaintaining and improving existing codebases and peer review code changes\n•\tProviding written knowledge transfer material\n•\tEnsure software is updated with latest features.\n•\tImprove system quality by identifying issues and common patterns, and developing standard operating procedures\n\nSkills and Qualifications\n•\tRelevant Bachelor’s degree in software engineering or equivalent \n•\tMinimum 3+ years in Software Engineering/Development\n•\tSpecialisation of SDLC execution and designing algorithms and data structures \n•\tAgile project experience\n•\tConsulting organisation experience\n•\tSkilled ability to work in a dynamic team, contributing to the overall goals of the group \n•\tSkilled ability to perform synthesis and analysis working at the conceptual level\n\nExpected Salary\n•\t$80,000 - $110,000 + Super (Annually) \n\n\nHow to apply:\n\nApplications open on 14 July 2026 and close on 13 August 2026\nPlease send your CV to info@businessnest.com.au. Please include the job role title in your email.",
+          "displayFromDate": "2026-07-14T00:00:00",
+          "employerId": "CfDJ8Nn8cBBigUhPiuiVER7neZozAktU6EbBF6FrSwSdxdVhPk10pvs0bf-tSEJjPyXl5K3ISlNBtJVm8TeZRc7YHHF7kQGWIeYT_jmSD7n43CUG0vj-j5Sceoiicp1FNH2UjQ",
+          "employerName": "Business Nest",
+          "expiryDate": "2026-08-15T10:00:00",
+          "howToApplyCode": "APTR",
+          "industry": {
+            "code": "126",
+            "label": "Information Tech"
+          },
+          "isApplyOnlineJob": true,
+          "isExternalJob": false,
+          "isFavourite": false,
+          "isIndigenousJob": false,
+          "isNewJob": false,
+          "jobType": {
+            "code": "H",
+            "label": "Normal position"
+          },
+          "latitude": "-38.13936488000",
+          "location": {
+            "code": "79GESC",
+            "label": "VIC - Regional - Geelong and Surf Coast "
+          },
+          "logoUrl": "/api/v1/global/vacancies/logos/employer?employerId=8oGEWlqhK2XjcEqFpwvWCg&logoSize=100",
+          "longitude": "144.34488916999",
+          "modifiedDate": "2026-07-15T15:00:39.29",
+          "occupation": {
+            "code": "261313",
+            "label": "Software Engineer"
+          },
+          "organisation": {
+            "code": "INET",
+            "label": "Internet Business"
+          },
+          "positionsAvailable": 2,
+          "postCode": "3218",
+          "salary": {
+            "code": "SLNS",
+            "label": "Not Specified"
+          },
+          "site": {
+            "code": "NETV",
+            "label": "Internet Vacancies"
+          },
+          "state": "VIC",
+          "suburb": "GEELONG WEST",
+          "tenure": {
+            "code": "P",
+            "label": "Permanent position"
+          },
+          "title": "ICT Business Analysts and Software Engineer",
+          "vacancyId": 2351199213,
+          "workType": {
+            "code": "F",
+            "label": "Full time position"
+          }
+        }
+      },
+      {
+        "score": 127.25311,
+        "result": {
+          "contractType": null,
+          "creationDate": "2026-06-29T16:06:43.843",
+          "description": "The Role\n\nWe are hiring a Software Engineer who will single-handedly analyse, design, develop, test, deploy, maintain, and document full-stack operational systems serving Chinese clients across semiconductor, MCU, and cross-border business domains. This is not a narrowly scoped position — the successful candidate must independently manage the complete lifecycle of multiple concurrent software systems, from requirements gathering with Mandarin-speaking stakeholders through to production deployment on China-compliant infrastructure.\n\nThe role requires a rare combination of full-stack software engineering, hands-on Linux server administration, working familiarity with IC design and EDA tool environments, and the ability to operate fluently in both English and Mandarin Chinese across technical, business, and compliance contexts. The candidate will be the primary technical owner of all systems and must be capable of working without supervision across all layers of the stack and across all stages of delivery.\n\nKey Responsibilities\n\n- Design, develop, test, deploy, maintain, and document full-stack web applications end-to-end — including React or Vue front-end interfaces, Python-based backend services, relational databases, RESTful APIs, authentication systems, and administrative dashboards — within a single-engineer ownership model.\n- Build and maintain internal tools, management systems, workflow dashboards, and client-facing operational platforms for cross-border Chinese SMEs, semiconductor companies, and engineering teams, including direct integration with Chinese digital platforms (WeChat ecosystem, Alipay, China-specific cloud APIs) using Chinese-language API documentation.\n- Develop and maintain software tools, scripts, and workflow automation systems that support IC design operations, including DFT workflows, Verilog-based digital logic design, verification pipelines, and EDA tool environments (Cadence and Synopsys) — covering environment configuration, licence server management, and build-flow automation.\n- Deploy, configure, monitor, and maintain applications on Linux-based server environments across Mainland China and international infrastructure, including ICP-filed domains, China-based hosting, cross-border DNS and CDN configuration, reverse proxy setup (Nginx), and environment-specific application configuration. Troubleshoot infrastructure issues specific to China-facing deployments, including Great Firewall constraints and dual-environment architectures.\n- Identify technology limitations, performance bottlenecks, and process gaps across existing systems, then independently design, implement, and document improvements — maintaining technical documentation, API references, deployment runbooks, and operational procedures in both English and Chinese.\n- Analyse operational metrics, system performance data, user feedback, and error reports to drive continuous improvement across all systems under management.\n- Serve as the primary technical point of contact for bilingual teams, Chinese clients, and stakeholders across China, Hong Kong, Singapore, and Australia, conducting requirements gathering and technical communication in both English and Mandarin Chinese.\n\nTechnical Requirements\n\nRequired\n\n- Hands-on experience in full-stack web development, with demonstrated ability to independently deliver complete systems from front-end to backend to deployment.\n- Strong proficiency in Python as a primary backend language, with production experience in Django, Flask, or FastAPI for building database-backed web applications and API services.\n- Production experience developing front-end interfaces using React or Vue (not merely prototyping), including state management, component architecture, API integration, and responsive design.\n- Demonstrated experience building and maintaining internal tools, admin panels, operational dashboards, and workflow management platforms for business users.\n- Solid understanding of RESTful API design, relational database modelling (PostgreSQL or MySQL), authentication and authorisation systems, third-party API integration, and system-to-system communication patterns.\n- Hands-on Linux server administration experience, including setup, configuration, application deployment, Nginx reverse proxy configuration, SSL/TLS management, firewall rules, log management, cron jobs, process supervision, and production troubleshooting — not merely development on Linux.\n- Practical experience with Docker containerisation, CI/CD pipeline configuration, and cloud or hybrid server deployment environments.\n- Working knowledge of digital IC design workflows, including an understanding of DFT (Design for Test) concepts, Verilog HDL, digital logic design, synthesis, and verification processes — sufficient to develop, configure, and maintain software tools and workflow integrations that support IC design engineering teams.\n- Direct experience working with EDA tool environments, specifically Cadence and/or Synopsys toolchains, including at least one of: tool installation and environment configuration, licence server setup and management, build-flow scripting and automation, or integration of EDA tools into broader engineering workflow platforms.\n- Familiarity with ARM Cortex and/or RISC-V processor architectures and MCU-based development workflows, with sufficient understanding to build and maintain software systems that support semiconductor engineering and production operations.\n- Demonstrated experience with Mainland China infrastructure and compliance requirements, including ICP filing processes, China-based hosting configuration, China-accessible domain and DNS setup, and deployment of applications that function reliably behind the Great Firewall.\n- Experience building operational software systems for Chinese businesses, including direct integration with Chinese digital platforms, services, or APIs (e.g., WeChat ecosystem, Alipay, China-based cloud providers), with the ability to independently read and implement from Chinese-language technical documentation.\n\nPreferred\n\n- Experience developing automation scripts, engineering workflow tools, internal development platforms, or integration layers specifically for semiconductor or IC design teams in China.\n- Understanding of MCU, semiconductor, embedded systems, or IC design industries in Greater China and broader Asia, particularly where software platforms support engineering, production, or client delivery workflows.\n- Experience with software performance optimisation, security hardening, monitoring and alerting systems, and deployment automation for production environments operating across multiple jurisdictions.\n- Familiarity with cross-border data handling, dual-environment deployment architectures (China/international), and the operational constraints of running software services that must function in both mainland Chinese and international network environments simultaneously.\n- Experience working in small teams or as a sole technical operator with full ownership of systems from requirements through to production support.\n\nLanguage & Communication\n\n- Proficient in English.\n- Fluent Mandarin Chinese, both spoken and written, is required.\n- Ability to communicate technical requirements, system issues, software specifications, and deployment matters with Chinese clients and Mandarin-speaking stakeholders.\n- Ability to read and interpret Chinese platform documentation, API documentation, compliance materials, and technical communication; draft technical communications in Chinese for mainland stakeholders; and navigate Chinese-language developer resources, forums, and support channels without assistance.",
+          "displayFromDate": "2026-06-29T00:00:00",
+          "employerId": "CfDJ8Nn8cBBigUhPiuiVER7neZqLLspIdbRS98UvTOY89hQ-cjGdG6KZyhm_AqwTpfcFS1bVXutG8Cv7_6NDm_6xyiJqFiLiDIfcf9_mfDkFOXQqFCLuc2rB-h4HKD_VXtfYXA",
+          "employerName": "DEEP C HOLDING PTY LTD",
+          "expiryDate": "2026-07-31T10:00:00",
+          "howToApplyCode": "APTR",
+          "industry": {
+            "code": "126",
+            "label": "Information Tech"
+          },
+          "isApplyOnlineJob": true,
+          "isExternalJob": false,
+          "isFavourite": false,
+          "isIndigenousJob": false,
+          "isNewJob": false,
+          "jobType": {
+            "code": "H",
+            "label": "Normal position"
+          },
+          "latitude": "-33.86914954000",
+          "location": {
+            "code": "21CIWS",
+            "label": "NSW - Sydney - City & Inner West"
+          },
+          "logoUrl": "/api/v1/global/vacancies/logos/employer?employerId=G7RLhMGv8iWXQ4XQ_jTk_g&logoSize=100",
+          "longitude": "151.19348378999",
+          "modifiedDate": "2026-06-30T17:18:39.24",
+          "occupation": {
+            "code": "261313",
+            "label": "Software Engineer"
+          },
+          "organisation": {
+            "code": "INET",
+            "label": "Internet Business"
+          },
+          "positionsAvailable": 1,
+          "postCode": "2009",
+          "salary": {
+            "code": "SLAA",
+            "label": "Above Award"
+          },
+          "site": {
+            "code": "NETV",
+            "label": "Internet Vacancies"
+          },
+          "state": "NSW",
+          "suburb": "PYRMONT",
+          "tenure": {
+            "code": "P",
+            "label": "Permanent position"
+          },
+          "title": "Software Engineer (Operational Systems)",
+          "vacancyId": 2350744339,
+          "workType": {
+            "code": "F",
+            "label": "Full time position"
+          }
+        }
+      },
+      {
+        "score": 124.76894,
+        "result": {
+          "contractType": null,
+          "creationDate": "2026-07-21T10:45:41.117",
+          "description": "Riot Sydney is looking for an experienced Senior Software Engineer to join the Sydney-based League, gameplay team. \n\nAs Software Engineers at Riot, we bring deep knowledge of specific technical areas and also value the opportunity to work in a variety of broader domains. We work with both new and current technology, creating innovative solutions to overcome high-volume obstacles and to deliver player value.\n\nAs a Senior Software Engineer on the Game team under League’s Gameplay initiative, you will bring deep gameplay technical knowledge and skills to the game play domains in League of Legends. You will increase sustainability for new/existing game modes and develop tools and workflows that make it easier for designers and artists to create awesome experiences for our players. You will work as part of a diverse team consisting of artists, designers, engineers, producers, and QA. You will contribute to technical decision-making processes, driving team-level decisions in alignment with product goals. You will report to the Team Engineering Manager.\n\nThis is a full-time role, based in Sydney, Australia. Internal Job Title: Software Engineer II. \n\nResponsibilities:\nDevelop and implement improvements to help League of Legends maintain and scale game modes more sustainably.\nUnderstand backend services powering League of Legends and collaborate with the team to use them effectively.\nAutomate aspects of creating and running new and existing game modes.\nDesign and develop features and UI in the League of Legends game engine using C++.\nWork closely with cross-disciplinary teams in Sydney and the US (Game Designers, Artists, Animators, Quality, and Producers) to shape engaging player experiences.\nProvide feedback to designers and artists on technical tradeoffs of their designs and ideas.\nParticipate in team technical decisions and contribute to the overall product direction.\nMentor and support less experienced engineers.\nParticipate in team's on-call rotation where you may be required to be on-call during certain periods outside of your normal working hours\n\nRequired Qualifications: \n4+ yrs of collective professional experience building applications or games in a client-server architecture.\nBachelor’s degree in Computer Science or comparable field or equivalent experience\nExperience working closely with non-engineering collaborators to deliver value\nExperience building games\nExperience working with complex code bases\nProfessional experience using C++\n\nFor this role, you'll succeed through craft expertise and a collaborative spirit that prioritises the delight of players. We will look at your past studies and experience, but for this role, we also look for dedicated people with a personal relationship with games. If you embody player empathy and care about players' experiences, this is the role for you!",
+          "displayFromDate": "2026-07-21T00:00:00",
+          "employerId": "CfDJ8Nn8cBBigUhPiuiVER7neZoqN17GI4BcAusxzVQuUIQ8CeLmInHQOh8D3rII5Vd2w2XKmTGAyp8GO-kIPw6fUAJxTvtXDRvP20HA9qkgQG8MfdyQnNIaCbjIFNcI0rS2jA",
+          "employerName": "RIOT GAMES PTY LTD",
+          "expiryDate": "2026-08-22T10:00:00",
+          "howToApplyCode": "APTR",
+          "industry": {
+            "code": "126",
+            "label": "Information Tech"
+          },
+          "isApplyOnlineJob": true,
+          "isExternalJob": false,
+          "isFavourite": false,
+          "isIndigenousJob": false,
+          "isNewJob": false,
+          "jobType": {
+            "code": "H",
+            "label": "Normal position"
+          },
+          "latitude": "-33.88095068999",
+          "location": {
+            "code": "21CIWS",
+            "label": "NSW - Sydney - City & Inner West"
+          },
+          "logoUrl": "/api/v1/global/vacancies/logos/employer?employerId=HchlCkTH1i9aRf0sMFqkAA&logoSize=100",
+          "longitude": "151.20501324",
+          "modifiedDate": "2026-07-22T11:03:41.873",
+          "occupation": {
+            "code": "261313",
+            "label": "Software Engineer"
+          },
+          "organisation": {
+            "code": "INET",
+            "label": "Internet Business"
+          },
+          "positionsAvailable": 1,
+          "postCode": "2000",
+          "salary": {
+            "code": "SLNS",
+            "label": "Not Specified"
+          },
+          "site": {
+            "code": "NETV",
+            "label": "Internet Vacancies"
+          },
+          "state": "NSW",
+          "suburb": "HAYMARKET",
+          "tenure": {
+            "code": "P",
+            "label": "Permanent position"
+          },
+          "title": "Senior Software Engineer, Gameplay - League of Legends",
+          "vacancyId": 2351484013,
+          "workType": {
+            "code": "F",
+            "label": "Full time position"
+          }
+        }
+      },
+      {
+        "score": 124.22023,
+        "result": {
+          "contractType": null,
+          "creationDate": "2026-06-30T14:16:06.777",
+          "description": "Software Engineer (Sydney and Melbourne)\nA purpose-led organization that is building a meaningful future through innovation, technology, and collective knowledge. We're #BuildingOnBelief. A part of the Tata group, India's largest multinational business group, TCS has over 500,000 of the world’s best-trained consultants in 46 countries. The company generated consolidated revenues of US $22.2 billion in the fiscal year ended March 31, 2021. TCS' proactive stance on climate change and award-winning work with communities across the world have earned it a place in leading sustainability indices such as the MSCI Global Sustainability Index and the FTSE4Good Emerging Index.\n \nJoin our global team to transform what’s next. Immerse yourself in an atmosphere of innovative solutions.\n \nRole Summary:\n \nA great opportunity for a Software Engineer to join a highly skilled technical team working with leading edge technology on projects focusing on a new business direction, scaling systems, automation, high-level administration and performance output.\nJAVA, SQL, Banking apps: LoanIQ, Sylo, Lodi, Funds Finance, iCAPS, \nJob Description:\nKey responsibilities include:\n·     •\tIdentify client requirements, analyse, and gather information to evaluate system and business need.\n•\tCreate design and technical specification documents.\n•\tDevelop code and implement effective solutions to meet system requirement.\n•\tMaintain program codes and system/user documentation.\n•\tPerform system testing to check for bugs/issues and implement fix to ensure system is working as expected.\n•\tHelp team with technical issues and ideas to implement effective solution. \n•\tResolve incidents and requests raised business users or caused by system issues in timely manner.\n•\tRaise, coordinate, and deploy changes in all environments followed by technical verification.\nHow to apply:\n \nTo be eligible to apply, you must have Australian or New Zealand citizenship or permanent\nresidency status.\n \nTCS is an equal opportunity employer. All applications will be treated with the strictest\nconfidentiality.\nJob Type: Full-time\nSalary: $90,000.00 to $180,000.00 /year",
+          "displayFromDate": "2026-07-01T00:00:00",
+          "employerId": "CfDJ8Nn8cBBigUhPiuiVER7neZrpNZDJf5AiabDi_6gKzJEqYTKUX1WDNIY0H-5IJ--8N3tQ6_Fc6oIgFo4MTpr2PmkW2-X_2jKwye-n0TuVCxhRvbLd5XFhijy7E_pIMmyJYQ",
+          "employerName": "Tata Consultancy Services",
+          "expiryDate": "2026-08-01T10:00:00",
+          "howToApplyCode": "APTR",
+          "industry": {
+            "code": "126",
+            "label": "Information Tech"
+          },
+          "isApplyOnlineJob": true,
+          "isExternalJob": false,
+          "isFavourite": false,
+          "isIndigenousJob": false,
+          "isNewJob": false,
+          "jobType": {
+            "code": "H",
+            "label": "Normal position"
+          },
+          "latitude": "-33.83675815000",
+          "location": {
+            "code": "21NSCC",
+            "label": "NSW - Sydney - Northern Sydney & Central Coast"
+          },
+          "logoUrl": "/api/v1/global/vacancies/logos/employer?employerId=V-KgN59eJSB5aJmVm-MEIg&logoSize=100",
+          "longitude": "151.20686667999",
+          "modifiedDate": "2026-07-01T20:00:14.137",
+          "occupation": {
+            "code": "261313",
+            "label": "Software Engineer"
+          },
+          "organisation": {
+            "code": "INET",
+            "label": "Internet Business"
+          },
+          "positionsAvailable": 2,
+          "postCode": "2060",
+          "salary": {
+            "code": "SLAA",
+            "label": "Above Award"
+          },
+          "site": {
+            "code": "NETV",
+            "label": "Internet Vacancies"
+          },
+          "state": "NSW",
+          "suburb": "NORTH SYDNEY",
+          "tenure": {
+            "code": "P",
+            "label": "Permanent position"
+          },
+          "title": "Software Engineer",
+          "vacancyId": 2350759402,
+          "workType": {
+            "code": "F",
+            "label": "Full time position"
+          }
+        }
+      },
+      {
+        "score": 122.655045,
+        "result": {
+          "contractType": null,
+          "creationDate": "2026-07-16T17:23:32.567",
+          "description": "Role\n\nWe are seeking a highly skilled and motivated Mid-level Full Stack Software Engineer to join our team in Sydney. In this role, you will be responsible for the full software development lifecycle, from conceptualising and designing robust architecture to building, deploying, and maintaining scalable web applications, databases, and cloud infra.\n\nCore Responsibilities\n\nAPI & Backend development: Design, build, and maintain secure and high performing APIs and server-side logic for financial applications\nDatabase management: Architect, optimise, and maintain relational and NoSQL database structures as well as data warehousing solutions\nFront-end: Build, test, and deploy responsive, user-focused web applications and user interfaces\nInfrastructure & DevOps: Design, deploy, and maintain cloud infrastructure and CI/CD pipelines to automate testing and deployment\nQuality Assurance: Conduct code reviews, ensure compliance with security standards, and maintain a clean and well-documented codebase\nAgile: Manage project timelines effectively within an Agile team environment\n\nRequired Skills (must have relevant experience with all of the below):\nFrameworks & Languages: Python, Django, React, TypeScript, Gatsby, React Router\nDatabases & Analytics: PostgreSQL, Google BigQuery, Looker Studio, Redis\nCloud & Infrastructure: Google Cloud Platform (GCP), Google Cloud Run\nDevOps & Orchestration: Docker, Kubernetes, GitHub Actions, Terraform\nSecurity & Compliance: CrowdStrike, Vanta, GitHub Advanced Security\nPackage Management: NPM, Yarn, Poetry\nTesting: Pytest, React Testing Library\n\nEducation: Bachelor’s Degree in Computer Science, Software Engineering, or a highly related Information Technology discipline\nExperience: A minimum of 3 years of relevant post-qualification full-stack software engineering experience\nPay: $100,000.00 – $105,000.00 per year\n\nWork Location: In person",
+          "displayFromDate": "2026-07-16T00:00:00",
+          "employerId": "CfDJ8Nn8cBBigUhPiuiVER7neZo4CsknHR2KZ-LwS5Rk7ygtxIcOOEvUqsFg3X03iGvF8yvRTx8MRYh01SJnZRzkM7l8-2D61637AaBDqwjv9QG4REtsBSj09TajmOhh2giVkA",
+          "employerName": "PERFORMID PTY LTD",
+          "expiryDate": "2026-08-17T10:00:00",
+          "howToApplyCode": "APTR",
+          "industry": {
+            "code": "126",
+            "label": "Information Tech"
+          },
+          "isApplyOnlineJob": true,
+          "isExternalJob": false,
+          "isFavourite": false,
+          "isIndigenousJob": false,
+          "isNewJob": false,
+          "jobType": {
+            "code": "H",
+            "label": "Normal position"
+          },
+          "latitude": "-33.87790144000",
+          "location": {
+            "code": "21CIWS",
+            "label": "NSW - Sydney - City & Inner West"
+          },
+          "logoUrl": "/api/v1/global/vacancies/logos/employer?employerId=JAU5Ozp67OhE1DCKzXWNeg&logoSize=100",
+          "longitude": "151.21946667",
+          "modifiedDate": "2026-07-17T18:00:15.18",
+          "occupation": {
+            "code": "261313",
+            "label": "Software Engineer"
+          },
+          "organisation": {
+            "code": "INET",
+            "label": "Internet Business"
+          },
+          "positionsAvailable": 1,
+          "postCode": "2010",
+          "salary": {
+            "code": "SLAA",
+            "label": "Above Award"
+          },
+          "site": {
+            "code": "NETV",
+            "label": "Internet Vacancies"
+          },
+          "state": "NSW",
+          "suburb": "DARLINGHURST",
+          "tenure": {
+            "code": "P",
+            "label": "Permanent position"
+          },
+          "title": "Mid-level Software Engineer (Full Stack)",
+          "vacancyId": 2351281667,
+          "workType": {
+            "code": "F",
+            "label": "Full time position"
+          }
+        }
+      },
+      {
+        "score": 110.45659,
+        "result": {
+          "contractType": null,
+          "creationDate": "2026-07-18T13:08:57.873",
+          "description": "Position Overview\nWe are looking for a skilled Software and Applications Programmer to design, build, test and maintain high-quality software solutions that support business operations and digital transformation initiatives. This role is suited to a technically strong professional who enjoys problem-solving, working across systems, and contributing to the full software development lifecycle. You will collaborate closely with stakeholders to translate requirements into reliable, scalable applications.\nKey Responsibilities\nAnalyse business and system requirements to design effective software and application solutions.\nDevelop, test and maintain application code in line with defined technical specifications and quality standards.\nIdentify system limitations, performance issues and process inefficiencies, recommending practical improvements.\nDebug, diagnose and resolve application defects within established testing and release frameworks.\nCollaborate with analysts, engineers and stakeholders to ensure solutions align with functional and technical needs.\nProduce and maintain technical documentation, including system designs, operational guides and user instructions.\nSupport integration of applications with existing platforms, databases and third-party services.\nContribute to software upgrades, enhancements and version control activities.\nApply secure coding practices and ensure compliance with organisational and regulatory standards.\nProvide technical input into solution proposals, including effort estimation, feasibility and cost considerations.\nRequired Qualifications & Skills\nBachelor’s degree in Computer Science, Software Engineering, Information Technology or a related field.\nProven experience in software or application development across commercial or enterprise environments.\nStrong programming skills in one or more modern languages (e.g. Java, C#, Python, JavaScript or similar).\nExperience with application testing, debugging and troubleshooting methodologies.\nUnderstanding of system design principles, APIs, databases and software architecture concepts.\nAbility to interpret technical specifications and translate them into working solutions.\nStrong analytical, documentation and communication skills.\nAbility to work independently and collaboratively within cross-functional teams.\nPreferred Qualifications\nExperience working in Agile or DevOps environments.\nExposure to cloud platforms, containerisation or microservices architectures.\nKnowledge of CI/CD pipelines, version control systems and automated testing tools.\nRelevant industry certifications or ongoing professional development in software technologies.\nWhy Join Us?\nWork on meaningful software projects that support real-world business outcomes.\nSupportive and collaborative team culture with opportunities for technical growth.\nExposure to diverse technologies, systems and problem domains.\nLong-term role with stability and career progression opportunities.\nJob Details\nJob Type: Full-time, Permanent\nWork Schedule: 8-hour shift\nSalary: $70,000 – $120,000 per year + Super",
+          "displayFromDate": "2026-07-18T00:00:00",
+          "employerId": "CfDJ8Nn8cBBigUhPiuiVER7neZqQNyaPLFjxnj_4BSUPVwLni5QxTyabIkq7rm-j-6nlgD5ILhEV3jCW2WP1GGJCaiIeG9Rw1CQUfEsA-bzVYT_rGxgw32M2JETciosng5W5ww",
+          "employerName": "AI Talent Pty Ltd",
+          "expiryDate": "2026-08-19T10:00:00",
+          "howToApplyCode": "APTR",
+          "industry": {
+            "code": "126",
+            "label": "Information Tech"
+          },
+          "isApplyOnlineJob": true,
+          "isExternalJob": false,
+          "isFavourite": false,
+          "isIndigenousJob": false,
+          "isNewJob": false,
+          "jobType": {
+            "code": "H",
+            "label": "Normal position"
+          },
+          "latitude": "-33.86511277000",
+          "location": {
+            "code": "21CIWS",
+            "label": "NSW - Sydney - City & Inner West"
+          },
+          "logoUrl": "/api/v1/global/vacancies/logos/employer?employerId=0WLXkLU8G49UxgfiDnReQQ&logoSize=100",
+          "longitude": "151.20220642999",
+          "modifiedDate": "2026-07-21T10:30:12.877",
+          "occupation": {
+            "code": "261313",
+            "label": "Software Engineer"
+          },
+          "organisation": {
+            "code": "INET",
+            "label": "Internet Business"
+          },
+          "positionsAvailable": 1,
+          "postCode": "2000",
+          "salary": {
+            "code": "SLAW",
+            "label": "Award"
+          },
+          "site": {
+            "code": "NETV",
+            "label": "Internet Vacancies"
+          },
+          "state": "NSW",
+          "suburb": "BARANGAROO",
+          "tenure": {
+            "code": "P",
+            "label": "Permanent position"
+          },
+          "title": "Software and Applications Programmer",
+          "vacancyId": 2351350410,
+          "workType": {
+            "code": "F",
+            "label": "Full time position"
+          }
+        }
+      },
+      {
+        "score": 110.03783,
+        "result": {
+          "contractType": null,
+          "creationDate": "2026-07-18T13:06:50.297",
+          "description": "Job Description\nPosition Overview:\nAI Talent, a pioneer in AI-powered solutions, is looking for a meticulous and experienced Software Tester to join our team. In this role, you will be responsible for verifying the quality and performance of our AI applications by creating and executing test plans, identifying defects, and working closely with developers to ensure prompt resolution.\nThe ideal candidate will bring a solid grasp of software testing methodologies, sharp analytical skills, and a strong commitment to delivering high-quality AI software. Experience with test automation tools is a plus.\nResponsibilities:\nCollaborate with the development team and project stakeholders to understand software requirements and design comprehensive test plans and test cases for AI software applications.\nPerform functional, integration, system, and regression testing to validate the performance, accuracy, and reliability of AI software products.\nIdentify and document software defects, including clear and detailed reproduction steps, in a bug tracking system. Collaborate with the development team to ensure timely resolution of issues.\nDevelop and maintain automated test scripts using industry-standard software testing automation tools (e.g., Selenium, Appium, or Robot Framework) to streamline testing processes and improve test efficiency for AI software applications.\nCreate and maintain test documentation, including test plans, test cases, and test reports, to ensure comprehensive test coverage and facilitate knowledge sharing within the team.\nSet up and configure test environments, including hardware, software, and data, to simulate real-world scenarios and ensure accurate testing results.\nContinuously evaluate and enhance software testing strategies, methodologies, and tools to improve the overall quality and efficiency of testing processes.\nWork closely with the development team, product owners, and other stakeholders to understand requirements, clarify issues, and provide timely feedback on the quality of AI software products.\nCollaborate with the QA team to establish and maintain quality standards, best practices, and processes across AI software projects.\nStay up-to-date with the latest trends and advancements in software testing methodologies, AI technologies, and industry best practices.\nRequirements:\nBachelor’s degree in Computer Science, Software Engineering, or a related field.\nMust have at least 2 years of proven experience as a Software Tester, with a strong understanding of software testing methodologies and practices.\nExperience in testing AI software applications and familiarity with AI concepts and technologies.\nSolid knowledge of test management tools, bug tracking systems, and test automation frameworks.\nExperience with software testing automation tools such as Selenium, Appium, Robot Framework, or similar.\nProficiency in programming languages commonly used in software testing, such as Python or Java.\nStrong analytical and problem-solving skills, with the ability to identify and isolate software defects effectively.\nExcellent attention to detail and ability to meticulously follow test plans and test cases.\nGood communication skills and the ability to collaborate effectively with cross-functional teams.\nExperience with Agile development methodologies is a plus.\nRelevant certifications in software testing, such as ISTQB, are desirable.\nPermanent Residents (PR) and Australian Citizens are eligible to apply\nJob Type: Full-time\nSalary: $70,000 to $120,000 per year + super",
+          "displayFromDate": "2026-07-18T00:00:00",
+          "employerId": "CfDJ8Nn8cBBigUhPiuiVER7neZrSfsEplmNDYndwoowBmgm1q1m_dH_0SnylWOTVvFEbsITq65SDIxEmp3As5uZpLOqEO6FH0fcjtJT8RBfN3Z9u26MOeBL_Fl6neSce6au6uA",
+          "employerName": "AI Talent Pty Ltd",
+          "expiryDate": "2026-08-19T10:00:00",
+          "howToApplyCode": "APTR",
+          "industry": {
+            "code": "126",
+            "label": "Information Tech"
+          },
+          "isApplyOnlineJob": true,
+          "isExternalJob": false,
+          "isFavourite": false,
+          "isIndigenousJob": false,
+          "isNewJob": false,
+          "jobType": {
+            "code": "H",
+            "label": "Normal position"
+          },
+          "latitude": "-33.86511277000",
+          "location": {
+            "code": "21CIWS",
+            "label": "NSW - Sydney - City & Inner West"
+          },
+          "logoUrl": "/api/v1/global/vacancies/logos/employer?employerId=0WLXkLU8G49UxgfiDnReQQ&logoSize=100",
+          "longitude": "151.20220642999",
+          "modifiedDate": "2026-07-21T10:30:12.877",
+          "occupation": {
+            "code": "261314",
+            "label": "Software Tester"
+          },
+          "organisation": {
+            "code": "INET",
+            "label": "Internet Business"
+          },
+          "positionsAvailable": 1,
+          "postCode": "2000",
+          "salary": {
+            "code": "SLAW",
+            "label": "Award"
+          },
+          "site": {
+            "code": "NETV",
+            "label": "Internet Vacancies"
+          },
+          "state": "NSW",
+          "suburb": "BARANGAROO",
+          "tenure": {
+            "code": "P",
+            "label": "Permanent position"
+          },
+          "title": "Software Tester",
+          "vacancyId": 2351350408,
+          "workType": {
+            "code": "F",
+            "label": "Full time position"
+          }
+        }
+      },
+      {
+        "score": 107.24353,
+        "result": {
+          "contractType": null,
+          "creationDate": "2026-07-03T13:04:03.253",
+          "description": "Phillip Riley has an opportunity for a Software Engineer.\n\nThe successful candidate will also be responsible for the leading and/or assisting with planning and execution of migration activities for both physical and virtual environments.\n\nThe Specified Personnel will report to the Senior Data Centre Manager of the Data Centre Infrastructure Support team who is responsible for managing and maintaining the Department’s Data Centres.\n\nThe services will include and not be limited to:\n\nDeveloping solution designs and following up with direct involvement in the solutions implementation.\nImplementing solutions in line with industry, vendor and Department best practice.\nProviding specialist advice for projects and teams to ensure “best practice” implementations; Working with Project Managers to define and schedule deliverables.\nLiaising regularly with project stakeholders and ICT stakeholders as necessary.\nThe right person will have:\n\nMinimum of 1 year of experience in a similar role \nDemonstrated experience in data centre design and migration.\nStrong solution design and hands-on deployment within the data centre environment.\nDemonstrated ability to apply high quality detailed technical knowledge to ensure solutions are implemented effectively with a strong emphasis on high quality;\nPossess good written and verbal communication skills, particularly relevant in translating technical information to non-technical peers and stakeholders.\nOnly shortlisted candidates will be contacted.\n\n$87,500 - $107,500 + Super\n\nJob Type: Full-time",
+          "displayFromDate": "2026-07-03T00:00:00",
+          "employerId": "CfDJ8Nn8cBBigUhPiuiVER7neZqJU9H-QHGfqutXinUzj1cGGZDVwDGa3gS732tiRKq2pYlldxHMSawMZ9Wk1kphqaX3kz0gKSHPPGjXELH-e8qr71Gr_rWWeTDPAqXnVNrumA",
+          "employerName": "PHILLIP RILEY PROJECTS PTY LTD",
+          "expiryDate": "2026-08-04T10:00:00",
+          "howToApplyCode": "APTR",
+          "industry": {
+            "code": "126",
+            "label": "Information Tech"
+          },
+          "isApplyOnlineJob": true,
+          "isExternalJob": false,
+          "isFavourite": false,
+          "isIndigenousJob": false,
+          "isNewJob": false,
+          "jobType": {
+            "code": "H",
+            "label": "Normal position"
+          },
+          "latitude": "-33.86883859000",
+          "location": {
+            "code": "21CIWS",
+            "label": "NSW - Sydney - City & Inner West"
+          },
+          "logoUrl": "/api/v1/global/vacancies/logos/employer?employerId=Ep6FLg5WzgzSDIuPpfxTlw&logoSize=100",
+          "longitude": "151.20933768",
+          "modifiedDate": "2026-07-06T15:00:38.79",
+          "occupation": {
+            "code": "261313",
+            "label": "Software Engineer"
+          },
+          "organisation": {
+            "code": "INET",
+            "label": "Internet Business"
+          },
+          "positionsAvailable": 1,
+          "postCode": "2000",
+          "salary": {
+            "code": "SLNS",
+            "label": "Not Specified"
+          },
+          "site": {
+            "code": "NETV",
+            "label": "Internet Vacancies"
+          },
+          "state": "NSW",
+          "suburb": "SYDNEY",
+          "tenure": {
+            "code": "P",
+            "label": "Permanent position"
+          },
+          "title": "Software Engineer - NSW",
+          "vacancyId": 2350876174,
+          "workType": {
+            "code": "F",
+            "label": "Full time position"
+          }
+        }
+      },
+      {
+        "score": 106.56581,
+        "result": {
+          "contractType": null,
+          "creationDate": "2026-07-03T13:03:04.76",
+          "description": "Phillip Riley has an opportunity for a Software Engineer.\n\nThe successful candidate will also be responsible for the leading and/or assisting with planning and execution of migration activities for both physical and virtual environments.\n\nThe Specified Personnel will report to the Senior Data Centre Manager of the Data Centre Infrastructure Support team who is responsible for managing and maintaining the Department’s Data Centres.\n\nThe services will include and not be limited to:\n\nDeveloping solution designs and following up with direct involvement in the solutions implementation.\nImplementing solutions in line with industry, vendor and Department best practice.\nProviding specialist advice for projects and teams to ensure “best practice” implementations; Working with Project Managers to define and schedule deliverables.\nLiaising regularly with project stakeholders and ICT stakeholders as necessary.\nThe right person will have:\n\nMinimum of 1 year of experience in a similar role \nDemonstrated experience in data centre design and migration.\nStrong solution design and hands-on deployment within the data centre environment.\nDemonstrated ability to apply high quality detailed technical knowledge to ensure solutions are implemented effectively with a strong emphasis on high quality;\nPossess good written and verbal communication skills, particularly relevant in translating technical information to non-technical peers and stakeholders.\nOnly shortlisted candidates will be contacted.\n\n$87,500 - $107,500 + Super\n\nJob Type: Full-time",
+          "displayFromDate": "2026-07-03T00:00:00",
+          "employerId": "CfDJ8Nn8cBBigUhPiuiVER7neZrrloDGtyNVnF7w6eCXNEWZi7IQ4VhghpKl8MKXJlyFe9KBF1zbIF1IwtV4AD0o7gQu1-9-fQ3HlEocJ7n8tN6lpXh3_NVciZH0AS5H0s-CzQ",
+          "employerName": "PHILLIP RILEY PROJECTS PTY LTD",
+          "expiryDate": "2026-08-04T10:00:00",
+          "howToApplyCode": "APTR",
+          "industry": {
+            "code": "126",
+            "label": "Information Tech"
+          },
+          "isApplyOnlineJob": true,
+          "isExternalJob": false,
+          "isFavourite": false,
+          "isIndigenousJob": false,
+          "isNewJob": false,
+          "jobType": {
+            "code": "H",
+            "label": "Normal position"
+          },
+          "latitude": "-34.92867646999",
+          "location": {
+            "code": "51CADL",
+            "label": "SA - Adelaide - Central Adelaide"
+          },
+          "logoUrl": "/api/v1/global/vacancies/logos/employer?employerId=Ep6FLg5WzgzSDIuPpfxTlw&logoSize=100",
+          "longitude": "138.60102724000",
+          "modifiedDate": "2026-07-06T15:00:38.79",
+          "occupation": {
+            "code": "261313",
+            "label": "Software Engineer"
+          },
+          "organisation": {
+            "code": "INET",
+            "label": "Internet Business"
+          },
+          "positionsAvailable": 1,
+          "postCode": "5000",
+          "salary": {
+            "code": "SLNS",
+            "label": "Not Specified"
+          },
+          "site": {
+            "code": "NETV",
+            "label": "Internet Vacancies"
+          },
+          "state": "SA",
+          "suburb": "ADELAIDE",
+          "tenure": {
+            "code": "P",
+            "label": "Permanent position"
+          },
+          "title": "Software Engineer - SA",
+          "vacancyId": 2350876169,
+          "workType": {
+            "code": "F",
+            "label": "Full time position"
+          }
+        }
+      },
+      {
+        "score": 106.28277,
+        "result": {
+          "contractType": null,
+          "creationDate": "2026-07-03T13:03:42.79",
+          "description": "Phillip Riley has an opportunity for a Software Engineer.\n\nThe successful candidate will also be responsible for the leading and/or assisting with planning and execution of migration activities for both physical and virtual environments.\n\nThe Specified Personnel will report to the Senior Data Centre Manager of the Data Centre Infrastructure Support team who is responsible for managing and maintaining the Department’s Data Centres.\n\nThe services will include and not be limited to:\n\nDeveloping solution designs and following up with direct involvement in the solutions implementation.\nImplementing solutions in line with industry, vendor and Department best practice.\nProviding specialist advice for projects and teams to ensure “best practice” implementations; Working with Project Managers to define and schedule deliverables.\nLiaising regularly with project stakeholders and ICT stakeholders as necessary.\nThe right person will have:\n\nMinimum of 1 year of experience in a similar role \nDemonstrated experience in data centre design and migration.\nStrong solution design and hands-on deployment within the data centre environment.\nDemonstrated ability to apply high quality detailed technical knowledge to ensure solutions are implemented effectively with a strong emphasis on high quality;\nPossess good written and verbal communication skills, particularly relevant in translating technical information to non-technical peers and stakeholders.\nOnly shortlisted candidates will be contacted.\n\n$87,500 - $107,500 + Super\n\nJob Type: Full-time",
+          "displayFromDate": "2026-07-03T00:00:00",
+          "employerId": "CfDJ8Nn8cBBigUhPiuiVER7neZr1u5aR98aYfnPLEjGPQneOKJhFO3Z_g50_sjmpEr9nVpn9qK-ETJQh-EilYgXE7klc5RpvxMkpA66ofPEJcUbXiSvoEIa7w85letFM-ZFlqg",
+          "employerName": "PHILLIP RILEY PROJECTS PTY LTD",
+          "expiryDate": "2026-08-04T10:00:00",
+          "howToApplyCode": "APTR",
+          "industry": {
+            "code": "126",
+            "label": "Information Tech"
+          },
+          "isApplyOnlineJob": true,
+          "isExternalJob": false,
+          "isFavourite": false,
+          "isIndigenousJob": false,
+          "isNewJob": false,
+          "jobType": {
+            "code": "H",
+            "label": "Normal position"
+          },
+          "latitude": "-37.82503942000",
+          "location": {
+            "code": "71CBDS",
+            "label": "VIC - Melbourne - CBD & Surrounds"
+          },
+          "logoUrl": "/api/v1/global/vacancies/logos/employer?employerId=Ep6FLg5WzgzSDIuPpfxTlw&logoSize=100",
+          "longitude": "144.97151194",
+          "modifiedDate": "2026-07-06T15:00:38.79",
+          "occupation": {
+            "code": "261313",
+            "label": "Software Engineer"
+          },
+          "organisation": {
+            "code": "INET",
+            "label": "Internet Business"
+          },
+          "positionsAvailable": 1,
+          "postCode": "3000",
+          "salary": {
+            "code": "SLNS",
+            "label": "Not Specified"
+          },
+          "site": {
+            "code": "NETV",
+            "label": "Internet Vacancies"
+          },
+          "state": "VIC",
+          "suburb": "MELBOURNE",
+          "tenure": {
+            "code": "P",
+            "label": "Permanent position"
+          },
+          "title": "Software Engineer - VIC",
+          "vacancyId": 2350876173,
+          "workType": {
+            "code": "F",
+            "label": "Full time position"
+          }
+        }
+      }
+    ],
+    "pageSize": 20,
+    "pageNumber": 1
+  }
+}

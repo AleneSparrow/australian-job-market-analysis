@@ -1,0 +1,14 @@
+{
+  "source": "Workforce Australia",
+  "search_term": "Java developer",
+  "folder": "data/raw/workforce_australia/it_jobs/latest_run/queries/java_developer",
+  "started_at_utc": "2026-07-28T11:18:08.363065+00:00",
+  "finished_at_utc": "2026-07-28T11:18:41.560755+00:00",
+  "page_size": 100,
+  "downloaded_pages": 16,
+  "reused_pages": 0,
+  "raw_records_across_pages": 1547,
+  "unique_vacancy_ids_for_query": 1404,
+  "stopped_reason": "API returned fewer records than pageSize",
+  "last_request_url": "https://www.workforceaustralia.gov.au/api/v1/global/vacancies/?searchText=Java+developer&pageNumber=16&pageSize=100"
+}

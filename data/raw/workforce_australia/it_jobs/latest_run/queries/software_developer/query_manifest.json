@@ -1,0 +1,14 @@
+{
+  "source": "Workforce Australia",
+  "search_term": "software developer",
+  "folder": "data/raw/workforce_australia/it_jobs/latest_run/queries/software_developer",
+  "started_at_utc": "2026-07-28T07:42:53.852815+00:00",
+  "finished_at_utc": "2026-07-28T07:42:53.855409+00:00",
+  "page_size": 100,
+  "downloaded_pages": 0,
+  "reused_pages": 1,
+  "raw_records_across_pages": 20,
+  "unique_vacancy_ids_for_query": 20,
+  "stopped_reason": "existing page contained fewer records than pageSize",
+  "last_request_url": null
+}

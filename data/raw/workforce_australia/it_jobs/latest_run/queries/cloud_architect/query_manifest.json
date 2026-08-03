@@ -1,0 +1,14 @@
+{
+  "source": "Workforce Australia",
+  "search_term": "cloud architect",
+  "folder": "data/raw/workforce_australia/it_jobs/latest_run/queries/cloud_architect",
+  "started_at_utc": "2026-07-28T09:33:57.963016+00:00",
+  "finished_at_utc": "2026-07-28T09:35:02.439308+00:00",
+  "page_size": 100,
+  "downloaded_pages": 31,
+  "reused_pages": 0,
+  "raw_records_across_pages": 3097,
+  "unique_vacancy_ids_for_query": 2768,
+  "stopped_reason": "API returned fewer records than pageSize",
+  "last_request_url": "https://www.workforceaustralia.gov.au/api/v1/global/vacancies/?searchText=cloud+architect&pageNumber=31&pageSize=100"
+}

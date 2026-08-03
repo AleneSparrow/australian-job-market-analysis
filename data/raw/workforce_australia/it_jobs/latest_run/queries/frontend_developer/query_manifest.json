@@ -1,0 +1,14 @@
+{
+  "source": "Workforce Australia",
+  "search_term": "frontend developer",
+  "folder": "data/raw/workforce_australia/it_jobs/latest_run/queries/frontend_developer",
+  "started_at_utc": "2026-07-28T07:50:54.024795+00:00",
+  "finished_at_utc": "2026-07-28T07:51:23.677424+00:00",
+  "page_size": 100,
+  "downloaded_pages": 15,
+  "reused_pages": 0,
+  "raw_records_across_pages": 1422,
+  "unique_vacancy_ids_for_query": 1241,
+  "stopped_reason": "API returned fewer records than pageSize",
+  "last_request_url": "https://www.workforceaustralia.gov.au/api/v1/global/vacancies/?searchText=frontend+developer&pageNumber=15&pageSize=100"
+}

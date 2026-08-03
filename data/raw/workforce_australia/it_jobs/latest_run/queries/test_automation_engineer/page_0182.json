@@ -1,0 +1,337 @@
+{
+  "source": "Workforce Australia",
+  "api_url": "https://www.workforceaustralia.gov.au/api/v1/global/vacancies/",
+  "request_url": "https://www.workforceaustralia.gov.au/api/v1/global/vacancies/?searchText=test+automation+engineer&pageNumber=182&pageSize=100",
+  "search_term": "test automation engineer",
+  "page_number": 182,
+  "page_size": 100,
+  "downloaded_at_utc": "2026-07-28T10:42:19.934955+00:00",
+  "records_detected": 5,
+  "response": {
+    "totalCount": 18105,
+    "results": [
+      {
+        "score": 3.0865417,
+        "result": {
+          "contractType": null,
+          "creationDate": "2026-07-03T19:02:07.65",
+          "description": "  MedicalJobsAustralia.com     Monash Health exists to reimagine care, so that people can live their best lives. \n\n\n\n\n\n\nWe provide safe and equitable care, for every stage of life, delivered with world-leading expertise and over 175 years of experience. \n\n\n\n\n\n\nAs a leading academic health service, we're committed to providing tomorrow's care today by integrating research, teaching and training into everyday practice. \n\n\n\n\n\n\nOur team of 24,000 people are full hearted, open minded and all in. Together, we provide more than 250 integrated services for every stage of life at over 50 locations and in the community across south-east Melbourne, Victoria, serving 1.2 million residents in the South Metro Local Health Service Network. \n\n\nAre you currently part of the team at Monash Health? Use your network login to access the Monash Health Careers portal and discover all the job opportunities open to you, to support growing your career within the organisation.\n\n\n\n\nTo see first-hand what our colleagues think about working here, take a look at the following short videos monashhealth.org-careers.\n\n\n\n\n\n\n\n\n\nShape Digital Healthcare. Drive Innovation. Improve Lives. \n\n\n\n\n\n\n\n\n\n\n\n\nAbout the Department of Clinical Informatics \n\n\n\n\n\n\nThe Department of Clinical Informatics is where healthcare and technology come together to transform patient care. \n\n\n\n\n\n\nEstablished in 2025, we bring together clinical, digital and innovation expertise to shape the future of healthcare across Monash Health. Our multidisciplinary team spans Nursing, Medical, Allied Health and Community Informatics, Digital Clinical Learning and Change, Artificial Intelligence, Consumer Informatics, User Experience and Clinical Coding. \n\n\n\n\n\n\nThe Department is committed to building a high-performing team and improving patient outcomes through digital innovation, aligned with the Monash Health Strategic Plan and Digital & Data Plan. \n\n\n\n\n\n\nIf you're passionate about innovation, collaboration and using technology to make a real difference in healthcare, this newly created full-time, ongoing role offers the chance to help shape the future from the ground up. \n\n\n\n\n\n\n\n\n\n\n\n\nAbout the Role \n\n\n\n\n\n\nThis ground-breaking role is designed to enable our clinical teams to readily and safely transform patient care, using digital technologies. Intersecting with clinical practice, digital health, change management and workplace capability building, this is a rare opportunity to lead the transition of our clinicians, in all professional streams, to embrace the benefits of a digitally thinking workplace. \n\n\n\n\n\n\nFar from a \"Business As Usual\" role, this opportunity will suit individuals seeking to leverage strategic leadership and advice to engineer a significant change in the way we deliver patient care. Acknowledging the rapid rate of change in the digital space, you are not deterred by uncertainty. If appointed, you will relish the chance to apply your innovative thinking skills to build diverse, agile, high performing teams. \n\n\n\n\n\n\nAs a key member of our Clinical Informatics leadership team, your success will be measured across three key result areas: \n\n\n\n\n\n\n\n\n\nLeadership of change of learning functions and practices \n\n\n\n\n\n\n\n\n\n\n\n\nCollaboration with Clinical Informatics and Digital and Information Division \n\n\n\n\n\n\n\n\n\n\n\n\nStakeholder engagement and relationship development \n\n\n\n\n\n\n\n\n\nYou'll appreciate that the collaborative nature of this role will see you working on site at least three days per week, with flexible working arrangements available. With accountability for the function across the whole of organisation, travel across Monash Health will be required. \n\n\n\n\n\n\n\n\n\n\n\n\nAbout You \n\n\n\n\n\n\nYou have a keen understanding of informatics as well as demonstrated knowledge of adult learning principles. Described as visionary, you also have the ability to translate organisational objectives into practical and effective practices that advance care at the operational level. \n\n\n\n\n\n\nYou are comfortable working with ambiguity. Your emotional intelligence equips you with the skills and strategies to navigate the challenges of change respectfully, professionally and sensitively, adapting your style to meet the needs of varying audiences. \n\n\n\n\n\n\nOur clinical teams are highly skilled, busy and saturated with information. Your job will be to enhance their Joy in Work through equipping them with a relevant, digitally-enabled approach that will see them continue to deliver consistently high standards of care in the community we serve. \n\n\n\nWhat you need \n\n\n\n\n\n\nYour ability to engage and influence effectively across a range of professional groups, pivoting seamlessly between clinical, technical and strategic perspectives, will be key to your success. \n\n\n\n\n\n\nTo be considered for this role, you'll need to demonstrate: \n\n\n\n\n\n\n\n\n\nDeep clinical systems expertise and success leading enterprise change \n\n\n\n\n\n\n\n\n\n\n\n\nStrategic leadership of integrated change and learning functions to drive enterprise-wid digitatl transformation \n\n\n\n\n\n\n\n\n\n\n\n\nIntimate appreciation of transformation as it relates to building digital capability \n\n\n\n\n\n\n\n\n\n\n\n\nExpertise in adult learning, enabling success driving digital adoption and optimisation \n\n\n\n\n\n\n\n\n\n\n\n\nAwareness of digital architecture and how systems communicate, share, exchange and use data \n\n\n\n\n\n\n\n\n\n\n\n\nDetailed knowledge of clinical safety and risk management \n\n\n\n\n\n\n\n\n\n\n\n\nData and information fluency \n\n\n\n\n\n\n\n\n\nCurrent Ahpra registration, a postgraduate qualification in Digital Health, Informatics, Learning-Education, Change Management and-or leadership are required. \n\n\n\n\n\n\n\n\n\n\n\n\nWhy join Monash Health? \n\n\n\n\n\n\nThis is more than a digital role-it's your chance to transform healthcare at scale. Working at the intersection of clinical care, technology and innovation, you'll help create smarter digital solutions that improve patient outcomes and support the clinicians who deliver them every day \n\n\n\n\n\n\n\n\n\n\n\n\nAt Monash Health, you will: \n\n\n\n\n\n\n\n\n\nLead a state-wide service with real impact \n\n\n\n\n\n\n\n\n\n\n\n\nWork within a values-driven, purpose-led organisation \n\n\n\n\n\n\n\n\n\n\n\n\nBe part of a connected network of clinical, academic and system leaders \n\n\n\n\n\n\n\n\n\n\n\n\nHelp drive innovation, inclusion and better health outcomes \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWe offer: \n\n\n\n\n\n\n\n\n\nThe opportunity to make a real impact on patient experience \n\n\n\n\n\n\n\n\n\n\n\n\nA supportive, collaborative team environment \n\n\n\n\n\n\n\n\n\n\n\n\nOngoing learning and development opportunities \n\n\n\n\n\n\n\n\n\n\n\n\nThe chance to be part of Victoria's largest public health service\n\n\n\n\n\n\n\n\n\n\n\n\n\nFor a confidential discussion and to explore this opportunity further, please reach out to Anthony Pham, Deputy Chief Nursing and Midwifery Information Officer on 0435 968 584.\n\n\n\n\n\n\n\n\n\n\n\n\nTo view the Position Description, please click the\n\nClick here for more details: https://www.medicaljobsaustralia.com/jobs/521696/    Click here to Apply now → ",
+          "displayFromDate": "2026-07-03T00:00:00",
+          "employerId": "CfDJ8Nn8cBBigUhPiuiVER7neZqWAFUwMnGkt_xoi3hsRwMKaUNb7G25Uz3VlazKwNPnF8bqXg7zUvvIcNr1dmc0HZ6EjPUz0OL8keiH86vf8oiZaXU8V50sl6A5O2apE829YQ",
+          "employerName": "Medical Jobs Australia",
+          "expiryDate": "2026-08-02T10:00:00",
+          "howToApplyCode": "PSD",
+          "industry": {
+            "code": "112",
+            "label": "Admin & Office"
+          },
+          "isApplyOnlineJob": false,
+          "isExternalJob": false,
+          "isFavourite": false,
+          "isIndigenousJob": false,
+          "isNewJob": false,
+          "jobType": {
+            "code": "H",
+            "label": "Normal position"
+          },
+          "latitude": "-37.82503942000",
+          "location": {
+            "code": "71CBDS",
+            "label": "VIC - Melbourne - CBD & Surrounds"
+          },
+          "logoUrl": "/api/v1/global/vacancies/logos/cms?code=PX28",
+          "longitude": "144.97151194",
+          "modifiedDate": "2026-07-06T20:00:12.893",
+          "occupation": {
+            "code": "542112",
+            "label": "Admissions Clerk"
+          },
+          "organisation": {
+            "code": "VVNW",
+            "label": "MedicalJobsAustralia"
+          },
+          "positionsAvailable": 10,
+          "postCode": "3000",
+          "salary": {
+            "code": "SLNS",
+            "label": "Not Specified"
+          },
+          "site": {
+            "code": "PX28",
+            "label": "MedicalJobsAustralia"
+          },
+          "state": "VIC",
+          "suburb": "Melbourne",
+          "tenure": {
+            "code": "N",
+            "label": "Contract position"
+          },
+          "title": "Head of Clinical Digital Change & Learning",
+          "vacancyId": 2350877136,
+          "workType": {
+            "code": "C",
+            "label": "Casual position"
+          }
+        }
+      },
+      {
+        "score": 2.8833601,
+        "result": {
+          "contractType": null,
+          "creationDate": "2026-07-15T19:06:34.663",
+          "description": "  MedicalJobsAustralia.com     Employment Type: Temporary Various\nRemuneration: $94,521 to $127,827 \nHours Per Week: 38\nRequisition ID: CAM29775 - Central Coast Local Health District - Emergency Medicine - Senior Resident Medical Officer\n\nCentral Coast Emergency Medicine:\n\nGosford and Wyong Hospitals contain busy mixed Emergency Departments with a wide variety of presentations, providing excellent exposure to trauma, Paediatrics (~25% of presentations), Medicine, and Surgery. Both are well supported by passionate Emergency Physicians and Trainees who are committed to your development and wellbeing.\n\nIn conjunction with the University of Newcastle, CCLHD has recently opened the Central Coast Clinical School and Research Institute on the Gosford Hospital campus, providing additional opportunities in training and research.\n\nEmergency Medicine Training: \n\nEmergency SRMOs have access to a weekly Consultant-led education program which focuses on procedures, hands-on skills, and Simulation. CCLHD holds several formal courses throughout the year, including BEST (Basic Emergency Skills and Techniques), BASIC (Basic Assessment and Support in Intensive Care), MIMMS (Major Incident Medical Management and Support), DAW (Difficult Airway Workshop), and The Chest Tube Workshop. There is support and career opportunities available for those looking to progress into Emergency Medicine training.\n\nEmergency SRMOs are rostered 8 x 10 hour shifts a fortnight with minimal un-rostered overtime, any of which is paid.Roster matching for couples will be considered.Rotations support the prerequisite to join ACEM with 6 months in Gosford Emergency Department and 6 months in Wyong Emergency Department.\n\nThe NSW Central Coast is located only 1 hour north of Sydney CBD.Career opportunities are available for JMOs wishing to progress a career in Emergency Medicine or Critical Care Medicine from SRMO to Consultant level. You will enjoy the benefits of a relaxed coastal lifestyle paired with a rewarding career supporting a rapid growing population that is expected to grow to 450,000 before 2030.\n\nFor more information about what it is like to work with us please click on the following links: \n\nCCLHD is proud of its friendly and collegiate workplace culture, with events such as the JMO vs SMO sports competition and the Annual Testimonial Dinner for all Medical staff within the District.\n\n.A Day in the Life of a JMO - VIDEO - all in a days work\n\n.EXPLORE our JMO cohort -\n\noCentral Coast Resident Medial Officer Association\n\noCentral Coast Resident Medial Officer Association - Facebook Page\n\noCentral Coast Resident Medical Officer Association - Instagram Page\n\n.EXPLORE the Central Coast: \n\noCentral Coast Destinations to Visit and Activities\n\noCentral Coast Visitor Centre\n\n.EXPLORE our Local Health District:\n\noCentral Coast Local Health District - Facebook Page\n\noCentral Coast Local Health District Web Page\n\nPlease click on the following link to apply for Positions: https:--iworkfor.nsw.gov.au-jobs\n\nAgency applications will not be accepted for this position.\n\n \n \n\n \n \n \n \n \n \n\n \n\nMBBS or equivalent, currently registered or eligible for registration with the Medical Board of Australia in an appropriate registration category.\n\nAus-NZ-CAP: Completion of two years full time equivalent postgraduate years or more in an acute hospital setting with a minimum of four months Emergency Medicine experience in an Australian Emergency Department or equivalent at the time of commencement.\n\nStandard Pathway: Completion of two years full time equivalent postgraduate years or more in an acute hospital setting with a minimum of eight months Emergency Medicine experience in an Australian Emergency Department or equivalent at the time of commencement.\n\nDemonstrated excellent clinical skills, knowledge, and judgement.\n\nDemonstrated success working in a multidisciplinary team, providing leadership and effective communication to ensure appropriate management of patients.\n\nNeed more information? \n 1) Click here for the Position Description \n 2) Find out more about applying for this position\nFor role related queries or questions contact Rhiannon Walbancke on CCLHD-MWEUJMORecruit@health.nsw.gov.au \n\nApplications Close: 04, August 2026    Click here to Apply now → ",
+          "displayFromDate": "2026-07-15T00:00:00",
+          "employerId": "CfDJ8Nn8cBBigUhPiuiVER7neZq74xlA0kXSD4TVN5KmWVbZhgx83A89W5uKcI2KQP1PsJz6OB4GPksqvCmjwSdrxTq-MENuQtCH1a6B_L8v7YpDlkObTA9tRyccqMMf5HIktw",
+          "employerName": "Medical Jobs Australia",
+          "expiryDate": "2026-08-14T10:00:00",
+          "howToApplyCode": "PSD",
+          "industry": {
+            "code": "112",
+            "label": "Admin & Office"
+          },
+          "isApplyOnlineJob": false,
+          "isExternalJob": false,
+          "isFavourite": false,
+          "isIndigenousJob": false,
+          "isNewJob": false,
+          "jobType": {
+            "code": "H",
+            "label": "Normal position"
+          },
+          "latitude": "-28.84168337999",
+          "location": {
+            "code": "29FRNC",
+            "label": "NSW - Regional - Far North Coast "
+          },
+          "logoUrl": "/api/v1/global/vacancies/logos/cms?code=PX28",
+          "longitude": "153.56004191",
+          "modifiedDate": "2026-07-16T20:00:12.12",
+          "occupation": {
+            "code": "542112",
+            "label": "Admissions Clerk"
+          },
+          "organisation": {
+            "code": "VVNW",
+            "label": "MedicalJobsAustralia"
+          },
+          "positionsAvailable": 10,
+          "postCode": "2478",
+          "salary": {
+            "code": "SLNS",
+            "label": "Not Specified"
+          },
+          "site": {
+            "code": "PX28",
+            "label": "MedicalJobsAustralia"
+          },
+          "state": "NSW",
+          "suburb": "Ballina",
+          "tenure": {
+            "code": "N",
+            "label": "Contract position"
+          },
+          "title": "Senior Resident Medical Officer",
+          "vacancyId": 2351237753,
+          "workType": {
+            "code": "C",
+            "label": "Casual position"
+          }
+        }
+      },
+      {
+        "score": 2.8155968,
+        "result": {
+          "contractType": null,
+          "creationDate": "2026-07-11T19:01:53.183",
+          "description": "  MedicalJobsAustralia.com     ICU Clinical Nurse - Equipment Portfolio\n\n\n\n\n\nJob no: 942385\n\nWork type: Full time\n\nLocated in: Adelaide Metro Northern\n\nCategories: Nursing-Midwifery\n\n\n\n\n \n\nNorthern Adelaide Local Health Network - Lyell McEwin Hospital - ELIZABETH VALE SA 5112\n\nSalary: $90,913 - $114,917 p.a. - RN2C\n\nOngoing Full-Time \n\nAbout the Role:\n\nLyell McEwin Hospital's Intensive Care Unit is one of South Australia's busiest northern metropolitan ICUs, delivering high-acuity care to a diverse and growing community. If you combine sharp critical care clinical skills with a genuine interest in equipment governance, procurement, and education, this full-time ongoing role was designed with you in mind.\n\nWhat You'll Be Doing in the ICU\n\nAct as the primary clinical lead for ICU equipment management - overseeing procurement advice, maintenance coordination, and lifecycle planning across the unit's device portfolio.\n\nDevelop and deliver equipment competency education and orientation programmes for ICU nursing staff.\n\nPartner with nursing, medical, and biomedical engineering teams to evaluate new equipment and ensure safe, evidence-based integration into clinical practice.\n\nProvide direct patient care in the ICU on early shifts (8-hour days), maintaining and modelling current critical care nursing standards.\n\nWhat You'll Bring\n\nCurrent registration as a Registered Nurse with AHPRA and demonstrated ICU or critical care experience.\n\nProven knowledge of ICU equipment - ventilators, infusion systems, monitoring devices - and confidence guiding others in their safe use.\n\nExperience in or appetite for a clinical educator, coordinator, or specialist nursing role.\n\nStrong communication skills and the ability to influence practice across a multidisciplinary team.\n\nFamiliarity with SA Health or NALHN equipment governance frameworks, or the capability to quickly work within them.\n\nAbility to work a consistent early shift, 8-hour day roster as part of a full-time ongoing commitment.\n\n To be eligible for this position, you must be registered or eligible for registration as a Nurse with the Nursing and Midwifery Board of Australia and who holds, or who is eligible to hold, a current practicing certificate.\n\nAbout You:\n\nYou will be joining a dynamic and expanding Local Health Network that is committed to delivering contemporary, innovative and high-quality health services within modern facilities.\n\nThis is an excellent opportunity to contribute to a passionate, highly driven, dedicated and progressive team.\n\nAbout Adelaide:\n\nAbout Us:\n\nThe Northern Adelaide Local Health Network (NALHN) is a leading provider of public healthcare services in South Australia, and one of the largest employers in northern Adelaide. \n\nNALHN serves over 400,000 people in northern Adelaide with a comprehensive range of high-quality healthcare services, including emergency, surgical, obstetric, neonatal, paediatric, oncology, geriatric, palliative care and rehabilitation, and mental health care, as well as primary health care services with a focus on community health promotion and chronic disease management.\n\nWith a commitment for ongoing upgrades to our facilities and the introduction of new services, our priority is delivering exceptional health and wellbeing services that enhance the quality of life for our community.\n\nWith over 7,000 employees, NALHN emphasises quality care and a supportive work environment guided by respect, integrity, and accountability. Our core values foster excellence, innovation, and equitable health outcomes. \n\nAt NALHN Everyone Has a Story, Everyone Matters, Everyone Contributes and Everyone Grows. \n\nOur Local Health Network Sites and Services:\n\nNALHN provides a range of hospital (inpatient), outpatient, community and home-based services across multiple sites in Adelaide's north and north-eastern suburbs, including Aboriginal health, mental health, and GP services.\n\nLyell McEwin Hospital - the major hospital in northern Adelaide for emergency care, complex and multi-day surgery, medicine, obstetric, paediatrics and outpatient services.\n\nModbury Hospital - a general hospital with emergency care, elective surgery, medicine, outpatient and sub-acute services, rehabilitation, geriatric and palliative care.\n\nMental Health Services - adult and older persons mental health services and statewide forensic mental health services, across hospital and community settings.\n\nWatto Purrunna Aboriginal Primary Health Care Services - provides culturally responsive primary healthcare services for Aboriginal and Torres Strait Islander people in-hospital and across four community sites.\n\nPrimary Health Care Services - including GP Plus sites at Elizabeth, Modbury and Gilles Plains.\n\nBenefits of working at NALHN:\n\nFrom salary packaging to flexible working arrangements, a large range of opportunities for movement and career progression, you'll find there are lots of benefits of working with Northern Adelaide Local Health Network.\n\nSalary packaging is an option for saving money by paying for some of your everyday expenses from your salary before it is taxed.\n\nRelocation assistance may be available for successful applicants from interstate or overseas.\n\nNALHN supports and fosters a culture in which employees feel they belong and feel safe at work. The culture aims to encourage all people to use their talents and to be valued and rewarded for their contributions.\n\nSA Health is committed to providing an inclusive workplace that embraces diversity and inclusion for all employees. We strongly encourage applications from people of Aboriginal and Torres Strait Islander descent, culturally diverse backgrounds, members of the LGBTIQA+SB community and people who live with disability and-or neurodivergence.\n\nWe are committed to making workplace adjustments to provide a positive and supportive work environment. You are encouraged to let us know if you have any support or access requirements during the recruitment process and beyond to ensure you can perform at your best.\n\nThe South Australian public sector promotes diversity and flexible ways of working including part-time. Applicants are encouraged to discuss the flexible working arrangements for this role.\n\nAppointment will be subject to a satisfactory Criminal History Check.\n\nCheck(s): \n\nDHS Working With Children Check (WWCC)\n\nNational Police Check (National Police Certificate) for vulnerable person-related employment screening - apply to any of the accredited bodies approved to offer a service direct to the public. Accreditation is provided by the Australian Criminal Intelligence Commission. See our National Police Certificate accredited bodies page for links to lodge screening requests.\n\nImmunisation Risk for this position is - Category A (direct contact with blood or body substances) \n\nSA Health Services are required to implement the Addressing vaccine preventable disease: Occupational assessment, screening and vaccination policy in the workplace.\n\nAboriginal and Torres Strait Island\n\nClick here for more details: https://www.medicaljobsaustralia.com/jobs/567989/    Click here to Apply now → ",
+          "displayFromDate": "2026-07-11T00:00:00",
+          "employerId": "CfDJ8Nn8cBBigUhPiuiVER7neZqvJ2XclRuT4iPqZWOQ6taJOE3yO_TTzGVkvaS8GCtCCLwRJ8AGLeAR2aOycUsyRzhVkvZqessWDqqkWYLB33wXJrb92Em2RRLW0KqInp3d9Q",
+          "employerName": "Medical Jobs Australia",
+          "expiryDate": "2026-08-10T10:00:00",
+          "howToApplyCode": "PSD",
+          "industry": {
+            "code": "112",
+            "label": "Admin & Office"
+          },
+          "isApplyOnlineJob": false,
+          "isExternalJob": false,
+          "isFavourite": false,
+          "isIndigenousJob": false,
+          "isNewJob": false,
+          "jobType": {
+            "code": "H",
+            "label": "Normal position"
+          },
+          "latitude": "-34.52177446000",
+          "location": {
+            "code": "59BRSS",
+            "label": "SA - Regional - Barossa "
+          },
+          "logoUrl": "/api/v1/global/vacancies/logos/cms?code=PX28",
+          "longitude": "138.96027792999",
+          "modifiedDate": "2026-07-14T10:35:47.3",
+          "occupation": {
+            "code": "542112",
+            "label": "Admissions Clerk"
+          },
+          "organisation": {
+            "code": "VVNW",
+            "label": "MedicalJobsAustralia"
+          },
+          "positionsAvailable": 10,
+          "postCode": "5352",
+          "salary": {
+            "code": "SLNS",
+            "label": "Not Specified"
+          },
+          "site": {
+            "code": "PX28",
+            "label": "MedicalJobsAustralia"
+          },
+          "state": "SA",
+          "suburb": "Tanunda",
+          "tenure": {
+            "code": "N",
+            "label": "Contract position"
+          },
+          "title": "ICU Clinical Nurse - Equipment Portfolio",
+          "vacancyId": 2351058919,
+          "workType": {
+            "code": "C",
+            "label": "Casual position"
+          }
+        }
+      },
+      {
+        "score": 2.811935,
+        "result": {
+          "contractType": null,
+          "creationDate": "2026-07-10T14:20:35.263",
+          "description": " \n \n This is a hands-on role with a large national company offering full training and a supportive team environment. \n  \n  Your main duties will include:  \n \n Unloading sea containers from trains on the rail line (working both indoors and outdoors). \n Loading and unloading steel coils from trucks using a counterbalance forklift (training provided if required). \n Removing foam blocks by hand from containers that secure the steel coils. \n Operating a steel processing/slitting line during quieter periods, including:\n \n Learning to operate the console/machine. \n Assisting with manual tasks such as lifting and moving slitting wheels to set up the machine. \n \n \n If you hold a Gantry Crane ticket, you'll receive training to operate the gantry crane. \n \n Requirements \n \n Valid  LF Forklift Licence  (experience preferred, but candidates with minimal experience and a great attitude are encouraged to apply). \n Positive attitude and willingness to learn. \n Physically fit and comfortable with manual work. \n Gantry Crane ticket is highly regarded but not essential. \n \n Shift \n \n  Night Shift:  Sunday to Thursday \n Approximately  9:54 pm - 6:00 am  \n Overtime and weekend work are available if desired. \n \n    \n Pay \n \n  Ordinary Rate:   $33.91 per hour  \n  Night Shift Rate:   $44.08 per hour , which includes a  30% night shift loading . \n \n  \n  Why Join?  \n \n Work for a large, well-established national company. \n Full training provided. \n Supportive team environment. \n Opportunity to develop new skills, including gantry crane and steel processing operations. \n Overtime opportunities available.  \n \n \n \n   \n   \n   \n  Who we are  \n As one of Australia's largest employers, we work with great companies all around Australia and New Zealand to give you the best opportunities to work when and where you want to. \n At Programmed, we are committed to creating a safe and inclusive environment which values and respects diverse styles, backgrounds, experiences and perspectives. \n We welcome and encourage women, people of Aboriginal and Torres Strait Islander descent and people from diverse backgrounds to apply. \n   So it's over to you. If you would like to join our team, APPLY now.   \n  To learn more about working with Programmed, we encourage you to visit our website.  \n    Please  click here  to apply. ",
+          "displayFromDate": "2026-07-10T00:00:00",
+          "employerId": "CfDJ8Nn8cBBigUhPiuiVER7neZp-feZQkInU72hcL9aWa-Wv-lgzCSuiC9dfKOaoM5h50wbUv8bsIk0xbhyqnGNEnBerWjV-3nQHcuWMXgbb-B_Z5lRVjiA1sk4dG6mkIyYqdg",
+          "employerName": "Devan James",
+          "expiryDate": "2026-08-09T10:00:00",
+          "howToApplyCode": "PSD",
+          "industry": {
+            "code": "138",
+            "label": "Transport"
+          },
+          "isApplyOnlineJob": false,
+          "isExternalJob": false,
+          "isFavourite": false,
+          "isIndigenousJob": false,
+          "isNewJob": false,
+          "jobType": {
+            "code": "H",
+            "label": "Normal position"
+          },
+          "latitude": "-31.98381510000",
+          "location": {
+            "code": "81ESTS",
+            "label": "WA - Perth - Eastern Suburbs "
+          },
+          "logoUrl": "/api/v1/global/vacancies/logos/employer?employerId=-EP2kDTASW384esoZIqwDg&logoSize=100",
+          "longitude": "116.00739693",
+          "modifiedDate": "2026-07-13T15:45:12.337",
+          "occupation": {
+            "code": "7213",
+            "label": "Forklift Drivers"
+          },
+          "organisation": {
+            "code": "SSEB",
+            "label": "Skilled Group Limite"
+          },
+          "positionsAvailable": 1,
+          "postCode": "6058",
+          "salary": {
+            "code": "SLHR",
+            "label": "Hourly Rate"
+          },
+          "site": {
+            "code": "YM55",
+            "label": "Programmed Skilled W"
+          },
+          "state": "WA",
+          "suburb": "FORRESTFIELD",
+          "tenure": {
+            "code": "T",
+            "label": "Temporary position"
+          },
+          "title": "Nightshift Forklift Operator Wanted!",
+          "vacancyId": 2351053964,
+          "workType": {
+            "code": "P",
+            "label": "Part time position"
+          }
+        }
+      },
+      {
+        "score": 2.7545977,
+        "result": {
+          "contractType": null,
+          "creationDate": "2026-06-29T12:19:12.63",
+          "description": " \n \n  Looking for a clean, immaculate workshop environment in the Western Suburbs?  \n \n \n  Tired of dirty, greasy labouring roles and ready to learn high-spec assembly work?  \n \n \n  Do you take immense pride in your workspace and possess strong attention to detail?  \n \n \n  Want a stable, full-time permanent day shift that guarantees a great work-life balance?  \n \n \n If you are a reliable, hands-on Trade Assistant or mechanical labourer who wants to work in a pristine environment with high-end equipment, this is a fantastic opportunity. Our client is a rapidly expanding, premium original equipment manufacturer (OEM) specialising in high-spec industrial fluid systems and custom pump packages for the Australian mining sector. \n Due to a sustained growth phase across the business, they are expanding their state-of-the-art production facility and require a dedicated Trade Assistant to support their mechanical engineering team. \n  The Opportunity: Clean Working Conditions & True Team Support  \n Forget chaotic construction sites or dirty wrecking yards. This position is based entirely inside a massive, exceptionally neat, tidy, and organised warehouse. Because this equipment is built strictly to high-level mining regulations, cleanliness and order are central to everything they do. \n You will be working directly alongside qualified Tradespeople, handling the critical foundational tasks that keep the assembly lines moving smoothly. \n  What You Will Do:  \n Operating on a secure, permanent full-time day shift (Monday to Friday), your responsibilities will include: \n \n \n  Fitter Support:  Assist qualified Mechanical Fitters with the assembly, positioning, and mounting of heavy-duty industrial pumps and diesel/electric engine packages. \n \n \n  Component Handling:  Support the preparation and layout of structural skids, specialised pipework networks, hydraulic hoses, and system sensors. \n \n \n  Workshop Logistics:  Manage the flow of tools, parts, and materials to ensure the assembly floor operates at maximum efficiency. \n \n \n  Pristine Housekeeping:  Maintain an exceptionally clean, organised, and safe workshop floor, ensuring all workspace layouts adhere to strict safety standards. \n \n \n  What's In It For You?  \n \n \n  Earning Stability:  A secure, full-time permanent base rate of  $30.00-35.00 per hour + Super , providing long-term career stability. \n \n \n  Genuine Work-Life Balance:  Enjoy a highly structured, predictable day-shift routine with zero forced overtime or sudden weekend rosters. \n \n \n  Premium Environment:  Work within a bright, clean, and highly sophisticated manufacturing warehouse alongside a supportive team. \n \n \n  Real Career Longevity:  This business is growing quickly, making it the perfect time to get your foot in the door with an industry leader. \n \n \n  What You Bring:  \n \n \n  The Experience:  A proven background working as a Trade Assistant, workshop labourer, or within a mechanical manufacturing/assembly environment. \n \n \n  The Hand Skills:  High competence using a variety of hand tools, power tools, and workshop machinery safely. \n \n \n  The Attitude:  Absolute pride in your work. We need someone who is punctual, reliable, and notices the little things-maintaining a tidy floor and an organised assembly layout. \n \n \n  The Commute:  Reliable transport to get to the Derrimut workshop for a prompt daily start. \n \n \n  Ready to step up into a clean, modern OEM manufacturing facility?  \n  APPLY NOW!  \n  Want to chat about the specific workspace setup, the company culture, or the shift times? Call Elliott on 0436 470 032 for a completely confidential discussion.   Please  click here  to apply. ",
+          "displayFromDate": "2026-06-29T00:00:00",
+          "employerId": "CfDJ8Nn8cBBigUhPiuiVER7neZoLJoOfsXxiwPWcFCSPGuLeBDaYeHqzcw0-LmrgDcA95twNZP4rbKqKsO6Pcsk_klj_mgRNUt6p1PD8IstlTJWre_UzSOhnyVOg28i4fYq9aw",
+          "employerName": "Elliott Baker",
+          "expiryDate": "2026-07-29T10:00:00",
+          "howToApplyCode": "PSD",
+          "industry": {
+            "code": "137",
+            "label": "Trades"
+          },
+          "isApplyOnlineJob": false,
+          "isExternalJob": false,
+          "isFavourite": false,
+          "isIndigenousJob": false,
+          "isNewJob": false,
+          "jobType": {
+            "code": "H",
+            "label": "Normal position"
+          },
+          "latitude": "-37.79969728999",
+          "location": {
+            "code": "71WMEL",
+            "label": "VIC - Melbourne - West Melbourne"
+          },
+          "logoUrl": "/api/v1/global/vacancies/logos/employer?employerId=cDtmsB84c1IY5IqqwaesUg&logoSize=100",
+          "longitude": "144.77606152000",
+          "modifiedDate": "2026-06-30T14:00:46.787",
+          "occupation": {
+            "code": "821111",
+            "label": "Builder's Labourer"
+          },
+          "organisation": {
+            "code": "SSEL",
+            "label": "Randstad"
+          },
+          "positionsAvailable": 50,
+          "postCode": "3026",
+          "salary": {
+            "code": "SLHR",
+            "label": "Hourly Rate"
+          },
+          "site": {
+            "code": "EIDZ",
+            "label": "Select Aust Sydney"
+          },
+          "state": "VIC",
+          "suburb": "DERRIMUT",
+          "tenure": {
+            "code": "P",
+            "label": "Permanent position"
+          },
+          "title": "Trades Assistant",
+          "vacancyId": 2350743478,
+          "workType": {
+            "code": "F",
+            "label": "Full time position"
+          }
+        }
+      }
+    ],
+    "pageSize": 100,
+    "pageNumber": 182
+  }
+}

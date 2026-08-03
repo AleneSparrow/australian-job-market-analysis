@@ -1,0 +1,668 @@
+{
+  "results": [
+    {
+      "title": "Senior Consultant - Data & Analytics",
+      "latitude": -27.4679,
+      "category": {
+        "tag": "consultancy-jobs",
+        "label": "Consultancy Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "salary_is_predicted": "0",
+      "company": {
+        "display_name": "Ashurst",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc4NDUyMTYxMyIsInMiOiJTdDdWcUh5SjhSR0VvcGJ5ZDBmOEh3In0.pzO4Vsvzxe60XrZF40L6JDOP7Z3sgCyxJDIQjZh-Twg",
+      "created": "2026-07-02T08:41:52Z",
+      "longitude": 153.0281,
+      "id": "5784521613",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Job Title Senior Consultant - Data & Analytics Location Brisbane Description Risk Advisory was created to respond to client demand and is designed to provide risk expertise that complements Ashurst Perkins Coie's core legal services. We provide the opportunity to work with an expertise-led team that has been consistently growing since its inception, and is dedicated to collaboration, diversity, transparency and innovation. Our vision is to create a unique culture in the consulting market based …",
+      "contract_time": "full_time",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Brisbane CBD, Brisbane",
+        "area": [
+          "Australia",
+          "Queensland",
+          "Brisbane Region",
+          "Brisbane",
+          "Brisbane CBD"
+        ]
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5784521613?utm_medium=api&utm_source=4e5ae6d3"
+    },
+    {
+      "redirect_url": "https://www.adzuna.com.au/details/5784521641?utm_medium=api&utm_source=4e5ae6d3",
+      "location": {
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney",
+          "The Rocks"
+        ],
+        "display_name": "The Rocks, Sydney",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "contract_time": "full_time",
+      "description": "Job Title Senior Consultant - Data & Analytics Location Sydney Description Risk Advisory was created to respond to client demand and is designed to provide risk expertise that complements Ashurst Perkins Coie's core legal services. We provide the opportunity to work with an expertise-led team that has been consistently growing since its inception, and is dedicated to collaboration, diversity, transparency and innovation. Our vision is to create a unique culture in the consulting market based ar…",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "id": "5784521641",
+      "created": "2026-07-02T08:41:53Z",
+      "longitude": 151.207114,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc4NDUyMTY0MSIsInMiOiJTdDdWcUh5SjhSR0VvcGJ5ZDBmOEh3In0.jQjTqDAwBkgW15teIeht4ZcApkyaXX3BzK2iSm2SzPA",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Ashurst"
+      },
+      "salary_is_predicted": "0",
+      "category": {
+        "tag": "consultancy-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Consultancy Jobs"
+      },
+      "latitude": -33.867139,
+      "title": "Senior Consultant - Data & Analytics"
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Job Title Senior Consultant - Data & Analytics Location Melbourne Description Risk Advisory was created to respond to client demand and is designed to provide risk expertise that complements Ashurst Perkins Coie's core legal services. We provide the opportunity to work with an expertise-led team that has been consistently growing since its inception, and is dedicated to collaboration, diversity, transparency and innovation. Our vision is to create a unique culture in the consulting market based…",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "South Yarra, Stonnington Area",
+        "area": [
+          "Australia",
+          "Victoria",
+          "Melbourne Region",
+          "Stonnington Area",
+          "South Yarra"
+        ]
+      },
+      "contract_time": "full_time",
+      "redirect_url": "https://www.adzuna.com.au/details/5784521797?utm_medium=api&utm_source=4e5ae6d3",
+      "latitude": -37.837324,
+      "category": {
+        "tag": "consultancy-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Consultancy Jobs"
+      },
+      "title": "Senior Consultant - Data & Analytics",
+      "salary_is_predicted": "0",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiU3Q3VnFIeUo4UkdFb3BieWQwZjhIdyIsImkiOiI1Nzg0NTIxNzk3In0.WrNQTKgbJUC9Ub46Swei6rW-6mf-Nmv1d0UQc8z_FEw",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Ashurst"
+      },
+      "id": "5784521797",
+      "created": "2026-07-02T08:41:54Z",
+      "longitude": 144.976335
+    },
+    {
+      "redirect_url": "https://www.adzuna.com.au/details/5677962500?utm_medium=api&utm_source=4e5ae6d3",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "The Rocks, Sydney",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney",
+          "The Rocks"
+        ]
+      },
+      "contract_time": "full_time",
+      "description": "Job Requisition ID: 38620 Are you experienced in Finance, Commerce, Data Analytics, Business Intelligence or Visualization? If so, Deloitte’s growing M&A Analytics team, part of the wider Strategy, Risk & Transactions (SR&T) group, offers an exciting opportunity for you. You'll work on high-profile M&A assignments, collaborating with top professionals in the field and engage in a broad range of corporate and private equity transactions. This role offers a dynamic, client-focused environment whe…",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "created": "2026-03-25T21:23:58Z",
+      "longitude": 151.207114,
+      "id": "5677962500",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Deloitte"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiU3Q3VnFIeUo4UkdFb3BieWQwZjhIdyIsImkiOiI1Njc3OTYyNTAwIn0.evmqQ7Ee69DXyIha1gWh0kPY8heQT_8TAqmm07LeokU",
+      "salary_is_predicted": "0",
+      "title": "Senior Consultant - M&A Analytics",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Accounting & Finance Jobs",
+        "tag": "accounting-finance-jobs"
+      },
+      "latitude": -33.867139
+    },
+    {
+      "redirect_url": "https://www.adzuna.com.au/details/5814545601?utm_medium=api&utm_source=4e5ae6d3",
+      "contract_type": "permanent",
+      "location": {
+        "area": [
+          "Australia",
+          "Western Australia",
+          "Perth Region",
+          "Perth",
+          "Perth CBD"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Perth CBD, Perth"
+      },
+      "contract_time": "full_time",
+      "description": "Introduction A career in IBM Consulting is built on long-term client relationships and close collaboration worldwide. You’ll work with leading companies across industries, helping them shape their hybrid cloud and AI journeys. With support from our strategic partners, robust IBM technology, and Red Hat, you’ll have the tools to drive meaningful change and accelerate client impact. At IBM Consulting, curiosity fuels success. You’ll be encouraged to challenge the norm, explore new ideas, and crea…",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "id": "5814545601",
+      "created": "2026-07-25T08:59:01Z",
+      "longitude": 115.859784,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgxNDU0NTYwMSIsInMiOiJTdDdWcUh5SjhSR0VvcGJ5ZDBmOEh3In0.pDmXlCIq84nln4DAulWIQVLsp0IyTWdDqBpbwcr-zr8",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "IBM"
+      },
+      "salary_is_predicted": "0",
+      "latitude": -31.953357,
+      "category": {
+        "tag": "consultancy-jobs",
+        "label": "Consultancy Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "title": "Associate Business Transformation Consultant-Data Analytics"
+    },
+    {
+      "salary_is_predicted": "0",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "latitude": -37.564812,
+      "title": "Package Consultant - SAP BW Analytics",
+      "id": "5806454627",
+      "created": "2026-07-19T07:40:29Z",
+      "longitude": 143.861454,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgwNjQ1NDYyNyIsInMiOiJTdDdWcUh5SjhSR0VvcGJ5ZDBmOEh3In0.SwpuCcrcnbOeMvDqO-G9RNOmuWawNIeYwdmImv0y80g",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "IBM"
+      },
+      "description": "Introduction A career in IBM Consulting is built on long-term client relationships and close collaboration worldwide. You’ll work with leading companies across industries, helping them shape their hybrid cloud and AI journeys. With support from our strategic partners, robust IBM technology, and Red Hat, you’ll have the tools to drive meaningful change and accelerate client impact. At IBM Consulting, curiosity fuels success. You’ll be encouraged to challenge the norm, explore new ideas, and crea…",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5806454627?utm_medium=api&utm_source=4e5ae6d3",
+      "contract_type": "permanent",
+      "location": {
+        "area": [
+          "Australia",
+          "Victoria",
+          "Ballarat Region",
+          "Ballarat",
+          "Bakery Hill"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Bakery Hill, Ballarat"
+      },
+      "contract_time": "full_time"
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Our Purpose Here at Datacom, we connect people and technology to solve challenges, create opportunities and discover new possibilities for the communities we live in whilst embodying a culture of trust and respect for employees and customers alike. Our Team The Data and Analytics team are a progressive group of diverse and creative individuals with a deep love for all things data related. They build platforms and solutions that are leading edge and at the forefront of the technology curve. A cl…",
+      "contract_time": "full_time",
+      "location": {
+        "area": [
+          "Australia",
+          "Queensland",
+          "Brisbane Region",
+          "Brisbane",
+          "Brisbane CBD"
+        ],
+        "display_name": "Brisbane CBD, Brisbane",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5764091399?utm_medium=api&utm_source=4e5ae6d3",
+      "title": "Principal Consultant - Data and Analytics | Brisbane",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "latitude": -27.4679,
+      "salary_is_predicted": "0",
+      "company": {
+        "display_name": "Datacom",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiU3Q3VnFIeUo4UkdFb3BieWQwZjhIdyIsImkiOiI1NzY0MDkxMzk5In0.LtLs2xFksasTMWn8DVEquJd3Ts82Scr5RE2xwPnuuLI",
+      "longitude": 153.0281,
+      "created": "2026-06-15T15:37:33Z",
+      "id": "5764091399"
+    },
+    {
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Adelaide CBD, Adelaide",
+        "area": [
+          "Australia",
+          "South Australia",
+          "Adelaide Region",
+          "Adelaide",
+          "Adelaide CBD"
+        ]
+      },
+      "contract_time": "part_time",
+      "redirect_url": "https://www.adzuna.com.au/details/5787354538?utm_medium=api&utm_source=4e5ae6d3",
+      "contract_type": "permanent",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Relocation to Adelaide or Melbourne, Australia Rethink What’s Possible for Your Career At Altis Consulting, our vision is simple: help clients and our people achieve more than they imagined. As a leader in Data and Analytics for over 25 years, we combine technical expertise, commercial insight, and a values-driven culture to create an environment where you can truly see your career differently. Australian-owned and technology-agnostic, we leverage deep industry knowledge and trusted relationshi…",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc4NzM1NDUzOCIsInMiOiJTdDdWcUh5SjhSR0VvcGJ5ZDBmOEh3In0.0PZah9MshsogwzLBOX2z3cfsFcMrWZ8RuMqNxBQkzCg",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "JobRadars - AU"
+      },
+      "id": "5787354538",
+      "longitude": 138.597963,
+      "created": "2026-07-04T09:21:45Z",
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "latitude": -34.933718,
+      "title": "Principal Consultant – Data & Analytics (Visa Sponsorship & Relocation)",
+      "salary_is_predicted": "0"
+    },
+    {
+      "contract_time": "full_time",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Adelaide CBD, Adelaide",
+        "area": [
+          "Australia",
+          "South Australia",
+          "Adelaide Region",
+          "Adelaide",
+          "Adelaide CBD"
+        ]
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5786192660?utm_medium=api&utm_source=4e5ae6d3",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Rethink What’s Possible for Your Career At Altis Consulting, our vision is simple: help clients and our people achieve more than they imagined. As a leader in Data and Analytics for over 25 years, we combine technical expertise , commercial insight, and a values-driven culture to create an environment where you can truly see your career differently. Australian-owned and technology-agnostic, we leverage deep industry knowledge and trusted relationships to deliver innovative, high-quality solutio…",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiU3Q3VnFIeUo4UkdFb3BieWQwZjhIdyIsImkiOiI1Nzg2MTkyNjYwIn0.XwI18vOr23p-crR95T_UXvPevAtyfM7mJ8hp9jFYFzU",
+      "company": {
+        "display_name": "Altis",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "id": "5786192660",
+      "longitude": 138.597963,
+      "created": "2026-07-03T10:53:40Z",
+      "category": {
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs"
+      },
+      "latitude": -34.933718,
+      "title": "Principal Consultant – Data & Analytics (Visa Sponsorship & Relocation)",
+      "salary_is_predicted": "0"
+    },
+    {
+      "redirect_url": "https://www.adzuna.com.au/details/5764751232?utm_medium=api&utm_source=4e5ae6d3",
+      "contract_time": "full_time",
+      "location": {
+        "area": [
+          "Australia",
+          "Western Australia",
+          "Perth Region",
+          "Bayswater Area",
+          "Bayswater"
+        ],
+        "display_name": "Bayswater, Bayswater Area",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "description": "Description Are you a Cloud Architect with GenAI experience? Do you have real-time Data Analytics, Data Warehousing, Big Data, Modern Data Strategy, Data Lake and Data Engineering experience? Do you like to solve the most complex and high scale (billions records) data challenges in the world today? Do you like leading teams through high impact projects that use the latest data analytics technologies? Would you like a career path that enables you to progress with the rapid adoption of cloud comp…",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "id": "5764751232",
+      "longitude": 115.91223,
+      "created": "2026-06-16T08:09:32Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiU3Q3VnFIeUo4UkdFb3BieWQwZjhIdyIsImkiOiI1NzY0NzUxMjMyIn0.itWaioVPLTs33c_uya9hjB2qsgYP0iuuItIeUc0sQX4",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Amazon"
+      },
+      "salary_is_predicted": "0",
+      "category": {
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs"
+      },
+      "latitude": -31.924074,
+      "title": "Senior Delivery Consultant: Data Analytics, AWS Professional Services"
+    },
+    {
+      "description": "Job Requisition ID: 40546 • Learn from the best in the business • A dynamic environment that will give you the opportunity to grow your career • An energetic and supportive culture that puts people first Based in Perth, we are looking for a Consultant who has a passion for helping clients manage their risk and regulatory challenges through advanced analytics, AI and data governance/management approaches and technologies. You will be part of a team that brings skills in data sourcing, analytics …",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5779152952?utm_medium=api&utm_source=4e5ae6d3",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Bayswater, Bayswater Area",
+        "area": [
+          "Australia",
+          "Western Australia",
+          "Perth Region",
+          "Bayswater Area",
+          "Bayswater"
+        ]
+      },
+      "contract_time": "full_time",
+      "salary_is_predicted": "0",
+      "title": "Consultant | Risk & Regulatory Data Analytics",
+      "category": {
+        "tag": "consultancy-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Consultancy Jobs"
+      },
+      "latitude": -31.924074,
+      "created": "2026-06-28T00:47:24Z",
+      "longitude": 115.91223,
+      "id": "5779152952",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Deloitte"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiU3Q3VnFIeUo4UkdFb3BieWQwZjhIdyIsImkiOiI1Nzc5MTUyOTUyIn0.0eB8JouOTUikhRz0W-j32RmhnOLNUr-dJqmNf0_a_tQ"
+    },
+    {
+      "title": "Senior Consultant - Assets and Analytics Services - Corporate Tax",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Accounting & Finance Jobs",
+        "tag": "accounting-finance-jobs"
+      },
+      "latitude": -31.953357,
+      "salary_is_predicted": "0",
+      "company": {
+        "display_name": "EY",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc4OTI5OTAyOSIsInMiOiJTdDdWcUh5SjhSR0VvcGJ5ZDBmOEh3In0.02sZ5cIx00ffrZCLzc66efz2TosS00Kr7wXbD7D78jg",
+      "created": "2026-07-06T06:29:25Z",
+      "longitude": 115.859784,
+      "id": "5789299029",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "At EY, we’re all in to shape your future with confidence. We’ll help you succeed in a globally connected powerhouse of diverse teams and take your career wherever you want it to go. Join EY and help to build a better working world. Senior Consultant - Assets and Analytics Services – Corporate Tax The opportunity Are you currently working in Tax but looking for new opportunities to accelerate your career? Do you have an interest in learning new Technologies and like to think outside the box? If …",
+      "contract_time": "full_time",
+      "location": {
+        "area": [
+          "Australia",
+          "Western Australia",
+          "Perth Region",
+          "Perth",
+          "Perth CBD"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Perth CBD, Perth"
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5789299029?utm_medium=api&utm_source=4e5ae6d3",
+      "contract_type": "permanent"
+    },
+    {
+      "contract_time": "full_time",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_min": 150000,
+      "description": "ScaleUp your Career Senior Data Engineer (Consultant) Are you a highly skilled data engineer ready to step out of pure execution and into a true architectural and leadership role? ScaleUp is partnering with a premier data and analytics consultancy based in Melbourne. They partner with enterprise and government clients to execute highly complex, large-scale data transformations—including high-profile legacy-to-cloud migrations. We are looking for a Senior Data Engineer to help lead their technic…",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiU3Q3VnFIeUo4UkdFb3BieWQwZjhIdyIsImkiOiI1NzgxMTUyNDM1In0.JsbOdROHydGvmlmK7vOI-4QKBp-mRK_-bA9hyYvtYs0",
+      "id": "5781152435",
+      "latitude": -37.806509,
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "salary_max": 170000,
+      "salary_is_predicted": "0",
+      "location": {
+        "area": [
+          "Australia",
+          "Victoria",
+          "Melbourne Region",
+          "Melbourne"
+        ],
+        "display_name": "Melbourne, Melbourne Region",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "contract_type": "permanent",
+      "redirect_url": "https://www.adzuna.com.au/details/5781152435?utm_medium=api&utm_source=4e5ae6d3",
+      "company": {
+        "display_name": "Scale Up Recruitment",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "created": "2026-06-29T23:27:36Z",
+      "longitude": 144.957935,
+      "title": "Senior Data Consultant (Engineer | Azure | DataBricks)"
+    },
+    {
+      "salary_is_predicted": "0",
+      "latitude": -33.82325,
+      "category": {
+        "label": "Consultancy Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "consultancy-jobs"
+      },
+      "title": "Associate Managing Consultant, Advisors & Consulting Services, Performance Analytics",
+      "id": "5756813242",
+      "longitude": 151.1955,
+      "created": "2026-06-09T12:34:12Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiU3Q3VnFIeUo4UkdFb3BieWQwZjhIdyIsImkiOiI1NzU2ODEzMjQyIn0.6p57-Yr34P8OOC1szzm8O_vbu7gO7WF4pFivBSxSE1g",
+      "company": {
+        "display_name": "Mastercard",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "description": "Our Purpose _Mastercard powers economies and empowers people in 200 countries and territories worldwide. Together with our customers, we're helping build a sustainable economy where everyone can prosper. We support a wide range of digital payments choices, making transactions secure, simple, smart and accessible. Our technology and innovation, partnerships and networks combine to deliver a unique set of products and services that help people, businesses and governments realize their greatest po…",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5756813242?utm_medium=api&utm_source=4e5ae6d3",
+      "location": {
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "North Shore",
+          "Willoughby Area",
+          "St Leonards"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "St Leonards, Willoughby Area"
+      }
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Job Description Location: Melbourne, Australia Salary Package: Competitive salary on offer Role Highlights: Shift your career into the next gear by joining this international technology consultancy who specialise in the Planning Analytics space. Role Overview This is not a standard FP&A position. You will be joining a specialist technology consultancy where your finance background and TM1 skills will be put to work on real client solutions. Day to day, you will support, enhance, and help delive…",
+      "contract_time": "full_time",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Melbourne, Melbourne Region",
+        "area": [
+          "Australia",
+          "Victoria",
+          "Melbourne Region",
+          "Melbourne"
+        ]
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5697078969?utm_medium=api&utm_source=4e5ae6d3",
+      "title": "TM1 Analyst - Melbourne",
+      "category": {
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs"
+      },
+      "latitude": -37.806509,
+      "salary_is_predicted": "0",
+      "company": {
+        "display_name": "Reo Group",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiU3Q3VnFIeUo4UkdFb3BieWQwZjhIdyIsImkiOiI1Njk3MDc4OTY5In0.Hjk_OKuFvfHHL2KMlJVrQxN1LjblZbT3j8xufTgOd0Y",
+      "longitude": 144.957935,
+      "created": "2026-04-12T10:12:06Z",
+      "id": "5697078969"
+    },
+    {
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "REO Group"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc2NzI5NjI2OCIsInMiOiJTdDdWcUh5SjhSR0VvcGJ5ZDBmOEh3In0.yBNt1Jy27BD_VlV2Xqc3FCeKzYQGnLsZDaHVFpduJt0",
+      "longitude": 144.976335,
+      "created": "2026-06-18T08:45:49Z",
+      "id": "5767296268",
+      "title": "TM1 Analyst - Melbourne",
+      "category": {
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs"
+      },
+      "latitude": -37.837324,
+      "salary_is_predicted": "0",
+      "contract_time": "full_time",
+      "location": {
+        "display_name": "South Yarra, Stonnington Area",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Victoria",
+          "Melbourne Region",
+          "Stonnington Area",
+          "South Yarra"
+        ]
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5767296268?utm_medium=api&utm_source=4e5ae6d3",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Job Description Location: Melbourne, Australia Salary Package: Competitive salary on offer Role Highlights: Shift your career into the next gear by joining this international technology consultancy who specialise in the Planning Analytics space. Role Overview This is not a standard FP&A position. You will be joining a specialist technology consultancy where your finance background and TM1 skills will be put to work on real client solutions. Day to day, you will support, enhance, and help delive…"
+    },
+    {
+      "description": "Our client in Adelaide is a leading Australian AI and Data Analytics Consulting Firm that empowers organisations to drive better outcomes through data and technology.For 30 years they have partnered with some of the largest healthcare, life sciences, financial services, and government entities across ANZ. We have an exciting opportunity for a highly skilled Data Practice Lead to join their innovative and dynamic team. Data Practice Lead | About YouAs a Data Practice Lead, you are a strategic an…",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5788267462?utm_medium=api&utm_source=4e5ae6d3",
+      "contract_type": "permanent",
+      "contract_time": "full_time",
+      "location": {
+        "area": [
+          "Australia",
+          "South Australia",
+          "Adelaide Region",
+          "Adelaide",
+          "Adelaide CBD"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Adelaide CBD, Adelaide"
+      },
+      "salary_is_predicted": "0",
+      "latitude": -34.933718,
+      "category": {
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs"
+      },
+      "title": "Data Practice Lead",
+      "id": "5788267462",
+      "longitude": 138.597963,
+      "created": "2026-07-05T07:46:54Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc4ODI2NzQ2MiIsInMiOiJTdDdWcUh5SjhSR0VvcGJ5ZDBmOEh3In0.CoeAMsbh1cTuJhdXtVpHhhPlLH_xqLyzkrEGuqEmS9M",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Confidential Careers"
+      }
+    },
+    {
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "ModaX Consulting"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiU3Q3VnFIeUo4UkdFb3BieWQwZjhIdyIsImkiOiI1Nzk3NDgxOTM0In0._AE4ruDW2InETBr3zGwCpEC0yyTu4D-vY4L3nkGS_vU",
+      "created": "2026-07-12T11:08:23Z",
+      "longitude": 138.597963,
+      "id": "5797481934",
+      "title": "Analyst / Senior Analyst - Financial Modelling",
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "latitude": -34.933718,
+      "salary_is_predicted": "0",
+      "location": {
+        "area": [
+          "Australia",
+          "South Australia",
+          "Adelaide Region",
+          "Adelaide",
+          "Adelaide CBD"
+        ],
+        "display_name": "Adelaide CBD, Adelaide",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "contract_time": "full_time",
+      "redirect_url": "https://www.adzuna.com.au/details/5797481934?utm_medium=api&utm_source=4e5ae6d3",
+      "contract_type": "permanent",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Analyst / Senior Analyst – Financial ModellingLocation: Adelaide Type: Full-time The OpportunityWe’re looking for multiple people at Analyst or Senior Analyst levels with sound technical skills, excellent communication skills, and a passion for modelling and problem-solving to join our growing team. The roles offer the opportunity to work closely with senior stakeholders, delivering high-impact modelling support to enhance commercial and policy decision-making.You will play a key role across bo…"
+    },
+    {
+      "latitude": -33.82325,
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Consultancy Jobs",
+        "tag": "consultancy-jobs"
+      },
+      "title": "Associate Managing Consultant, Advisors & Consulting Services, Performance Analytics (12 Months)",
+      "salary_is_predicted": "0",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiU3Q3VnFIeUo4UkdFb3BieWQwZjhIdyIsImkiOiI1NzUzODkwNTE0In0.e4x4NcL7NYX-C-vRKr9EZlM19mv8iyy30z86U4PlMvI",
+      "company": {
+        "display_name": "Mastercard",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "id": "5753890514",
+      "longitude": 151.1955,
+      "created": "2026-06-06T12:33:46Z",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Our Purpose _Mastercard powers economies and empowers people in 200 countries and territories worldwide. Together with our customers, we're helping build a sustainable economy where everyone can prosper. We support a wide range of digital payments choices, making transactions secure, simple, smart and accessible. Our technology and innovation, partnerships and networks combine to deliver a unique set of products and services that help people, businesses and governments realize their greatest po…",
+      "location": {
+        "display_name": "St Leonards, Willoughby Area",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "North Shore",
+          "Willoughby Area",
+          "St Leonards"
+        ]
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5753890514?utm_medium=api&utm_source=4e5ae6d3"
+    },
+    {
+      "category": {
+        "label": "Consultancy Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "consultancy-jobs"
+      },
+      "title": "Independent Consultant (AU*)",
+      "salary_is_predicted": "0",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiU3Q3VnFIeUo4UkdFb3BieWQwZjhIdyIsImkiOiI0ODAxMjk3MjAyIn0.Rt8gjl33C3_mQ855rvb9HdxeKD8O53R51Hc0Jp20-Dg",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "NMG Consulting"
+      },
+      "id": "4801297202",
+      "created": "2024-07-31T07:17:01Z",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "SUMMARY STATEMENT ​ We now have an opportunity for an Independent Consultant to work with NMG on delivering asset management programs in Australia. Each program requires executive-style interviews to be undertaken with key decision makers during September to December, and potentially on an annual basis thereafter. This position will suit a highly experienced, creative, and self-motivated individual who possesses a strong understanding of asset management in the region. This is a rare opportunit…",
+      "location": {
+        "area": [
+          "Australia"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Australia"
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/4801297202?utm_medium=api&utm_source=4e5ae6d3",
+      "contract_type": "contract"
+    }
+  ],
+  "__CLASS__": "Adzuna::API::Response::JobSearchResults",
+  "mean": 149638.2,
+  "count": 251
+}

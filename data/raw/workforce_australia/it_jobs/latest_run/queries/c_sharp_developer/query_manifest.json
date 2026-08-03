@@ -1,0 +1,14 @@
+{
+  "source": "Workforce Australia",
+  "search_term": "C# developer",
+  "folder": "data/raw/workforce_australia/it_jobs/latest_run/queries/c_sharp_developer",
+  "started_at_utc": "2026-07-28T11:21:57.147981+00:00",
+  "finished_at_utc": "2026-07-28T11:22:26.119300+00:00",
+  "page_size": 100,
+  "downloaded_pages": 14,
+  "reused_pages": 0,
+  "raw_records_across_pages": 1382,
+  "unique_vacancy_ids_for_query": 1263,
+  "stopped_reason": "API returned fewer records than pageSize",
+  "last_request_url": "https://www.workforceaustralia.gov.au/api/v1/global/vacancies/?searchText=C%23+developer&pageNumber=14&pageSize=100"
+}

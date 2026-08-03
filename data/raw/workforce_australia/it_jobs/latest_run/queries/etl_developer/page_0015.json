@@ -1,0 +1,849 @@
+{
+  "source": "Workforce Australia",
+  "api_url": "https://www.workforceaustralia.gov.au/api/v1/global/vacancies/",
+  "request_url": "https://www.workforceaustralia.gov.au/api/v1/global/vacancies/?searchText=ETL+developer&pageNumber=15&pageSize=100",
+  "search_term": "ETL developer",
+  "page_number": 15,
+  "page_size": 100,
+  "downloaded_at_utc": "2026-07-28T08:48:24.282188+00:00",
+  "records_detected": 13,
+  "response": {
+    "totalCount": 1413,
+    "results": [
+      {
+        "score": 8.112411,
+        "result": {
+          "contractType": null,
+          "creationDate": "2026-07-03T19:01:57.037",
+          "description": "  MedicalJobsAustralia.com     Test Analyst, CIS\n\n\n\n\n\nJob no: 943601\n\nWork type: Full time\n\nLocated in: Adelaide CBD\n\nCategories: Administration, Business and Management\n\n\n\n\n \n\nDepartment for Health and Wellbeing - Digital Health SA - Clinical Information Systems (CIS)\n\nSalary: $89,007 to $98,991 - ASO5 - Full Time - Ongoing - Permanent \n\nOverview:\n\nThe Test Analyst is accountable to the Test Lead to provide testing services and testing execution across SA Health but primarily for CIS. \n\nThe incumbent will apply SA Health's test policy, test strategy and associated test approaches, and participate in all the testing activities that will involve testing teams, developers, vendors, and the Business.\n\n \n\nSA Health is committed to providing an inclusive workplace that embraces diversity and inclusion for all employees. We strongly encourage applications from people of Aboriginal and Torres Strait Islander descent, culturally diverse backgrounds, members of the LGBTIQA+SB community and people who live with disability and-or neurodivergence.\n\nWe are committed to making workplace adjustments to provide a positive and supportive work environment. You are encouraged to let us know if have any support or access requirements during the recruitment process and beyond to ensure you can perform at your best.\n\nThe South Australian public sector promotes diversity and flexible ways of working part-time. Applicants are encouraged to discuss the flexible working arrangements for this role.\n\nAppointment will be subject to a satisfactory Criminal History Check and appropriate immunisation requirements.\n\nJob ref: 943601\n\nCriminal History Screening Requirement\n\nA 'National Police Certificate' NPC (also known as a 'Nationally Coordinated Criminal History Check' NCCHC) for employment involving no contact with vulnerable groups is required for this position (general employment)\n\nImmunisation Risk for this position is Category C (minimal patient contact)\n\nSA Health Services are required to implement the Addressing vaccine preventable disease: Occupational assessment, screening and vaccination policy in the workplace.\n\nSpecial Conditions\n\nRequired to work outside of normal business hours as part of an on-call roster.\n\nMay be required to work a 24-7 roster during activation periods.\n\nA flexible approach to the taking of leave is required.\n\nSome intrastate travel may be required.\n\nEnquiries\n\nGraeme Conron\n\nTesting Manager, CIS\n\nPhone: 0410 447 020\n\nE-mail: \n\nApplication Closing Date\n\nSunday, 12 July 2026 - 11:55 PM\n\nAttachments\n\n943601 - Test Analyst - Clinical Information Systems - Role description .doc\n\nDigital Health SA Employee Value Proposition 2025.pdf\n\nAustralian applicant guidelines\n\nInternational applicant guidelines\n\n\n\n\n\n\n Advertised: 02 Jul 2026 Cen. Australia Standard Time\n\n Applications close: 12 Jul 2026 Cen. Australia Standard Time\n\n\n\n\n Apply now Refer a friend    Click here to Apply now → ",
+          "displayFromDate": "2026-07-03T00:00:00",
+          "employerId": "CfDJ8Nn8cBBigUhPiuiVER7neZpwUqJiz3ya9U2_2jKvLkr2KIQTvogFqij0ZDO9RW2EGTMRoFzXarFm4xvHbd6yJLCxmSo7Nx325YHCHUcTkizodYoWoTZEKuXFwZSLAaWxjA",
+          "employerName": "Medical Jobs Australia",
+          "expiryDate": "2026-08-02T10:00:00",
+          "howToApplyCode": "PSD",
+          "industry": {
+            "code": "112",
+            "label": "Admin & Office"
+          },
+          "isApplyOnlineJob": false,
+          "isExternalJob": false,
+          "isFavourite": false,
+          "isIndigenousJob": false,
+          "isNewJob": false,
+          "jobType": {
+            "code": "H",
+            "label": "Normal position"
+          },
+          "latitude": "-34.52177446000",
+          "location": {
+            "code": "59BRSS",
+            "label": "SA - Regional - Barossa "
+          },
+          "logoUrl": "/api/v1/global/vacancies/logos/cms?code=PX28",
+          "longitude": "138.96027792999",
+          "modifiedDate": "2026-07-06T20:00:12.893",
+          "occupation": {
+            "code": "542112",
+            "label": "Admissions Clerk"
+          },
+          "organisation": {
+            "code": "VVNW",
+            "label": "MedicalJobsAustralia"
+          },
+          "positionsAvailable": 10,
+          "postCode": "5352",
+          "salary": {
+            "code": "SLNS",
+            "label": "Not Specified"
+          },
+          "site": {
+            "code": "PX28",
+            "label": "MedicalJobsAustralia"
+          },
+          "state": "SA",
+          "suburb": "Tanunda",
+          "tenure": {
+            "code": "N",
+            "label": "Contract position"
+          },
+          "title": "Test Analyst, CIS",
+          "vacancyId": 2350877119,
+          "workType": {
+            "code": "C",
+            "label": "Casual position"
+          }
+        }
+      },
+      {
+        "score": 8.112411,
+        "result": {
+          "contractType": null,
+          "creationDate": "2026-07-24T08:35:45.087",
+          "description": " Defence & National Security Sector | Melbourne | 12-Month Contract + Extension Option   Your new company     Hays Defence Technology is seeking an experienced AI Behaviour Developer / Autonomous Systems Engineer to join a high-profile Defence research and capability development program through consultancy engagement.       This is an opportunity to contribute to the development of next-generation autonomous systems and electronic warfare simulation capabilities, working within a multidisciplinary team focused on advanced modelling, human-autonomy teaming, AI decision-making, and mission simulation.     Your new role     You will be responsible for developing and enhancing autonomous agent behaviours within an established modelling and simulation environment used to support Defence capability research and experimentation.       Working alongside specialists in software engineering, data analytics, human factors, systems integration, and simulation, you will play a key role in designing, implementing, testing and validating autonomous behaviours for teams of platforms operating in complex simulated environments.     What you'll need to succeed     \n \n Develop and enhance autonomous agent behaviours and decision-making models   \n Design and implement behaviour trees, BDI architectures, state machines, or similar autonomy frameworks   \n Develop software components using Python, C++, or related programming languages   \n Integrate autonomous behaviours into existing simulation and mission-planning environments   \n Support autonomous mission execution, task allocation and multi-platform coordination   \n Conduct testing, validation and quality assurance activities   \n Develop technical documentation and contribute to knowledge transfer activities   \n Participate in collaborative research activities with domestic and international stakeholders   \n \n      What you'll get in return     \n \n NV1 clearance obtained   \n Proven experience developing autonomous agent behaviours or AI decision-making systems   \n Strong knowledge of behaviour trees, BDI models, state machines, planning systems or related autonomy frameworks   \n Software development experience using Python, C++, or similar languages   \n Experience designing robust, explainable and verifiable AI behaviours   \n Strong testing, debugging and validation skills   \n Ability to work effectively within multidisciplinary technical teams   \n Excellent communication and documentation skills   \n Experience working with modelling and simulation environments   \n Knowledge of autonomous systems, robotics or unmanned platforms   \n Understanding of aerospace systems, aircraft operations or avionics   \n Exposure to Electronic Warfare (EW), Electronic Support (ES) or Electronic Attack (EA) concepts   \n Defence, research, or national security sector experience   \n \n      What you need to do now     If you're interested in this role, click 'apply now' to forward an up-to-date copy of your CV to holly.powell@hays.com.au , or call us now.   If this job isn't quite right for you, but you are looking for a new position, please contact us for a confidential discussion on your career.    Please  click here  to apply. ",
+          "displayFromDate": "2026-07-24T00:00:00",
+          "employerId": "CfDJ8Nn8cBBigUhPiuiVER7neZpI7ClkuHgAkHPACmmsEhf8hj1ywGUJ3QJw5Jk2npjwVdgmUQ4_ijoyD1CG-pIYkRXbLQdyChYxtKVlfFKY4jisXnucFKIn-NR_gYzKK-Dd7g",
+          "employerName": "Holly Powell",
+          "expiryDate": "2026-08-22T10:00:00",
+          "howToApplyCode": "PSD",
+          "industry": {
+            "code": "126",
+            "label": "Information Tech"
+          },
+          "isApplyOnlineJob": false,
+          "isExternalJob": false,
+          "isFavourite": false,
+          "isIndigenousJob": false,
+          "isNewJob": false,
+          "jobType": {
+            "code": "H",
+            "label": "Normal position"
+          },
+          "latitude": "-37.82503942000",
+          "location": {
+            "code": "71CBDS",
+            "label": "VIC - Melbourne - CBD & Surrounds"
+          },
+          "logoUrl": "/api/v1/global/vacancies/logos/employer?employerId=pid4J1c6OdC7yEZ6377EAA&logoSize=100",
+          "longitude": "144.97151194",
+          "modifiedDate": "2026-07-25T09:02:13.3",
+          "occupation": {
+            "code": "263213",
+            "label": "ICT Systems Test Engineer"
+          },
+          "organisation": {
+            "code": "HHAY",
+            "label": "Hays Personnel Srvcs"
+          },
+          "positionsAvailable": 1,
+          "postCode": "3000",
+          "salary": {
+            "code": "SLNS",
+            "label": "Not Specified"
+          },
+          "site": {
+            "code": "Y397",
+            "label": "Hays Recruitment"
+          },
+          "state": "VIC",
+          "suburb": "MELBOURNE",
+          "tenure": {
+            "code": "N",
+            "label": "Contract position"
+          },
+          "title": "Autonomous Systems Engineer",
+          "vacancyId": 2351605491,
+          "workType": {
+            "code": "F",
+            "label": "Full time position"
+          }
+        }
+      },
+      {
+        "score": 7.84391,
+        "result": {
+          "contractType": null,
+          "creationDate": "2026-07-24T12:24:17.057",
+          "description": " LatinAdvisor PTY Ltd  Bang On Demolition & Earthworks Pty Ltd is currently seeking an experienced and reliable Heavy Combination (HC) Tipper Truck Driver to join our team for ongoing projects across quarry and civil sites in Brisbane’s northside. You will be responsible for operating combination vehicles safely and efficiently while ensuring compliance with site procedures and transport regulations. The ideal candidate will bring a strong focus on safety, punctuality, and equipment care. If you are interested in this opportunity, please send your resume and a cover letter outlining your relevant experience - Subject: \"Heavy Combination (HC) Tipper Truck Driver - [Your Name]   Benefits   Competitive salary  Consistent full-time work across quarry and civil projects  Opportunity to work with a reputable and safety-focused team  Supportive work environment with room for growth  Stable employment with an industry-recognised contractor    Task & responsibilities   Operate HC-class tipper trucks (truck + trailer combination) across quarry and construction sites.  Secure loads properly to ensure safe transportation and compliance with road safety laws.  Conduct pre-start vehicle inspections, routine maintenance checks, and report any mechanical issues promptly.  Unload materials at designated sites safely and efficiently, using tipping mechanisms as required.  Follow site traffic management plans and adhere to all workplace health and safety procedures.  Maintain cleanliness of the vehicle and assist in documenting trip logs and delivery records.  Liaise with site supervisors to coordinate delivery schedules and resolve any delays or access issues.  Comply with company policies, traffic regulations, and fatigue management protocols.    Qualification & experience   Minimum of 1 year of proven experience operating tipper or heavy combination  Current HC (Heavy Combination) driver’s licence  Experience with trucks and Road Ranger gearboxes is essential  Valid White Card (Construction Induction Card)  Sound knowledge of load restraint techniques, fatigue management, and vehicle safety  Strong focus on workplace safety and compliance  Reliable, punctual, and able to work independently or as part of a team  Physically fit with the ability to work outdoors in varying conditions   About Company    Bang On Demolition & Earthworks Pty Ltd (ABN 33663799077) is a Brisbane-based company specialising in demolition, excavation, and earthworks services for commercial, civil, and residential projects. Known for our commitment to safety, professionalism, and client satisfaction, we provide reliable end-to-end site preparation solutions across South-East Queensland. With a strong emphasis on compliance, quality workmanship, and operational efficiency, we are proud to be trusted partners for contractors, councils, and developers.      Work Type:  Full time   Salary:  $80000-90000   Job Publish:  24-07-2026   Job Expire:  23-08-2026  Apply on:  Heavy Combination (HC) Tipper Truck Driver Job here!    This job is brought to you by workinitiatives.com.au. ",
+          "displayFromDate": "2026-07-24T00:00:00",
+          "employerId": "",
+          "employerName": "SocialbleTech",
+          "expiryDate": "2026-08-23T10:00:00",
+          "howToApplyCode": "PSD",
+          "industry": {
+            "code": "112",
+            "label": "Admin & Office"
+          },
+          "isApplyOnlineJob": false,
+          "isExternalJob": false,
+          "isFavourite": false,
+          "isIndigenousJob": true,
+          "isNewJob": false,
+          "jobType": {
+            "code": "H",
+            "label": "Normal position"
+          },
+          "latitude": "-27.41934169",
+          "location": {
+            "code": "41BRIS",
+            "label": "QLD - Brisbane & Gold Coast - Brisbane & Surrounds"
+          },
+          "logoUrl": "",
+          "longitude": "153.05413558999",
+          "modifiedDate": "2026-07-27T15:00:44.61",
+          "occupation": {
+            "code": "542112",
+            "label": "Admissions Clerk"
+          },
+          "organisation": {
+            "code": "TTNW",
+            "label": "Sociable Tech"
+          },
+          "positionsAvailable": 1,
+          "postCode": "4011",
+          "salary": {
+            "code": "SLL4",
+            "label": "$80,001 - $100,000"
+          },
+          "site": {
+            "code": "DM68",
+            "label": "Sociable Tech"
+          },
+          "state": "QLD",
+          "suburb": "Clayfield",
+          "tenure": {
+            "code": "P",
+            "label": "Permanent position"
+          },
+          "title": "Heavy Combination (HC) Tipper Truck Driver",
+          "vacancyId": 2351622922,
+          "workType": {
+            "code": "F",
+            "label": "Full time position"
+          }
+        }
+      },
+      {
+        "score": 7.3337083,
+        "result": {
+          "contractType": null,
+          "creationDate": "2026-07-13T11:51:14.577",
+          "description": "Global Vision Recruitment on Behalf of Loginet Technologies Pty Ltd\n\nDate Posted: 13th July 2026\n\nPosition: ICT Project Manager (ANZSCO 135112)\n\nSalary: $100,000 – $125,000 per annum plus Superannuation\n\nHours: 38 hours per week\n\nMode: Full-Time, Permanent\n\nLocation: 217 Margaret St, Toowoomba City QLD 4350\n\nExperience required: Minimum three (3) years' experience managing ICT or software development projects\n\nAbout Loginet Technologies\n\nLoginet Technologies is an Australian technology consulting and digital transformation company committed to helping businesses leverage innovative technologies to improve efficiency, productivity, and sustainable growth. We deliver end-to-end ICT solutions across managed IT services, cloud computing, cybersecurity, software and mobile application development, Artificial Intelligence (AI), Generative AI, intelligent business automation, DevOps, enterprise networking, telecommunications, digital transformation, infrastructure management, ERP and CRM solutions, and managed technology support. Our experienced team works closely with organisations across diverse industries to design, implement, integrate, and support secure, scalable, and future-ready technology solutions that drive business innovation and operational excellence.\n\nAbout the Role\n\nWe are seeking an experienced ICT Project Manager to lead the successful planning, execution and delivery of complex ICT projects across software development, AI solutions, business automation, cloud services, cybersecurity and digital transformation initiatives.\n\nWorking closely with clients, business stakeholders and multidisciplinary technical teams, you will manage the complete project lifecycle, ensuring projects are delivered on time, within budget and to the highest quality standards.\n\nKey Responsibilities\n\n•\tManage the complete lifecycle of ICT projects from initiation through planning, execution, implementation and closure.\n\n•\tLead software development, cloud migration, Artificial Intelligence (AI), Generative AI, intelligent automation and digital transformation projects.\n\n•\tCollaborate with clients to gather business requirements and translate them into successful project outcomes.\n\n•\tDevelop project plans, budgets, schedules, milestones and resource allocation plans.\n\n•\tCoordinate cross-functional teams including software developers, AI engineers, cloud architects, infrastructure engineers, business analysts and cybersecurity specialists.\n\n•\tManage Agile, Scrum and hybrid project delivery methodologies.\n\n•\tMonitor project progress, budgets, risks, issues and quality standards while ensuring successful project delivery.\n\n•\tFacilitate project workshops, sprint planning, daily stand-ups, stakeholder meetings and executive reporting.\n\n•\tManage project governance, change requests, risk mitigation and quality assurance activities.\n\n•\tCoordinate with third-party vendors and technology partners to support successful project implementation.\n\n•\tEnsure successful deployment, client acceptance, knowledge transfer and operational handover following project completion.\n\n•\tContinuously improve project management processes and delivery frameworks across the organisation.\n\nEssential Qualifications & Experience\n\n•\tBachelor's degree in Information Technology, Computer Science, Software Engineering, Information Systems or a closely related ICT discipline.\n\n•\tMinimum three (3) years' experience managing ICT or software development projects.\n\n•\tDemonstrated experience delivering enterprise software, cloud, infrastructure or digital transformation projects.\n\n•\tExperience managing Agile and Scrum software development projects.\n\n•\tStrong stakeholder management and client engagement skills.\n\n•\tExcellent leadership, communication and organisational abilities.\n\n•\tExperience managing project budgets, schedules, risks and multidisciplinary project teams.\n\n•\tStrong analytical and problem-solving skills.\n\nDesirable Skills\n\n•\tExperience delivering AI, Generative AI or intelligent automation projects.\n\n•\tExperience with workflow automation platforms including n8n, Microsoft Power Automate, Make.com or similar technologies.\n\n•\tKnowledge of AWS, Microsoft Azure or hybrid cloud environments.\n\n•\tUnderstanding of cybersecurity, enterprise networking and managed IT services.\n\n•\tExperience using Jira, Azure DevOps, Microsoft Project, ClickUp, Trello, Monday.com or similar project management platforms.\n\n•\tProject Management Professional (PMP), PRINCE2, Scrum Master or Agile certifications.\n\nWhy Join Loginet Technologies?\n\nAt Loginet Technologies, you will have the opportunity to work on innovative projects involving Artificial Intelligence, enterprise software development, intelligent automation, cloud computing, cybersecurity and digital transformation. We foster a collaborative and innovative workplace where employees are encouraged to develop their technical expertise, contribute to meaningful client outcomes and build long-term careers within a growing Australian technology company.\n\nWe offer:\n\n•\tCompetitive remuneration package\n\n•\tOngoing professional development and certification support\n\n•\tFlexible working arrangements\n\n•\tExposure to enterprise cloud, AI and digital transformation projects\n\n•\tCareer progression opportunities\n\n•\tSupportive and collaborative team culture\n\nInterested applicant may submit their application to recruit@gvrc.com.au. Please note that only shortlisted candidate will be contacted.",
+          "displayFromDate": "2026-07-13T00:00:00",
+          "employerId": "CfDJ8Nn8cBBigUhPiuiVER7neZqc7-WvrDeodEjWfJvGNyfFWQiL01wqDfF18gSSL5RuW3svsNe9eglaBPPJjEdITAXvkdaSgAKnlfAIskb-UqqyuXopw24JtU_eDa0LUitsng",
+          "employerName": "Global Vision Recruitment",
+          "expiryDate": "2026-08-14T10:00:00",
+          "howToApplyCode": "PSD",
+          "industry": {
+            "code": "126",
+            "label": "Information Tech"
+          },
+          "isApplyOnlineJob": false,
+          "isExternalJob": false,
+          "isFavourite": false,
+          "isIndigenousJob": false,
+          "isNewJob": false,
+          "jobType": {
+            "code": "H",
+            "label": "Normal position"
+          },
+          "latitude": "-27.56089010999",
+          "location": {
+            "code": "49TOOW",
+            "label": "QLD - Regional - Toowoomba"
+          },
+          "logoUrl": "/api/v1/global/vacancies/logos/employer?employerId=3HdNu2gr4bxDU5Ey72410g&logoSize=100",
+          "longitude": "151.95408972000",
+          "modifiedDate": "2026-07-14T12:19:09.41",
+          "occupation": {
+            "code": "1351",
+            "label": "ICT Managers"
+          },
+          "organisation": {
+            "code": "INET",
+            "label": "Internet Business"
+          },
+          "positionsAvailable": 1,
+          "postCode": "4350",
+          "salary": {
+            "code": "SLL5",
+            "label": ">$100,000"
+          },
+          "site": {
+            "code": "NETV",
+            "label": "Internet Vacancies"
+          },
+          "state": "QLD",
+          "suburb": "TOOWOOMBA CITY",
+          "tenure": {
+            "code": "P",
+            "label": "Permanent position"
+          },
+          "title": "ICT Project Manager",
+          "vacancyId": 2351117155,
+          "workType": {
+            "code": "F",
+            "label": "Full time position"
+          }
+        }
+      },
+      {
+        "score": 7.2225437,
+        "result": {
+          "contractType": null,
+          "creationDate": "2026-07-07T16:39:44.493",
+          "description": " Blue moon offshore solutions   Role Summary   Altitudo  Pty Ltd is seeking a seasoned SAP Supply Chain Professional with over 10 years of experience in end-to-end SAP ECC and S/4HANA implementations, global rollouts, and Center of Excellence (CoE) roles. The ideal candidate has deep expertise in SAP MM, WM, and Procurement, with strong cross-module integration across SD, PP, PM, FICO, PS, and MDG. Experience in Oil & Gas, Energy, or large-scale industrial sectors is highly valued.   Task & responsibilities    Key Responsibilities    Lead end-to-end SAP S/4HANA implementation and migration projects for procurement, inventory, and warehouse management.  Work with users to formulate and document business requirements, and translate them into functional system specifications.  Identify, investigate, and analyze business processes, procedures, and work practices to recommend optimal system solutions.  Identify inefficiencies and recommend improvements in system functionality, behavior, and business practices.  Develop project plans, cost estimates, and resource allocation using project management methodologies.  Take responsibility for deploying functional solutions, including creating system test plans to ensure quality and integrity.  Create user and training documentation, and conduct formal training classes for end users and key stakeholders.  Develop functional specifications for use by system developers and technical teams.  Use data and process modeling techniques to create clear system specifications for design and development.  Act as a central reference and information source, providing guidance in system project decision-making.  Manage integration with third-party tools such as Jagger (eProcurement), IBP, MDG, SharePoint, and barcoding systems.  Embed compliance frameworks (e.g., Manual of Authority) into procurement workflows.  Lead change requests, system enhancements, and continuous improvement roadmaps.    Key Skills    Strong analytical and problem-solving abilities  Excellent written and verbal communication skills  Ability to work independently and manage multiple priorities  Proficiency in data and process modeling techniques  Experience with project management methodologies (SCRUM, Kaizen)  Attention to detail and a proactive, solution-oriented approach  Deep SAP S/4HANA Procurement and MM configuration skills  Cross-module integration expertise  User training, documentation, and workshop facilitation    Qualifications:   Bachelor's degree in Computer Software Engineering or related field. SAP S/4HANA Procurement and SAP MM and Ariba certifications are strongly preferred.   Experience:    10+ years in SAP MM, WM, and Supply Chain roles  Minimum 5+ years in S/4HANA implementations and upgrades  Proven experience in Oil & Gas, Energy, or large industrial sectors  Experience leading global template rollouts and cross-functional teams    Language Requirement:   Fluent in English (written and spoken)  About Company     Altitudo is an Australian-owned and operated Information Technology company. We provide managed IT services, cloud computing, Cybersecurity, and software services to businesses in Australia. Trusted By The World's Best Organisations. Our solutions allow you to provide your customers with the best possible service!   With a combined experience of over 50 years in the IT sector, we are committed to solving and advising on business problems. We’ll show you how and why technology can increase business productivity, improve efficiency, and keep costs down.         Work Type:  Full time   Salary:  $90000-120000   Job Publish:  07-07-2026   Job Expire:  06-08-2026   Apply Link:  https://workinitiatives.com.au/job/details?id=5992319   This job is brought to you by workinitiatives.com.au. ",
+          "displayFromDate": "2026-07-07T00:00:00",
+          "employerId": "",
+          "employerName": "SocialbleTech",
+          "expiryDate": "2026-08-06T10:00:00",
+          "howToApplyCode": "PSD",
+          "industry": {
+            "code": "112",
+            "label": "Admin & Office"
+          },
+          "isApplyOnlineJob": false,
+          "isExternalJob": false,
+          "isFavourite": false,
+          "isIndigenousJob": true,
+          "isNewJob": false,
+          "jobType": {
+            "code": "H",
+            "label": "Normal position"
+          },
+          "latitude": "-33.86883859000",
+          "location": {
+            "code": "21CIWS",
+            "label": "NSW - Sydney - City & Inner West"
+          },
+          "logoUrl": "",
+          "longitude": "151.20933768",
+          "modifiedDate": "2026-07-08T17:06:41.25",
+          "occupation": {
+            "code": "542112",
+            "label": "Admissions Clerk"
+          },
+          "organisation": {
+            "code": "TTNW",
+            "label": "Sociable Tech"
+          },
+          "positionsAvailable": 1,
+          "postCode": "2000",
+          "salary": {
+            "code": "SLL5",
+            "label": ">$100,000"
+          },
+          "site": {
+            "code": "DM68",
+            "label": "Sociable Tech"
+          },
+          "state": "NSW",
+          "suburb": "Sydney",
+          "tenure": {
+            "code": "P",
+            "label": "Permanent position"
+          },
+          "title": "Altitudo Pty Ltd.",
+          "vacancyId": 2350968892,
+          "workType": {
+            "code": "F",
+            "label": "Full time position"
+          }
+        }
+      },
+      {
+        "score": 7.1301084,
+        "result": {
+          "contractType": null,
+          "creationDate": "2026-07-06T08:29:34.323",
+          "description": " LEADCON TECH PTY LTD   Role Summary   Leadcon Tech Pty Ltd is seeking a seasoned SAP Supply Chain Professional with over 10 years of experience in end-to-end SAP ECC and S/4HANA implementations, global rollouts, and Center of Excellence (CoE) roles. The ideal candidate has deep expertise in SAP MM, WM, and Procurement, with strong cross-module integration across SD, PP, PM, FICO, PS, and MDG. Experience in Oil & Gas, Energy, or large-scale industrial sectors is highly valued.   Benefits   Task & responsibilities   Key Responsibilities    Lead end-to-end SAP S/4HANA implementation and migration projects for procurement, inventory, and warehouse management.  Work with users to formulate and document business requirements, and translate them into functional system specifications.  Identify, investigate, and analyze business processes, procedures, and work practices to recommend optimal system solutions.  Identify inefficiencies and recommend improvements in system functionality, behavior, and business practices.  Develop project plans, cost estimates, and resource allocation using project management methodologies.  Take responsibility for deploying functional solutions, including creating system test plans to ensure quality and integrity.  Create user and training documentation, and conduct formal training classes for end users and key stakeholders.  Develop functional specifications for use by system developers and technical teams.  Use data and process modeling techniques to create clear system specifications for design and development.  Act as a central reference and information source, providing guidance in system project decision-making.  Manage integration with third-party tools such as Jagger (eProcurement), IBP, MDG, SharePoint, and barcoding systems.  Embed compliance frameworks (e.g., Manual of Authority) into procurement workflows.  Lead change requests, system enhancements, and continuous improvement roadmaps.    Key Skills    Strong analytical and problem-solving abilities  Excellent written and verbal communication skills  Ability to work independently and manage multiple priorities  Proficiency in data and process modeling techniques  Experience with project management methodologies (SCRUM, Kaizen)  Attention to detail and a proactive, solution-oriented approach  Deep SAP S/4HANA Procurement and MM configuration skills  Cross-module integration expertise  User training, documentation, and workshop facilitation    Qualification & experience   Qualifications & Experience    Qualifications:   Bachelor's degree in Computer Software Engineering or related field. SAP S/4HANA Procurement and SAP MM and Ariba certifications are strongly preferred.   Experience:    10+ years in SAP MM, WM, and Supply Chain roles  Minimum 5+ years in S/4HANA implementations and upgrades  Proven experience in Oil & Gas, Energy, or large industrial sectors  Experience leading global template rollouts and cross-functional teams    Language Requirement:   Fluent in English (written and spoken)  About Company    Leadcon Tech Pty Ltd is an Australian proprietary company limited by shares, registered with the Australian Securities and Investments Commission (ACN 664 795 902) in New South Wales since January 2023. Headquartered at Spring Farm, NSW, the company operates under the leadership of its director, Rakesh Kumar. As a growing enterprise in the technology space, Leadcon Tech Pty Ltd is committed to building strong operational foundations and expanding its capabilities to meet evolving industry demands.      Work Type:  Full time   Salary:  $90000-120000   Job Publish:  06-07-2026   Job Expire:  05-08-2026   Apply Link:  https://workinitiatives.com.au/job/details?id=5981351   This job is brought to you by workinitiatives.com.au. ",
+          "displayFromDate": "2026-07-06T00:00:00",
+          "employerId": "",
+          "employerName": "SocialbleTech",
+          "expiryDate": "2026-08-05T10:00:00",
+          "howToApplyCode": "PSD",
+          "industry": {
+            "code": "112",
+            "label": "Admin & Office"
+          },
+          "isApplyOnlineJob": false,
+          "isExternalJob": false,
+          "isFavourite": false,
+          "isIndigenousJob": true,
+          "isNewJob": false,
+          "jobType": {
+            "code": "H",
+            "label": "Normal position"
+          },
+          "latitude": "-34.92867646999",
+          "location": {
+            "code": "51CADL",
+            "label": "SA - Adelaide - Central Adelaide"
+          },
+          "logoUrl": "",
+          "longitude": "138.60102724000",
+          "modifiedDate": "2026-07-07T10:45:05.977",
+          "occupation": {
+            "code": "542112",
+            "label": "Admissions Clerk"
+          },
+          "organisation": {
+            "code": "TTNW",
+            "label": "Sociable Tech"
+          },
+          "positionsAvailable": 1,
+          "postCode": "5000",
+          "salary": {
+            "code": "SLL5",
+            "label": ">$100,000"
+          },
+          "site": {
+            "code": "DM68",
+            "label": "Sociable Tech"
+          },
+          "state": "SA",
+          "suburb": "Adelaide",
+          "tenure": {
+            "code": "P",
+            "label": "Permanent position"
+          },
+          "title": "ICT Business Analyst",
+          "vacancyId": 2350910998,
+          "workType": {
+            "code": "F",
+            "label": "Full time position"
+          }
+        }
+      },
+      {
+        "score": 7.1274357,
+        "result": {
+          "contractType": null,
+          "creationDate": "2026-07-20T10:53:10.31",
+          "description": " Asseti Operations Pty Ltd  The Software Engineer is responsible for the design, development, testing, implementation and maintenance of software applications, backend systems and websites. The role requires strong technical expertise, problem-solving skills and the ability to work collaboratively with cross-functional teams to deliver high-quality software solutions that meet business objectives and user requirements.  The role involves researching, analysing and documenting system requirements, writing and maintaining code, testing and debugging applications, supporting software deployments, resolving technical issues and contributing to the ongoing improvement of software systems.   Benefits   Task & responsibilities   Research, analyse and document system and software requirements for various projects.  Analyse user and business requirements and translate them into technical specifications.  Design software architecture, system components, data structures and integration interfaces in accordance with functional and technical requirements.  Design, develop, modify, implement, test and maintain scalable software applications, backend systems, websites and related services in accordance with software engineering principles and business requirements.  Write clean, efficient, scalable and well-documented code to meet system requirements and technical specifications.  Test, debug and diagnose errors in application programming, ensuring adherence to established protocols and programming standards.  Troubleshoot and resolve technical issues to improve site reliability, system functionality and user experience.  Maintain and enhance existing software applications and systems.  Optimise website and application performance through efficient coding practices and database management.  Manage testing and automation of software deployments and support the release of backend systems and websites.  Participate in code reviews to ensure code quality, maintainability and adherence to best practices.  Work closely with product managers, developers and operations teams to align software solutions with business requirements and resolve technical issues.  Provide input into new features and system enhancements based on user feedback.  Create and maintain technical documentation, including system designs, workflows, technical specifications and user guides.  Contribute to continuous improvement initiatives within the development team.    Qualification & experience   Bachelor’s degree or higher qualification in Computer Science, Software Engineering, Information Technology or a related field. At least five years of relevant experience and/or relevant vendor certification may substitute for the formal qualification.  Proven experience designing, developing, testing, implementing and maintaining software applications and systems.  Strong knowledge of software engineering principles, methodologies and best practices.  Proficiency in one or more programming languages such as Java, C#, Python, JavaScript, C++ or similar.  Experience working with relational and/or non-relational databases.  Understanding of software development lifecycle processes.  Familiarity with version control systems such as Git.  Strong analytical, problem-solving and troubleshooting skills.  Excellent verbal and written communication skills.  Ability to work independently and collaboratively within a team environment   About Company    Asseti is an AI-powered asset intelligence platform that enables enterprise property owners, infrastructure operators and government agencies to manage their physical assets through a single source of truth. The platform aggregates and analyses asset information from multiple sources, transforming complex property and infrastructure data into actionable and defensible insights. By leveraging artificial intelligence, machine learning and advanced analytics, Asseti supports evidence-based maintenance, risk and capital planning decisions, enabling customers to move from reactive, manual asset management to proactive, data-driven asset lifecycle management.      Work Type:  Full time   Salary:  $80000-90000   Job Publish:  20-07-2026   Job Expire:  19-08-2026  Apply on:  Software Engineer Job here!    This job is brought to you by workinitiatives.com.au. ",
+          "displayFromDate": "2026-07-20T00:00:00",
+          "employerId": "",
+          "employerName": "SocialbleTech",
+          "expiryDate": "2026-08-19T10:00:00",
+          "howToApplyCode": "PSD",
+          "industry": {
+            "code": "112",
+            "label": "Admin & Office"
+          },
+          "isApplyOnlineJob": false,
+          "isExternalJob": false,
+          "isFavourite": false,
+          "isIndigenousJob": true,
+          "isNewJob": false,
+          "jobType": {
+            "code": "H",
+            "label": "Normal position"
+          },
+          "latitude": "-33.89612148999",
+          "location": {
+            "code": "21CIWS",
+            "label": "NSW - Sydney - City & Inner West"
+          },
+          "logoUrl": "",
+          "longitude": "151.20591805000",
+          "modifiedDate": "2026-07-21T12:15:56.313",
+          "occupation": {
+            "code": "542112",
+            "label": "Admissions Clerk"
+          },
+          "organisation": {
+            "code": "TTNW",
+            "label": "Sociable Tech"
+          },
+          "positionsAvailable": 1,
+          "postCode": "2010",
+          "salary": {
+            "code": "SLL4",
+            "label": "$80,001 - $100,000"
+          },
+          "site": {
+            "code": "DM68",
+            "label": "Sociable Tech"
+          },
+          "state": "NSW",
+          "suburb": "Surry Hills",
+          "tenure": {
+            "code": "P",
+            "label": "Permanent position"
+          },
+          "title": "Software Engineer",
+          "vacancyId": 2351457667,
+          "workType": {
+            "code": "F",
+            "label": "Full time position"
+          }
+        }
+      },
+      {
+        "score": 7.09293,
+        "result": {
+          "contractType": null,
+          "creationDate": "2026-07-21T11:35:21.16",
+          "description": " Boram Tiling Pty Ltd   Construction Estimator    Boram Tiling Pty Ltd    Position: Full-time, permanent (38 hours per week)       Salary: $90,000 - $95,000 base salary + Superannuation    Location: Strathfield NSW 2135    About the Role   We are seeking an experienced Construction Estimator to join our pre-construction team on a permanent full-time basis. The successful applicant will play a key role in preparing accurate cost estimates and competitive tenders for commercial and residential construction projects, with a particular focus on tiling and waterproofing trade packages.  Reporting to the Director, you will work closely with project managers, suppliers, subcontractors and clients to ensure accurate pricing and successful tender submissions.   How to apply   Please submit your CV and a cover letter outlining your relevant construction estimating experience and suitability for the role. Only shortlisted candidates will be contacted.   Benefits   Task & responsibilities   Key Responsibilities    Prepare detailed cost estimates and quantity take-offs for commercial and residential construction projects, particularly tiling and waterproofing trade packages.  Analyse project conditions, trade scopes, installation requirements and site factors to determine labour, material, equipment and preliminary costs.  Measure quantities and prepare material take-offs using estimating software such as Bluebeam and Cubit Estimating.  Review architectural, structural and engineering drawings, specifications and contract documentation.  Liaise with builders, suppliers, subcontractors and internal project teams to obtain quotations and technical information.  Conduct site inspections where required to verify measurements, access conditions and installation requirements.  Prepare pricing schedules, cost breakdowns, estimate summaries and tender submissions.  Assist with compiling tender documentation and supporting estimate analyses.  Participate in tender clarification meetings and respond to pricing queries.  Ensure estimates are commercially competitive while complying with project specifications and contractual requirements.       Qualification & experience   Requirements    Must have a bachelor’s degree or higher in Civil Engineering, Construction Management, Building and Construction Estimating, or Quantity Surveying.  At least 3 years of relevant fulltime experience as a construction estimator.  Demonstrated experience preparing estimates for commercial or residential construction projects.   Ability to interpret architectural and engineering drawings and specifications.   Strong analytical, numerical and problem-solving skills.   Experience using construction estimating software and Microsoft Excel.   Excellent communication and organisational skills with strong attention to detail.   Ability to manage multiple tenders and work effectively within deadlines.   Previous experience estimating tiling, waterproofing or specialist finishes packages will be highly regarded.   About Company     About Us  Boram Tiling Pty Ltd (ABN 42 610 627 364) is one of New South Wales' leading commercial tiling and waterproofing contractors, delivering high-quality solutions across residential, commercial and mixed-use construction projects. Since its establishment, the company has built a strong reputation for professionalism, reliability and exceptional workmanship, becoming the preferred contractor for many builders and developers throughout NSW.  Our expertise spans ceramic tiling and waterproofing, with comprehensive supply and installation services tailored to meet the needs of complex construction projects. We pride ourselves on delivering projects to the highest quality standards while maintaining strong, long-term relationships with our clients through dependable service and consistent results.         Work Type:  Full time   Salary:  $90000-95000   Job Publish:  21-07-2026   Job Expire:  20-08-2026  Apply on:  Construction Estimator Job here!    This job is brought to you by workinitiatives.com.au. ",
+          "displayFromDate": "2026-07-21T00:00:00",
+          "employerId": "",
+          "employerName": "SocialbleTech",
+          "expiryDate": "2026-08-20T10:00:00",
+          "howToApplyCode": "PSD",
+          "industry": {
+            "code": "112",
+            "label": "Admin & Office"
+          },
+          "isApplyOnlineJob": false,
+          "isExternalJob": false,
+          "isFavourite": false,
+          "isIndigenousJob": true,
+          "isNewJob": false,
+          "jobType": {
+            "code": "H",
+            "label": "Normal position"
+          },
+          "latitude": "-33.87849080000",
+          "location": {
+            "code": "21CIWS",
+            "label": "NSW - Sydney - City & Inner West"
+          },
+          "logoUrl": "",
+          "longitude": "151.08176732000",
+          "modifiedDate": "2026-07-22T15:00:45.04",
+          "occupation": {
+            "code": "542112",
+            "label": "Admissions Clerk"
+          },
+          "organisation": {
+            "code": "TTNW",
+            "label": "Sociable Tech"
+          },
+          "positionsAvailable": 1,
+          "postCode": "2135",
+          "salary": {
+            "code": "SLL4",
+            "label": "$80,001 - $100,000"
+          },
+          "site": {
+            "code": "DM68",
+            "label": "Sociable Tech"
+          },
+          "state": "NSW",
+          "suburb": "Strathfield",
+          "tenure": {
+            "code": "P",
+            "label": "Permanent position"
+          },
+          "title": "Construction Estimator",
+          "vacancyId": 2351484173,
+          "workType": {
+            "code": "F",
+            "label": "Full time position"
+          }
+        }
+      },
+      {
+        "score": 7.071206,
+        "result": {
+          "contractType": null,
+          "creationDate": "2026-07-03T23:12:20.61",
+          "description": " Reliance Tiling PTY LTD  Wall and Floor Tiler (Full-Time)  Location: Adelaide, South Australia  Reliance Tiling is seeking an experienced and motivated Wall and Floor Tiler to join our growing team in Adelaide. We specialise in delivering high-quality residential and commercial tiling services, with a strong reputation for craftsmanship, reliability, and customer satisfaction.   Benefits   Competitive annual salary based on skills and experience.  Full-time, permanent employment with long-term job security.  Opportunity to work on a variety of residential and commercial projects.  Supportive and professional team environment.  Ongoing training and opportunities for career development.  Modern tools and equipment provided.  Safe workplace with a strong commitment to Work Health and Safety.  Opportunity for career progression within a growing South Australian business.    Task & responsibilities   Reading and interpreting construction drawings, plans and specifications.  Measuring and marking surfaces to ensure accurate tile placement.  Preparing wall and floor surfaces by cleaning, levelling and applying waterproofing where required.  Mixing, applying and spreading adhesives, mortar and grout.  Cutting tiles using manual and powered cutting equipment to achieve precise finishes.  Laying ceramic, porcelain, stone, marble, mosaic and other tiling materials on walls, floors and other surfaces.  Ensuring correct tile alignment, spacing and levelling.  Grouting, sealing and finishing tiled surfaces to a high professional standard.  Repairing and replacing damaged or broken tiles.  Installing expansion joints and waterproof membranes where required.  Maintaining tools and equipment in good working condition.  Following workplace health and safety procedures at all times.  Collaborating with builders, supervisors and other trades to meet project deadlines.  Maintaining a clean and organised worksite.  Delivering high-quality workmanship while meeting client expectations.    Qualification & experience   Certificate III in Wall and Floor Tiling or an equivalent qualification.  At least 1 year of full-time experience as a tiler.  Demonstrated experience in residential and commercial tiling projects.  Ability to read and interpret construction drawings and plans.  Strong knowledge of tiling materials, adhesives, waterproofing systems and installation techniques.  Excellent attention to detail and commitment to quality workmanship.  Current White Card.  Ability to work independently and within a team environment.  Strong communication and time management skills.  Physically fit and capable of handling manual work.   About Company    Reliance Tiling is a South Australian tiling company based in Adelaide, providing professional wall and floor tiling services across residential, commercial and renovation projects. Our reputation has been built on delivering exceptional workmanship, reliability and outstanding customer service.  We work closely with builders, developers, homeowners and commercial clients to deliver premium tiling solutions that meet the highest industry standards. From new home constructions to complex commercial fit-outs and luxury renovations, our experienced team consistently delivers quality finishes while maintaining strict safety and compliance standards.      Work Type:  Full time   Salary:  $75000-85000   Job Publish:  03-07-2026   Job Expire:  02-08-2026   Apply Link:  https://workinitiatives.com.au/job/details?id=5974820   This job is brought to you by workinitiatives.com.au. ",
+          "displayFromDate": "2026-07-03T00:00:00",
+          "employerId": "",
+          "employerName": "SocialbleTech",
+          "expiryDate": "2026-08-02T10:00:00",
+          "howToApplyCode": "PSD",
+          "industry": {
+            "code": "112",
+            "label": "Admin & Office"
+          },
+          "isApplyOnlineJob": false,
+          "isExternalJob": false,
+          "isFavourite": false,
+          "isIndigenousJob": true,
+          "isNewJob": false,
+          "jobType": {
+            "code": "H",
+            "label": "Normal position"
+          },
+          "latitude": "-34.93078981",
+          "location": {
+            "code": "51CADL",
+            "label": "SA - Adelaide - Central Adelaide"
+          },
+          "logoUrl": "",
+          "longitude": "138.55072733",
+          "modifiedDate": "2026-07-07T00:00:08.283",
+          "occupation": {
+            "code": "542112",
+            "label": "Admissions Clerk"
+          },
+          "organisation": {
+            "code": "TTNW",
+            "label": "Sociable Tech"
+          },
+          "positionsAvailable": 1,
+          "postCode": "5032",
+          "salary": {
+            "code": "SLL4",
+            "label": "$80,001 - $100,000"
+          },
+          "site": {
+            "code": "DM68",
+            "label": "Sociable Tech"
+          },
+          "state": "SA",
+          "suburb": "Brooklyn Park",
+          "tenure": {
+            "code": "P",
+            "label": "Permanent position"
+          },
+          "title": "Wall and Floor Tiler",
+          "vacancyId": 2350881687,
+          "workType": {
+            "code": "F",
+            "label": "Full time position"
+          }
+        }
+      },
+      {
+        "score": 6.073004,
+        "result": {
+          "contractType": null,
+          "creationDate": "2026-06-30T15:06:39.837",
+          "description": " MYT Framing Solutions  MYT Framing Pty Ltd is seeking a full-time Production Operator to assist with the manufacturing and assembly of light gauge steel framing components for residential and commercial construction projects. The role involves operating production machinery, cutting, shaping, assembling and finishing steel framing components, monitoring equipment, conducting quality checks, maintaining safe work practices, and preparing completed products for dispatch.  The successful candidate will support the production of wall frames, roof trusses, floor joists and other structural steel components, ensuring all products are manufactured accurately, efficiently and in accordance with company standards and project specifications.   Benefits   Competitive salary package with Superannuation  Full time job opportunity and long term career prospects  Supportive, team based environment  Ongoing training and skill development opportunities  On site Parking  Task & Responsibilities  Operate production equipment in a safe and efficient manner.  Handle raw materials, including steel components.  Assist with the production, assembly and preparation of frames for construction projects.  Maintain a clean and safe work environment.  Follow work instructions and company safety policies.    Task & responsibilities   Operating specialised production machinery and equipment used for cutting, shaping, joining, assembling and finishing steel framing components.  Reading and following production sheets, technical specifications, drawings and work instructions to ensure accurate manufacturing of housing components.  Calibrating machinery, monitoring gauges and making necessary adjustments to maintain smooth and efficient production.  Conducting regular checks on machinery and equipment to ensure safe and effective operation.  Performing basic troubleshooting, minor repairs and adjustments to machinery where required.  Carrying out quality checks on finished components to ensure they meet company standards, project requirements and relevant construction specifications.  Identifying and reporting defects, production issues or equipment faults to supervisors in a timely manner.  Assisting with the packaging, labelling and preparation of completed framing components for dispatch to construction sites.  Checking and maintaining material inventory levels, including assisting with monthly stock counts and warehouse organisation.  Following workplace health and safety procedures, equipment manuals and company policies at all times.  Maintaining a clean, organised and safe production area to support efficient workflow and reduce downtime.  Working collaboratively with production, warehouse, logistics and site teams to ensure orders are completed accurately and delivered on schedule.    Qualification & experience  The successful candidate must have at least  2 year of relevant work experience  in a production, manufacturing, fabrication, construction, steel framing or similar industrial environment.   The candidate should be able to read and follow production sheets, technical drawings, equipment manuals and workplace safety instructions. They should have practical knowledge of machine operation, material handling, basic troubleshooting, quality checking and safe workplace practices.  Experience in light gauge steel framing, structural steel fabrication, warehouse operations, inventory control or dispatch preparation would be advantageous.   The candidate must demonstrate strong attention to detail, good teamwork skills, the ability to follow instructions, and a commitment to maintaining quality, safety and productivity standards.  About Company    MYT Framing Pty Ltd is a South Australian company specialising in light gauge steel framing and structural steel solutions for residential and commercial building projects. The company provides a complete service including drafting, engineering, fabrication, delivery and installation of steel framing components.  MYT Framing works with commercial builders, boutique home builders and property developers, offering reliable advice, precision fabrication and professional installation services. The company focuses on delivering high-quality, accurate and durable steel framing products while maintaining strong standards of safety, efficiency and workmanship.      Work Type:  Full time   Salary:  $68000-75000   Job Publish:  30-06-2026   Job Expire:  30-07-2026   Apply Link:  https://workinitiatives.com.au/job/details?id=5953239   This job is brought to you by workinitiatives.com.au. ",
+          "displayFromDate": "2026-06-30T00:00:00",
+          "employerId": "",
+          "employerName": "SocialbleTech",
+          "expiryDate": "2026-07-30T10:00:00",
+          "howToApplyCode": "PSD",
+          "industry": {
+            "code": "112",
+            "label": "Admin & Office"
+          },
+          "isApplyOnlineJob": false,
+          "isExternalJob": false,
+          "isFavourite": false,
+          "isIndigenousJob": true,
+          "isNewJob": false,
+          "jobType": {
+            "code": "H",
+            "label": "Normal position"
+          },
+          "latitude": "-34.73768540999",
+          "location": {
+            "code": "51NADL",
+            "label": "SA - Adelaide - Northern Adelaide"
+          },
+          "logoUrl": "",
+          "longitude": "138.60009217999",
+          "modifiedDate": "2026-07-01T16:45:11.85",
+          "occupation": {
+            "code": "542112",
+            "label": "Admissions Clerk"
+          },
+          "organisation": {
+            "code": "TTNW",
+            "label": "Sociable Tech"
+          },
+          "positionsAvailable": 1,
+          "postCode": "5110",
+          "salary": {
+            "code": "SLL3",
+            "label": "$60,001 - $80,000"
+          },
+          "site": {
+            "code": "DM68",
+            "label": "Sociable Tech"
+          },
+          "state": "SA",
+          "suburb": "Burton",
+          "tenure": {
+            "code": "P",
+            "label": "Permanent position"
+          },
+          "title": "Production Operator",
+          "vacancyId": 2350759653,
+          "workType": {
+            "code": "F",
+            "label": "Full time position"
+          }
+        }
+      },
+      {
+        "score": 6.0376005,
+        "result": {
+          "contractType": null,
+          "creationDate": "2026-07-25T11:11:25.19",
+          "description": " Clitic Technologies Pty Ltd  Highly experienced Functional & Automation engineer with deep expertise in the Banking domain to lead quality engineering initiatives across complex, large-scale digital platforms. Strong leadership, hands-on automation expertise, and the ability to drive QA transformation while ensuring regulatory compliance, system stability, and quality excellence across web, mobile, and backend systems    Benefits  Opportunity to work as part of a dynamic team with growth opportunities  Hybrid working   Task & responsibilities   QA Leadership & Delivery Management    Lead end-to-end QA activities for banking applications including Retail Banking, Corporate Banking, Payments, Cards, Loans, or Digital Channels.  Own QA strategy, test governance, estimation, planning, execution, defect management and release sign-off.  Owns generation and delivery of test artefacts including – test strategy and plan, test cases, test execution report  Act as the primary QA point of contact for business stakeholders, product owners, architects and delivery teams.  Manage onsite/offshore QA teams, provide technical direction, mentoring, and performance feedback.  Ensure adherence to banking regulatory standards, data security, and compliance requirements.    Functional and Automation Testing Responsibilities    Define and execute end-to-end test strategies, plans, scenarios, and test cases covering functional, integration, system, UAT and regression testing.   Ensure comprehensive test coverage across core banking platforms, digital channels, APIs, batch jobs, and third-party integrations.   Lead and perform testing for payments processing, transaction validation, reconciliation, interest calculations, and exception handling to ensure business and regulatory accuracy.   Design, develop, and maintain scalable hybrid automation frameworks (POM, Data-Driven, Keyword-Driven) for Web UI (Selenium WebDriver) and API testing (Rest Assured).   Automate regression, smoke, and sanity test suites to support continuous and frequent releases.   Drive defect triage, prioritization, and resolution in collaboration with development and business teams.   Integrate automation suites with CI/CD pipelines (Maven, Azure DevOps) and ensure execution across multiple environments and browsers to support release readiness.       Collaboration & Continuous Improvement    Collaborate closely with Business Analysts, Developers, Architects, and DevOps teams to identify quality gaps early in the lifecycle.  Drive shift-left testing, continuous testing and test optimization practices.  Identify bottlenecks and implement process improvements to enhance QA efficiency and delivery predictability.  Provide regular status reports, quality metrics, risk assessments and dashboards to senior management.    Qualification & experience  Skills & Ability   Strong hands-on experience in test planning, execution and governance  Minimum 4 years experience in advanced automated testing skills using Selenium / Rest API   Agile methodology experience  Strong stakeholder management skills (including customer).  Advanced skills in problem solving, decision making and critical thinking.  Excellent written and verbal communication skills  Ability to work effectively in a team and lead junior test engineers   Knowledge & Experience   10+ years’ experience as a System Test Engineer   Good experience testing financial sector software  Strong banking domain understanding including regulatory compliance needs, AML, lifecycle management of banking product   Academic Qualifications   Bachelor’s / Master’s Degree in an IT (or related) discipline    About Company     Clitic is Technology solution provider specialising in application, services and support for Financial, Agribusiness and Manufacturing industry across Australia. Focus of Clitic is generating value and delivery certainty to our customers.     Clitic is Headquartered in Sydney, NSW, Australia . We are trusted by our customer due to our strong skilled employees in various technologies e.g. Backbase , Temenos. Learn more about Clitic at https clitic com au       Salary:  $117000-123000   Job Publish:  25-07-2026   Job Expire:  24-08-2026  Apply on:  Senior Test Engineer Job here!    This job is brought to you by workinitiatives.com.au. ",
+          "displayFromDate": "2026-07-25T00:00:00",
+          "employerId": "",
+          "employerName": "SocialbleTech",
+          "expiryDate": "2026-08-24T10:00:00",
+          "howToApplyCode": "PSD",
+          "industry": {
+            "code": "112",
+            "label": "Admin & Office"
+          },
+          "isApplyOnlineJob": false,
+          "isExternalJob": false,
+          "isFavourite": false,
+          "isIndigenousJob": true,
+          "isNewJob": false,
+          "jobType": {
+            "code": "H",
+            "label": "Normal position"
+          },
+          "latitude": "-33.86883859000",
+          "location": {
+            "code": "21CIWS",
+            "label": "NSW - Sydney - City & Inner West"
+          },
+          "logoUrl": "",
+          "longitude": "151.20933768",
+          "modifiedDate": "2026-07-28T10:07:30.99",
+          "occupation": {
+            "code": "542112",
+            "label": "Admissions Clerk"
+          },
+          "organisation": {
+            "code": "TTNW",
+            "label": "Sociable Tech"
+          },
+          "positionsAvailable": 1,
+          "postCode": "2000",
+          "salary": {
+            "code": "SLL5",
+            "label": ">$100,000"
+          },
+          "site": {
+            "code": "DM68",
+            "label": "Sociable Tech"
+          },
+          "state": "NSW",
+          "suburb": "Sydney",
+          "tenure": {
+            "code": "P",
+            "label": "Permanent position"
+          },
+          "title": "Senior Test Engineer",
+          "vacancyId": 2351644085,
+          "workType": {
+            "code": "F",
+            "label": "Full time position"
+          }
+        }
+      },
+      {
+        "score": 5.205087,
+        "result": {
+          "contractType": null,
+          "creationDate": "2026-07-21T11:56:11.243",
+          "description": " Advance Vision Technology   About the Role   As our business continues to expand, we are seeking an experienced ICT Business Analyst to join our Melbourne office and work closely with enterprise clients across a range of ICT projects involving business systems, software implementation, digital transformation and systems integration.  This is a senior consulting role responsible for analysing business operations, identifying technology opportunities, gathering and documenting business requirements, and working closely with stakeholders and software development teams to deliver high-quality ICT solutions.  The successful candidate will play a critical role throughout the entire project lifecycle, from requirements analysis and solution design through implementation, testing, deployment and post-implementation support.   Benefits   What We Offer    Competitive remuneration package.   Long-term career opportunities with an established Australian ICT company.   Exposure to enterprise-level digital transformation projects.   Professional development and ongoing technical training.   Collaborative and supportive working environment.   Opportunity to work with clients across multiple industries.   International project exposure where required.     Task & responsibilities   Key Responsibilities   You will be responsible for:   Leading workshops with business stakeholders to gather, analyse and document business requirements.   Analysing existing business processes, workflows and enterprise systems to identify improvement opportunities.   Preparing Business Requirement Documents (BRDs), Functional Specification Documents (FSDs), user stories, process maps and workflow documentation.   Performing gap analysis between business requirements and existing system capabilities, recommending practical ICT solutions.   Working closely with software architects, developers, testers and project managers to ensure business requirements are accurately translated into technical solutions.   Preparing process models, workflow diagrams, data flow diagrams and business rules using appropriate modelling tools.   Managing requirements traceability and assessing the impact of change requests throughout project delivery.   Supporting Agile, Scrum and Waterfall software development methodologies.   Coordinating System Integration Testing (SIT), User Acceptance Testing (UAT), defect management and solution validation.   Supporting enterprise software implementation, systems integration and digital transformation projects.   Facilitating communication between business users and technical teams throughout the SDLC.   Producing user documentation, training materials and conducting client training sessions.   Monitoring project progress, identifying project risks and assisting project managers in delivering successful outcomes.   Providing ongoing post-implementation business analysis and continuous improvement recommendations.   Supporting the company's Australian and international project teams when required.     Qualification & experience   Qualifications   Applicants should possess:   A relevant ICT qualification such as an Advanced Diploma, Diploma, Bachelor's degree or higher in Information Technology, Computer Science, Information Systems or a related discipline. Applicants with substantial industry experience in ICT Business Analysis may also be considered.  Relevant ICT industry certifications will be viewed favorably.    Skills & Experience   The successful applicant should demonstrate:   Minimum 5 years' professional experience as an ICT Business Analyst or Senior Business Analyst.   Strong experience working across the complete Software Development Life Cycle (SDLC).   Extensive experience in business requirements elicitation, stakeholder management and business process analysis.   Proven experience preparing BRDs, FSDs, SRS documentation and user stories.   Experience with Agile, Scrum and Waterfall methodologies.   Experience conducting workshops, solution analysis and requirements validation.   Strong understanding of enterprise software implementation and systems integration projects.   Experience coordinating SIT, UAT and production deployment activities.    Experience in one or more of the following will be highly regarded:   Banking or financial services systems   Payment platforms   Enterprise application integration   Digital transformation initiatives   Cloud-based business systems   ERP or CRM implementation projects    About Company     Company Profile   Advance Vision Technology (AVTech) is an Australian ICT solutions provider with more than 30 years of experience delivering innovative enterprise technology solutions across Australia and Asia. Our expertise spans enterprise software, cloud infrastructure, systems integration, cybersecurity, managed ICT services, business applications and digital transformation.      Work Type:  Full time   Salary:  $110000-125000   Job Publish:  21-07-2026   Job Expire:  20-08-2026  Apply on:  ICT BUSINESS ANALYST Job here!    This job is brought to you by workinitiatives.com.au. ",
+          "displayFromDate": "2026-07-21T00:00:00",
+          "employerId": "",
+          "employerName": "SocialbleTech",
+          "expiryDate": "2026-08-20T10:00:00",
+          "howToApplyCode": "PSD",
+          "industry": {
+            "code": "112",
+            "label": "Admin & Office"
+          },
+          "isApplyOnlineJob": false,
+          "isExternalJob": false,
+          "isFavourite": false,
+          "isIndigenousJob": true,
+          "isNewJob": false,
+          "jobType": {
+            "code": "H",
+            "label": "Normal position"
+          },
+          "latitude": "-37.83291801",
+          "location": {
+            "code": "71CBDS",
+            "label": "VIC - Melbourne - CBD & Surrounds"
+          },
+          "logoUrl": "",
+          "longitude": "144.92186945",
+          "modifiedDate": "2026-07-22T15:00:45.04",
+          "occupation": {
+            "code": "542112",
+            "label": "Admissions Clerk"
+          },
+          "organisation": {
+            "code": "TTNW",
+            "label": "Sociable Tech"
+          },
+          "positionsAvailable": 1,
+          "postCode": "3207",
+          "salary": {
+            "code": "SLL5",
+            "label": ">$100,000"
+          },
+          "site": {
+            "code": "DM68",
+            "label": "Sociable Tech"
+          },
+          "state": "VIC",
+          "suburb": "Port Melbourne",
+          "tenure": {
+            "code": "P",
+            "label": "Permanent position"
+          },
+          "title": "ICT BUSINESS ANALYST",
+          "vacancyId": 2351484235,
+          "workType": {
+            "code": "F",
+            "label": "Full time position"
+          }
+        }
+      },
+      {
+        "score": 5.01814,
+        "result": {
+          "contractType": null,
+          "creationDate": "2026-07-22T23:53:32.237",
+          "description": " NATIONWIDE WORKFORCE   Nationwide Workforce of behalf of KMN SONS PTY LTD     Company: KMN SONS PTY LTD  ACN: 631 737 507   ABN: 20 631 737 507  Position: Carpenter  Location: Pakenham, VIC 3810  Salary: $90,000 per annum + Superannuation  Employment Type: Full-Time (Permanent)(38hrs/week)  KMN SONS PTY LTD is a carpentry and construction company based in Pakenham, Victoria Business is seeking a motivated and skilled Carpenter to join the growing team. This is a full-time permanent opportunity for an experienced tradesperson who takes pride in delivering high-quality work and enjoys working on a variety of residential and commercial construction projects. As a  Carpenter , you will be responsible for delivering high-quality carpentry services across a diverse range of residential and commercial construction projects. The role involves undertaking all aspects of carpentry, including framing, fixing, lock-up, maintenance and repair work. You will interpret construction drawings and specifications, construct, install and repair timber structures and fittings, and ensure all work is completed in accordance with the National Construction Code (NCC), Australian Standards, project specifications and Workplace Health and Safety (WHS) requirements.      Benefits   Competitive salary of $90,000 per annum plus superannuation.  Permanent full-time employment with long-term career opportunities.  Supportive and professional team environment.  Opportunity to work on diverse residential and commercial construction projects.  Ongoing skill development and career progression opportunities.    Task & responsibilities  Main duties and responsibilities include, but are not limited to:   Interpret architectural drawings, building plans and specifications to determine project requirements and construction methods.   Measure, mark, cut and assemble timber, wood products and other construction materials using hand tools, power tools and woodworking machinery.   Construct and install timber wall frames, roof frames, floor systems, roof trusses and structural components for residential and commercial buildings.   Carry out first-fix (framing) carpentry work, including the installation of structural frameworks in accordance with approved plans and building codes.   Perform second-fix (fixing) carpentry work, including the installation of doors, door frames, windows, skirting boards, architraves, staircases, handrails and internal timber finishes.   Complete lock-up stage carpentry by installing external doors, windows, cladding, fascia, eaves and other external timber components to secure the building structure.   Undertake maintenance, repair and renovation work on existing residential and commercial properties, including replacing damaged timber structures and fixtures.   Install timber flooring, decking, pergolas, fencing, partitions, ceilings and other internal and external carpentry features.   Inspect completed carpentry work to ensure compliance with the National Construction Code (NCC), Australian Standards and project specifications.   Select, maintain and safely operate carpentry tools, machinery and equipment to ensure efficient and safe work practices.   Estimate material requirements, minimise waste and maintain appropriate stock levels for ongoing construction projects.   Work collaboratively with builders, supervisors, subcontractors and other trades to ensure projects are completed safely, efficiently and within required timeframes.   Identify construction defects or installation issues and carry out corrective work to achieve the required quality standards.   Comply with Workplace Health and Safety (WHS) policies by maintaining a safe, clean and organised worksite and using appropriate personal protective equipment (PPE).   Assist in supervising and providing on-the-job guidance to apprentices, labourers and junior carpenters where required.   Maintain accurate records of work completed, materials used and any variations or site issues encountered during construction.   Perform any other duties reasonably directed by management that are consistent with the position of Carpenter.    Qualification & experience   Minimum Certificate III in Carpentry or an equivalent relevant qualification.  Current White Card (preferred).  Valid driver's licence is an advantage.    Skills & Experience Required    Minimum 1 year of relevant carpentry experience.  Sound knowledge of carpentry techniques, building materials, and construction practices.  Ability to read and interpret building plans and specifications.  Strong attention to detail and commitment to quality workmanship.  Good communication and teamwork skills.  Ability to work independently and meet project deadlines.    Australian Permanent Residents and Citizens are encouraged to apply.      About Company     KMN SONS PTY LTD  (ACN: 631 737 507) is a Victorian-owned carpentry and construction company based in  Pakenham, Victoria , specialising in residential and commercial carpentry services. The company provides a comprehensive range of carpentry solutions, including timber framing, first-fix and second-fix carpentry, lock-up works, renovations, repairs and general carpentry services for builders, developers and private clients throughout Melbourne and surrounding regions.  The business has established a reputation for delivering high-quality workmanship, reliable service and projects completed to strict quality and safety standards. KMN SONS PTY LTD is committed to ensuring all work is undertaken in accordance with the National Construction Code (NCC), Australian Standards and Workplace Health and Safety (WHS) requirements while maintaining strong relationships with its clients through professionalism, efficiency and attention to detail.  Driven by continued growth in Melbourne's residential and commercial construc...  Read more: https://workinitiatives.com.au/job/details?id=6080831 ",
+          "displayFromDate": "2026-07-22T00:00:00",
+          "employerId": "",
+          "employerName": "SocialbleTech",
+          "expiryDate": "2026-08-21T10:00:00",
+          "howToApplyCode": "PSD",
+          "industry": {
+            "code": "112",
+            "label": "Admin & Office"
+          },
+          "isApplyOnlineJob": false,
+          "isExternalJob": false,
+          "isFavourite": false,
+          "isIndigenousJob": true,
+          "isNewJob": false,
+          "jobType": {
+            "code": "H",
+            "label": "Normal position"
+          },
+          "latitude": "-38.07356414000",
+          "location": {
+            "code": "71SOEA",
+            "label": "VIC - Melbourne - South East"
+          },
+          "logoUrl": "",
+          "longitude": "145.48515782999",
+          "modifiedDate": "2026-07-24T00:00:10.08",
+          "occupation": {
+            "code": "542112",
+            "label": "Admissions Clerk"
+          },
+          "organisation": {
+            "code": "TTNW",
+            "label": "Sociable Tech"
+          },
+          "positionsAvailable": 1,
+          "postCode": "3810",
+          "salary": {
+            "code": "SLL4",
+            "label": "$80,001 - $100,000"
+          },
+          "site": {
+            "code": "DM68",
+            "label": "Sociable Tech"
+          },
+          "state": "VIC",
+          "suburb": "Pakenham",
+          "tenure": {
+            "code": "P",
+            "label": "Permanent position"
+          },
+          "title": "Carpenter",
+          "vacancyId": 2351543484,
+          "workType": {
+            "code": "F",
+            "label": "Full time position"
+          }
+        }
+      }
+    ],
+    "pageSize": 100,
+    "pageNumber": 15
+  }
+}

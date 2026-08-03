@@ -1,0 +1,14 @@
+{
+  "source": "Workforce Australia",
+  "search_term": "software tester",
+  "folder": "data/raw/workforce_australia/it_jobs/latest_run/queries/software_tester",
+  "started_at_utc": "2026-07-28T10:32:15.868776+00:00",
+  "finished_at_utc": "2026-07-28T10:33:22.764525+00:00",
+  "page_size": 100,
+  "downloaded_pages": 28,
+  "reused_pages": 0,
+  "raw_records_across_pages": 2756,
+  "unique_vacancy_ids_for_query": 2392,
+  "stopped_reason": "API returned fewer records than pageSize",
+  "last_request_url": "https://www.workforceaustralia.gov.au/api/v1/global/vacancies/?searchText=software+tester&pageNumber=28&pageSize=100"
+}

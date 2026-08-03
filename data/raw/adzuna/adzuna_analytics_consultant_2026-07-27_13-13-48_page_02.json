@@ -1,0 +1,1663 @@
+{
+  "__CLASS__": "Adzuna::API::Response::JobSearchResults",
+  "count": 251,
+  "results": [
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiek4wa2xvS0o4UkdDeHN0TXY0aXhrdyIsImkiOiI1NzgyNjgzMjc5In0.d_gq212JrrhoeG7TDBUowVYZbNRqn1IGUa87U4_zUFM",
+      "location": {
+        "display_name": "Canberra Region, Australian Capital Territory",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Australian Capital Territory",
+          "Canberra Region"
+        ]
+      },
+      "longitude": 149.112048,
+      "salary_min": 200000,
+      "description": "Principal Consultant - Information & Analytics Location Canberra, ACT Working Arrangement Hybrid working. 2 days in office. Clearance Required Minimum Baseline clearance required. Company Overview Cleared has partnered with a leading, ASX200 listed Australian IT services and solution provider that works with the worlds largest technology vendors to delivery cloud, modern workplace, data and analytics solutions to their Federal Government and Defence customers. Job Description Our client is expa…",
+      "id": "5782683279",
+      "salary_is_predicted": "0",
+      "contract_type": "permanent",
+      "latitude": -35.311933,
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "created": "2026-07-01T11:42:45Z",
+      "title": "Principal Data Consultant",
+      "contract_time": "full_time",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Cleared ICT"
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5782683279?utm_medium=api&utm_source=4e5ae6d3",
+      "salary_max": 220000
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiek4wa2xvS0o4UkdDeHN0TXY0aXhrdyIsImkiOiI1Nzg4MjY3NDc1In0.jcUcFvqYm9eKRM0eZXr08qCvMTWDCb4OsHE-cYn6DD0",
+      "location": {
+        "display_name": "Barton, South Canberra",
+        "area": [
+          "Australia",
+          "Australian Capital Territory",
+          "Canberra Region",
+          "South Canberra",
+          "Barton"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "longitude": 149.133481,
+      "created": "2026-07-05T07:46:54Z",
+      "title": "IBM TM1 / Planning Analytics - NEW TODAY!",
+      "description": "IBM PLANNING ANALYTICS & SENIOR TM1 CONSULTANTS Job Overview As a Senior Technical Consultant you will participate in all aspects of the software development lifecycle which includes estimating, technical design, implementation, documentation, testing, deployment and support of application developed for our clients.As a member working in a team environment you will take direction from solution architects and Leads on development activities. ResponsibilitiesParticipate in technical planning & re…",
+      "contract_type": "permanent",
+      "salary_is_predicted": "0",
+      "id": "5788267475",
+      "contract_time": "full_time",
+      "redirect_url": "https://www.adzuna.com.au/details/5788267475?utm_medium=api&utm_source=4e5ae6d3",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Ethos BeathChapman"
+      },
+      "category": {
+        "tag": "consultancy-jobs",
+        "label": "Consultancy Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "latitude": -35.309391
+    },
+    {
+      "created": "2025-08-28T21:02:41Z",
+      "location": {
+        "display_name": "Melbourne, Melbourne Region",
+        "area": [
+          "Australia",
+          "Victoria",
+          "Melbourne Region",
+          "Melbourne"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTM3MTY2NjM4NSIsInMiOiJ6TjBrbG9LSjhSR0N4c3RNdjRpeGt3In0.wNgOObeIHV8yvwgWlO4qg4BFlRobzZdKY90G4n0WrqQ",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5371666385?utm_medium=api&utm_source=4e5ae6d3",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Tech Aalto"
+      },
+      "id": "5371666385",
+      "salary_is_predicted": "0",
+      "contract_type": "contract",
+      "description": "Job description : Fortinet Firewall Duration- 6 months Demand Validation Details JD 6 years experience in network security Fortigate/Checkpoint firewalls – BGP/VPN skills is a must. Zscaler ZIA or other internet gateway products including understanding of Squid proxy and pac files Azure Networking - NSG, vet, expressroute, vwan Optional: Akamai CDN and WAF or other products Good troubleshooting skills Ability to work with business as well as technical stakeholders Strong analytical, problem sol…",
+      "title": "Fortinet Firewall"
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiek4wa2xvS0o4UkdDeHN0TXY0aXhrdyIsImkiOiI1Nzc0MTkxMjY5In0.xs7JIqbTCtLGhc5eRUQ5H_rO9BxxZAA8q5LI9uuYdus",
+      "longitude": 151.203231,
+      "location": {
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Sydney, Sydney Region"
+      },
+      "created": "2026-06-24T10:51:31Z",
+      "description": "Meet the Moment with Alteryx We're living through a once-in-a-generation shift in how work gets done. Data, automation, and AI are quickly becoming the center of every business decision - and Alteryx is leading the transformation. You'll be working on the challenges that sit at the heart of modern business. No matter your role, the work you do will help organizations move faster, see more clearly, and tackle questions that used to feel impossible. If you're ready to meet the moment with innovat…",
+      "title": "Senior Sales Engineer, ANZ",
+      "salary_is_predicted": "0",
+      "id": "5774191269",
+      "contract_time": "full_time",
+      "redirect_url": "https://www.adzuna.com.au/details/5774191269?utm_medium=api&utm_source=4e5ae6d3",
+      "company": {
+        "display_name": "Alteryx",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "latitude": -33.885283,
+      "category": {
+        "label": "Sales Jobs",
+        "tag": "sales-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      }
+    },
+    {
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Mixpanel"
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5796365588?utm_medium=api&utm_source=4e5ae6d3",
+      "contract_type": "contract",
+      "salary_is_predicted": "0",
+      "id": "5796365588",
+      "title": "Senior Solutions Engineer",
+      "description": "About Mixpanel Mixpanel turns data clarity into innovation. Trusted by more than 29,000 companies, including Workday, Pinterest, LG, and Rakuten Viber, Mixpanel’s AI-first digital analytics help teams accelerate adoption, improve retention, and ship with confidence. Powering this is an industry-leading platform that combines product and web analytics, session replay, experimentation, feature flags, and metric trees. Mixpanel delivers insights that customers trust. Visit mixpanel.com to learn mo…",
+      "created": "2026-07-11T11:01:39Z",
+      "location": {
+        "area": [
+          "Australia"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Australia"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiek4wa2xvS0o4UkdDeHN0TXY0aXhrdyIsImkiOiI1Nzk2MzY1NTg4In0.EpY8SWtFR8JVh049yBu5IWOAd3zHopsmFrlhS5LrLys",
+      "__CLASS__": "Adzuna::API::Response::Job"
+    },
+    {
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "HR & Recruitment Jobs",
+        "tag": "hr-jobs"
+      },
+      "latitude": -27.4679,
+      "redirect_url": "https://www.adzuna.com.au/details/5784520424?utm_medium=api&utm_source=4e5ae6d3",
+      "company": {
+        "display_name": "Cimic Group",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "contract_time": "full_time",
+      "id": "5784520424",
+      "salary_is_predicted": "0",
+      "title": "People & Culture Manager",
+      "description": "CIMIC Group is seeking a P&C Manager to join its People & Culture team. The key purpose of this role is to act as a trusted strategic advisor to senior business leaders on all people, culture and workforce matters, providing high-level counsel that enables the business to achieve its people, commercial and operational objectives. This position translates business strategy into people strategy – advising executives and senior leaders on workforce planning, talent, organisational design, leadersh…",
+      "created": "2026-07-02T08:41:33Z",
+      "location": {
+        "display_name": "Brisbane CBD, Brisbane",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Queensland",
+          "Brisbane Region",
+          "Brisbane",
+          "Brisbane CBD"
+        ]
+      },
+      "longitude": 153.0281,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc4NDUyMDQyNCIsInMiOiJ6TjBrbG9LSjhSR0N4c3RNdjRpeGt3In0.T0kwldvLga2pH4yvO-_QWTiogDDQklshzfzQ-ms18Jc"
+    },
+    {
+      "category": {
+        "tag": "hr-jobs",
+        "label": "HR & Recruitment Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5782660501?utm_medium=api&utm_source=4e5ae6d3",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Sedgman"
+      },
+      "id": "5782660501",
+      "salary_is_predicted": "0",
+      "title": "People & Culture Manager",
+      "description": "Description CIMIC Group is seeking a P&C Manager to join its People & Culture team. The key purpose of this role is to act as a trusted strategic advisor to senior business leaders on all people, culture and workforce matters, providing high-level counsel that enables the business to achieve its people, commercial and operational objectives. This position translates business strategy into people strategy – advising executives and senior leaders on workforce planning, talent, organisational desi…",
+      "created": "2026-07-01T10:54:32Z",
+      "location": {
+        "area": [
+          "Australia",
+          "Queensland",
+          "Brisbane Region",
+          "Brisbane",
+          "East Brisbane"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "East Brisbane, Brisbane"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiek4wa2xvS0o4UkdDeHN0TXY0aXhrdyIsImkiOiI1NzgyNjYwNTAxIn0.wQYjAoDPa7FgDj0lnsQ4tXL_6X_yngcpcWM1_ZHEAb4"
+    },
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiek4wa2xvS0o4UkdDeHN0TXY0aXhrdyIsImkiOiI1NzU3ODYzOTQ2In0.DPEXIcGy1bHpVemeuS_rspKRtxtUSu5qSwNJ1aWAHto",
+      "salary_min": 230000,
+      "longitude": 149.218673,
+      "location": {
+        "display_name": "Googong, Queanbeyan Area",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Queanbeyan Area",
+          "Googong"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "description": "A well established medical centre, new positions have become available at Riverside Medical Centre due to ongoing excess patient demand. An ideal doctor for the position would be an experienced General Practitioner with high energy that would be able to meet the consistent high demand whilst offering high quality medical care in Primary Health with full patient books from day one. Offering: Private Billing model DPA Location Walk into a well established clinic with strong patient base We will s…",
+      "contract_type": "permanent",
+      "id": "5757863946",
+      "salary_is_predicted": "0",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "healthcare-nursing-jobs",
+        "label": "Healthcare & Nursing Jobs"
+      },
+      "latitude": -35.4262,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "created": "2026-06-10T11:24:31Z",
+      "title": "General Practitioner",
+      "contract_time": "part_time",
+      "salary_max": 600000,
+      "redirect_url": "https://www.adzuna.com.au/details/5757863946?utm_medium=api&utm_source=4e5ae6d3",
+      "company": {
+        "display_name": "Riverside Medical Centre",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      }
+    },
+    {
+      "contract_type": "permanent",
+      "id": "5757863873",
+      "salary_is_predicted": "0",
+      "description": "As a newly built Centre, new positions have become available at Geelong Mall Medical Centre from September 2023 onwards. An ideal doctor for the position would be an experienced General Practitioner with high energy that would be able to meet the consistent high demand whilst offering high quality medical care in Primary Health with full patient books from day one. Offering: Bulk Billing model DPA Positions available close to the waterfronts of Geelong Walk into a newly built and modern facilit…",
+      "category": {
+        "tag": "healthcare-nursing-jobs",
+        "label": "Healthcare & Nursing Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "latitude": -38.153732,
+      "salary_min": 230000,
+      "longitude": 144.353967,
+      "location": {
+        "display_name": "South Geelong, Geelong",
+        "area": [
+          "Australia",
+          "Victoria",
+          "Geelong Region",
+          "Geelong",
+          "South Geelong"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiek4wa2xvS0o4UkdDeHN0TXY0aXhrdyIsImkiOiI1NzU3ODYzODczIn0.4eyt3wWMvI3kxQnM2_fcKkqhh57XUWkdgYkhbgOa4Lw",
+      "contract_time": "part_time",
+      "title": "General Practitioner",
+      "salary_max": 600000,
+      "redirect_url": "https://www.adzuna.com.au/details/5757863873?utm_medium=api&utm_source=4e5ae6d3",
+      "company": {
+        "display_name": "Geelong Mall Medical Centre",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "created": "2026-06-10T11:24:30Z"
+    },
+    {
+      "created": "2026-06-10T11:24:31Z",
+      "location": {
+        "display_name": "Canberra Region, Australian Capital Territory",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Australian Capital Territory",
+          "Canberra Region"
+        ]
+      },
+      "salary_min": 230000,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc1Nzg2Mzk3MSIsInMiOiJ6TjBrbG9LSjhSR0N4c3RNdjRpeGt3In0.6FXDjC0eyuM-TuThPOTkBRIVN6MDx-pNcdrmE4iYvOo",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "category": {
+        "tag": "healthcare-nursing-jobs",
+        "label": "Healthcare & Nursing Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5757863971?utm_medium=api&utm_source=4e5ae6d3",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Cooleman Court Medical Centre"
+      },
+      "salary_max": 600000,
+      "contract_time": "part_time",
+      "id": "5757863971",
+      "salary_is_predicted": "0",
+      "contract_type": "permanent",
+      "description": "A new position has become available due to excess patient demand. A suitable doctor for the position would be an experienced GP with high energy that would be able to meet the consistent high demand whilst offering high quality medical care in Primary Health with full patient books from day one. Offering: Close Proximity to CBD area Mixed Billing model DPA Location Walk into an established medical centre We will support all interests Large patient base and waiting rooms Staff, systems and proce…",
+      "title": "General Practitioner"
+    },
+    {
+      "description": "As a newly built Centre, new positions have become available at Waurn Ponds Medical Centre. An ideal doctor for the position would be an experienced General Practitioner with high energy that would be able to meet the consistent high demand whilst offering high quality medical care in Primary Health with full patient books from day one. Offering: Mixed Billing model DPA Positions available close to the waterfronts of Geelong Walk into a newly built and modern facility We will support all intere…",
+      "id": "5757863793",
+      "salary_is_predicted": "0",
+      "contract_type": "permanent",
+      "latitude": -38.204657,
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Healthcare & Nursing Jobs",
+        "tag": "healthcare-nursing-jobs"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc1Nzg2Mzc5MyIsInMiOiJ6TjBrbG9LSjhSR0N4c3RNdjRpeGt3In0.LIwvmxrR1xQUKnhl-AucsnRq5Gd-tpMMQl1hJf5D0fc",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Victoria",
+          "Geelong Region",
+          "Geelong",
+          "Grovedale"
+        ],
+        "display_name": "Grovedale, Geelong"
+      },
+      "longitude": 144.31984,
+      "salary_min": 230000,
+      "title": "General Practitioner",
+      "contract_time": "part_time",
+      "redirect_url": "https://www.adzuna.com.au/details/5757863793?utm_medium=api&utm_source=4e5ae6d3",
+      "company": {
+        "display_name": "Waurn Ponds Medical Centre",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_max": 600000,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "created": "2026-06-10T11:24:29Z"
+    },
+    {
+      "contract_time": "part_time",
+      "title": "General Practitioner",
+      "salary_max": 600000,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Brindabella Medical Centre"
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5757863768?utm_medium=api&utm_source=4e5ae6d3",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "created": "2026-06-10T11:24:28Z",
+      "contract_type": "permanent",
+      "id": "5757863768",
+      "salary_is_predicted": "0",
+      "description": "Recently joining the Trans-Ax network, new positions have become available at Brindabella Medical Centre from June 2023 onwards. An ideal doctor for the position would be an experienced General Practitioner with high energy that would be able to meet the consistent high demand whilst offering high quality medical care in Primary Health with full patient books from day one. Offering: Mixed Billing model DPA Positions available Walk into a newly built and modern facility We will support all inter…",
+      "category": {
+        "label": "Healthcare & Nursing Jobs",
+        "tag": "healthcare-nursing-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "latitude": -35.4262,
+      "salary_min": 230000,
+      "longitude": 149.218673,
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Queanbeyan Area",
+          "Googong"
+        ],
+        "display_name": "Googong, Queanbeyan Area"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc1Nzg2Mzc2OCIsInMiOiJ6TjBrbG9LSjhSR0N4c3RNdjRpeGt3In0.BXWWf6la4L9FLWBA3KfNLUjlbDU1sv28h_RpwsteoPc"
+    },
+    {
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Australian Capital Territory",
+          "Canberra Region",
+          "Gungahlin Area",
+          "Palmerston"
+        ],
+        "display_name": "Palmerston, Gungahlin Area"
+      },
+      "longitude": 149.124698,
+      "salary_min": 230000,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc1Nzg2Mzg0MCIsInMiOiJ6TjBrbG9LSjhSR0N4c3RNdjRpeGt3In0.wNwGR31Aisv7KDIzx3aLtXTjdmv3K4ONb3TAJEqiDyo",
+      "id": "5757863840",
+      "salary_is_predicted": "0",
+      "contract_type": "permanent",
+      "description": "Recently joining the Trans-Ax network, new positions have become available at Crace Medical Centre. An ideal doctor for the position would be an experienced General Practitioner with high energy that would be able to meet the consistent high demand whilst offering high quality medical care in Primary Health with full patient books from day one. Offering: Mixed Billing model DPA Positions available close to the waterfronts of Geelong Walk into a newly built and modern facility We will support al…",
+      "latitude": -35.209061,
+      "category": {
+        "tag": "healthcare-nursing-jobs",
+        "label": "Healthcare & Nursing Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "created": "2026-06-10T11:24:29Z",
+      "contract_time": "part_time",
+      "title": "General Practitioner",
+      "company": {
+        "display_name": "Crace Medical Centre",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5757863840?utm_medium=api&utm_source=4e5ae6d3",
+      "salary_max": 600000
+    },
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc1Nzg2Mzc1MyIsInMiOiJ6TjBrbG9LSjhSR0N4c3RNdjRpeGt3In0.h1xUKyLh4K5Thn4D7FV_Ypo8CrPS0VY8nPfDDTMqGJE",
+      "location": {
+        "display_name": "Banora Point, Tweed Heads Area",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Tweed Heads Region",
+          "Tweed Heads Area",
+          "Banora Point"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "longitude": 153.532998,
+      "salary_min": 230000,
+      "description": "As a newly built Centre, new positions have become available at Tweed Mall Medical Centre. An ideal doctor for the position would be an experienced General Practitioner with high energy that would be able to meet the consistent high demand whilst offering high quality medical care in Primary Health with full patient books from day one. Offering: Mixed Billing model DPA Positions Available close to the waterfronts of Tweed River and Coolangatta Beach Walk into a newly built and modern facility W…",
+      "id": "5757863753",
+      "salary_is_predicted": "0",
+      "contract_type": "permanent",
+      "latitude": -28.180222,
+      "category": {
+        "label": "Healthcare & Nursing Jobs",
+        "tag": "healthcare-nursing-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "created": "2026-06-10T11:24:28Z",
+      "title": "General Practitioner",
+      "contract_time": "part_time",
+      "company": {
+        "display_name": "Tweed Mall Medical Centre",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5757863753?utm_medium=api&utm_source=4e5ae6d3",
+      "salary_max": 600000
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY2NDI4MDM1OCIsInMiOiJ6TjBrbG9LSjhSR0N4c3RNdjRpeGt3In0.Qfjhhy4yZFRLjcRn0H-gR8__b7rNLmT7bSMoZx6VjA0",
+      "location": {
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Sydney, Sydney Region"
+      },
+      "created": "2026-03-14T10:03:33Z",
+      "title": "Senior Business Analyst – Consulting – North Sydney",
+      "description": "SENIOR BUSINESS ANALYST – CONSULTING – NORTH SYDNEY (Job ID 911) Are you a Senior Business Analyst with strong financial modelling and data analysis skills? Do you enjoy turning complex data into strategic insights that support business decisions? Looking for a role where you can work on meaningful projects within the aged care, disability and not-for-profit sectors? Our client is a long-established Australian advisory and accounting firm with more than 80 years of experience providing consulti…",
+      "contract_type": "permanent",
+      "id": "5664280358",
+      "salary_is_predicted": "0",
+      "redirect_url": "https://www.adzuna.com.au/details/5664280358?utm_medium=api&utm_source=4e5ae6d3",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Cdmguru"
+      },
+      "category": {
+        "tag": "consultancy-jobs",
+        "label": "Consultancy Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      }
+    },
+    {
+      "latitude": -35.309391,
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5809642212?utm_medium=api&utm_source=4e5ae6d3",
+      "company": {
+        "display_name": "Cleared Recruitment",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "contract_time": "full_time",
+      "id": "5809642212",
+      "salary_is_predicted": "0",
+      "contract_type": "permanent",
+      "description": "Principal Data Consultant – Information & Analytics LocationCanberra, ACT Working ArrangementHybrid working. 2 days in office. Clearance RequiredMinimum Baseline clearance required. Company OverviewCleared has partnered with an Australian IT services and solution provider working with the world leading technology vendors to deliver cloud, modern workplace, security and data solutions. With more than 1,400 professionals across Australia and Fiji, the organisation delivers high quality advisory s…",
+      "title": "Principal Data Consultant",
+      "created": "2026-07-22T05:51:01Z",
+      "longitude": 149.133481,
+      "location": {
+        "display_name": "Barton, South Canberra",
+        "area": [
+          "Australia",
+          "Australian Capital Territory",
+          "Canberra Region",
+          "South Canberra",
+          "Barton"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgwOTY0MjIxMiIsInMiOiJ6TjBrbG9LSjhSR0N4c3RNdjRpeGt3In0.bH24e3DJAQLnj9y-yCr125sOdtuDjK5J3ExnXnCz81A"
+    },
+    {
+      "description": "Principal Consultant - Information & Analytics Location Canberra, ACT Working Arrangement Hybrid working. 2 days in office. Clearance Required Minimum Baseline clearance required. Company Overview Cleared has partnered with a leading, ASX200 listed Australian IT services and solution provider that works with the worlds largest technology vendors to delivery cloud, modern workplace, data and analytics solutions to their Federal Government and Defence customers. Job Description Our client is expa…",
+      "title": "Principal Data Consultant",
+      "contract_time": "part_time",
+      "id": "5784358968",
+      "salary_is_predicted": "0",
+      "contract_type": "permanent",
+      "company": {
+        "display_name": "Cleared ICT",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5784358968?utm_medium=api&utm_source=4e5ae6d3",
+      "latitude": -35.309391,
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiek4wa2xvS0o4UkdDeHN0TXY0aXhrdyIsImkiOiI1Nzg0MzU4OTY4In0.Dy8OH_9YHEzreZPs66aAdVlyXVZNkwE2S58ibDn5ztM",
+      "longitude": 149.133481,
+      "location": {
+        "display_name": "Barton, South Canberra",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Australian Capital Territory",
+          "Canberra Region",
+          "South Canberra",
+          "Barton"
+        ]
+      },
+      "created": "2026-07-02T07:21:52Z"
+    },
+    {
+      "contract_time": "full_time",
+      "title": "Qualitative Director - Lead, Shape & Inspire",
+      "salary_max": 150000,
+      "redirect_url": "https://www.adzuna.com.au/details/5783899715?utm_medium=api&utm_source=4e5ae6d3",
+      "company": {
+        "display_name": "Resources Group AU",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "created": "2026-07-02T01:24:03Z",
+      "contract_type": "permanent",
+      "id": "5783899715",
+      "salary_is_predicted": "0",
+      "description": "Are you an inspiring leader of qualitative insights strategy with a brimming fascination for human attitudes, behaviour and culture? You've led teams, set high standards and helped others raise their game. Now you're looking for something more. A seat at the table. The opportunity to help shape an agency. To work alongside senior leaders who value your opinion, not just your output. The Role You'll lead the continued growth of an established qualitative insights team, including: Forging strong …",
+      "category": {
+        "tag": "consultancy-jobs",
+        "label": "Consultancy Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "latitude": -37.806509,
+      "salary_min": 140000,
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Victoria",
+          "Melbourne Region",
+          "Melbourne"
+        ],
+        "display_name": "Melbourne, Melbourne Region"
+      },
+      "longitude": 144.957935,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiek4wa2xvS0o4UkdDeHN0TXY0aXhrdyIsImkiOiI1NzgzODk5NzE1In0.dzlNHEpjwFO4T0PIkA4YO-7OKBk86C-QdKm4EckfdC8"
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "created": "2026-06-10T11:24:30Z",
+      "title": "General Practitioner",
+      "contract_time": "part_time",
+      "company": {
+        "display_name": "Hyperdome Medical Centre",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5757863907?utm_medium=api&utm_source=4e5ae6d3",
+      "salary_max": 600000,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiek4wa2xvS0o4UkdDeHN0TXY0aXhrdyIsImkiOiI1NzU3ODYzOTA3In0.UiUCeApZM9R6HadreOqEKHSuY9njaL_QKJJLXMMBnvY",
+      "location": {
+        "area": [
+          "Australia",
+          "Australian Capital Territory",
+          "Canberra Region",
+          "Tuggeranong",
+          "Greenway"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Greenway, Tuggeranong"
+      },
+      "longitude": 149.068283,
+      "salary_min": 230000,
+      "description": "A new position has become available at Hyperdome Medical Centre due to growing patient demand. A suitable doctor for the position would be an experienced General Practitioner with high energy that would be able to meet the consistent high demand whilst offering high quality medical care in Primary Health with full patient books from day one. Offering: Close Proximity to CBD area Mixed Billing model DPA Positions Available Walk into an established Medical Centre We will support all interests Lar…",
+      "id": "5757863907",
+      "salary_is_predicted": "0",
+      "contract_type": "permanent",
+      "latitude": -35.418501,
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Healthcare & Nursing Jobs",
+        "tag": "healthcare-nursing-jobs"
+      }
+    },
+    {
+      "created": "2025-09-17T03:11:08Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQwMTU1ODk5MCIsInMiOiJ6TjBrbG9LSjhSR0N4c3RNdjRpeGt3In0.9641MqR7WHwYUMEjK6_71A-d0h3Itqkv-sZa7vCpLdQ",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "longitude": 151.206616,
+      "location": {
+        "display_name": "The Rocks, Sydney",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney",
+          "The Rocks"
+        ]
+      },
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Antares Solutions"
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5401558990?utm_medium=api&utm_source=4e5ae6d3",
+      "latitude": -33.865715,
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "description": "Senior Data Consultant – Data & AI Team  Location: Melbourne, Sydney or Brisbane (Hybrid) ⏳ Job Type: Permanent or Contract Why Join Us? At Antares Solutions , we’re a fast-growing consultancy helping businesses unlock the value of their data using modern Microsoft solutions. We work across various industries, tackling small and large-scale projects, from optimising business intelligence to implementing cutting-edge AI solutions. We’re not just about delivering solution; we invest in our team. …",
+      "title": "Senior Data Consultant",
+      "id": "5401558990",
+      "salary_is_predicted": "0",
+      "contract_time": "full_time",
+      "contract_type": "permanent"
+    },
+    {
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Belconnen Mall Medical Centre"
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5757863764?utm_medium=api&utm_source=4e5ae6d3",
+      "salary_max": 600000,
+      "title": "General Practitioner",
+      "contract_time": "part_time",
+      "created": "2026-06-10T11:24:28Z",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": -35.225317,
+      "category": {
+        "label": "Healthcare & Nursing Jobs",
+        "tag": "healthcare-nursing-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "description": "A new position has become available at Belconnen Mall Medical Centre due to growing patient demand. An ideal doctor for the position would be an experienced General Practitioner with high energy that would be able to meet the consistent high demand whilst offering high quality medical care in Primary Health with full patient books from day one. Offering: Close Proximity to CBD area Mixed Billing model DPA Positions Available Walk into an established medical centre We will support all interests …",
+      "id": "5757863764",
+      "salary_is_predicted": "0",
+      "contract_type": "permanent",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiek4wa2xvS0o4UkdDeHN0TXY0aXhrdyIsImkiOiI1NzU3ODYzNzY0In0.THKh8kJX1bGwnytcUshLCY_dBsi0BKWOwIPQnNZcNt4",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Australian Capital Territory",
+          "Canberra Region",
+          "Belconnen Area",
+          "Mckellar"
+        ],
+        "display_name": "Mckellar, Belconnen Area"
+      },
+      "longitude": 149.085066,
+      "salary_min": 230000
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiek4wa2xvS0o4UkdDeHN0TXY0aXhrdyIsImkiOiI1NzczMDM3MzU1In0._8YkGAvXgxMxct4a0geCtSoNMOPYVjURGCoNjyeF9Z4",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia"
+        ],
+        "display_name": "Australia"
+      },
+      "created": "2026-06-23T10:49:15Z",
+      "description": "Accenture is a leading solutions and services company that helps the world’s leading enterprises reinvent by building their digital core and unleashing the power of AI to create value at speed across the enterprise, bringing together the talent of our approximately 786,000 people, our proprietary assets and platforms, and deep ecosystem relationships. Our strategy is to be the reinvention partner of choice for our clients and to be the most client-focused, AI-enabled, great place to work in the…",
+      "title": "Workday Data Consultant (AU Citizen for Security Clearance)",
+      "contract_time": "full_time",
+      "id": "5773037355",
+      "salary_is_predicted": "0",
+      "redirect_url": "https://www.adzuna.com.au/details/5773037355?utm_medium=api&utm_source=4e5ae6d3",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Accenture"
+      },
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      }
+    },
+    {
+      "created": "2026-07-02T23:38:09Z",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "company": {
+        "display_name": "Resources Group AU",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5785437022?utm_medium=api&utm_source=4e5ae6d3",
+      "salary_max": 80000,
+      "title": "Consultant | Strategic Insights & Research",
+      "contract_time": "full_time",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiek4wa2xvS0o4UkdDeHN0TXY0aXhrdyIsImkiOiI1Nzg1NDM3MDIyIn0.FONJY3gGHl0tSYp5uwibE_e1vEtCZUZJZeiwd71rdtg",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Victoria",
+          "Melbourne Region",
+          "Melbourne"
+        ],
+        "display_name": "Melbourne, Melbourne Region"
+      },
+      "longitude": 144.957935,
+      "salary_min": 65000,
+      "latitude": -37.806509,
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "PR, Advertising & Marketing Jobs",
+        "tag": "pr-advertising-marketing-jobs"
+      },
+      "description": "The insights industry is changing quickly. This is a fantastic opportunity for an early-career researcher to join a highly respected insights consultancy backed by the scale, AI capability, tools, infrastructure and connected thinking of a broader global communications and intelligence network. You’ll still get the depth and craft of a specialist research agency, but with exposure to the wider strategic marketing and communications ecosystem. The work is varied, commercially smart and genuinely…",
+      "id": "5785437022",
+      "salary_is_predicted": "0",
+      "contract_type": "permanent"
+    },
+    {
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "latitude": -35.309391,
+      "redirect_url": "https://www.adzuna.com.au/details/5794791767?utm_medium=api&utm_source=4e5ae6d3",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Opes Cyber Security"
+      },
+      "contract_type": "permanent",
+      "id": "5794791767",
+      "salary_is_predicted": "0",
+      "contract_time": "part_time",
+      "title": "Infrastructure Engineer",
+      "description": "Company DescriptionOpes Cyber Security is a sovereign, veteran-owned Australian company delivering high-assurance technology and intelligence services to Defence, Government, and Critical Infrastructure clients. Through our three divisions Opes Cyber (secure IT builds), Opes Analytics (OSINT and intelligence), and Opes Consulting (cleared consulting and labour hire), we help clients mitigate risk, strengthen security posture, and respond to evolving threats. Role OverviewCanberra based (on-site…",
+      "created": "2026-07-10T08:56:19Z",
+      "location": {
+        "display_name": "Barton, South Canberra",
+        "area": [
+          "Australia",
+          "Australian Capital Territory",
+          "Canberra Region",
+          "South Canberra",
+          "Barton"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "longitude": 149.133481,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiek4wa2xvS0o4UkdDeHN0TXY0aXhrdyIsImkiOiI1Nzk0NzkxNzY3In0.bfHXIrmvuTSfYNfp7D9b78vFrDSnuJKW7t1cR9cHScc"
+    },
+    {
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5802065434?utm_medium=api&utm_source=4e5ae6d3",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Mane Consulting"
+      },
+      "salary_max": 286000,
+      "id": "5802065434",
+      "contract_time": "full_time",
+      "salary_is_predicted": "0",
+      "contract_type": "contract",
+      "description": "Get recognition and reward working with this a pioneering industry leader, as they embark on a transformative journey! We are currently seeking a passionate Data platform engineer for an exciting 12-month contract opportunity within their highly respected Technology team. This pivotal role demands a seasoned professional with robust expertise in AWS Glue, AWS Lake formation. This is your opportunity to make a profound impact in in migrating customers from Cloudera to AWS native data services, e…",
+      "title": "Data Platform Engineer",
+      "created": "2026-07-16T11:47:47Z",
+      "location": {
+        "display_name": "Sydney, Sydney Region",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "salary_min": 234000,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgwMjA2NTQzNCIsInMiOiJ6TjBrbG9LSjhSR0N4c3RNdjRpeGt3In0.XUjT8mAAi7X2yx03Gs-4-JzH6goQvcgDuvLkLQdqLFU",
+      "__CLASS__": "Adzuna::API::Response::Job"
+    },
+    {
+      "latitude": -38.153732,
+      "category": {
+        "label": "Healthcare & Nursing Jobs",
+        "tag": "healthcare-nursing-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "id": "5757863766",
+      "salary_is_predicted": "0",
+      "contract_type": "permanent",
+      "description": "As a newly built Centre, new positions have become available at Geelong Mall Medical Centre from September 2023 onwards. An ideal doctor for the position would be an experienced General Practitioner with high energy that would be able to meet the consistent high demand whilst offering high quality medical care in Primary Health with full patient books from day one. Offering: As a newly built Centre, new positions have become available at Geelong Marketplace Medical Centre from February 2024 onw…",
+      "longitude": 144.353967,
+      "location": {
+        "display_name": "South Geelong, Geelong",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Victoria",
+          "Geelong Region",
+          "Geelong",
+          "South Geelong"
+        ]
+      },
+      "salary_min": 230000,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiek4wa2xvS0o4UkdDeHN0TXY0aXhrdyIsImkiOiI1NzU3ODYzNzY2In0.nf6G9YqoWAstp0pgFLQtOAIKqIlZQ6jv7eZouFrP5YA",
+      "company": {
+        "display_name": "Geelong Marketplace Medical Centre",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5757863766?utm_medium=api&utm_source=4e5ae6d3",
+      "salary_max": 600000,
+      "contract_time": "part_time",
+      "title": "General Practitioner",
+      "created": "2026-06-10T11:24:28Z",
+      "__CLASS__": "Adzuna::API::Response::Job"
+    },
+    {
+      "title": "Data Engineer | Databricks",
+      "description": "Unlock your potential with a prestigious opportunity alongside an award-winning, data-driven industry leader! A tremendous opportunity awaits a Data Engineer to collaborate a highly respected team. In this role, you will spearhead day-to-day data and analytics support for the diverse cross-functional with Product owners, Data Architect's, and stakeholders. Seize this chance to harness your expertise and drive impactful decisions within a thriving, forward-looking organization at the forefront o…",
+      "contract_type": "permanent",
+      "id": "5802065433",
+      "contract_time": "full_time",
+      "salary_is_predicted": "0",
+      "salary_max": 160000,
+      "redirect_url": "https://www.adzuna.com.au/details/5802065433?utm_medium=api&utm_source=4e5ae6d3",
+      "company": {
+        "display_name": "Mane Consulting",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiek4wa2xvS0o4UkdDeHN0TXY0aXhrdyIsImkiOiI1ODAyMDY1NDMzIn0.GctXnmBFa290tpMdX0XUF1iBzlIJEwPfmIl-wCrgIHs",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_min": 140000,
+      "location": {
+        "display_name": "East Brisbane, Brisbane",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Queensland",
+          "Brisbane Region",
+          "Brisbane",
+          "East Brisbane"
+        ]
+      },
+      "created": "2026-07-16T11:47:47Z"
+    },
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiek4wa2xvS0o4UkdDeHN0TXY0aXhrdyIsImkiOiI1Nzg1NDM3MDEzIn0.W-RGfdoCMgjjQxvAfqESrl4gm-QVuqDNn3jAuB17ZA0",
+      "salary_min": 210000,
+      "location": {
+        "display_name": "Sydney, Sydney Region",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney"
+        ]
+      },
+      "longitude": 151.203231,
+      "description": "A high-growth global SaaS business is rapidly expanding its footprint in Australia and seeking a commercially driven Business Development Manager to lead new business acquisition in the market. This organisation sits at the forefront of product intelligence, helping global brands make faster, more confident decisions through real-time consumer insight, AI-powered analysis and behavioural science-led methodologies. This is a rare opportunity to step into a foundational role, with the autonomy to…",
+      "contract_type": "permanent",
+      "salary_is_predicted": "0",
+      "id": "5785437013",
+      "category": {
+        "label": "Sales Jobs",
+        "tag": "sales-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "latitude": -33.885283,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "created": "2026-07-02T23:38:09Z",
+      "title": "Business Development Manager - SaaS (Product Intelligence / FMCG Focus)",
+      "contract_time": "full_time",
+      "salary_max": 280000,
+      "company": {
+        "display_name": "Resources Group AU",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5785437013?utm_medium=api&utm_source=4e5ae6d3"
+    },
+    {
+      "description": "This boutique insights consultancy has carved out a strong reputation within the FMCG and retail space Blending shopper insight, category thinking and practical commercial advisory, they turn complex data into clear, actionable recommendations so that the major FMCGs and retailers know what shoppers are thinking and want and how they are different. They’re now looking for a Category Insights Consultant to join their Sydney team. This is a highly client-facing role suited to someone who enjoys b…",
+      "contract_type": "permanent",
+      "salary_is_predicted": "0",
+      "id": "5785437015",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "PR, Advertising & Marketing Jobs",
+        "tag": "pr-advertising-marketing-jobs"
+      },
+      "latitude": -33.885283,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiek4wa2xvS0o4UkdDeHN0TXY0aXhrdyIsImkiOiI1Nzg1NDM3MDE1In0.A2xb6dNF9codc-jaTSamkDSFjrFapu7jCXMPfbX7oc4",
+      "salary_min": 90000,
+      "longitude": 151.203231,
+      "location": {
+        "display_name": "Sydney, Sydney Region",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "title": "Category Insights Consultant",
+      "contract_time": "full_time",
+      "salary_max": 110000,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Resources Group AU"
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5785437015?utm_medium=api&utm_source=4e5ae6d3",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "created": "2026-07-02T23:38:09Z"
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "created": "2026-07-02T23:38:09Z",
+      "contract_time": "full_time",
+      "title": "Quantitative Senior Strategist - Brand, Culture & Human Truths",
+      "redirect_url": "https://www.adzuna.com.au/details/5785437014?utm_medium=api&utm_source=4e5ae6d3",
+      "company": {
+        "display_name": "Resources Group AU",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_max": 120000,
+      "longitude": 152.928532,
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Queensland",
+          "Brisbane Region",
+          "Brisbane"
+        ],
+        "display_name": "Brisbane, Brisbane Region"
+      },
+      "salary_min": 90000,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiek4wa2xvS0o4UkdDeHN0TXY0aXhrdyIsImkiOiI1Nzg1NDM3MDE0In0.iKBkImln1sapg6OCUHXHquohPRETPHZN3yYsv_stB0U",
+      "salary_is_predicted": "0",
+      "id": "5785437014",
+      "contract_type": "permanent",
+      "description": "We’re looking for a strategic insight professional to help build brands, create experiences, plot futures, reach new understandings and solve all manner of problems for brilliant clients across commercial, NGO and Government. Our client is a strategic consultancy operating at the intersection of research, culture and behavioural science. Specialists in consumer insight, they dive deep into what makes people tick - translating opinion and behaviour into meaningful, future-focused strategy. This …",
+      "latitude": -27.416056,
+      "category": {
+        "label": "PR, Advertising & Marketing Jobs",
+        "tag": "pr-advertising-marketing-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      }
+    },
+    {
+      "salary_min": 120000,
+      "longitude": 144.957935,
+      "location": {
+        "display_name": "Melbourne, Melbourne Region",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Victoria",
+          "Melbourne Region",
+          "Melbourne"
+        ]
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgwNDg5NzUxNyIsInMiOiJ6TjBrbG9LSjhSR0N4c3RNdjRpeGt3In0.wQ69z51d4O88uczDLvvgA7w0lhJImLN4TyKepRxqqfk",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "pr-advertising-marketing-jobs",
+        "label": "PR, Advertising & Marketing Jobs"
+      },
+      "latitude": -37.806509,
+      "contract_type": "permanent",
+      "salary_is_predicted": "0",
+      "id": "5804897517",
+      "description": "Accelerate your career with one of Australia’s most innovative strategic insights consultancies. Known for its agility, bold thinking, and award-winning employee-first culture, this consultancy is where passionate minds thrive. They tackle complexity with simplicity, delivering clever, impactful solutions for their clients. With a focus on innovation and excellence, they’ve built a reputation for developing exceptional talent and redefining what’s possible in research. The Role Step into a pivo…",
+      "created": "2026-07-17T22:58:28Z",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_max": 140000,
+      "redirect_url": "https://www.adzuna.com.au/details/5804897517?utm_medium=api&utm_source=4e5ae6d3",
+      "company": {
+        "display_name": "Resources Group AU",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "contract_time": "full_time",
+      "title": "Qualitative Associate Director"
+    },
+    {
+      "category": {
+        "label": "PR, Advertising & Marketing Jobs",
+        "tag": "pr-advertising-marketing-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "latitude": -37.806509,
+      "description": "You’re an exceptional problem solver who loves driving business outcomes for clients. You get your kicks from building deep client relationships, breaking complex challenges and delivering confident, evidence-based strategy. Get you in the room with a client and you'll take them on the journey, whether it's building stronger brands, launching new products or creating exceptional customer experiences. You've built a strong methodological, analytical and strategic toolkit. Now you're looking for …",
+      "contract_type": "permanent",
+      "id": "5783899714",
+      "salary_is_predicted": "0",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiek4wa2xvS0o4UkdDeHN0TXY0aXhrdyIsImkiOiI1NzgzODk5NzE0In0.a7F4hiwNSQFpNZMY9yn9_jiTCBGd_G_EZGPsfTa5I3w",
+      "salary_min": 120000,
+      "location": {
+        "area": [
+          "Australia",
+          "Victoria",
+          "Melbourne Region",
+          "Melbourne"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Melbourne, Melbourne Region"
+      },
+      "longitude": 144.957935,
+      "salary_max": 140000,
+      "company": {
+        "display_name": "Resources Group AU",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5783899714?utm_medium=api&utm_source=4e5ae6d3",
+      "title": "Quantitative Associate Director - More Scale. More Ownership.",
+      "contract_time": "full_time",
+      "created": "2026-07-02T01:24:03Z",
+      "__CLASS__": "Adzuna::API::Response::Job"
+    },
+    {
+      "description": "WHERE PASSION  PURPOSE ALIGN We are the curious. Problem solvers. Driven to unlock the potential in every system. Across five countries are 1,100 engineers, designers, and consultants collaborating to elevate the human experience, create more resilient communities, and protect the health of the planet. We transform the built environment by creating dynamic solutions — living systems — that are smart, resilient, and connected. At Introba, this is why we show up every day. To use our curiosity fo…",
+      "title": "Senior Electrical Engineer",
+      "contract_time": "full_time",
+      "id": "5744060625",
+      "salary_is_predicted": "0",
+      "company": {
+        "display_name": "Sidara",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5744060625?utm_medium=api&utm_source=4e5ae6d3",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "engineering-jobs",
+        "label": "Engineering Jobs"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiek4wa2xvS0o4UkdDeHN0TXY0aXhrdyIsImkiOiI1NzQ0MDYwNjI1In0.rKI2YAaOPjQrbfmsz6jSECCMmTo5VjXBMGl-f_fRWXQ",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "display_name": "Australia",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia"
+        ]
+      },
+      "created": "2026-05-29T10:43:30Z"
+    },
+    {
+      "salary_max": 105000,
+      "company": {
+        "display_name": "Innovior Pty",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5761933383?utm_medium=api&utm_source=4e5ae6d3",
+      "category": {
+        "label": "Consultancy Jobs",
+        "tag": "consultancy-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "title": "Business Consultant - Technical",
+      "description": "Innovior is a leading boutique Digital Transformation consultancy. Business Consultant – Technical Employer Name: Innovior Location: Sydney, NSW (Hybrid) Employment Type: Full-Time, Permanent Salary Range: $85,000 - $105,000  Superannuation About Innovior Innovior is a digital transformation consultancy. We partner with organizations to solve complex operational challenges by deploying advanced automation, cloud integrations, and tailored digital solutions. We are seeking a structured, analytic…",
+      "contract_type": "contract",
+      "contract_time": "full_time",
+      "id": "5761933383",
+      "salary_is_predicted": "0",
+      "created": "2026-06-13T12:21:25Z",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc2MTkzMzM4MyIsInMiOiJ6TjBrbG9LSjhSR0N4c3RNdjRpeGt3In0.UXnw4uzR0aJDU7EWmVeSaMX_SL9XxV2RhAzbWEN8qfM",
+      "salary_min": 85000,
+      "location": {
+        "display_name": "Australia",
+        "area": [
+          "Australia"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      }
+    },
+    {
+      "company": {
+        "display_name": "Sidara",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5703078663?utm_medium=api&utm_source=4e5ae6d3",
+      "category": {
+        "tag": "engineering-jobs",
+        "label": "Engineering Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "title": "Associate, Electrical Engineer",
+      "description": "WHERE PASSION  PURPOSE ALIGN We are the curious. Problem solvers. Driven to unlock the potential in every system. Across five countries are 1,100 engineers, designers, and consultants collaborating to elevate the human experience, create more resilient communities, and protect the health of the planet. We transform the built environment by creating dynamic solutions — living systems — that are smart, resilient, and connected. At Introba, this is why we show up every day. To use our curiosity fo…",
+      "id": "5703078663",
+      "contract_time": "full_time",
+      "salary_is_predicted": "0",
+      "created": "2026-04-18T10:12:58Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcwMzA3ODY2MyIsInMiOiJ6TjBrbG9LSjhSR0N4c3RNdjRpeGt3In0.EqcrzCF4wtwxBm_CjHMKw-4Rmy_5DFn-tqZS-zjX7AY",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "display_name": "Australia",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia"
+        ]
+      }
+    },
+    {
+      "category": {
+        "label": "Engineering Jobs",
+        "tag": "engineering-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "company": {
+        "display_name": "Sidara",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5746825799?utm_medium=api&utm_source=4e5ae6d3",
+      "id": "5746825799",
+      "contract_time": "full_time",
+      "salary_is_predicted": "0",
+      "description": "WHERE PASSION  PURPOSE ALIGN We are the curious. Problem solvers. Driven to unlock the potential in every system. Across five countries are 1,100 engineers, designers, and consultants collaborating to elevate the human experience, create more resilient communities, and protect the health of the planet. We transform the built environment by creating dynamic solutions — living systems — that are smart, resilient, and connected. At Introba, this is why we show up every day. To use our curiosity fo…",
+      "title": "Associate, Mechanical Engineer",
+      "created": "2026-06-01T10:44:02Z",
+      "location": {
+        "display_name": "Australia",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia"
+        ]
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiek4wa2xvS0o4UkdDeHN0TXY0aXhrdyIsImkiOiI1NzQ2ODI1Nzk5In0.VDqDd9OEOWzgK7bsW-x1RHQJBZxu4b_9crWr2CbTbAY"
+    },
+    {
+      "created": "2026-07-23T11:50:11Z",
+      "salary_min": 208000,
+      "location": {
+        "display_name": "Sydney, Sydney Region",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgxMTcyMjc5NyIsInMiOiJ6TjBrbG9LSjhSR0N4c3RNdjRpeGt3In0.mtekmaberG-BlC4tJFboxq60VcljPAuQNlsjUcguat8",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      },
+      "salary_max": 260000,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Mane Consulting"
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5811722797?utm_medium=api&utm_source=4e5ae6d3",
+      "contract_time": "full_time",
+      "id": "5811722797",
+      "salary_is_predicted": "0",
+      "title": "Senior Data Analyst",
+      "description": "Feel empowered in this Innovative team with AI and data analytics in its DNA. You'll drive results that combines cutting edge advanced analytics and automated AI with an integrated suite of leading tools and technologies. We have an exciting opportunity for a Senior Data Analyst to join a Data Analytics practice within our Financial Services client where you will be at the forefront of providing operational insights and valuable analysis to support the data driven business, developing reporting…"
+    },
+    {
+      "title": "Senior Consultant (Transfer Pricing)",
+      "description": "Melbourne The Senior Transfer Pricing Consultant reports to Managers, Directors and Partners and is primarily responsible for addressing the transfer pricing consulting and compliance needs of our clients, which range from SME businesses to multinational groups. The opportunity Our Transfer Pricing team, a division within our Tax service, is seeking enthusiastic professionals with a passion for Transfer Pricing. These roles involve advising clients on business restructures, planning for new int…",
+      "contract_time": "full_time",
+      "id": "5650840770",
+      "salary_is_predicted": "0",
+      "redirect_url": "https://www.adzuna.com.au/details/5650840770?utm_medium=api&utm_source=4e5ae6d3",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Pkf Australia"
+      },
+      "category": {
+        "tag": "consultancy-jobs",
+        "label": "Consultancy Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "latitude": -37.837324,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiek4wa2xvS0o4UkdDeHN0TXY0aXhrdyIsImkiOiI1NjUwODQwNzcwIn0.GL7My5-uQCG31QimDgALjXaxY7xWxE_yEaq9K33qtgM",
+      "longitude": 144.976335,
+      "location": {
+        "display_name": "South Yarra, Stonnington Area",
+        "area": [
+          "Australia",
+          "Victoria",
+          "Melbourne Region",
+          "Stonnington Area",
+          "South Yarra"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "created": "2026-03-02T14:45:46Z"
+    },
+    {
+      "location": {
+        "area": [
+          "Australia",
+          "Victoria",
+          "Melbourne Region",
+          "Melbourne"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Melbourne, Melbourne Region"
+      },
+      "longitude": 144.957935,
+      "salary_min": 70000,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiek4wa2xvS0o4UkdDeHN0TXY0aXhrdyIsImkiOiI1NzgzODk5NzEzIn0.Feojogc6bKnk06c5xB0YTfBxKrGKdFi3eT4EbnJJE9A",
+      "id": "5783899713",
+      "salary_is_predicted": "0",
+      "contract_type": "permanent",
+      "description": "Curiosity is contagious here. So is ambition. This is one of Melbourne's best strategic insights consultancies, bringing together expertise across quantitative and qualitative research, advanced analytics, tech and strategy. It's a one-stop strategy hub for clients and a play pit of learning and growth for you! This growth role is for a Research Consultant with a quant leaning and a qualitative twist. Work with Culture Shaping Brands You’ll love working across a mix of culture-shaping brands - …",
+      "latitude": -37.806509,
+      "category": {
+        "label": "PR, Advertising & Marketing Jobs",
+        "tag": "pr-advertising-marketing-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "created": "2026-07-02T01:24:03Z",
+      "contract_time": "full_time",
+      "title": "Research Consultant (Quant) - Where Curiosity Meets Strategy",
+      "redirect_url": "https://www.adzuna.com.au/details/5783899713?utm_medium=api&utm_source=4e5ae6d3",
+      "company": {
+        "display_name": "Resources Group AU",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_max": 85000
+    },
+    {
+      "company": {
+        "display_name": "Resources Group AU",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5804897519?utm_medium=api&utm_source=4e5ae6d3",
+      "salary_max": 135000,
+      "title": "Associate Director | Retail, Property & Services",
+      "contract_time": "full_time",
+      "created": "2026-07-17T22:58:28Z",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": -33.885283,
+      "category": {
+        "tag": "consultancy-jobs",
+        "label": "Consultancy Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "description": "This is an opportunity to step into a commercially significant client leadership role within a leading insights agency. You will take responsibility for the quality of client relationships, the standard of research outputs, and the strategic direction of a portfolio of major accounts. Partnering with some of Australia's best-known brands across Retail, Property & Services, you'll enjoy deep, multi-layered client relationships and work spanning large-scale CX and NPS programmes across diverse po…",
+      "salary_is_predicted": "0",
+      "id": "5804897519",
+      "contract_type": "permanent",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgwNDg5NzUxOSIsInMiOiJ6TjBrbG9LSjhSR0N4c3RNdjRpeGt3In0._qSjjQanXN-hZTS03YWKGqUHXZAXGgClVpcRhyV19jE",
+      "longitude": 151.203231,
+      "location": {
+        "display_name": "Sydney, Sydney Region",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney"
+        ]
+      },
+      "salary_min": 120000
+    },
+    {
+      "latitude": -37.806509,
+      "category": {
+        "tag": "pr-advertising-marketing-jobs",
+        "label": "PR, Advertising & Marketing Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "id": "5792476470",
+      "salary_is_predicted": "0",
+      "contract_type": "permanent",
+      "description": "Ready to join a business that's ambitious, collaborative, and full of momentum? We’re partnering with a highly regarded insights consultancy that's continuing to grow across Australia. With an enviable client portfolio, strong brand reputation and an impressive pipeline of new work, they're looking for a Senior Associate Director to play a key role in driving client growth and leading strategic quantitative research across Melbourne. Why this role matters This is a senior client leadership role…",
+      "location": {
+        "area": [
+          "Australia",
+          "Victoria",
+          "Melbourne Region",
+          "Melbourne"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Melbourne, Melbourne Region"
+      },
+      "longitude": 144.957935,
+      "salary_min": 0,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc5MjQ3NjQ3MCIsInMiOiJ6TjBrbG9LSjhSR0N4c3RNdjRpeGt3In0.x_DZ0PhXHNO5US9ZqJOUVBXMvYwKTG-IO_Q4hBPbtow",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Resources Group AU"
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5792476470?utm_medium=api&utm_source=4e5ae6d3",
+      "salary_max": 165000,
+      "contract_time": "full_time",
+      "title": "Senior Associate Director - Quantitative Insights",
+      "created": "2026-07-08T23:53:50Z",
+      "__CLASS__": "Adzuna::API::Response::Job"
+    },
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiek4wa2xvS0o4UkdDeHN0TXY0aXhrdyIsImkiOiI1Nzg2MjE5MTk3In0.biXWV57yurrzTSe_yM1NNFGROoxE7d1sEuPl-cd9xjk",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "display_name": "Sydney, Sydney Region",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "salary_min": 260000,
+      "created": "2026-07-03T11:44:43Z",
+      "description": "This trailblazing financial services industry leader where innovation, excellence, and integrity are the cornerstones of everything they do requires a Data Engineer. They're dedicated to driving financial empowerment and success for their stakeholders through innovative data solutions. The team values creativity, collaboration, and continuous growth. As a Snowflake Data Engineer, you'll play a pivotal role in transforming our data landscape, working with cutting-edge technologies to solve compl…",
+      "title": "Snowflake Data Engineer",
+      "contract_time": "full_time",
+      "id": "5786219197",
+      "salary_is_predicted": "0",
+      "company": {
+        "display_name": "Mane Consulting",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5786219197?utm_medium=api&utm_source=4e5ae6d3",
+      "salary_max": 299000,
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      }
+    },
+    {
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5804908814?utm_medium=api&utm_source=4e5ae6d3",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Flywire"
+      },
+      "id": "5804908814",
+      "salary_is_predicted": "0",
+      "title": "Senior Implementation Consultant I (Education)",
+      "description": "Job Description The Opportunity: Flywire is seeking an experienced, self-motivated Senior Implementation Consultant I to join our dynamic and growing global team. The Senior Implementation Consultant I, will act as the subject matter expert for the product area(s) that they are focused on. If you have experience in student financial services, change management within higher education, experience with SaaS based integrations, and want to launch your career in the exciting world of Fintech this i…",
+      "created": "2026-07-17T23:28:08Z",
+      "location": {
+        "area": [
+          "Australia"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Australia"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgwNDkwODgxNCIsInMiOiJ6TjBrbG9LSjhSR0N4c3RNdjRpeGt3In0.Nf1wx2ZtZCuEmoSy-0pxz-PlBul29jXmrUmbXdbpLHU"
+    },
+    {
+      "id": "5714967060",
+      "contract_time": "full_time",
+      "salary_is_predicted": "0",
+      "title": "Business Development Executive",
+      "description": "Work with leading QSR brands to solve operational challenges through tech Enterprise growth role across software, hardware and AI-driven solutions Sydney-based with travel across Australia & New Zealand Help some of the world's leading QSR brands improve customer and operational experiences through AI, kiosks, digital signage and connected technology. About Fingermark Fingermark™ is a global tech company based in New Zealand with teams in Australia, Brazil, the Philippines, Canada and the Unite…",
+      "category": {
+        "label": "Sales Jobs",
+        "tag": "sales-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "latitude": -33.840811,
+      "redirect_url": "https://www.adzuna.com.au/details/5714967060?utm_medium=api&utm_source=4e5ae6d3",
+      "company": {
+        "display_name": "Fingermark",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "longitude": 151.204962,
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "North Shore",
+          "North Sydney Area",
+          "North Sydney"
+        ],
+        "display_name": "North Sydney, North Sydney Area"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiek4wa2xvS0o4UkdDeHN0TXY0aXhrdyIsImkiOiI1NzE0OTY3MDYwIn0.htIsLW77dXL-nH58jfYPMAhHLaKdIkommbz7jtEDCws",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "created": "2026-05-01T10:27:59Z"
+    },
+    {
+      "company": {
+        "display_name": "Pkf Australia",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5650814013?utm_medium=api&utm_source=4e5ae6d3",
+      "latitude": -37.837324,
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Consultancy Jobs",
+        "tag": "consultancy-jobs"
+      },
+      "description": "Melbourne The Transfer Pricing Assistant Manager/Manager reports to Directors and Partners and is primarily responsible for addressing the transfer pricing consulting and compliance needs of our clients, which range from SME businesses to multinational groups. The opportunity Our Transfer Pricing team, a division within our Tax service, is seeking enthusiastic professionals with a passion for Transfer Pricing. These roles involve advising clients on business restructures, planning for new inter…",
+      "title": "Manager (Transfer Pricing)",
+      "salary_is_predicted": "0",
+      "id": "5650814013",
+      "contract_time": "full_time",
+      "created": "2026-03-02T14:39:41Z",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiek4wa2xvS0o4UkdDeHN0TXY0aXhrdyIsImkiOiI1NjUwODE0MDEzIn0.a2E_-rc1-BeT7xT0xY_Tv7lkR2Q96OHzQRPJY4O19-k",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Victoria",
+          "Melbourne Region",
+          "Stonnington Area",
+          "South Yarra"
+        ],
+        "display_name": "South Yarra, Stonnington Area"
+      },
+      "longitude": 144.976335
+    },
+    {
+      "contract_time": "full_time",
+      "title": "Technical Lead - Survey Data Operations (R  Python)",
+      "company": {
+        "display_name": "Resources Group AU",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5792476460?utm_medium=api&utm_source=4e5ae6d3",
+      "salary_max": 150000,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "created": "2026-07-08T23:53:49Z",
+      "id": "5792476460",
+      "salary_is_predicted": "0",
+      "contract_type": "permanent",
+      "description": "A leading Australian social and market research organisation is seeking a hands-on technical leader to manage a specialist data engineering team delivering large-scale government and social research projects. This role is ideal for someone with deep experience working with complex survey datasets in a market or social research environment who enjoys combining technical problem solving with team leadership. You'll remain close to the work—developing data pipelines, automation tools and reusable …",
+      "latitude": -37.806509,
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "location": {
+        "display_name": "Melbourne, Melbourne Region",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Victoria",
+          "Melbourne Region",
+          "Melbourne"
+        ]
+      },
+      "longitude": 144.957935,
+      "salary_min": 150000,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiek4wa2xvS0o4UkdDeHN0TXY0aXhrdyIsImkiOiI1NzkyNDc2NDYwIn0.iGpdbH__zUjmzaYmBjM3s00gkBDx5gmJyh0h1RqPTIk"
+    },
+    {
+      "description": "The best brands don't live in categories. They live in culture. Our client is a strategic insights consultancy that helps ambitious brands understand people, anticipate cultural change and make smarter business decisions. Combining quantitative rigour with cultural thinking, they uncover the attitudes, behaviours and tensions that shape brand strategy, innovation and growth. This team radiates curiosity and creativity. They think differently that challenge convention and spark meaningful change…",
+      "salary_is_predicted": "0",
+      "id": "5815405182",
+      "contract_type": "permanent",
+      "latitude": -33.885283,
+      "category": {
+        "tag": "pr-advertising-marketing-jobs",
+        "label": "PR, Advertising & Marketing Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgxNTQwNTE4MiIsInMiOiJ6TjBrbG9LSjhSR0N4c3RNdjRpeGt3In0.JZSOZEfVBRUWLSP5WUuSpL0ogpc5mYfq_IujRDLigCs",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney"
+        ],
+        "display_name": "Sydney, Sydney Region"
+      },
+      "longitude": 151.203231,
+      "salary_min": 130000,
+      "title": "Quant Strategy Lead - Strategic Advisory",
+      "contract_time": "full_time",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Resources Group AU"
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5815405182?utm_medium=api&utm_source=4e5ae6d3",
+      "salary_max": 150000,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "created": "2026-07-25T23:07:09Z"
+    },
+    {
+      "latitude": -27.416056,
+      "category": {
+        "tag": "consultancy-jobs",
+        "label": "Consultancy Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "description": "About the Company: Our client is a highly respected and established industrial franchise group operating throughout Australia and New Zealand. With more than 20 years of industry success, the organisation has built a reputation for delivering quality products, exceptional service, and strong franchise support systems. Supported by proven operating frameworks, strategic marketing initiatives, and a collaborative culture, the group has achieved significant growth over recent years and continues t…",
+      "id": "5799966828",
+      "salary_is_predicted": "0",
+      "contract_type": "permanent",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiek4wa2xvS0o4UkdDeHN0TXY0aXhrdyIsImkiOiI1Nzk5OTY2ODI4In0.yqeUpXHAUwia9eLW5AfYJPdNa5JECUm67OmBiYwbeEA",
+      "location": {
+        "display_name": "Brisbane, Brisbane Region",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "Queensland",
+          "Brisbane Region",
+          "Brisbane"
+        ]
+      },
+      "longitude": 152.928532,
+      "salary_min": 150000,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Think Recruitment"
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5799966828?utm_medium=api&utm_source=4e5ae6d3",
+      "salary_max": 150000,
+      "title": "Franchise Support Manager - Queensland",
+      "contract_time": "full_time",
+      "created": "2026-07-14T23:11:36Z",
+      "__CLASS__": "Adzuna::API::Response::Job"
+    },
+    {
+      "description": "Description The Opportunity As a Contracts Manager you will provide technical expertise to, and support the Contracts Director in the management of, Abt Australia’s enterprise contracting activity. If the successful candidate is legally qualified, they may also support the Head of Legal and the Senior Legal Counsel provide legal advice to Abt Australia as required. The position will develop and maintain trusted relationships and high customer service standards with diverse internal and external…",
+      "title": "Contracts Manager- Abt Australia",
+      "id": "5810213658",
+      "salary_is_predicted": "0",
+      "contract_time": "full_time",
+      "redirect_url": "https://www.adzuna.com.au/details/5810213658?utm_medium=api&utm_source=4e5ae6d3",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Abt Global"
+      },
+      "latitude": -27.416056,
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "legal-jobs",
+        "label": "Legal Jobs"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiek4wa2xvS0o4UkdDeHN0TXY0aXhrdyIsImkiOiI1ODEwMjEzNjU4In0.cPEHt8lIAa0CymQOIwt4AGsmc0UvG_6LGDPWkKDLbd4",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "display_name": "Brisbane, Brisbane Region",
+        "area": [
+          "Australia",
+          "Queensland",
+          "Brisbane Region",
+          "Brisbane"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "longitude": 152.928532,
+      "created": "2026-07-22T11:35:13Z"
+    },
+    {
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      },
+      "latitude": -34.933718,
+      "redirect_url": "https://www.adzuna.com.au/details/5791537249?utm_medium=api&utm_source=4e5ae6d3",
+      "company": {
+        "display_name": "DXC Technology",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "contract_type": "permanent",
+      "id": "5791537249",
+      "salary_is_predicted": "0",
+      "contract_time": "part_time",
+      "title": "Senior Databricks Consultant",
+      "description": "DXC Technology (NYSE:DXC) - where brilliant people embrace change and seize opportunities to advance their careers and amplify customer success. The largest independent Microsoft Dynamics partner in the world, the DXC Practice for Microsoft's team in Australia, New Zealand and the Pacific supports over 1,200 customer sites in the region. We specialise in new implementations and upgrades to cloud-based industry-specific solutions, powered by Microsoft Dynamics 365. We are seeking an experienced …",
+      "created": "2026-07-08T09:18:41Z",
+      "location": {
+        "display_name": "Adelaide CBD, Adelaide",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "South Australia",
+          "Adelaide Region",
+          "Adelaide",
+          "Adelaide CBD"
+        ]
+      },
+      "longitude": 138.597963,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc5MTUzNzI0OSIsInMiOiJ6TjBrbG9LSjhSR0N4c3RNdjRpeGt3In0._oaY3Fgwcn5QuB9qPV75mpW6-XCMHqQa6xlrrRg8HxQ",
+      "__CLASS__": "Adzuna::API::Response::Job"
+    }
+  ],
+  "mean": 149638.2
+}

@@ -1,0 +1,165 @@
+{
+  "mean": 95930.5,
+  "__CLASS__": "Adzuna::API::Response::JobSearchResults",
+  "count": 5,
+  "results": [
+    {
+      "salary_is_predicted": "0",
+      "longitude": 151.203231,
+      "title": "Junior Data Governance Analyst",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgwMTI2OTI2NSIsInMiOiJKbVVXbkh5SjhSR1FyZTVOZkk4QUZnIn0.UsuFwLQaUjpshYC6G_5wDK6rTyW2PwyDtBAfGKeJqbQ",
+      "contract_type": "permanent",
+      "company": {
+        "display_name": "TheDriveGroup",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "latitude": -33.885283,
+      "contract_time": "full_time",
+      "salary_max": 110000,
+      "salary_min": 100000,
+      "description": "Looking to build a career in Data Governance? We're partnering with a well-established organisation investing heavily in its enterprise data capability. This is an excellent opportunity for a Data Steward, Junior Data Analyst or Data Management professional to develop your skills across data governance, metadata, data quality and modern data platforms while working alongside experienced governance leaders. You'll play a key role in improving the quality, accessibility and trust of enterprise da…",
+      "created": "2026-07-16T00:47:19Z",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.com.au/details/5801269265?utm_medium=api&utm_source=4e5ae6d3",
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "location": {
+        "display_name": "Sydney, Sydney Region",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney"
+        ]
+      },
+      "id": "5801269265"
+    },
+    {
+      "salary_min": 65500,
+      "description": "For more than 50 years, ENSCO has been providing leading-edge engineering, science and advanced technology solutions to governments and private industries worldwide. ENSCO prides itself in creating and applying advanced technologies for mission success. We provide systems engineering, integration, and advanced technology services to transform the future safety, security, and resiliency of critical missions on the ground, in the air, in space, and in the information systems that connect these do…",
+      "created": "2026-07-22T11:35:18Z",
+      "title": "Junior Scientific Data Analyst",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgxMDIxMzczMCIsInMiOiJKbVVXbkh5SjhSR1FyZTVOZkk4QUZnIn0.2y2gC-27afWzmiQOVN7BDehjBiLzeLIx9x0fJq7B1NU",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "location": {
+        "area": [
+          "Australia"
+        ],
+        "display_name": "Australia",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "id": "5810213730",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "ENSCO"
+      },
+      "contract_time": "full_time",
+      "redirect_url": "https://www.adzuna.com.au/details/5810213730?utm_medium=api&utm_source=4e5ae6d3",
+      "salary_max": 108222
+    },
+    {
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "id": "5812820845",
+      "location": {
+        "area": [
+          "Australia",
+          "Australian Capital Territory",
+          "Canberra Region",
+          "South Canberra",
+          "Barton"
+        ],
+        "display_name": "Barton, South Canberra",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "contract_type": "permanent",
+      "contract_time": "part_time",
+      "redirect_url": "https://www.adzuna.com.au/details/5812820845?utm_medium=api&utm_source=4e5ae6d3",
+      "latitude": -35.309391,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Select Aust Sydney"
+      },
+      "description": "Job Info Location: Canberra, ACT Salary: Hourly Rate Job Type: Contract position | Full time position Job Description Principal Policy Officer (EL1 Equivalent) Location: Canberra, ACT; Sydney, NSW; Melbourne, VIC; Brisbane, QLD Hourly Rate: $83.00 - $91.73 / hr  Super Contract Length: Initial 10-month contract (Possibility of a 12-month extension), hybrid Security Clearance: Baseline Security Clearance (Mandatory) About the Role Randstad is currently partnering with a prominent Federal Governme…",
+      "created": "2026-07-24T07:52:26Z",
+      "title": "EL1 Principal Policy Officer",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgxMjgyMDg0NSIsInMiOiJKbVVXbkh5SjhSR1FyZTVOZkk4QUZnIn0.oztOZz0i3iXk8fYW3-5dX2534vMC0tRFDNHRvypabn0",
+      "salary_is_predicted": "0",
+      "longitude": 149.133481
+    },
+    {
+      "salary_is_predicted": "0",
+      "longitude": 151.2028,
+      "description": "Senior Data Scientist The OrganisationA large, complex organisation with a strong focus on leveraging data, analytics, and artificial intelligence to support operational excellence and strategic decision-making. The central data function plays a key role in delivering advanced analytics capabilities across the enterprise. The OpportunityAn exciting opportunity exists for a Senior Data Scientist to join a high-performing data team in a senior technical capacity. This role will lead the design an…",
+      "created": "2026-07-09T09:52:19Z",
+      "title": "Senior Data Scientist",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc5MzQzOTI2MyIsInMiOiJKbVVXbkh5SjhSR1FyZTVOZkk4QUZnIn0.AHgZz95k0RxI86hyED1NfDkTNa2jG7xEUuPwZSyF0P4",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": -33.88078,
+      "company": {
+        "display_name": "HAYS",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.com.au/details/5793439263?utm_medium=api&utm_source=4e5ae6d3",
+      "contract_time": "full_time",
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Sydney CBD, Sydney",
+        "area": [
+          "Australia",
+          "New South Wales",
+          "Sydney Region",
+          "Sydney",
+          "Sydney CBD"
+        ]
+      },
+      "id": "5793439263"
+    },
+    {
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Guidewire"
+      },
+      "contract_time": "full_time",
+      "redirect_url": "https://www.adzuna.com.au/details/5670091174?utm_medium=api&utm_source=4e5ae6d3",
+      "location": {
+        "area": [
+          "Australia"
+        ],
+        "display_name": "Australia",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "id": "5670091174",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY3MDA5MTE3NCIsInMiOiJKbVVXbkh5SjhSR1FyZTVOZkk4QUZnIn0.3Y7YwZbkPV3jb0lJMVBkMPaWe2CDSZElu4QbQPQfr5M",
+      "description": "Summary Value Consulting is a niche, high-impact department within our Global Strategic Advisory team. You are the \"economic architect\" of the sales cycle. Your mission is to help ANZ insurers—from Tier 1 incumbents to agile disruptors—identify, communicate, and realise the business value of their transformations. Job Description You will lead \"Value Engagements\" : brief, intense, multi-day workshops that include direct operational observation, benefit estimation, and presenting the \"Business C…",
+      "title": "Principal Value Consultant",
+      "created": "2026-03-18T09:36:41Z"
+    }
+  ]
+}

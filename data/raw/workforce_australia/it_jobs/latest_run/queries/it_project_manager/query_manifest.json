@@ -1,0 +1,14 @@
+{
+  "source": "Workforce Australia",
+  "search_term": "IT project manager",
+  "folder": "data/raw/workforce_australia/it_jobs/latest_run/queries/it_project_manager",
+  "started_at_utc": "2026-07-28T10:48:14.413269+00:00",
+  "finished_at_utc": "2026-07-28T10:55:28.885975+00:00",
+  "page_size": 100,
+  "downloaded_pages": 200,
+  "reused_pages": 0,
+  "raw_records_across_pages": 20000,
+  "unique_vacancy_ids_for_query": 15376,
+  "stopped_reason": "maximum page limit reached",
+  "last_request_url": "https://www.workforceaustralia.gov.au/api/v1/global/vacancies/?searchText=IT+project+manager&pageNumber=200&pageSize=100"
+}
