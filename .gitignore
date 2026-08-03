@@ -227,3 +227,7 @@ data/raw/*.csv
 data/raw/*.json
 data/raw/*.csv
 data/interim/*.csv
+data/interim/workforce_australia/workforce_jobs_raw.csv
+data/interim/jsa/jsa_ivi_anzsco4_states_territories_long_2026-06.csv
+data/interim/
+data/raw/
