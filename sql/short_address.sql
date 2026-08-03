@@ -16,3 +16,4 @@ SET address_short =
 
         ELSE 'Not specified'
     END;
+
