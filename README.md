@@ -1,336 +1,197 @@
 # Australian IT Labour Market Intelligence Platform
 
-> An end-to-end data analytics platform for exploring Australia's IT labour market through real-world job vacancies, government statistics, and labour market intelligence.
+An end-to-end data analytics project exploring the Australian IT job market using real job advertisements from multiple sources.
+
+Instead of relying on salary reports or aggregated statistics, this project works directly with vacancy data. The goal is to build a reproducible analytics pipeline that transforms raw job postings into a structured database suitable for SQL analysis and interactive dashboards.
+
+Current dataset: **105,337 Australian job advertisements**
 
 ---
 
-# Mission
+# Why I built this project
 
-Australia's IT labour market is constantly evolving.
+Most labour market reports tell you what has already happened.
 
-New technologies emerge every year, employer requirements change rapidly, and demand for technical skills varies across occupations and regions. At the same time, labour market information is fragmented across multiple commercial platforms and government publications.
+I wanted to work with the underlying data instead.
 
-The mission of this project is to integrate these independent data sources into a single analytical platform that provides reliable, data-driven insights into Australia's IT labour market.
+That meant collecting vacancies from different sources, cleaning completely different datasets, standardising their structure and building a single database that can answer practical questions about Australia's IT labour market.
 
-Rather than building another dashboard, this project aims to create a reproducible labour market intelligence system capable of supporting informed career, education and workforce decisions.
-
----
-
-# Why This Project?
-
-Most publicly available job market dashboards answer only one question:
-
-> **"What is happening?"**
-
-This project goes further by answering:
-
-- Why is it happening?
-- Which technologies are becoming more valuable?
-- Which occupations are growing?
-- Which skills command higher salaries?
-- Where are employers hiring?
-- How does current hiring compare with long-term government forecasts?
-
-The project combines multiple independent data sources into a unified analytical environment that supports exploratory, descriptive and strategic labour market analysis.
+Rather than analysing one dataset in isolation, the project combines multiple sources into one analytical model that can be extended over time.
 
 ---
 
-# Research Questions
+# Questions I'm trying to answer
 
-The platform is designed to answer questions such as:
+Using the current dataset, the project explores questions such as:
 
-## Labour Market
-
-- Which IT occupations are currently the most in demand?
-- Which occupations are growing the fastest?
-- Which employers hire the most IT professionals?
-- Which industries generate the highest demand?
-
-## Skills
-
+- Which IT roles are currently the most in demand?
 - Which technical skills appear most frequently?
-- Which technologies are becoming industry standards?
-- Which skills commonly appear together?
-- Which skills differentiate junior, mid-level and senior roles?
+- Which skills are commonly requested together?
+- Which Australian cities and states have the highest hiring activity?
+- How common are remote, hybrid and on-site roles?
+- Which employers advertise the largest number of IT vacancies?
+- How do salary ranges differ across occupations and locations?
 
-## Salaries
-
-- What salary ranges are offered across occupations?
-- Which technologies are associated with higher salaries?
-- Which locations offer the highest compensation?
-
-## Geography
-
-- Which Australian states have the highest hiring activity?
-- Which cities are emerging technology hubs?
-- How does regional demand differ?
-
-## Government Perspective
-
-- How closely does real employer demand align with official Jobs and Skills Australia forecasts?
-- Which occupations may experience future shortages?
+As additional government datasets are integrated, the analysis will also compare employer demand with long-term labour market forecasts.
 
 ---
 
-# Data Sources
+# Current Dataset
 
-This project combines multiple independent datasets.
+The unified database currently contains:
 
-## Commercial Job Market
-
-- Adzuna API
-
-Provides:
-
-- Job advertisements
-- Salary information
-- Job descriptions
+- **105,337** job advertisements
+- Multiple Australian job data sources
+- Standardised occupation and location fields
+- Cleaned salary information
 - Employer information
-- Locations
-- Categories
-
----
-
-## Government Job Market
-
-### Workforce Australia API
-
-Provides:
-
-- Public job vacancies
-- Occupation information
+- Vacancy descriptions
 - Employment types
-- Regional distribution
-- Vacancy metadata
+
+The project is focused exclusively on the Australian IT labour market.
 
 ---
 
-## Labour Market Intelligence
-
-### Jobs and Skills Australia (JSA)
-
-Provides:
-
-- Occupation outlook
-- Employment projections
-- Education requirements
-- Workforce statistics
-- Official labour market forecasts
-
----
-
-## Official Statistics
-
-### Australian Bureau of Statistics (ABS)
-
-Provides:
-
-- Labour market indicators
-- Employment statistics
-- Vacancy trends
-- Economic context
-
----
-
-# Project Architecture
+# Project Pipeline
 
 ```
-                Public Data Sources
-                        │
-        ┌───────────────┼────────────────┐
-        │               │                │
-     Adzuna      Workforce AU        JSA / ABS
-        │               │                │
-        └───────────────┼────────────────┘
-                        │
-                 Python ETL Pipeline
-                        │
-                 Raw Data Repository
-                        │
-                 Data Profiling
-                        │
-              Data Cleaning & Validation
-                        │
-             Feature Engineering
-                        │
-                 PostgreSQL Database
-                        │
-                 SQL Analytics Layer
-                        │
-              Tableau Interactive Dashboard
-                        │
-             Business Insights & Reporting
+Job APIs
+     │
+     ▼
+Raw datasets
+     │
+     ▼
+Data cleaning
+     │
+     ▼
+Standardisation
+     │
+     ▼
+Feature engineering
+     │
+     ▼
+PostgreSQL
+     │
+     ▼
+SQL analysis
+     │
+     ▼
+Tableau dashboards
 ```
 
 ---
 
-# Technology Stack
+# Feature Engineering
 
-## Data Collection
+The project automatically extracts additional information from vacancy titles and descriptions.
+
+Current engineered features include:
+
+- technical skills
+- programming languages
+- cloud platforms
+- BI tools
+- experience level
+- employment type
+- visa sponsorship
+- education requirements
+- remote / hybrid / onsite classification
+
+Feature engineering results are stored separately from the original dataset, making the pipeline reproducible.
+
+---
+
+# Data Quality
+
+Before starting the analysis, every build is validated using SQL quality checks.
+
+Completed checks include:
+
+- duplicate job IDs
+- missing job IDs
+- row count validation
+- feature table consistency
+- remote work classification
+- experience level extraction
+- skill extraction validation
+
+---
+
+# Technology
+
+The project is built with:
 
 - Python
-- Requests
-- JSON APIs
-
-## Data Processing
-
-- Pandas
-- NumPy
-
-## Database
-
 - PostgreSQL
 - SQL
-
-## Data Visualization
-
+- Pandas
 - Tableau
-
-## Development
-
 - Git
-- GitHub
-- VS Code
 
 ---
 
 # Repository Structure
 
 ```
-.
-├── data
-│   ├── raw
-│   ├── interim
-│   └── processed
+data/
 │
-├── src
-│   ├── ingestion
-│   ├── preprocessing
-│   ├── database
-│   ├── analysis
-│   └── utils
+├── raw/
+├── processed/
 │
-├── sql
+src/
 │
-├── notebooks
+├── ingestion/
+├── preprocessing/
+├── feature_engineering/
+├── quality_checks/
 │
-├── tableau
+sql/
 │
-├── reports
+tableau/
 │
-├── docs
-│
-└── README.md
+README.md
 ```
 
 ---
 
-# Analytical Workflow
+# Project Status
 
-## Phase 1 — Data Collection
+Completed
 
-- Collect vacancy data
-- Collect labour market statistics
-- Preserve immutable raw datasets
+- ✔ Data collection
+- ✔ Database design
+- ✔ Data cleaning
+- ✔ Data integration
+- ✔ Feature engineering
+- ✔ Data quality validation
 
----
+Current stage
 
-## Phase 2 — Data Understanding
+- 🚧 Exploratory Data Analysis (EDA)
 
-- Profile datasets
-- Assess completeness
-- Identify inconsistencies
-- Detect duplicates
-- Evaluate data quality
+Next
 
----
-
-## Phase 3 — Data Preparation
-
-- Clean datasets
-- Standardise fields
-- Merge sources
-- Create derived variables
+- Tableau dashboards
+- Business insights
+- Final documentation
 
 ---
 
-## Phase 4 — Database
+# Design Decisions
 
-- Build PostgreSQL schema
-- Load curated datasets
-- Create analytical views
+A few implementation choices were made intentionally.
 
----
-
-## Phase 5 — Analysis
-
-- Exploratory Data Analysis
-- SQL analysis
-- Labour market analysis
-- Salary analysis
-- Skills analysis
-- Geographic analysis
-- Employer analysis
+- Raw datasets are never modified.
+- Data cleaning and integration are performed primarily in SQL.
+- Python is used for data collection and feature engineering.
+- Engineered features are stored separately from the original vacancy data.
+- The project focuses only on IT occupations to keep the analysis consistent.
 
 ---
 
-## Phase 6 — Visualisation
+# What's next
 
-Interactive Tableau dashboards including:
-
-- Labour Market Overview
-- Salary Explorer
-- Skills Explorer
-- Employer Analysis
-- Geographic Dashboard
-- Technology Trends
-- Occupation Insights
-
----
-
-## Expected Deliverables
-
-- Automated ETL pipeline
-- Integrated analytical database
-- Data quality report
-- SQL analytical scripts
-- Interactive Tableau dashboard
-- Business recommendations
-- Reproducible analytics workflow
-
----
-
-# Current Status
-
-| Stage | Status |
-|--------|--------|
-| Project Planning | ✅ Complete |
-| Data Collection | 🟡 In Progress |
-| Data Profiling | ⏳ Pending |
-| Data Cleaning | ⏳ Pending |
-| PostgreSQL | ⏳ Pending |
-| SQL Analysis | ⏳ Pending |
-| Tableau Dashboard | ⏳ Pending |
-| Final Report | ⏳ Pending |
-
----
-
-# Future Improvements
-
-Potential future extensions include:
-
-- Time-series monitoring
-- Salary prediction models
-- Skill demand forecasting
-- NLP analysis of job descriptions
-- Interactive web application
-- Automated scheduled data updates
-
----
-
-# About
-
-This project is being developed as a portfolio project to demonstrate an end-to-end data analytics workflow, including data engineering, SQL, exploratory analysis, business intelligence and data visualisation using real-world Australian labour market data.
+The next stage is exploratory analysis using SQL and Tableau to identify patterns in demand, salaries, skills and geography across the Australian IT labour market.
 
 ---
 
@@ -338,4 +199,4 @@ This project is being developed as a portfolio project to demonstrate an end-to-
 
 **Alena Vorobei**
 
-Data Analyst | SQL | Python | Tableau
+Data Analytics Portfolio Project
