@@ -243,8 +243,33 @@ LIMIT 20;
 
 ---
 
+## 10. Remote / Hybrid / Onsite
+
+**Background:** the `remote_type` column was found to be 100% NULL for the entire dataset (105,337 rows) — the field was never populated during the original feature-engineering pass. A text search confirmed the underlying signal exists (940 mentions of "remote", 2,079 of "hybrid", 586 of "work from home"/"wfh" in `description_clean`), so the field was backfilled with a keyword-based classifier (priority: hybrid → remote/wfh → onsite → null) rather than left empty.
+
+**Query (after backfill):**
+```sql
+SELECT remote_type, COUNT(*) AS vacancies_count,
+       ROUND(100.0 * COUNT(*) / SUM(COUNT(*)) OVER (), 1) AS percent
+FROM jobs_unified
+GROUP BY remote_type
+ORDER BY vacancies_count DESC;
+```
+
+**Result:**
+
+| Type | Count | % |
+|---|---|---|
+| NULL (not detected) | 99,216 | 94.2% |
+| onsite | 2,522 | 2.4% |
+| hybrid | 2,175 | 2.1% |
+| remote | 1,424 | 1.4% |
+
+**Insight:** even after backfilling, 94.2% of listings give no explicit signal about work location format — consistent with the dataset's overall pattern of sparse structured detail outside title/basic fields. Among the ~5.8% that do specify, onsite slightly edges out hybrid and remote, plausibly reflecting the dataset's tilt toward roles (healthcare, trades, support work) that inherently require physical presence. The three categories are otherwise fairly evenly split, so no single format dominates among listings where it's stated.
+
+---
+
 ## Not done yet (next steps)
 
-- [ ] Carve out an IT-specific subset of listings (by title/skills) to better match the project's stated scope
-- [ ] Remote/hybrid/onsite distribution (`remote_type`)
-- [ ] Skills-to-salary relationship (on the limited ~1,628-job sample with salary data)
+- [ ] Skills-to-salary relationship (on the limited ~135-job sample with salary data, within `it_jobs`)
+- [ ] Remote/hybrid/onsite breakdown for the `it_jobs` subset specifically
